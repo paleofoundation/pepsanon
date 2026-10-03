@@ -35,6 +35,7 @@ export const authors: Record<AuthorId, Author> = {
     id: 'briana-theroux',
     name: 'Briana Theroux',
     initials: 'BT',
+    photo: '/authors/briana-theroux.jpeg',
     role: 'Primary investigator',
     specialty: 'Eating psychology & behavioral health',
     bio: 'Briana Theroux is a primary investigator at Peptide Evidence and an applied practitioner in eating psychology and behavioral health. Her work examines the relationships among physiology, behavior, and health-related decisions. She is certified in Eating Psychology through the Institute for the Psychology of Eating. Her professional biography describes more than a decade of experience working with complex eating and health patterns, with an emphasis on individualized nutrition strategies and their application in everyday life.',

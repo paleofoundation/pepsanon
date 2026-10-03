@@ -74,3 +74,5 @@ html{scroll-behavior:smooth;scroll-padding-top:110px}body{font-family:Inter,Aria
 @media(min-width:1024px){.entry-content h2.wp-block-heading{font-size:2.25rem}}
 @media(min-width:1280px){.entry-content h2.wp-block-heading{font-size:40px}}
 .research-content__center .compound-subtitle{margin:14px 0 20px}
+
+.author-portrait[data-author="briana-theroux"] img{object-position:center 10%;transform:scale(1.8);transform-origin:50% 20%}

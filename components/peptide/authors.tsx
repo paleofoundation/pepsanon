@@ -4,7 +4,7 @@ import {Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, Dia
 import {authors, primaryInvestigators, contentCredits, type AuthorId, type Author} from '@/lib/authors';
 
 function Portrait({author, large=false}: {author:Author; large?:boolean}) {
-  return <span className={`author-portrait${large?' author-portrait-large':''}`} aria-hidden="true">
+  return <span className={`author-portrait${large?' author-portrait-large':''}`} data-author={author.id} aria-hidden="true">
     {author.photo ? <img src={author.photo} alt="" width={large?112:40} height={large?112:40}/> : <span>{author.initials}</span>}
   </span>;
 }
