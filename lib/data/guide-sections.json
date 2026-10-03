@@ -219,7 +219,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "Semaglutide is a GLP-1 receptor agonist; the prescribing-information summaries in this guide refer specifically to U.S. Wegovy.",
+          "text": "Semaglutide is a glucagon-like peptide-1 (GLP-1) receptor agonist and the active ingredient in Wegovy, which is available in oral and subcutaneous formulations.",
           "sources": [
             {
               "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
@@ -465,7 +465,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "Tirzepatide is a GIP and GLP-1 receptor agonist; the prescribing-information summaries in this guide refer specifically to U.S. Zepbound.",
+          "text": "Tirzepatide is a glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist and the active ingredient in the subcutaneous medicine Zepbound.",
           "sources": [
             {
               "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
@@ -651,7 +651,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "BPC-157 is a synthetic peptide composed of 15 amino acids; FDA’s assessment distinguishes its free-base and acetate forms.",
+          "text": "BPC-157 is a synthetic peptide composed of 15 amino acids; its evaluated forms include BPC-157 free base and BPC-157 acetate.",
           "sources": [
             {
               "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
@@ -836,7 +836,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "FDA identifies TB-500 as the thymosin beta-4 fragment LKKTETQ, rather than the full-length peptide used in the cited ophthalmic trial.",
+          "text": "TB-500 is the name FDA uses for the thymosin beta-4 fragment LKKTETQ, which is distinct from the full-length thymosin beta-4 used in the cited eye-drop trial.",
           "sources": [
             {
               "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
@@ -1019,7 +1019,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "GHK-Cu is a copper tripeptide complex studied in topical skin-care products after laser resurfacing.",
+          "text": "GHK-Cu is a copper tripeptide complex investigated in topical skin-care formulations, including products applied after carbon dioxide laser resurfacing.",
           "sources": [
             {
               "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
@@ -1249,7 +1249,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "The CJC-1295 studied in the cited human trials is a long-acting analogue of growth hormone–releasing hormone that increases GH and IGF-1.",
+          "text": "CJC-1295 is an analogue of growth hormone–releasing hormone; the long-acting formulation studied in human trials increased growth hormone and insulin-like growth factor 1 (IGF-1).",
           "sources": [
             {
               "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
@@ -1504,7 +1504,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "Ipamorelin is a ghrelin-receptor agonist investigated in a randomized trial of adults recovering from bowel resection.",
+          "text": "Ipamorelin is a ghrelin-receptor agonist investigated in humans for gastrointestinal recovery after bowel surgery.",
           "sources": [
             {
               "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
@@ -1731,7 +1731,7 @@
       "question": "What is it?",
       "sentences": [
         {
-          "text": "The collagen peptides discussed here are oral collagen hydrolysate preparations studied for joint discomfort and skin elasticity.",
+          "text": "Collagen peptides are hydrolyzed collagen preparations taken orally; specific formulations have been studied for activity-related joint discomfort and skin elasticity.",
           "sources": [
             {
               "title": "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain",

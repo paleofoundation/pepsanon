@@ -20,7 +20,7 @@ export const authors: Record<AuthorId, Author> = {
     role: 'Primary investigator',
     specialty: 'Nutrition research & scientific communication',
     photo: '/authors/alex-leaf.jpeg',
-    bio: 'Alex Leaf is a primary investigator at Peptide Evidence and a nutrition researcher and writer. He earned his master’s degree in nutrition from Bastyr University in 2016. His background includes research and writing for Examine and teaching in the University of Western States’ Human Nutrition and Functional Medicine master’s program. His published work includes peer-reviewed papers on nutrition and body composition, as well as educational contributions to nutrition certification programs. He focuses on interpreting research and communicating its practical implications to a broad audience.',
+    bio: 'Alex Leaf is a primary investigator at Peptides Anonymous and a nutrition researcher and writer. He earned his master’s degree in nutrition from Bastyr University in 2016. His background includes research and writing for Examine and teaching in the University of Western States’ Human Nutrition and Functional Medicine master’s program. His published work includes peer-reviewed papers on nutrition and body composition, as well as educational contributions to nutrition certification programs. He focuses on interpreting research and communicating its practical implications to a broad audience.',
     background: [
       {label: 'Education', detail: 'Master’s degree in nutrition, Bastyr University'},
       {label: 'Published work', detail: 'Peer-reviewed nutrition research, scientific reviews, and professional education'},
@@ -38,7 +38,7 @@ export const authors: Record<AuthorId, Author> = {
     photo: '/authors/briana-theroux.jpeg',
     role: 'Primary investigator',
     specialty: 'Eating psychology & behavioral health',
-    bio: 'Briana Theroux is a primary investigator at Peptide Evidence and an applied practitioner in eating psychology and behavioral health. Her work examines the relationships among physiology, behavior, and health-related decisions. She is certified in Eating Psychology through the Institute for the Psychology of Eating. Her professional biography describes more than a decade of experience working with complex eating and health patterns, with an emphasis on individualized nutrition strategies and their application in everyday life.',
+    bio: 'Briana Theroux is a primary investigator at Peptides Anonymous and an applied practitioner in eating psychology and behavioral health. Her work examines the relationships among physiology, behavior, and health-related decisions. She is certified in Eating Psychology through the Institute for the Psychology of Eating. Her professional biography describes more than a decade of experience working with complex eating and health patterns, with an emphasis on individualized nutrition strategies and their application in everyday life.',
     background: [
       {label: 'Training', detail: 'Eating Psychology certification, Institute for the Psychology of Eating'},
       {label: 'Professional focus', detail: 'Eating behavior, nutrition, and health-related decision-making'},

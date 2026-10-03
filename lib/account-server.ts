@@ -23,7 +23,7 @@ export function validFavorite(kind:unknown,itemId:unknown):kind is FavoriteKind 
 }
 export function checkMutation(request:Request) {
   const origin=request.headers.get('Origin');
-  if(!origin||origin!==new URL(request.url).origin)return json({error:'This request must come from Peptide Evidence.'},403);
+  if(!origin||origin!==new URL(request.url).origin)return json({error:'This request must come from Peptides Anonymous.'},403);
   if(!request.headers.get('Content-Type')?.startsWith('application/json'))return json({error:'Send a JSON request.'},415);
   if(Number(request.headers.get('Content-Length')||0)>10000)return json({error:'The submitted data is too long.'},413);
   return null;
