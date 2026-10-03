@@ -1,0 +1,1755 @@
+{
+  "semaglutide": {
+    "safety": {
+      "question": "What safety issues are established for Wegovy?",
+      "sentences": [
+        {
+          "text": "The Wegovy label lists common reactions including nausea, vomiting, diarrhea and constipation; serious warnings include pancreatitis, gallbladder disease and dehydration-related kidney injury.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The thyroid-tumor warning comes from rodent findings whose relevance to humans is unknown.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The Medication Guide directs stopping treatment and seeking immediate help for persistent severe abdominal pain or serious allergic symptoms, including breathing difficulty or face/throat swelling.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Patients should disclose treatment before anesthesia or deep sedation because aspiration has been reported.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "What are the formal contraindications and separate precautions?",
+      "sentences": [
+        {
+          "text": "The Wegovy label’s formal contraindications include personal/family medullary thyroid carcinoma, multiple endocrine neoplasia type 2, and semaglutide/excipient hypersensitivity.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Separate pregnancy guidance for weight management directs discontinuation when pregnancy is recognized and at least two months before planned pregnancy.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Breastfeeding is not recommended with tablets; injection labeling calls for individualized assessment because milk-transfer and infant-effect data are missing.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Severe gastroparesis is a separate not-recommended precaution.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Which medication interactions require attention?",
+      "sentences": [
+        {
+          "text": "Insulin and sulfonylureas can increase hypoglycemia risk; delayed gastric emptying may affect oral medicines, including those requiring close monitoring.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Which forms and administration instructions are covered?",
+      "sentences": [
+        {
+          "text": "Wegovy tablets and subcutaneous injections have separate escalation, maintenance, administration and switching instructions.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "What does the label say about duration and treatment interruptions?",
+      "sentences": [
+        {
+          "text": "Wegovy is labeled for long-term weight maintenance; its Medication Guide directs clinician discussion after multiple missed weekly injections.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "Do compounded products have the same quality evidence?",
+      "sentences": [
+        {
+          "text": "FDA identifies semaglutide sodium and acetate as different active ingredients from those in approved drugs and says their chemical and pharmacologic equivalence is not established.",
+          "sources": [
+            {
+              "title": "FDA: Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "year": null,
+              "kind": "Regulatory assessment",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The agency has also received reports of dosing errors with compounded semaglutide injections, including cases requiring hospitalization.",
+          "sources": [
+            {
+              "title": "FDA: Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "year": null,
+              "kind": "Regulatory assessment",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "What does U.S. approval mean for this page?",
+      "sentences": [
+        {
+          "text": "Wegovy has approved weight-management indications; eligibility and other indications differ between oral and injectable formulations.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Compounded semaglutide is not FDA-approved and does not undergo the agency's premarket review for safety, effectiveness and quality.",
+          "sources": [
+            {
+              "title": "FDA: Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory assessment",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "Semaglutide is a GLP-1 receptor agonist; the prescribing-information summaries in this guide refer specifically to U.S. Wegovy.",
+          "sources": [
+            {
+              "title": "WEGOVY U.S. Prescribing Information, revised June 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tirzepatide": {
+    "safety": {
+      "question": "What safety issues are established for Zepbound?",
+      "sentences": [
+        {
+          "text": "The Zepbound label lists common reactions including nausea, vomiting, diarrhea and constipation; serious warnings include pancreatitis, gallbladder disease and dehydration-related kidney injury.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The thyroid-tumor warning comes from rodent findings whose relevance to humans is unknown.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The Medication Guide directs stopping treatment and seeking immediate help for persistent severe abdominal pain or serious allergic symptoms, including breathing difficulty or face/throat swelling.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Patients should disclose treatment before anesthesia or deep sedation because aspiration has been reported.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "What are the formal contraindications and separate precautions?",
+      "sentences": [
+        {
+          "text": "The Zepbound label’s formal contraindications include personal/family medullary thyroid carcinoma, multiple endocrine neoplasia type 2, and serious tirzepatide/excipient hypersensitivity.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Separate pregnancy guidance directs discontinuation when pregnancy is recognized.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Breastfeeding requires benefit–risk assessment: infant and milk-production effects are unknown despite low milk transfer in a single-dose study.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Severe gastroparesis is a separate not-recommended precaution.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Which medication interactions require attention?",
+      "sentences": [
+        {
+          "text": "Insulin and sulfonylureas can increase hypoglycemia risk; delayed gastric emptying may affect oral-drug absorption.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Reduced oral contraceptive effectiveness requires additional precautions after initiation and dose escalation.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Which forms and administration instructions are covered?",
+      "sentences": [
+        {
+          "text": "Zepbound is injected subcutaneously weekly; pen/vial instructions and dosing depend on presentation, indication and tolerability.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "What does the label say about duration and treatment interruptions?",
+      "sentences": [
+        {
+          "text": "Zepbound is labeled for long-term weight maintenance; its prescribing information provides instructions for missed weekly doses.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "Do compounded products have the same quality evidence?",
+      "sentences": [
+        {
+          "text": "FDA reports fraudulent compounded tirzepatide labeling and concerns about shipping temperatures, dosing and dose escalation for unapproved GLP-1 products.",
+          "sources": [
+            {
+              "title": "FDA: Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "year": null,
+              "kind": "Regulatory assessment",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Compounded drugs can meet particular medical needs, but contamination or incorrect active-ingredient amounts can cause serious harm.",
+          "sources": [
+            {
+              "title": "FDA: Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory assessment",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "What does U.S. approval mean for this page?",
+      "sentences": [
+        {
+          "text": "Zepbound is approved for weight management in eligible adults and moderate-to-severe obstructive sleep apnea in adults with obesity.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Compounded tirzepatide is not FDA-approved and has not undergone FDA premarket review for safety, effectiveness and quality.",
+          "sources": [
+            {
+              "title": "FDA: Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory assessment",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "Tirzepatide is a GIP and GLP-1 receptor agonist; the prescribing-information summaries in this guide refer specifically to U.S. Zepbound.",
+          "sources": [
+            {
+              "title": "ZEPBOUND U.S. Prescribing Information, revised August 2026",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+              "year": 2026,
+              "kind": "Regulatory labeling",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "bpc-157": {
+    "safety": {
+      "question": "What safety concerns does FDA identify?",
+      "sentences": [
+        {
+          "text": "FDA identifies immunogenicity concerns and limited route-specific safety information.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "Has safety been established for pregnancy or people concerned about cancer?",
+      "sentences": [
+        {
+          "text": "FDA's 2026 assessment identified no carcinogenicity studies and incomplete reproductive testing for the evaluated BPC-157 substances and routes.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "Those gaps leave pregnancy and cancer-related safety unresolved; they do not establish either a proven-safe population or a demonstrated human cancer effect.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Can BPC-157 be combined safely with medicines or other peptides?",
+      "sentences": [
+        {
+          "text": "The two-person intravenous pilot was not a drug-interaction study and cannot establish compatibility with prescription medicines, supplements or peptide combinations.",
+          "sources": [
+            {
+              "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+              "year": 2025,
+              "kind": "Primary research"
+            }
+          ]
+        },
+        {
+          "text": "The knee-pain report included four patients receiving BPC-157 with thymosin beta-4, but that uncontrolled subgroup cannot establish combination safety.",
+          "sources": [
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "What human absorption data are available for different routes?",
+      "sentences": [
+        {
+          "text": "FDA's 2026 review found no human pharmacokinetic data for oral, subcutaneous, nasal or transdermal BPC-157.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "How quickly should results appear, and what happens after stopping?",
+      "sentences": [
+        {
+          "text": "The retrospective knee-pain report describes symptom improvement without a placebo group or imaging confirmation of tissue repair.",
+          "sources": [
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research"
+            }
+          ]
+        },
+        {
+          "text": "Its design cannot establish a reliable healing timeline, a causal lasting benefit, or an evidence-based stopping or cycling schedule.",
+          "sources": [
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "Does a certificate of analysis establish product quality?",
+      "sentences": [
+        {
+          "text": "FDA's 2026 BPC-157 evaluation identified inconsistent substance naming and certificates reporting purity without adequate impurity characterization.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "A purity figure therefore does not resolve the identity and impurity concerns identified in that assessment.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "What is the U.S. regulatory status described by FDA?",
+      "sentences": [
+        {
+          "text": "FDA's 2026 briefing states that neither BPC-157 free base nor BPC-157 acetate is a component of an FDA-approved drug.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "The current risk page lists BPC-157 under nominations withdrawn by their nominators.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "BPC-157 is a synthetic peptide composed of 15 amino acids; FDA’s assessment distinguishes its free-base and acetate forms.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tb-500": {
+    "safety": {
+      "question": "Has the TB-500 fragment been shown safe in people?",
+      "sentences": [
+        {
+          "text": "For TB-500, FDA reports no identified human exposure data and flags possible immunogenicity associated with aggregation and peptide impurities.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "Which populations have established safety or contraindications?",
+      "sentences": [
+        {
+          "text": "FDA's assessment does not establish a safe population for the TB-500 fragment, including pregnancy, breastfeeding or people with serious medical conditions.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Are combinations with medicines or BPC-157 established as safe?",
+      "sentences": [
+        {
+          "text": "The cited RGN-259 trial tested full-length thymosin beta-4 eye drops, not interactions involving the injected TB-500 fragment.",
+          "sources": [
+            {
+              "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+              "year": 2023,
+              "kind": "Primary research"
+            }
+          ]
+        },
+        {
+          "text": "The four-person combination subgroup in the BPC-157 knee report used a product described as thymosin beta-4 and cannot establish the safety of fragment-containing combinations.",
+          "sources": [
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Is TB-500 interchangeable with full-length thymosin beta-4?",
+      "sentences": [
+        {
+          "text": "FDA identifies TB-500 as the thymosin beta-4 fragment LKKTETQ.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "RGN-259 research used full-length thymosin beta-4 in an ophthalmic formulation; its study regimen does not establish an injectable fragment dose.",
+          "sources": [
+            {
+              "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+              "year": 2023,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "Do human trials establish a recovery timeline or stopping schedule?",
+      "sentences": [
+        {
+          "text": "In the 18-person trial of full-length thymosin beta-4 eye drops, the prespecified four-week healing comparison was not statistically significant, although a secondary assessment favored treatment two weeks after cessation.",
+          "sources": [
+            {
+              "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+              "year": 2023,
+              "kind": "Primary research"
+            }
+          ]
+        },
+        {
+          "text": "These corneal findings do not establish an injury-recovery timeline, durable benefit or stopping schedule for injected TB-500 fragment.",
+          "sources": [
+            {
+              "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+              "year": 2023,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "What does a tested or compounded label establish?",
+      "sentences": [
+        {
+          "text": "FDA's fragment assessment flags aggregation and peptide impurities.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "Separately, FDA explains that compounded medicines are not reviewed before marketing for safety, effectiveness or quality, and contamination or incorrect strength can cause serious harm.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "How does FDA currently list the TB-500 fragment?",
+      "sentences": [
+        {
+          "text": "FDA currently places thymosin beta-4 fragment LKKTETQ, also called TB-500, among withdrawn bulk-substance nominations.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "Compounding itself does not confer FDA approval on the resulting medicine.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "FDA identifies TB-500 as the thymosin beta-4 fragment LKKTETQ, rather than the full-length peptide used in the cited ophthalmic trial.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "year": null,
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "kind": "Regulatory assessment",
+              "webRef": "turn12view1",
+              "accessedAt": "2026-10-03"
+            },
+            {
+              "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+              "year": 2023,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36613994/",
+              "kind": "Primary research",
+              "webRef": "turn9search6"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ghk-cu": {
+    "safety": {
+      "question": "Are topical and injectable GHK-Cu equally well characterized for safety?",
+      "sentences": [
+        {
+          "text": "FDA identifies limited human safety data for injectable GHK-Cu and potential immunogenicity associated with aggregation and peptide impurities.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "The cited skin trial studied topical products after laser resurfacing and cannot establish injection safety.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "year": 2006,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "Does the evidence establish safety during pregnancy or with copper-handling disorders?",
+      "sentences": [
+        {
+          "text": "The cited topical trial reports cosmetic outcomes in 13 completers; its abstract does not establish safety during pregnancy, breastfeeding or in copper-handling disorders.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "year": 2006,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Are interactions with medicines, supplements or other peptides established?",
+      "sentences": [
+        {
+          "text": "The cited trial compared topical skin-care regimens, not medication combinations; it does not establish compatibility with copper supplements, chelators or injectable peptide combinations.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "year": 2006,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Can a topical study supply an injection dose or mixing protocol?",
+      "sentences": [
+        {
+          "text": "The cited randomized study examined topical GHK-Cu skin care after CO2 laser resurfacing; it provides no tested injection dose or injectable-combination protocol.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "year": 2006,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "How long do results take, and do they persist after stopping?",
+      "sentences": [
+        {
+          "text": "At 12 weeks, the 13-completer topical trial found no significant between-group objective improvement in wrinkles or overall skin quality, although patient-reported satisfaction favored GHK-Cu.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "year": 2006,
+              "kind": "Primary research"
+            }
+          ]
+        },
+        {
+          "text": "The abstract does not report a controlled withdrawal comparison establishing persistence after stopping.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "year": 2006,
+              "kind": "Primary research"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "What quality concerns apply to injectable products?",
+      "sentences": [
+        {
+          "text": "FDA specifically identifies aggregation and peptide impurities as concerns for injectable GHK-Cu.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "FDA also warns that contamination or incorrect strength in compounded medicines can cause serious harm.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "Does cosmetic availability mean GHK-Cu is an approved injectable medicine?",
+      "sentences": [
+        {
+          "text": "FDA lists injectable GHK-Cu among withdrawn bulk-substance nominations.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "U.S. cosmetic products generally do not undergo FDA preapproval, except certain color additives; therapeutic claims can cause a product marketed as a cosmetic to qualify as a drug.",
+          "sources": [
+            {
+              "title": "Cosmetics & U.S. Law",
+              "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/cosmetics-us-law",
+              "year": null,
+              "kind": "Regulatory guidance"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "GHK-Cu is a copper tripeptide complex studied in topical skin-care products after laser resurfacing.",
+          "sources": [
+            {
+              "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+              "year": 2006,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+              "kind": "Primary research",
+              "webRef": "turn24search0"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "cjc-1295": {
+    "safety": {
+      "question": "What safety problems have been reported with CJC-1295?",
+      "sentences": [
+        {
+          "text": "FDA identifies increased heart rate and systemic vasodilatory reactions among serious events associated with CJC-1295, while emphasizing the limited clinical data.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "Its 2024 assessment also describes injection-site reactions, headache, flushing, dizziness and low blood pressure in early studies; the long-term safety profile remains unknown.",
+          "sources": [
+            {
+              "title": "December 4, 2024 Pharmacy Compounding Advisory Committee Meeting: FDA presentation on CJC-1295",
+              "url": "https://www.fda.gov/media/185641/download",
+              "year": 2024,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "Who should avoid CJC-1295, and are contraindications established?",
+      "sentences": [
+        {
+          "text": "The cited trials enrolled healthy adults aged 21–61; that study population does not establish a complete contraindication list or suitability for people with medical conditions.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "year": 2006,
+              "kind": "Randomized controlled trials"
+            }
+          ]
+        },
+        {
+          "text": "FDA found no data informing pediatric safety and identified gaps in reproductive and long-term safety research, so these populations cannot be assumed safe on the basis of the adult trials.",
+          "sources": [
+            {
+              "title": "December 4, 2024 Pharmacy Compounding Advisory Committee Meeting: FDA presentation on CJC-1295",
+              "url": "https://www.fda.gov/media/185641/download",
+              "year": 2024,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Does research establish that CJC-1295 is safe to combine with ipamorelin?",
+      "sentences": [
+        {
+          "text": "Separate human experiments found that CJC-1295 increased GH and IGF-1 and that ipamorelin stimulated GH, but these cited experiments did not test the combination.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "year": 2006,
+              "kind": "Randomized controlled trials"
+            },
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            }
+          ]
+        },
+        {
+          "text": "Our interpretation is that these hormone-response findings cannot establish the safety or added clinical benefit of combining the two.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "year": 2006,
+              "kind": "Randomized controlled trials"
+            },
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Are CJC-1295 with DAC and without DAC interchangeable?",
+      "sentences": [
+        {
+          "text": "FDA distinguishes CJC-1295 substances with and without a drug affinity complex (DAC), and notes that published clinical references appear to involve DAC-containing material without specifying its salt form.",
+          "sources": [
+            {
+              "title": "December 4, 2024 Pharmacy Compounding Advisory Committee Meeting: FDA presentation on CJC-1295",
+              "url": "https://www.fda.gov/media/185641/download",
+              "year": 2024,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "Consequently, the long-acting trial cannot establish an interchangeable dosing schedule for products labeled without DAC.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "year": 2006,
+              "kind": "Randomized controlled trials"
+            },
+            {
+              "title": "December 4, 2024 Pharmacy Compounding Advisory Committee Meeting: FDA presentation on CJC-1295",
+              "url": "https://www.fda.gov/media/185641/download",
+              "year": 2024,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "How long do CJC-1295 effects last, and what happens after stopping?",
+      "sentences": [
+        {
+          "text": "In the early trials, the estimated half-life was 5.8–8.1 days, and mean IGF-1 remained above baseline for up to 28 days after repeated administration.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "year": 2006,
+              "kind": "Randomized controlled trials"
+            }
+          ]
+        },
+        {
+          "text": "These measurements describe drug exposure and hormone responses; they do not establish durable improvements in recovery or body composition after treatment ends.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "year": 2006,
+              "kind": "Randomized controlled trials"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "What does a purity claim establish about a CJC-1295 product?",
+      "sentences": [
+        {
+          "text": "FDA found that certificates it reviewed for CJC-1295 DAC free base often reported purity without an impurity profile, and concluded that this material was not well characterized.",
+          "sources": [
+            {
+              "title": "December 4, 2024 Pharmacy Compounding Advisory Committee Meeting: FDA presentation on CJC-1295",
+              "url": "https://www.fda.gov/media/185641/download",
+              "year": 2024,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "FDA separately warns that contamination or incorrect active-ingredient amounts in compounded drugs can cause serious harm, so a purity percentage alone cannot establish finished-product safety.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "What is the US regulatory status of CJC-1295?",
+      "sentences": [
+        {
+          "text": "At the October 3, 2026 check, FDA listed CJC-1295 among withdrawn compounding nominations while retaining its safety warning.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "That compounding entry is not a drug approval: FDA states that compounded drugs are not FDA-approved and undergo no premarket agency review for safety, effectiveness or quality.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "The CJC-1295 studied in the cited human trials is a long-acting analogue of growth hormone–releasing hormone that increases GH and IGF-1.",
+          "sources": [
+            {
+              "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+              "year": 2006,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+              "kind": "Primary research",
+              "webRef": "turn35search2"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ipamorelin": {
+    "safety": {
+      "question": "What safety concerns have been reported with ipamorelin?",
+      "sentences": [
+        {
+          "text": "FDA flags serious events, including death, reported during intravenous ipamorelin research for gastric motility; this wording does not establish that ipamorelin caused every event.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The agency also says evidence is insufficient to characterize harm through certain other injectable routes.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The published postoperative trial studied hospitalized surgical patients, so its safety observations cannot establish the safety of long-term use in healthy people.",
+          "sources": [
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "Does ipamorelin research define who should not use it?",
+      "sentences": [
+        {
+          "text": "The early pharmacology study enrolled healthy men, while the postoperative trial enrolled adults undergoing bowel resection.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            },
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        },
+        {
+          "text": "Those selected populations do not establish a validated contraindication list or demonstrate suitability during pregnancy or childhood; study eligibility should not be presented as a clinical prescribing rule.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            },
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Can ipamorelin interaction risks be inferred from its GH response?",
+      "sentences": [
+        {
+          "text": "The pharmacology study measured ipamorelin and GH after infusion; it did not test coadministration with CJC-1295.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            }
+          ]
+        },
+        {
+          "text": "Our interpretation is that these hormone measurements cannot establish combination safety, added benefit or dose adjustments.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Do the published ipamorelin trials establish a subcutaneous dosing protocol?",
+      "sentences": [
+        {
+          "text": "The cited pharmacology study and postoperative trial used intravenous infusion, with the surgical trial administering treatment in hospital for up to seven days or until discharge.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            },
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        },
+        {
+          "text": "Those study regimens do not validate a subcutaneous home-use schedule or a mixture containing other peptides.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            },
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "How quickly does ipamorelin act, and do benefits persist after stopping?",
+      "sentences": [
+        {
+          "text": "In healthy men receiving intravenous ipamorelin, its terminal half-life was about two hours and GH rose transiently before declining.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            }
+          ]
+        },
+        {
+          "text": "In the postoperative randomized trial, ipamorelin did not significantly improve the primary or secondary efficacy measures; neither study establishes lasting recovery benefits after stopping.",
+          "sources": [
+            {
+              "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+              "year": 1999,
+              "kind": "Human pharmacology study"
+            },
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "Why is ipamorelin product characterization important?",
+      "sentences": [
+        {
+          "text": "FDA identifies potential immune reactions related to aggregation or peptide impurities, and notes that ipamorelin’s unnatural amino acids complicate characterization.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "For compounded products generally, FDA also warns that contamination or excessive active ingredient can cause serious injury; a product’s availability does not establish its quality.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "What is the US regulatory status of ipamorelin acetate?",
+      "sentences": [
+        {
+          "text": "At the October 3, 2026 check, ipamorelin acetate remained in FDA’s 503B Category 2 and also appeared among withdrawn nominations.",
+          "sources": [
+            {
+              "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "These compounding classifications do not constitute approval: compounded drugs are not FDA-approved or reviewed by the agency before marketing for safety, effectiveness and quality.",
+          "sources": [
+            {
+              "title": "Understanding the Risks of Compounded Drugs",
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/understanding-risks-compounded-drugs",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "Ipamorelin is a ghrelin-receptor agonist investigated in a randomized trial of adults recovering from bowel resection.",
+          "sources": [
+            {
+              "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+              "year": 2014,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+              "kind": "Primary research",
+              "webRef": "turn12search0"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "collagen": {
+    "safety": {
+      "question": "Can oral collagen peptides cause adverse reactions?",
+      "sentences": [
+        {
+          "text": "A published case documented anaphylaxis from fish-collagen gummies in a child with fish allergy, with the reaction confirmed by a supervised oral challenge.",
+          "sources": [
+            {
+              "title": "A case of pediatric anaphylaxis caused by gummy tablets containing fish collagen",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33178560/",
+              "year": 2020,
+              "kind": "Case report"
+            }
+          ]
+        },
+        {
+          "text": "An eight-week skin trial in 69 adult women cannot estimate rare reactions or establish long-term safety across all collagen sources and products.",
+          "sources": [
+            {
+              "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        }
+      ]
+    },
+    "contraindications": {
+      "question": "Who needs particular caution with collagen supplements?",
+      "sentences": [
+        {
+          "text": "Known allergy to the source material matters: the challenge-confirmed fish-collagen case demonstrates that processing collagen into a supplement does not guarantee removal of allergenic potential.",
+          "sources": [
+            {
+              "title": "A case of pediatric anaphylaxis caused by gummy tablets containing fish collagen",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33178560/",
+              "year": 2020,
+              "kind": "Case report"
+            }
+          ]
+        },
+        {
+          "text": "FDA advises discussing supplement use with a health professional during pregnancy or breastfeeding; this general precaution is not an established collagen-specific contraindication.",
+          "sources": [
+            {
+              "title": "Mixing Medications and Dietary Supplements Can Endanger Your Health",
+              "url": "https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "interactions": {
+      "question": "Are collagen supplements compatible with every medication?",
+      "sentences": [
+        {
+          "text": "FDA advises reviewing supplements alongside medicines because some supplement ingredients can change drug absorption, metabolism or elimination.",
+          "sources": [
+            {
+              "title": "Mixing Medications and Dietary Supplements Can Endanger Your Health",
+              "url": "https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "That general warning does not demonstrate a specific collagen–drug interaction, but it supports checking the complete formulation and medication list instead of assuming that every collagen product is compatible.",
+          "sources": [
+            {
+              "title": "Mixing Medications and Dietary Supplements Can Endanger Your Health",
+              "url": "https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "forms-dosing": {
+      "question": "Does one collagen trial establish a dose for every product?",
+      "sentences": [
+        {
+          "text": "The skin trial tested a specific oral collagen hydrolysate for eight weeks, so its results concern that preparation and study population rather than every collagen formulation.",
+          "sources": [
+            {
+              "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        },
+        {
+          "text": "FDA states that supplement serving sizes are set by manufacturers rather than approved by the agency; a label serving is not an independently validated clinical dose.",
+          "sources": [
+            {
+              "title": "Questions and Answers on Dietary Supplements",
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "results-stopping": {
+      "question": "When might collagen results appear, and do they last after stopping?",
+      "sentences": [
+        {
+          "text": "In one skin trial, measurements were taken at four and eight weeks, followed by a skin-elasticity assessment four weeks after the final intake.",
+          "sources": [
+            {
+              "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        },
+        {
+          "text": "The authors reported improved elasticity and some persistence in older participants, but moisture outcomes were not statistically significant and this short follow-up cannot establish permanent changes.",
+          "sources": [
+            {
+              "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+              "year": 2014,
+              "kind": "Randomized controlled trial"
+            }
+          ]
+        }
+      ]
+    },
+    "product-quality": {
+      "question": "What information matters when evaluating a collagen supplement?",
+      "sentences": [
+        {
+          "text": "FDA requires supplement manufacturing controls addressing identity, purity, quality, strength and composition, along with ingredient labeling.",
+          "sources": [
+            {
+              "title": "Questions and Answers on Dietary Supplements",
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "The animal source is relevant to allergy risk, as demonstrated by the fish-collagen anaphylaxis case.",
+          "sources": [
+            {
+              "title": "A case of pediatric anaphylaxis caused by gummy tablets containing fish collagen",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33178560/",
+              "year": 2020,
+              "kind": "Case report"
+            }
+          ]
+        },
+        {
+          "text": "FDA does not test supplements before sale, so a label or legal availability does not establish batch-level verification or clinical benefit.",
+          "sources": [
+            {
+              "title": "Questions and Answers on Dietary Supplements",
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "status": {
+      "question": "Are oral collagen supplements FDA-approved treatments?",
+      "sentences": [
+        {
+          "text": "When a collagen product is marketed as a dietary supplement in the United States, FDA does not approve it before sale.",
+          "sources": [
+            {
+              "title": "Questions and Answers on Dietary Supplements",
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "text": "A supplement promoted to treat, prevent or cure a disease meets the drug definition, while an ordinary structure/function claim is not an FDA-approved treatment claim.",
+          "sources": [
+            {
+              "title": "Questions and Answers on Dietary Supplements",
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "year": null,
+              "kind": "Regulatory guidance",
+              "accessedAt": "2026-10-03"
+            }
+          ]
+        }
+      ]
+    },
+    "overview": {
+      "question": "What is it?",
+      "sentences": [
+        {
+          "text": "The collagen peptides discussed here are oral collagen hydrolysate preparations studied for joint discomfort and skin elasticity.",
+          "sources": [
+            {
+              "title": "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain",
+              "year": 2008,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18416885/",
+              "kind": "Primary research",
+              "webRef": "turn24view1"
+            },
+            {
+              "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study",
+              "year": 2014,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+              "kind": "Primary research",
+              "webRef": "turn24view0"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

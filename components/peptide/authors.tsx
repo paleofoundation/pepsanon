@@ -1,4 +1,5 @@
 'use client';
+import {useId} from 'react';
 import {ExternalLink} from 'lucide-react';
 import {Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger} from '@/components/ui/dialog';
 import {authors, primaryInvestigators, contentCredits, type AuthorId, type Author} from '@/lib/authors';
@@ -11,6 +12,11 @@ function Portrait({author, large=false}: {author:Author; large?:boolean}) {
 
 export function AuthorBio({authorId, card=false, compact=false}: {authorId:AuthorId; card?:boolean; compact?:boolean}) {
   const author=authors[authorId];
+  const refPrefix=useId();
+  const biographySources=author.links.filter(link=>!link.url.includes('examine.com'));
+  const markers=(indices:number[])=>indices.map(i=><sup key={i}><a href={`#${refPrefix}-ref-${i+1}`} aria-label={`Biography reference ${i+1}`}>[{i+1}]</a></sup>);
+  const bioSentences=author.bio.split(/(?<=[.!?])\s+(?=[A-Z])/);
+  const bioIndices=authorId==='alex-leaf'?[[1],[1],[1],[0],[1]]:[[0],[0],[0],[0]];
   return <Dialog>
     <DialogTrigger asChild>
       <button className={card?'investigator-card':`author-button${compact?' author-button-compact':''}`} aria-label={`About ${author.name}`}>
@@ -25,9 +31,9 @@ export function AuthorBio({authorId, card=false, compact=false}: {authorId:Autho
         <Portrait author={author} large/>
         <div><span className="eyebrow">{author.role}</span><DialogTitle>{author.name}</DialogTitle>{author.credentials&&<span className="bio-credentials">{author.credentials}</span>}<DialogDescription>{author.specialty}</DialogDescription></div>
       </DialogHeader>
-      <p className="author-bio-text">{author.bio}</p>
-      <dl className="author-background">{author.background.map(item=><div key={item.label}><dt>{item.label}</dt><dd>{item.detail}</dd></div>)}</dl>
-      <div className="author-links" aria-label={`${author.name} profile sources`}>{author.links.map(link=><a key={link.url} href={link.url} target="_blank" rel="noreferrer">{link.label}<ExternalLink size={14}/></a>)}</div>
+      <p className="author-bio-text">{bioSentences.map((text,i)=><span key={i}>{i>0?' ':''}{text}{markers(bioIndices[i]||[0])}</span>)}</p>
+      <dl className="author-background">{author.background.map(item=><div key={item.label}><dt>{item.label}</dt><dd>{item.detail.replace(/[.!?]$/,'')}.{markers(authorId==='alex-leaf'?(item.label==='Education'?[1]:[0]):[0])}</dd></div>)}</dl>
+      <section className="bio-references"><h3>References</h3><ol>{biographySources.map((link,i)=><li id={`${refPrefix}-ref-${i+1}`} key={link.url}><a href={link.url} target="_blank" rel="noreferrer">{link.label}</a></li>)}</ol></section><div className="author-links" aria-label={`${author.name} profile sources`}>{author.links.map(link=><a key={link.url} href={link.url} target="_blank" rel="noreferrer">{link.label}<ExternalLink size={14}/></a>)}</div>
     </DialogContent>
   </Dialog>;
 }
