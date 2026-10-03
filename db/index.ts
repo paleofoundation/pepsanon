@@ -11,3 +11,8 @@ export function getDb() {
 
   return drizzle(env.DB, { schema });
 }
+
+export function getRawDb() {
+  if (!env.DB) throw new Error('Account storage is unavailable.');
+  return env.DB;
+}

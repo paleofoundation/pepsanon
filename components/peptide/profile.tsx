@@ -1,0 +1,28 @@
+'use client';
+import {useState,type FormEvent} from 'react';
+import {Bookmark,BookOpen,FileText,UserRound} from 'lucide-react';
+import {Tabs,TabsContent,TabsList,TabsTrigger} from '@/components/ui/tabs';
+import {Input} from '@/components/ui/input';
+import {Textarea} from '@/components/ui/textarea';
+import {useAccount,FavoriteButton} from './account';
+import {peptides} from '@/lib/peptides';
+import {studies} from '@/lib/studies';
+
+function ProfileForm(){
+ const {user,updateProfile}=useAccount();
+ const [name,setName]=useState(user?.displayName||'');const [bio,setBio]=useState(user?.bio||'');const [busy,setBusy]=useState(false);const [message,setMessage]=useState('');const [failed,setFailed]=useState(false);
+ async function save(event:FormEvent){event.preventDefault();setBusy(true);setMessage('');try{await updateProfile(name,bio);setFailed(false);setMessage('Profile saved.');}catch(e){setFailed(true);setMessage(e instanceof Error?e.message:'Please try again.');}finally{setBusy(false);}}
+ return <form className="profile-form" onSubmit={save}><h2>Your profile</h2><p>Your profile and saved library are private to your account.</p><label>Email<Input value={user?.email||''} readOnly aria-readonly="true"/></label><label>Display name<Input value={name} onChange={e=>setName(e.target.value)} maxLength={80} required autoComplete="nickname"/></label><label>Bio<Textarea value={bio} onChange={e=>setBio(e.target.value)} maxLength={500} rows={4} placeholder="Your research interests or professional background"/><small>{bio.length}/500 characters</small></label><button className="primary-action" type="submit" disabled={busy}>{busy?'Saving…':'Save profile'}</button>{message&&<p role={failed?'alert':'status'} className={failed?'form-error':'form-success'}>{message}</p>}</form>;
+}
+export function Profile({initialTab='peptides'}:{initialTab?:string}){
+ const account=useAccount();const [filter,setFilter]=useState('');
+ if(account.loading)return <section className="account-page"><h1>My library</h1><p role="status">Loading your saved research…</p></section>;
+ if(account.error)return <section className="account-page"><h1>My library</h1><p role="alert">{account.error}</p><button className="primary-action" onClick={()=>void account.refresh()}>Try again</button></section>;
+ if(!account.user)return <section className="account-page"><h1>Your session has ended</h1><p>Sign in again to open your saved research.</p><a className="primary-action" href="/login?returnTo=%2Fprofile">Log in</a></section>;
+ const savedPeptides=account.favorites.filter(f=>f.kind==='peptide').flatMap(f=>{const p=peptides.find(p=>p.id===f.itemId);return p?[p]:[]});
+ const savedStudies=account.favorites.filter(f=>f.kind==='study').flatMap(f=>{const s=studies.find(s=>s.id===f.itemId);return s?[s]:[]});
+ const query=filter.toLowerCase().trim();
+ const filteredPeptides=savedPeptides.filter(p=>`${p.name} ${p.category} ${p.subtitle}`.toLowerCase().includes(query));
+ const filteredStudies=savedStudies.filter(s=>`${s.title} ${s.kind}`.toLowerCase().includes(query));
+ return <section className="account-page"><div className="account-heading"><span className="member-avatar"><UserRound size={26}/></span><div><p className="section-kicker">{account.user.displayName}</p><h1>My library</h1><p>Your saved peptides, studies, and research profile.</p></div></div><Tabs defaultValue={['peptides','studies','profile'].includes(initialTab)?initialTab:'peptides'} className="library-tabs"><TabsList variant="line" aria-label="Your library"><TabsTrigger value="peptides">Peptides ({savedPeptides.length})</TabsTrigger><TabsTrigger value="studies">Studies ({savedStudies.length})</TabsTrigger><TabsTrigger value="profile">Profile</TabsTrigger></TabsList><TabsContent value="peptides"><div className="saved-toolbar"><h2>Saved peptides</h2><Input aria-label="Filter saved peptides" placeholder="Filter your library" value={filter} onChange={e=>setFilter(e.target.value)}/></div>{!savedPeptides.length?<div className="library-empty"><BookOpen size={28}/><h3>Start with a peptide</h3><p>Use “Save peptide” on any guide to keep it here.</p><a href="/peptides" className="primary-action">Explore peptides</a></div>:!filteredPeptides.length?<p>No saved peptides match this search.</p>:<div className="saved-list">{filteredPeptides.map(p=><article key={p.id}><div><span className="section-kicker">{p.category}</span><h3><a href={`/peptides/${p.id}`}>{p.name}</a></h3><p>{p.subtitle}</p></div><FavoriteButton kind="peptide" itemId={p.id} title={p.name}/></article>)}</div>}</TabsContent><TabsContent value="studies"><div className="saved-toolbar"><h2>Saved studies</h2><Input aria-label="Filter saved studies" placeholder="Filter your library" value={filter} onChange={e=>setFilter(e.target.value)}/></div>{!savedStudies.length?<div className="library-empty"><FileText size={28}/><h3>Keep the research behind an answer</h3><p>Save a study from a peptide guide or the research library.</p><a href="/sources#research" className="primary-action">Browse studies</a></div>:!filteredStudies.length?<p>No saved studies match this search.</p>:<div className="saved-list">{filteredStudies.map(s=><article key={s.id}><div><span className="section-kicker">{s.kind}{s.year?` · ${s.year}`:''}</span><h3><a href={s.href}>{s.title}</a></h3><a className="quiet-link" href={s.url} target="_blank" rel="noreferrer">Read original source</a></div><FavoriteButton kind="study" itemId={s.id} title={s.title}/></article>)}</div>}</TabsContent><TabsContent value="profile"><ProfileForm/></TabsContent></Tabs><p className="library-footnote"><Bookmark size={15}/>Saved to your account so you can return on another device.</p></section>;
+}
