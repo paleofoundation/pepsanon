@@ -1,0 +1,5 @@
+'use client';
+import {useEffect} from 'react';
+import {Answer} from './evidence';
+import type {Question,Source} from '@/lib/peptides';
+export function GuideFaq({questions,sources}:{questions:Question[];sources:Source[]}){useEffect(()=>{const reveal=()=>{const id=decodeURIComponent(window.location.hash.slice(1));const el=document.getElementById(id);if(el instanceof HTMLDetailsElement)el.open=true;};reveal();window.addEventListener('hashchange',reveal);return()=>window.removeEventListener('hashchange',reveal)},[]);return <div className="rgbc-faq-block">{questions.map(q=><details className="rgbc-faq-item" key={q.id} id={q.id}><summary><span className="rgbc-faq-icon" aria-hidden="true"/><span>{q.question}</span></summary><div className="rgbc-faq-a"><strong>Quick answer:</strong><Answer question={q} sources={sources}/><details className="study-context"><summary>Study context</summary><dl><dt>Population</dt><dd>{q.population}</dd><dt>Study design</dt><dd>{q.evidenceType}</dd><dt>Outcome</dt><dd>{q.outcome}</dd></dl></details></div></details>)}</div>}
