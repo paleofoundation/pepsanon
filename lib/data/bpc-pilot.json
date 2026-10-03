@@ -1,0 +1,462 @@
+{
+  "peptideId": "bpc-157",
+  "checkedAt": "2026-10-03",
+  "primaryPdfCount": 20,
+  "primaryPdfPages": 321,
+  "humanReports": 4,
+  "preclinicalReports": 16,
+  "preprints": 1,
+  "studies": [
+    {
+      "id": "lee-2021-knee",
+      "label": "Human knee-pain case series",
+      "source": {
+        "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+        "year": 2021,
+        "kind": "Primary research · Human study",
+        "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+      },
+      "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+      "pages": 7,
+      "species": "Human",
+      "sentences": [
+        "Sixteen patients were contacted after knee injections; eleven of twelve receiving BPC-157 alone reported improvement.",
+        "The study had no control group or objective confirmation of tissue repair."
+      ],
+      "locators": [
+        3
+      ],
+      "hold": false
+    },
+    {
+      "id": "lee-2024-cystitis",
+      "label": "Human bladder-pain case series",
+      "source": {
+        "title": "Effect of BPC-157 on Symptoms in Patients with Interstitial Cystitis: A Pilot Study",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+        "year": 2024,
+        "kind": "Primary research · Human study",
+        "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf"
+      },
+      "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf",
+      "pages": 6,
+      "species": "Human",
+      "sentences": [
+        "Ten of twelve women reported complete symptom resolution after bladder injections, and two reported partial improvement.",
+        "There was no control group, and questionnaire timing is described inconsistently."
+      ],
+      "locators": [
+        3,
+        2
+      ],
+      "hold": false
+    },
+    {
+      "id": "lee-2025-iv",
+      "label": "Human intravenous safety pilot",
+      "source": {
+        "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+        "year": 2025,
+        "kind": "Primary research · Human study",
+        "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+      },
+      "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf",
+      "pages": 5,
+      "species": "Human",
+      "sentences": [
+        "Two previously exposed adults underwent three days of laboratory and symptom monitoring, with no adverse effects reported by the authors.",
+        "This was not a pharmacokinetic study and cannot establish long-term safety."
+      ],
+      "locators": [
+        4,
+        2
+      ],
+      "hold": false
+    },
+    {
+      "id": "he-2022-pk",
+      "label": "Animal pharmacokinetics",
+      "source": {
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+        "year": 2022,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/pdf"
+      },
+      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/pdf",
+      "pages": 16,
+      "species": "Rat and dog",
+      "sentences": [
+        "Reported mean half-lives of intact BPC-157 were below thirty minutes in the tested rat and dog regimens.",
+        "These findings do not establish a human half-life or dosing interval."
+      ],
+      "locators": [
+        2,
+        13
+      ],
+      "hold": false
+    },
+    {
+      "id": "venkatakrishnan-2026-ehr",
+      "label": "Human clinical-note study · Preprint",
+      "source": {
+        "title": "Rising Use of Unapproved BPC-157 (“Wolverine Peptide”) and Associated Patient-Reported Outcomes Curated from Clinical Notes",
+        "url": "https://www.preprints.org/manuscript/202609.0501/v1",
+        "year": 2026,
+        "kind": "Primary research · Preprint, not peer reviewed",
+        "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub"
+      },
+      "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub",
+      "pages": 17,
+      "species": "Human",
+      "sentences": [
+        "This unreviewed preprint identified 1,039 documented users, with response direction missing for 685.",
+        "Missing outcomes, co-treatments and an absent control group prevent a treatment-effect estimate."
+      ],
+      "locators": [
+        9,
+        11
+      ],
+      "hold": false
+    },
+    {
+      "id": "a1",
+      "label": "Tendon-cell growth hormone receptors",
+      "source": {
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066",
+        "year": 2014,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.mdpi.com/1420-3049/19/11/19066/pdf"
+      },
+      "pdfUrl": "https://www.mdpi.com/1420-3049/19/11/19066/pdf",
+      "pages": 12,
+      "species": "Rat-derived Achilles tendon fibroblasts",
+      "sentences": [
+        "BPC-157 increased growth-hormone receptor expression in cultured rat tendon fibroblasts.",
+        "Receptor expression in a culture does not demonstrate higher circulating growth hormone in people."
+      ],
+      "locators": [
+        3
+      ],
+      "hold": false
+    },
+    {
+      "id": "a2",
+      "label": "Rat muscle-to-bone reattachment",
+      "source": {
+        "title": "Stable Gastric Pentadecapeptide BPC 157 as Therapy After Surgical Detachment of the Quadriceps Muscle from Its Attachments for Muscle-to-Bone Reattachment in Rats",
+        "url": "https://www.mdpi.com/1999-4923/17/1/119",
+        "year": 2025,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.mdpi.com/1999-4923/17/1/119/pdf"
+      },
+      "pdfUrl": "https://www.mdpi.com/1999-4923/17/1/119/pdf",
+      "pages": 35,
+      "species": "Male albino Wistar rats",
+      "sentences": [
+        "The investigators reported improved quadriceps reattachment and walking after experimentally detaching muscle from bone.",
+        "The oral rat regimen does not establish human oral absorption or recovery."
+      ],
+      "locators": [
+        8
+      ],
+      "hold": false
+    },
+    {
+      "id": "a3",
+      "label": "Rat muscle–tendon junction injury",
+      "source": {
+        "title": "Stable Gastric Pentadecapeptide BPC 157 as a Therapy for the Disable Myotendinous Junctions in Rats",
+        "url": "https://www.mdpi.com/2227-9059/9/11/1547",
+        "year": 2021,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.mdpi.com/2227-9059/9/11/1547/pdf"
+      },
+      "pdfUrl": "https://www.mdpi.com/2227-9059/9/11/1547/pdf",
+      "pages": 30,
+      "species": "Male Wistar rats",
+      "sentences": [
+        "The investigators reported functional and muscle-size recovery after separating the muscle–tendon junction in rats.",
+        "This surgical model does not establish recovery from human sports injuries."
+      ],
+      "locators": [
+        7,
+        11
+      ],
+      "hold": false
+    },
+    {
+      "id": "a4",
+      "label": "Rat muscle injury with corticosteroids",
+      "source": {
+        "title": "Impact of pentadecapeptide BPC 157 on muscle healing impaired by systemic corticosteroid application",
+        "url": "https://medscimonit.com/abstract/index/idArt/878454",
+        "year": 2010,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://medscimonit.com/download/freeIp/idArt/878454"
+      },
+      "pdfUrl": "https://medscimonit.com/download/freeIp/idArt/878454",
+      "pages": 8,
+      "species": "Male Wistar albino rats",
+      "sentences": [
+        "BPC-157 improved measured healing after rat muscle crush during methylprednisolone exposure.",
+        "This experiment cannot establish a safe corticosteroid combination in humans."
+      ],
+      "locators": [
+        3,
+        1
+      ],
+      "hold": false
+    },
+    {
+      "id": "a5",
+      "label": "Angiogenesis assays with a null finding",
+      "source": {
+        "title": "Modulatory effect of gastric pentadecapeptide BPC 157 on angiogenesis in muscle and tendon healing",
+        "url": "https://www.jpp.krakow.pl/journal/archive/12_09_s7/articles/24_article.html",
+        "year": 2009,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.jpp.krakow.pl/journal/archive/12_09_s7/pdf/191_12_09_s7_article.pdf"
+      },
+      "pdfUrl": "https://www.jpp.krakow.pl/journal/archive/12_09_s7/pdf/191_12_09_s7_article.pdf",
+      "pages": 6,
+      "species": "Male Wistar albino rats and endothelial-cell culture",
+      "sentences": [
+        "Animal tissues showed changes in angiogenic-marker timing, while the cell-culture tube-branching assay found no significant difference.",
+        "These are assay-specific findings, with inconsistent concentration units reported in the paper."
+      ],
+      "locators": [
+        2,
+        3
+      ],
+      "hold": false
+    },
+    {
+      "id": "a6",
+      "label": "Rat Achilles repair and peptide combination",
+      "source": {
+        "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+        "url": "https://jointdrs.org/full-text/1851",
+        "year": 2026,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://jointdrs.org/full-text-pdf/1851"
+      },
+      "pdfUrl": "https://jointdrs.org/full-text-pdf/1851",
+      "pages": 16,
+      "species": "Male Sprague-Dawley rats",
+      "sentences": [
+        "BPC-157 alone did not significantly improve maximum load to failure versus control; the combination showed no additional benefit over monotherapy.",
+        "Only four tendons per group contributed to each endpoint, so nonsignificance does not prove no effect."
+      ],
+      "locators": [
+        5,
+        14
+      ],
+      "hold": false
+    },
+    {
+      "id": "a7",
+      "label": "Endothelial-cell mechanism · Reporting discrepancies",
+      "source": {
+        "title": "BPC157 drives angiogenesis through FBXO22-dependent stabilization of BACH1",
+        "url": "https://link.springer.com/article/10.1186/s12964-026-02694-6",
+        "year": 2026,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s12964-026-02694-6.pdf"
+      },
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s12964-026-02694-6.pdf",
+      "pages": 12,
+      "species": "Human endothelial-cell cultures and rodent tissue-injury models",
+      "sentences": [
+        "The paper reports endothelial-cell tube formation and an FBXO22/BACH1 mechanism.",
+        "Conflicting animal routes, doses and sample descriptions prevent a reliable animal dose–response interpretation here."
+      ],
+      "locators": [
+        3,
+        4
+      ],
+      "hold": true
+    },
+    {
+      "id": "bpc157-ulcer",
+      "label": "Rat gastric-ulcer models",
+      "source": {
+        "title": "Protective effects of pentadecapeptide BPC 157 on gastric ulcer in rats",
+        "url": "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "year": 2004,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://pdfs.semanticscholar.org/910d/9901c00bfb2b4dab2cb3bca44b6c1c0df122.pdf"
+      },
+      "pdfUrl": "https://pdfs.semanticscholar.org/910d/9901c00bfb2b4dab2cb3bca44b6c1c0df122.pdf",
+      "pages": 5,
+      "species": "Rat",
+      "sentences": [
+        "BPC-157 reduced ulcer area in chemically or surgically induced rat gastric-injury models.",
+        "The paper contains inconsistent comparator dose units and does not establish benefit for human digestive conditions."
+      ],
+      "locators": [
+        2
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-retina",
+      "label": "Rat retinal injury",
+      "source": {
+        "title": "BPC 157 as a Therapy for Retinal Ischemia Induced by Retrobulbar Application of L-NAME in Rats",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.632295/full",
+        "year": 2021,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.632295/pdf"
+      },
+      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.632295/pdf",
+      "pages": 14,
+      "species": "Rat",
+      "sentences": [
+        "The investigators reported preservation of retinal layers after L-NAME-induced injury in rats.",
+        "This experimental eye-injection model does not establish human visual or neurological benefit."
+      ],
+      "locators": [
+        6,
+        4
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-pulmonary",
+      "label": "Rat pulmonary hypertension",
+      "source": {
+        "title": "Stable Gastric Pentadecapeptide BPC 157 Therapy for Monocrotaline-Induced Pulmonary Hypertension in Rats Leads to Prevention and Reversal",
+        "url": "https://www.mdpi.com/2227-9059/9/7/822",
+        "year": 2021,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.mdpi.com/2227-9059/9/7/822/pdf"
+      },
+      "pdfUrl": "https://www.mdpi.com/2227-9059/9/7/822/pdf",
+      "pages": 17,
+      "species": "Rat",
+      "sentences": [
+        "The investigators reported improvements after early and delayed treatment in monocrotaline-induced pulmonary hypertension.",
+        "The findings do not establish a treatment for human pulmonary hypertension."
+      ],
+      "locators": [
+        5
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-mesenteric",
+      "label": "Rat intestinal-vessel occlusion",
+      "source": {
+        "title": "Occluded Superior Mesenteric Artery and Vein. Therapy with the Stable Gastric Pentadecapeptide BPC 157",
+        "url": "https://www.mdpi.com/2227-9059/9/7/792",
+        "year": 2021,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.mdpi.com/2227-9059/9/7/792/pdf"
+      },
+      "pdfUrl": "https://www.mdpi.com/2227-9059/9/7/792/pdf",
+      "pages": 26,
+      "species": "Rat",
+      "sentences": [
+        "The investigators reported collateral-vessel recruitment and reduced pressure disturbances after mesenteric vessel ligation.",
+        "This acute surgical rat experiment cannot establish a clinical vascular treatment."
+      ],
+      "locators": [
+        8
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-alcohol",
+      "label": "Rat alcohol-induced gastric injury",
+      "source": {
+        "title": "Robert’s Intragastric Alcohol-Induced Gastric Lesion Model as an Escalated General Peripheral and Central Syndrome, Counteracted by the Stable Gastric Pentadecapeptide BPC 157",
+        "url": "https://www.mdpi.com/2227-9059/9/10/1300",
+        "year": 2021,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.mdpi.com/2227-9059/9/10/1300/pdf"
+      },
+      "pdfUrl": "https://www.mdpi.com/2227-9059/9/10/1300/pdf",
+      "pages": 31,
+      "species": "Rat",
+      "sentences": [
+        "The investigators reported less gastric damage after concentrated alcohol injury in rats.",
+        "The thirty-minute model does not establish protection from drinking alcohol in people."
+      ],
+      "locators": [
+        8
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-budd",
+      "label": "Rat hepatic-vein outflow obstruction",
+      "source": {
+        "title": "Pentadecapeptide BPC 157 resolves suprahepatic occlusion of the inferior caval vein, Budd-Chiari syndrome model in rats",
+        "url": "https://www.wjgnet.com/2150-5330/full/v11/i1/1.htm",
+        "year": 2020,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://pdfs.semanticscholar.org/f505/6883487781732cd8a7b8d4bcea293527ecca.pdf"
+      },
+      "pdfUrl": "https://pdfs.semanticscholar.org/f505/6883487781732cd8a7b8d4bcea293527ecca.pdf",
+      "pages": 20,
+      "species": "Rat",
+      "sentences": [
+        "The investigators reported smaller clots and less ascites after experimental vena-cava obstruction.",
+        "These results do not establish human liver-disease treatment or anticoagulant compatibility."
+      ],
+      "locators": [
+        6
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-compartment",
+      "label": "Rat abdominal compartment syndrome",
+      "source": {
+        "title": "Stable Gastric Pentadecapeptide BPC 157 Therapy for Primary Abdominal Compartment Syndrome in Rats",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.718147/full",
+        "year": 2021,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.718147/pdf"
+      },
+      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.718147/pdf",
+      "pages": 27,
+      "species": "Rat",
+      "sentences": [
+        "BPC-157 reduced pressure disturbances and organ injury in acute rat experiments.",
+        "The acute animal model and conflicting exposure-duration descriptions limit interpretation."
+      ],
+      "locators": [
+        7,
+        6
+      ],
+      "hold": false
+    },
+    {
+      "id": "bpc157-ftir",
+      "label": "Rat aortic-tissue spectroscopy",
+      "source": {
+        "title": "Fourier Transform Infrared Spectroscopy Reveals Molecular Changes in Blood Vessels of Rats Treated with Pentadecapeptide BPC 157",
+        "url": "https://www.mdpi.com/2227-9059/10/12/3130",
+        "year": 2022,
+        "kind": "Primary research · Preclinical",
+        "pdfUrl": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-10-03130/article_deploy/biomedicines-10-03130.pdf"
+      },
+      "pdfUrl": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-10-03130/article_deploy/biomedicines-10-03130.pdf",
+      "pages": 11,
+      "species": "Rat",
+      "sentences": [
+        "Aortic tissue spectra differed between treated and control rats.",
+        "This exploratory study used five animals per group; multiple tissue sections were technical samples, not additional animals."
+      ],
+      "locators": [
+        7
+      ],
+      "hold": false
+    }
+  ]
+}

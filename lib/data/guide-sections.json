@@ -527,24 +527,33 @@
       "question": "Can BPC-157 be combined safely with medicines or other peptides?",
       "sentences": [
         {
-          "text": "The two-person intravenous pilot was not a drug-interaction study and cannot establish compatibility with prescription medicines, supplements or peptide combinations.",
+          "text": "The human reports were not designed to establish drug-interaction safety.",
           "sources": [
             {
               "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
               "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
               "year": 2025,
-              "kind": "Primary research"
-            }
-          ]
-        },
-        {
-          "text": "The knee-pain report included four patients receiving BPC-157 with thymosin beta-4, but that uncontrolled subgroup cannot establish combination safety.",
-          "sources": [
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+            },
             {
               "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
               "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
               "year": 2021,
-              "kind": "Primary research"
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Rat experiments involving corticosteroids do not establish compatibility in people.",
+          "sources": [
+            {
+              "title": "Impact of pentadecapeptide BPC 157 on muscle healing impaired by systemic corticosteroid application",
+              "url": "https://medscimonit.com/abstract/index/idArt/878454",
+              "year": 2010,
+              "kind": "Primary research · Preclinical",
+              "pdfUrl": "https://medscimonit.com/download/freeIp/idArt/878454"
             }
           ]
         }
@@ -570,24 +579,26 @@
       "question": "How quickly should results appear, and what happens after stopping?",
       "sentences": [
         {
-          "text": "The retrospective knee-pain report describes symptom improvement without a placebo group or imaging confirmation of tissue repair.",
+          "text": "The knee-pain report used variable retrospective follow-up, so it cannot establish a reliable healing timeline or cycling schedule.",
           "sources": [
             {
               "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
               "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
               "year": 2021,
-              "kind": "Primary research"
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
             }
           ]
         },
         {
-          "text": "Its design cannot establish a reliable healing timeline, a causal lasting benefit, or an evidence-based stopping or cycling schedule.",
+          "text": "The clinical-note preprint recorded discontinuation for several reasons but did not test a tapering or withdrawal protocol.",
           "sources": [
             {
-              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
-              "year": 2021,
-              "kind": "Primary research"
+              "title": "Rising Use of Unapproved BPC-157 (“Wolverine Peptide”) and Associated Patient-Reported Outcomes Curated from Clinical Notes",
+              "url": "https://www.preprints.org/manuscript/202609.0501/v1",
+              "year": 2026,
+              "kind": "Primary research · Preprint, not peer reviewed",
+              "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub"
             }
           ]
         }
@@ -597,7 +608,7 @@
       "question": "Does a certificate of analysis establish product quality?",
       "sentences": [
         {
-          "text": "FDA's 2026 BPC-157 evaluation identified inconsistent substance naming and certificates reporting purity without adequate impurity characterization.",
+          "text": "FDA’s assessment identified inconsistent substance naming and incomplete impurity characterization.",
           "sources": [
             {
               "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
@@ -608,7 +619,7 @@
           ]
         },
         {
-          "text": "A purity figure therefore does not resolve the identity and impurity concerns identified in that assessment.",
+          "text": "For injectable products, it also identifies sterility, bacterial endotoxins and particulates as relevant quality attributes; a purity percentage alone does not cover those attributes.",
           "sources": [
             {
               "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
@@ -648,16 +659,23 @@
       ]
     },
     "overview": {
-      "question": "What is it?",
+      "question": "What is BPC-157?",
       "sentences": [
         {
-          "text": "BPC-157 is a synthetic peptide composed of 15 amino acids; its evaluated forms include BPC-157 free base and BPC-157 acetate.",
+          "text": "BPC-157 is a synthetic peptide of fifteen amino acids, studied experimentally for tissue repair and injury responses; its evaluated forms include the free base and acetate salt.",
           "sources": [
             {
               "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
               "url": "https://www.fda.gov/media/193343/download",
               "year": 2026,
               "kind": "Regulatory assessment"
+            },
+            {
+              "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+              "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+              "year": 2022,
+              "kind": "Primary research · Preclinical",
+              "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/pdf"
             }
           ]
         }

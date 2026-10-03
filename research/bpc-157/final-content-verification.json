@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-03",
+  "files": [
+    "lib/data/bpc-pilot.json",
+    "lib/data/evidence.json BPC157questions",
+    "lib/data/guide-sections.json BPC157"
+  ],
+  "status": "pass clinicalclaims and numericalaccuracy;1gradeconsistencyfix recommended",
+  "checks": [
+    "20primaryPDFsummaryrecords verified against actualPDFs",
+    "Humanfindings accurateand scoped",
+    "FDA supplemental actualPDF support checked",
+    "Preprint status/missingdenominators preserved",
+    "Animaltohuman boundaries preserved",
+    "No claimofinvestigatorreviewverified"
+  ],
+  "fixes": [
+    {
+      "target": "bpc-157-gut-health grade",
+      "current": "No direct human evidence",
+      "recommended": "Very low",
+      "reason": "Question acknowledges existinghumanUCmeetingabstract;fulltextpilotabsence shouldnot imply nohumanevidence"
+    }
+  ]
+}

@@ -5,173 +5,524 @@
     {
       "id": "bpc-157-injury-healing",
       "peptideId": "bpc-157",
+      "section": "benefits",
       "question": "Does BPC-157 speed tendon or ligament healing?",
-      "answer": "The cited knee-pain report does not establish that BPC-157 repairs tendons or ligaments. A 2021 retrospective knee-pain report contacted 16 patients; 11 of the 12 who received BPC-157 alone reported improvement. However, there was no placebo group, no validated functional assessment, and no imaging endpoint demonstrating tissue repair. Pain relief in an uncontrolled series cannot distinguish a drug effect from natural recovery, other treatment, or expectation. This is a preliminary symptom signal, not confirmation of faster healing or a basis for transferring results to a different injury or injection route.",
       "grade": "No direct human evidence",
-      "outcome": "Tendon or ligament healing",
-      "route": "Intra-articular evidence; other routes not established",
-      "evidenceType": "Uncontrolled retrospective case series; indirect for healing",
-      "population": "Knee-pain patients; 16 contacted, 12 received BPC-157 alone",
-      "limitation": "Pain reports do not demonstrate structural repair.",
+      "outcome": "Structural tendon or ligament healing",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Human case series indirect for structural repair; exploratory rat repair experiment",
+      "population": "Knee-pain patients and surgically injured rats",
+      "limitation": "Symptoms and preclinical endpoints do not establish human structural repair.",
       "sources": [
         {
           "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
-          "year": 2021,
           "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
-          "kind": "Primary research",
-          "webRef": "turn11view0"
+          "year": 2021,
+          "kind": "Primary research · Human study",
+          "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+        },
+        {
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+          "url": "https://jointdrs.org/full-text/1851",
+          "year": 2026,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://jointdrs.org/full-text-pdf/1851"
         }
       ],
       "sentences": [
         {
-          "text": "The cited knee-pain report does not establish that BPC-157 repairs tendons or ligaments.",
+          "text": "The knee-pain case series measured subjective symptoms, without objective confirmation of tendon or ligament repair.",
           "sourceIndexes": [
             0
           ]
         },
         {
-          "text": "A 2021 retrospective knee-pain report contacted 16 patients; 11 of the 12 who received BPC-157 alone reported improvement.",
+          "text": "In a 2026 rat Achilles-repair experiment, BPC-157 alone did not significantly improve maximum load to failure versus control.",
           "sourceIndexes": [
-            0
+            1
           ]
         },
         {
-          "text": "However, there was no placebo group, no validated functional assessment, and no imaging endpoint demonstrating tissue repair.",
+          "text": "That experiment used four tendons per group for each endpoint, so its nonsignificant result does not establish that no effect exists.",
           "sourceIndexes": [
-            0
-          ]
-        },
-        {
-          "text": "Pain relief in an uncontrolled series cannot distinguish a drug effect from natural recovery, other treatment, or expectation.",
-          "sourceIndexes": [
-            0
-          ]
-        },
-        {
-          "text": "This is a preliminary symptom signal, not confirmation of faster healing or a basis for transferring results to a different injury or injection route.",
-          "sourceIndexes": [
-            0
+            1
           ]
         }
       ],
-      "section": "benefits"
+      "answer": "The knee-pain case series measured subjective symptoms, without objective confirmation of tendon or ligament repair. In a 2026 rat Achilles-repair experiment, BPC-157 alone did not significantly improve maximum load to failure versus control. That experiment used four tendons per group for each endpoint, so its nonsignificant result does not establish that no effect exists."
     },
     {
-      "id": "bpc-157-safety",
+      "id": "bpc-157-knee-pain",
       "peptideId": "bpc-157",
-      "question": "Has BPC-157 been shown to be safe in humans?",
-      "answer": "BPC-157 does not have a human safety database capable of establishing routine or long-term safety. A 2025 intravenous pilot involved only two adults, both previously exposed to BPC-157, and reported no adverse effects or measured changes in selected organ-function biomarkers. Such a design cannot reliably detect uncommon reactions, delayed harms, or risks in people with different medical conditions. FDA also identifies limited safety information and concerns about immunogenicity and peptide impurities. Absence of a detected problem in two selected participants should therefore be interpreted as a very small observation, not evidence that self-injection is safe.",
+      "section": "benefits",
+      "question": "What does the human knee-pain study show?",
       "grade": "Very low",
-      "outcome": "Human safety",
-      "route": "Intravenous pilot; cannot generalize across routes",
-      "evidenceType": "Two-person uncontrolled pilot",
-      "population": "Two adults with previous intravenous exposure",
-      "limitation": "Extremely small, selected sample and brief monitoring.",
+      "outcome": "Knee-pain symptom relief",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Uncontrolled retrospective case series",
+      "population": "16 contacted patients,12 receiving BPC-157 alone",
+      "limitation": "No placebo or objective repair endpoint.",
       "sources": [
         {
-          "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
-          "year": 2025,
-          "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
-          "kind": "Primary research",
-          "webRef": "turn35search1"
-        },
-        {
-          "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
-          "year": null,
-          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
-          "kind": "Regulatory assessment",
-          "webRef": "turn12view1",
-          "accessedAt": "2026-10-03"
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "year": 2021,
+          "kind": "Primary research · Human study",
+          "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
         }
       ],
       "sentences": [
         {
-          "text": "BPC-157 does not have a human safety database capable of establishing routine or long-term safety.",
+          "text": "Of seventeen patients identified, sixteen were contacted; eleven of twelve receiving BPC-157 alone reported improvement.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The uncontrolled, retrospective design and subjective outcomes cannot separate a drug effect from recovery, expectation or other care.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "answer": "Of seventeen patients identified, sixteen were contacted; eleven of twelve receiving BPC-157 alone reported improvement. The uncontrolled, retrospective design and subjective outcomes cannot separate a drug effect from recovery, expectation or other care."
+    },
+    {
+      "id": "bpc-157-muscle-recovery",
+      "peptideId": "bpc-157",
+      "section": "benefits",
+      "question": "What evidence supports muscle-injury recovery?",
+      "grade": "No direct human evidence",
+      "outcome": "Muscle recovery in people",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Controlled rat surgical and crush-injury experiments",
+      "population": "Rats with induced muscle injuries",
+      "limitation": "No direct human muscle-recovery trial in these studies.",
+      "sources": [
+        {
+          "title": "Stable Gastric Pentadecapeptide BPC 157 as Therapy After Surgical Detachment of the Quadriceps Muscle from Its Attachments for Muscle-to-Bone Reattachment in Rats",
+          "url": "https://www.mdpi.com/1999-4923/17/1/119",
+          "year": 2025,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.mdpi.com/1999-4923/17/1/119/pdf"
+        },
+        {
+          "title": "Stable Gastric Pentadecapeptide BPC 157 as a Therapy for the Disable Myotendinous Junctions in Rats",
+          "url": "https://www.mdpi.com/2227-9059/9/11/1547",
+          "year": 2021,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.mdpi.com/2227-9059/9/11/1547/pdf"
+        },
+        {
+          "title": "Impact of pentadecapeptide BPC 157 on muscle healing impaired by systemic corticosteroid application",
+          "url": "https://medscimonit.com/abstract/index/idArt/878454",
+          "year": 2010,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://medscimonit.com/download/freeIp/idArt/878454"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Rat experiments reported improved muscle-to-bone reattachment and recovery after muscle–tendon junction separation.",
           "sourceIndexes": [
             0,
             1
           ]
         },
         {
-          "text": "A 2025 intravenous pilot involved only two adults, both previously exposed to BPC-157, and reported no adverse effects or measured changes in selected organ-function biomarkers.",
+          "text": "A separate rat muscle-crush experiment reported improved healing during corticosteroid exposure.",
+          "sourceIndexes": [
+            2
+          ]
+        },
+        {
+          "text": "These induced injuries support further research but do not establish human recovery times, effective doses or safe drug combinations.",
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "answer": "Rat experiments reported improved muscle-to-bone reattachment and recovery after muscle–tendon junction separation. A separate rat muscle-crush experiment reported improved healing during corticosteroid exposure. These induced injuries support further research but do not establish human recovery times, effective doses or safe drug combinations."
+    },
+    {
+      "id": "bpc-157-gut-health",
+      "peptideId": "bpc-157",
+      "section": "benefits",
+      "question": "Does BPC-157 heal the gut or treat inflammatory bowel disease?",
+      "grade": "Very low",
+      "outcome": "Human digestive benefit",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Rat injury experiments; regulatory assessment of an abstract-only human trial",
+      "population": "Rat gastric-injury models; separate human ulcerative-colitis abstract",
+      "limitation": "Human evidence includes an incompletely reported meeting abstract, not among the20ingested full papers.",
+      "sources": [
+        {
+          "title": "Protective effects of pentadecapeptide BPC 157 on gastric ulcer in rats",
+          "url": "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+          "year": 2004,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://pdfs.semanticscholar.org/910d/9901c00bfb2b4dab2cb3bca44b6c1c0df122.pdf"
+        },
+        {
+          "title": "Robert’s Intragastric Alcohol-Induced Gastric Lesion Model as an Escalated General Peripheral and Central Syndrome, Counteracted by the Stable Gastric Pentadecapeptide BPC 157",
+          "url": "https://www.mdpi.com/2227-9059/9/10/1300",
+          "year": 2021,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.mdpi.com/2227-9059/9/10/1300/pdf"
+        },
+        {
+          "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+          "url": "https://www.fda.gov/media/193343/download",
+          "year": 2026,
+          "kind": "Regulatory assessment"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment.",
+          "sourceIndexes": [
+            2
+          ]
+        },
+        {
+          "text": "Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms.",
+          "sourceIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "answer": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models. FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment. Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms."
+    },
+    {
+      "id": "bpc-157-bladder-pain",
+      "peptideId": "bpc-157",
+      "section": "benefits",
+      "question": "Has BPC-157 been studied for bladder pain?",
+      "grade": "Very low",
+      "outcome": "Interstitial-cystitis symptoms",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Uncontrolled retrospective case series",
+      "population": "12 women with interstitial cystitis",
+      "limitation": "No comparator; inconsistent timing; route-specific procedure.",
+      "sources": [
+        {
+          "title": "Effect of BPC-157 on Symptoms in Patients with Interstitial Cystitis: A Pilot Study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+          "year": 2024,
+          "kind": "Primary research · Human study",
+          "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "An uncontrolled retrospective report described twelve women treated by cystoscopic bladder injection; ten reported complete symptom resolution and two partial improvement.",
           "sourceIndexes": [
             0
           ]
         },
         {
-          "text": "Such a design cannot reliably detect uncommon reactions, delayed harms, or risks in people with different medical conditions.",
+          "text": "The paper describes follow-up timing inconsistently, and the lack of a comparator prevents attributing improvement to BPC-157.",
           "sourceIndexes": [
             0
           ]
         },
         {
-          "text": "FDA also identifies limited safety information and concerns about immunogenicity and peptide impurities.",
+          "text": "This procedure-specific report does not establish that oral or subcutaneous products treat bladder pain.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "answer": "An uncontrolled retrospective report described twelve women treated by cystoscopic bladder injection; ten reported complete symptom resolution and two partial improvement. The paper describes follow-up timing inconsistently, and the lack of a comparator prevents attributing improvement to BPC-157. This procedure-specific report does not establish that oral or subcutaneous products treat bladder pain."
+    },
+    {
+      "id": "bpc-157-observational-evidence",
+      "peptideId": "bpc-157",
+      "section": "benefits",
+      "question": "Does the large clinical-note study prove BPC-157 works?",
+      "grade": "Very low",
+      "outcome": "Reported symptom changes",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Retrospective clinical-note study; preprint not peer reviewed",
+      "population": "1,039 documented users;354 with response direction",
+      "limitation": "Selection, missingness and confounding.",
+      "sources": [
+        {
+          "title": "Rising Use of Unapproved BPC-157 (“Wolverine Peptide”) and Associated Patient-Reported Outcomes Curated from Clinical Notes",
+          "url": "https://www.preprints.org/manuscript/202609.0501/v1",
+          "year": 2026,
+          "kind": "Primary research · Preprint, not peer reviewed",
+          "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "A September 2026 preprint identified 1,039 documented users; 279 of the 354 with a recorded response direction had reported improvement, while 685 lacked a recorded response direction.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "It was not peer reviewed at this check, and missing outcomes, co-treatments and no control group prevent interpreting these counts as an effectiveness rate.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "answer": "A September 2026 preprint identified 1,039 documented users; 279 of the 354 with a recorded response direction had reported improvement, while 685 lacked a recorded response direction. It was not peer reviewed at this check, and missing outcomes, co-treatments and no control group prevent interpreting these counts as an effectiveness rate."
+    },
+    {
+      "id": "bpc-157-safety",
+      "peptideId": "bpc-157",
+      "section": "safety",
+      "question": "Has BPC-157 been shown to be safe in humans?",
+      "grade": "Very low",
+      "outcome": "Human safety",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Two-person safety pilot; uncontrolled EHR preprint",
+      "population": "Two previously exposed adults; broader clinical-note cohort",
+      "limitation": "Brief monitoring and nonstandard adverse-event ascertainment.",
+      "sources": [
+        {
+          "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+          "year": 2025,
+          "kind": "Primary research · Human study",
+          "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+        },
+        {
+          "title": "Rising Use of Unapproved BPC-157 (“Wolverine Peptide”) and Associated Patient-Reported Outcomes Curated from Clinical Notes",
+          "url": "https://www.preprints.org/manuscript/202609.0501/v1",
+          "year": 2026,
+          "kind": "Primary research · Preprint, not peer reviewed",
+          "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The two-person intravenous pilot reported no adverse effects during three days of monitoring, but both participants had previous exposure.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This small, selected sample cannot establish routine or long-term safety.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The clinical-note preprint also describes neuropsychiatric, skin or injection-site, and gastrointestinal symptoms, without establishing causation or reliable event rates.",
+          "sourceIndexes": [
+            1
+          ]
+        }
+      ],
+      "answer": "The two-person intravenous pilot reported no adverse effects during three days of monitoring, but both participants had previous exposure. This small, selected sample cannot establish routine or long-term safety. The clinical-note preprint also describes neuropsychiatric, skin or injection-site, and gastrointestinal symptoms, without establishing causation or reliable event rates."
+    },
+    {
+      "id": "bpc-157-growth-hormone",
+      "peptideId": "bpc-157",
+      "section": "interactions",
+      "question": "Does BPC-157 increase growth hormone?",
+      "grade": "No direct human evidence",
+      "outcome": "Circulating growth hormone in humans",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Controlled in vitro receptor-expression experiment",
+      "population": "Cultured rat tendon fibroblasts",
+      "limitation": "Receptor expression is not systemic hormone concentration.",
+      "sources": [
+        {
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+          "url": "https://www.mdpi.com/1420-3049/19/11/19066",
+          "year": 2014,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.mdpi.com/1420-3049/19/11/19066/pdf"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "A cell-culture study found increased growth-hormone receptor expression in rat tendon fibroblasts.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "That is different from demonstrating increased circulating growth hormone, and it does not validate combining BPC-157 with growth-hormone secretagogues in people.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "answer": "A cell-culture study found increased growth-hormone receptor expression in rat tendon fibroblasts. That is different from demonstrating increased circulating growth hormone, and it does not validate combining BPC-157 with growth-hormone secretagogues in people."
+    },
+    {
+      "id": "bpc-157-tb500-combination",
+      "peptideId": "bpc-157",
+      "section": "interactions",
+      "question": "Does combining BPC-157 with TB-500 work better?",
+      "grade": "Very low",
+      "outcome": "Added benefit of a peptide combination",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Small nonrandom human subgroup and randomized exploratory rat study",
+      "population": "4 human combination recipients; rats with repaired Achilles tendons",
+      "limitation": "Formulation and route cannot be generalized.",
+      "sources": [
+        {
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "year": 2021,
+          "kind": "Primary research · Human study",
+          "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+        },
+        {
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+          "url": "https://jointdrs.org/full-text/1851",
+          "year": 2026,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://jointdrs.org/full-text-pdf/1851"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The knee case series included only four recipients of BPC-157 plus thymosin beta-4 and did not randomize treatment.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "A rat Achilles study found no additional benefit from its BPC-157/TB-500 combination over monotherapy, with small endpoint samples.",
           "sourceIndexes": [
             1
           ]
         },
         {
-          "text": "Absence of a detected problem in two selected participants should therefore be interpreted as a very small observation, not evidence that self-injection is safe.",
+          "text": "Neither study establishes the benefit or safety of commercial peptide blends in people.",
           "sourceIndexes": [
-            0
+            0,
+            1
           ]
         }
       ],
-      "section": "safety"
+      "answer": "The knee case series included only four recipients of BPC-157 plus thymosin beta-4 and did not randomize treatment. A rat Achilles study found no additional benefit from its BPC-157/TB-500 combination over monotherapy, with small endpoint samples. Neither study establishes the benefit or safety of commercial peptide blends in people."
     },
     {
       "id": "bpc-157-oral-versus-injected",
       "peptideId": "bpc-157",
+      "section": "forms-dosing",
       "question": "Does oral BPC-157 work as well as an injection?",
-      "answer": "A reliable human comparison between oral and injected BPC-157 was not identified in this review. The small published knee-pain report used an injection into the joint and did not include an oral group, so it cannot answer whether a swallowed product reaches the same tissue, produces a similar effect, or carries similar risks. Changing the administration route changes the clinical question. Even a finding that a peptide is stable under laboratory conditions would not establish human absorption or clinical effectiveness. Claims of equivalence between capsules and injections therefore remain unproven.",
       "grade": "No direct human evidence",
-      "outcome": "Oral versus injected clinical effectiveness",
-      "route": "Oral versus intra-articular or systemic injection",
-      "evidenceType": "No direct comparative human study identified",
-      "population": "No matched human comparison identified",
-      "limitation": "Available injection observations do not establish oral effectiveness.",
+      "outcome": "Oral versus injected effectiveness",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Animal route-specific experiments; no human head-to-head comparison in these sources",
+      "population": "Rats and dogs",
+      "limitation": "Animal responses are not human bioavailability.",
       "sources": [
         {
-          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
-          "year": 2021,
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
-          "kind": "Primary research",
-          "webRef": "turn11view0"
+          "title": "Stable Gastric Pentadecapeptide BPC 157 as Therapy After Surgical Detachment of the Quadriceps Muscle from Its Attachments for Muscle-to-Bone Reattachment in Rats",
+          "url": "https://www.mdpi.com/1999-4923/17/1/119",
+          "year": 2025,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.mdpi.com/1999-4923/17/1/119/pdf"
+        },
+        {
+          "title": "Protective effects of pentadecapeptide BPC 157 on gastric ulcer in rats",
+          "url": "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+          "year": 2004,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://pdfs.semanticscholar.org/910d/9901c00bfb2b4dab2cb3bca44b6c1c0df122.pdf"
+        },
+        {
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+          "year": 2022,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/pdf"
         }
       ],
       "sentences": [
         {
-          "text": "A reliable human comparison between oral and injected BPC-157 was not identified in this review.",
+          "text": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans.",
           "sourceIndexes": [
-            0
+            0,
+            1
           ]
         },
         {
-          "text": "The small published knee-pain report used an injection into the joint and did not include an oral group, so it cannot answer whether a swallowed product reaches the same tissue, produces a similar effect, or carries similar risks.",
+          "text": "The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption.",
           "sourceIndexes": [
-            0
+            2
           ]
         },
         {
-          "text": "Changing the administration route changes the clinical question.",
+          "text": "These sources do not establish that capsules and injections are interchangeable.",
           "sourceIndexes": [
-            0
-          ]
-        },
-        {
-          "text": "Even a finding that a peptide is stable under laboratory conditions would not establish human absorption or clinical effectiveness.",
-          "sourceIndexes": [
-            0
-          ]
-        },
-        {
-          "text": "Claims of equivalence between capsules and injections therefore remain unproven.",
-          "sourceIndexes": [
-            0
+            0,
+            2
           ]
         }
       ],
-      "section": "forms-dosing"
+      "answer": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans. The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption. These sources do not establish that capsules and injections are interchangeable."
+    },
+    {
+      "id": "bpc-157-half-life",
+      "peptideId": "bpc-157",
+      "section": "forms-dosing",
+      "question": "What is known about BPC-157’s half-life?",
+      "grade": "No direct human evidence",
+      "outcome": "Human pharmacokinetics",
+      "route": "Study-specific; no cross-route equivalence assumed",
+      "evidenceType": "Animal LC-MS/MS pharmacokinetics; human safety pilot without PK assays",
+      "population": "Rats and dogs;2human safety participants",
+      "limitation": "Intact peptide must be distinguished from total radiolabel.",
+      "sources": [
+        {
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+          "year": 2022,
+          "kind": "Primary research · Preclinical",
+          "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/pdf"
+        },
+        {
+          "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+          "year": 2025,
+          "kind": "Primary research · Human study",
+          "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The pharmacokinetic paper reported mean intact-peptide half-lives below thirty minutes in tested rat and dog regimens.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The two-person human intravenous paper measured clinical laboratory markers rather than BPC-157 concentrations.",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "text": "These studies therefore do not establish a human half-life or dosing frequency.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        }
+      ],
+      "answer": "The pharmacokinetic paper reported mean intact-peptide half-lives below thirty minutes in tested rat and dog regimens. The two-person human intravenous paper measured clinical laboratory markers rather than BPC-157 concentrations. These studies therefore do not establish a human half-life or dosing frequency."
     },
     {
       "id": "tb-500-evidence",

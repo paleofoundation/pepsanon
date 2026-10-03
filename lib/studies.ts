@@ -1,5 +1,6 @@
 import {questions,peptides,type Source} from './peptides';
 import {guideContent,guideQuestions} from './guide-sections';
+import bpcPilot from './data/bpc-pilot.json';
 const guideSources=Object.values(guideContent).flatMap(entries=>Object.values(entries).flatMap(entry=>entry.sentences.flatMap(sentence=>sentence.sources)));
 
 // The canonical source URL is the durable favorite key. The hash is only an HTML anchor.
@@ -8,11 +9,11 @@ export function sourceAnchor(url:string) {
   for (const character of url) hash=Math.imul(hash^character.charCodeAt(0),16777619);
   return `study-${(hash>>>0).toString(16)}`;
 }
-export const studies=Array.from(new Map([...questions.flatMap(q=>q.sources),...guideSources].map(s=>[s.url,s])).values()).map(source=>({
+export const studies=Array.from(new Map([...questions.flatMap(q=>q.sources),...guideSources,...bpcPilot.studies.map(s=>s.source as Source)].map(s=>[s.url,s])).values()).map(source=>({
   ...source,
   id:source.url,
   href:`/sources#${sourceAnchor(source.url)}`,
-  peptideIds:peptides.filter(p=>questions.some(q=>q.peptideId===p.id&&q.sources.some(s=>s.url===source.url))||Object.values(guideContent[p.id]||{}).some(entry=>entry.sentences.some(sentence=>sentence.sources.some(s=>s.url===source.url)))).map(p=>p.id),
+  peptideIds:peptides.filter(p=>(p.id==='bpc-157'&&bpcPilot.studies.some(s=>s.source.url===source.url))||questions.some(q=>q.peptideId===p.id&&q.sources.some(s=>s.url===source.url))||Object.values(guideContent[p.id]||{}).some(entry=>entry.sentences.some(sentence=>sentence.sources.some(s=>s.url===source.url)))).map(p=>p.id),
 }));
 export function studyHref(source:Source) {return `/sources#${sourceAnchor(source.url)}`;}
 export type SearchItem={kind:'peptide'|'study'|'question';id:string;title:string;description:string;href:string;meta:string};

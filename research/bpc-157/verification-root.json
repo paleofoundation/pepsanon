@@ -1,0 +1,171 @@
+{
+  "checked_at": "2026-10-03",
+  "records": [
+    {
+      "id": "lee-2021-knee",
+      "primary": true,
+      "design": "Uncontrolled retrospective single-clinic chart review with telephone follow-up",
+      "population": "17 treated patients identified;16 contacted;12 BPC157-only;4 BPC157 plus thymosin beta4",
+      "verified_findings": [
+        {
+          "claim": "11 of12 BPC157-only recipients reported knee pain improvement;14 of16 overall includes combination group",
+          "locator": "PDF3/journal10, Results and Tables1\u20132"
+        },
+        {
+          "claim": "All measurements subjective;no objective testing verified improvement",
+          "locator": "PDF3/journal10, Retrospective chart review"
+        }
+      ],
+      "limits": [
+        "Cannot infer tissue healing from symptom reports",
+        "No placebo/control",
+        "Mixed diagnoses;only4 baselineMRIs",
+        "Do not identify TB4 mixture automatically as commercial TB500"
+      ],
+      "discrepancies": [
+        {
+          "issue": "Table4 duration categories total12 while11 described as improved;24-hour response apparently treated differently",
+          "action": "Avoid durable-response percentage derived fromTable4"
+        },
+        {
+          "issue": "SuppliedPDF has7pages although journalarticle pages8\u201313 comprises6;check trailing page metadata",
+          "action": "Keep verified articlepage locators"
+        }
+      ],
+      "pdf_sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+      "verified_from_actual_pdf_text": true
+    },
+    {
+      "id": "lee-2024-cystitis",
+      "primary": true,
+      "design": "Uncontrolled retrospective chart review",
+      "population": "12women with interstitialcystitis",
+      "verified_findings": [
+        {
+          "claim": "10 reported complete symptom resolution;2 reported80% improvement",
+          "locator": "PDF3/journal14 Results;PDF1/journal12 abstract"
+        },
+        {
+          "claim": "All had baseline and6week cystoscopy;most GRA interviews4\u20136monthsafter treatment",
+          "locator": "PDF2/journal13 Methods continuingPDF3/journal14"
+        }
+      ],
+      "limits": [
+        "Bladderwall injections,not oral/subcutaneous evidence",
+        "No randomized comparison",
+        "GRA percent reported subjective;not objective efficacy estimate"
+      ],
+      "discrepancies": [
+        {
+          "issue": "Results frames participants as6weekfollowup while methods places GRAcontact mostly4\u20136months",
+          "action": "Do not assign all symptomratings to6weeks;note reporting inconsistency"
+        },
+        {
+          "issue": "Patient paragraph says triedPPS several>5years yet nextsentence noneusedPPS morethan6monthsbeforeinjections;likely ambiguous cessation wording",
+          "action": "Do not derive precisePPSwashout"
+        }
+      ],
+      "pdf_sha256": "d66c35269071c1b64b9182e2d444af574a09680006429d0c9aa7ad682a74dfe4",
+      "verified_from_actual_pdf_text": true
+    },
+    {
+      "id": "lee-2025-iv",
+      "primary": true,
+      "design": "Uncontrolled prospective safety pilot",
+      "population": "2adults age58and68,bothpriorIVBPC157users",
+      "verified_findings": [
+        {
+          "claim": "10mgIVday1,20mgIVday2;lab/vitalsbaselineandday2/day3;no sideeffectsreported",
+          "locator": "PDF1/journal20 Abstract;PDF2/journal21 Procedure;PDF3/journal22 Tables1\u20132"
+        }
+      ],
+      "limits": [
+        "NoBPC157plasmaconcentrationmeasurement:nohumanPK",
+        "3day assessment cannot establish longtermsafety",
+        "Priorusers+volunteers couldselecttolerantparticipants",
+        "No broad humansafetyconclusionfromn2"
+      ],
+      "discrepancies": [
+        {
+          "issue": "Background incorrectly describes cystitispartialresponseas2/10 vs source2/12",
+          "action": "Use originalcystitisdenominator"
+        },
+        {
+          "issue": "Abstract saysno measurable biomarkereffects yetTables1\u20132showvaryingvalues and discussion notes femalecreatininebaseline1.04to1.08to0.95",
+          "action": "Say authorsreportednoadverseeffects,not no changes whatsoever"
+        },
+        {
+          "issue": "Authors conclusion demonstrates humansafety exceedsstudy scope",
+          "action": "Do not adopt authorsoverclaim"
+        }
+      ],
+      "pdf_sha256": "8f271cdc705ce95067a1ce97a7c3e2fe7d22d3b26ec21b8f19fac861b19cae09",
+      "verified_from_actual_pdf_text": true
+    },
+    {
+      "id": "he-2022-pk",
+      "primary": true,
+      "design": "Preclinical pharmacokinetics/distribution/metabolism/excretion experiment",
+      "population": "SpragueDawleyratsandbeagledogsplusinvitro",
+      "verified_findings": [
+        {
+          "claim": "Mean intactparentpeptide eliminationhalflivesunder30minutes in tested IV/IManimalgroups",
+          "locator": "PDF2/Table1;PDF3/Table2;PDF5/Tables4\u20135;PDF6/Table6"
+        },
+        {
+          "claim": "DogIVmeanhalf-life5.27minutes;dogIMmeans20.0,25.5,29.3minutes",
+          "locator": "PDF4 Results2.2;PDF5Tables4\u20135"
+        }
+      ],
+      "limits": [
+        "Not humanhalf-life",
+        "Notallindividualhalflivesguaranteed<30min",
+        "Totalradioactivity/metabolite kinetics distinct from intactparent",
+        "No oralhumanbioavailability inference"
+      ],
+      "discrepancies": [],
+      "pdf_sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "verified_from_actual_pdf_text": true
+    },
+    {
+      "id": "venkatakrishnan-2026-ehr",
+      "primary": true,
+      "publication_status": "Preprint v1;notpeerreviewed;publisherlatestasof2026-10-03",
+      "design": "RetrospectiveLLM-curatedEHRobservationalanalysiswithphysicianvalidation",
+      "population": "1039documentedusers",
+      "verified_findings": [
+        {
+          "claim": "354had directionalsymptomresponse;279improved;685withoutresponsedirection",
+          "locator": "PDF9/article8 Table2;PDF11/article10 Results3.3;PDF2/article1 abstract"
+        },
+        {
+          "claim": "263of279improvements patientreported;16clinicianonly",
+          "locator": "PDF12/article11 Results3.3"
+        }
+      ],
+      "limits": [
+        "279/354isdocumentation-subset proportion,not response probability among1039users",
+        "Noactivecomparator;confoundingandstacking",
+        "Reportedadversesymptoms notcausalincidence",
+        "Missingresponse65.9%",
+        "Notpeerreviewed"
+      ],
+      "discrepancies": [
+        {
+          "issue": "AbstractresponseLLMaccuracy78.4% vsMethods88.2% andResults88%;Table3listsdifferenttasks",
+          "action": "Do not useunqualifiedextractionaccuracy"
+        }
+      ],
+      "pdf_sha256": "d713360d1df7f9b0724099ee405bd0ec9df2cfd3026cdba52ac866015fad130f",
+      "verified_from_actual_pdf_text": true
+    }
+  ],
+  "integrity_check": {
+    "scope": "Publisher pages plus targetedprimarypublisher search;not exhaustiveCrossrefintegrity audit",
+    "he-2022-pk": "Frontiersfullpage10.3389/fphar.2022.1026182 opened;no correction/retraction textfound",
+    "venkatakrishnan-2026-ehr": "Preprints.org202609.0501currentlatestv1;notpeerreviewed;no retractionnoticefound",
+    "lee2021_2024_2025": "PublisherPDFs inspected;no noticeinPDF.Targetedpublishersearchfoundnoactionablenotice;absence not certified",
+    "warning": "Separate2021Frontiersprimaryabdominalcompartmentsyndrome articleDOI10.3389/fphar.2021.718147 haspublishercorrigendum;checkif included amongremaining15"
+  },
+  "fda_counted_as_primary_research_pdf": false
+}

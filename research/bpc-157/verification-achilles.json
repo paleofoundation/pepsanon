@@ -1,0 +1,28 @@
+{
+  "doi": "10.52312/jdrs.2026.2951",
+  "primary": true,
+  "design": "Randomized vehiclecontrolled rat Achilles transection/repair",
+  "n": {
+    "total": 32,
+    "per_arm": 8,
+    "per_endpoint_per_arm": 4
+  },
+  "locators": {
+    "methods": "PDF2/journal823 andPDF3Figure1",
+    "biomechanics": "PDF5/journal826 Figure2 and Results",
+    "Bonar": "PDF6/journal827 Results"
+  },
+  "findings": {
+    "max_load_BPC_vs_control_adjusted_p": 0.389,
+    "max_load_TB_vs_control_adjusted_p": 0.0406,
+    "total_Bonar_BPC_vs_control_p": 0.273,
+    "combination": "No additional biomechanical benefit"
+  },
+  "limits": [
+    "Small exploratoryanimalstudy",
+    "Outcome-specificnonsignificanceisnotproofzeroeffect",
+    "Somequalitativeandindividualhistologysubscorefindingsfavorable",
+    "Do not confuse8allocatedperarmwith4perendpoint"
+  ],
+  "approved_summary": "In a2026ratAchillesrepair experiment,BPC157 didnot significantly improve maximumloadtofailure or totalBonarscore comparedwithcontrol;eachendpointincludedonlyfourtendonspergroup."
+}

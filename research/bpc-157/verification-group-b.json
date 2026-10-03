@@ -1,0 +1,174 @@
+{
+  "records": [
+    {
+      "id": "bpc157-ulcer",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "BPC-157 reduced gastric-ulcer area in chemically or surgically induced rat models; responses varied by route and dose.",
+          "claimed_pdf_page": 2,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "Repeated administration in the acetate model was associated with epithelial rebuilding and granulation tissue changes.",
+          "claimed_pdf_page": 2,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-retina",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "Investigators reported preservation of retinal layers and thickness following retrobulbar BPC-157 in L-NAME-treated rats.",
+          "claimed_pdf_page": 6,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "The injury model did not require sustained elevation of intraocular pressure.",
+          "claimed_pdf_page": 4,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-pulmonary",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "In this rat model, the authors reported improvements with both early and delayed treatment regimens.",
+          "claimed_pdf_page": 5,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "Reported benefits were observed with intraperitoneal and drinking-water administration in this model.",
+          "claimed_pdf_page": 5,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-mesenteric",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "The investigators observed recruitment of collateral pathways after BPC-157 in rats with experimentally occluded mesenteric vessels.",
+          "claimed_pdf_page": 8,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "Blood-pressure disturbances were reduced in treated rats.",
+          "claimed_pdf_page": 8,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-alcohol",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "BPC-157-treated rats had less gastric damage in an acute concentrated-alcohol injury experiment.",
+          "claimed_pdf_page": 8,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "The investigators reported fewer hepatic pathological changes during the short observation period.",
+          "claimed_pdf_page": 8,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-budd",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "In rats with vena-cava obstruction, BPC-157 treatment was associated with reduced clot burden.",
+          "claimed_pdf_page": 6,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "Treated rats had less ascites and lower liver-enzyme concentrations than controls in this model.",
+          "claimed_pdf_page": 6,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-compartment",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "BPC-157 reduced experimentally induced blood-pressure disturbances in rats with high intra-abdominal pressure.",
+          "claimed_pdf_page": 7,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "The authors reported less organ injury and no lethal outcomes among treated rats during the acute experiments.",
+          "claimed_pdf_page": 6,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": ""
+    },
+    {
+      "id": "bpc157-ftir",
+      "primary": true,
+      "findings": [
+        {
+          "claim": "Aortic tissue spectra differed between treated and control rats, including protein-associated spectral bands.",
+          "claimed_pdf_page": 7,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        },
+        {
+          "claim": "The authors interpreted a lipid-associated spectral difference as potentially related to cell injury.",
+          "claimed_pdf_page": 7,
+          "passage_present_at_page": true,
+          "support_context_checked": true
+        }
+      ],
+      "sample_checked": true,
+      "status": "pass targeted findings",
+      "note": "FTIR lipidband dyingcellinterpretation referscontrolgroup,notBPCtoxicity"
+    }
+  ],
+  "scope": "Independent PDF text passages and methods/sample verification;notwholepaperformalROB",
+  "correction_checked": "10.3389/fphar.2021.844785 actualPDF confirms affiliations only,notfindingchanges,notadditionalstudy"
+}

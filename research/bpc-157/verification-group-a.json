@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "id": "a1",
+      "doi": "10.3390/molecules191119066",
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "BPC 157 increased growth-hormone receptor expression in cultured rat tendon fibroblasts.",
+          "pdfPage": 3,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "Adding growth hormone after BPC 157 pretreatment increased cell viability and PCNA expression.",
+          "pdfPage": 3,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    },
+    {
+      "id": "a2",
+      "doi": "10.3390/pharmaceutics17010119",
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "Oral BPC 157 was associated with muscle-to-bone reattachment in the experimental rat detachment model.",
+          "pdfPage": 8,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "The authors reported improved walking/hip flexor and knee extensor function.",
+          "pdfPage": 8,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    },
+    {
+      "id": "a3",
+      "doi": "10.3390/biomedicines9111547",
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "BPC 157-treated rats had functional and muscle-size recovery after experimental myotendinous-junction separation.",
+          "pdfPage": 7,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "Authors reported failure-load recovery toward the uninjured leg.",
+          "pdfPage": 11,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    },
+    {
+      "id": "a4",
+      "doi": null,
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "After muscle crush, BPC 157 groups showed earlier regeneration and functional recovery.",
+          "pdfPage": 3,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "The study reported improvement despite systemic methylprednisolone exposure.",
+          "pdfPage": 1,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    },
+    {
+      "id": "a5",
+      "doi": null,
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "No significant effect on branching of newly formed tubular structures was detected in the cell-culture assay.",
+          "pdfPage": 2,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "Animal tissue assays showed an altered time course of angiogenic-marker expression.",
+          "pdfPage": 3,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    },
+    {
+      "id": "a6",
+      "doi": "10.52312/jdrs.2026.2951",
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "BPC-157 did not significantly improve maximum load to failure versus control at the study endpoint (adjusted p=0.389).",
+          "pdfPage": 5,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "Combined BPC-157 plus TB-500 did not show superior biomechanical or histopathological outcomes over monotherapy.",
+          "pdfPage": 14,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    },
+    {
+      "id": "a7",
+      "doi": "10.1186/s12964-026-02694-6",
+      "primary": true,
+      "sample_methods_checked": true,
+      "findings": [
+        {
+          "claim": "Cultured endothelial cells formed more extensive tubes with BPC157 exposure.",
+          "pdfPage": 3,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        },
+        {
+          "claim": "Cell-binding experiments identified FBXO22 as a BPC157 interaction partner.",
+          "pdfPage": 4,
+          "passage_present": true,
+          "surrounding_context_support_checked": true
+        }
+      ],
+      "status": "pass targeted findings;retain stated caveats"
+    }
+  ],
+  "scope": "Independent PDFtext sourcepassages and methods,notwholepaperformalROB",
+  "warnings": [
+    "2026Achilles outcome-specificn4,notn8;avoid globalnoeffect",
+    "2026BACH1 animaln/dose/route contradictions:retaincellfindingsonly",
+    "2009angiogenesis technicalunitdiscrepancy;avoid concentrationclaim",
+    "Several ratstudies sameinvestigatornetwork;20publicationsnot20independentreplications"
+  ]
+}

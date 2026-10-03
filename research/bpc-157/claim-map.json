@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-03",
+  "review": "AI-assisted; human investigator review pending",
+  "claims": [
+    {
+      "id": "bpc-157-injury-healing:1",
+      "text": "The knee-pain case series measured subjective symptoms, without objective confirmation of tendon or ligament repair.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-injury-healing:2",
+      "text": "In a 2026 rat Achilles-repair experiment, BPC-157 alone did not significantly improve maximum load to failure versus control.",
+      "sourceUrls": [
+        "https://jointdrs.org/full-text/1851"
+      ]
+    },
+    {
+      "id": "bpc-157-injury-healing:3",
+      "text": "That experiment used four tendons per group for each endpoint, so its nonsignificant result does not establish that no effect exists.",
+      "sourceUrls": [
+        "https://jointdrs.org/full-text/1851"
+      ]
+    },
+    {
+      "id": "bpc-157-knee-pain:1",
+      "text": "Of seventeen patients identified, sixteen were contacted; eleven of twelve receiving BPC-157 alone reported improvement.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-knee-pain:2",
+      "text": "The uncontrolled, retrospective design and subjective outcomes cannot separate a drug effect from recovery, expectation or other care.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-muscle-recovery:1",
+      "text": "Rat experiments reported improved muscle-to-bone reattachment and recovery after muscle–tendon junction separation.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.mdpi.com/2227-9059/9/11/1547"
+      ]
+    },
+    {
+      "id": "bpc-157-muscle-recovery:2",
+      "text": "A separate rat muscle-crush experiment reported improved healing during corticosteroid exposure.",
+      "sourceUrls": [
+        "https://medscimonit.com/abstract/index/idArt/878454"
+      ]
+    },
+    {
+      "id": "bpc-157-muscle-recovery:3",
+      "text": "These induced injuries support further research but do not establish human recovery times, effective doses or safe drug combinations.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.mdpi.com/2227-9059/9/11/1547",
+        "https://medscimonit.com/abstract/index/idArt/878454"
+      ]
+    },
+    {
+      "id": "bpc-157-gut-health:1",
+      "text": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models.",
+      "sourceUrls": [
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "https://www.mdpi.com/2227-9059/9/10/1300"
+      ]
+    },
+    {
+      "id": "bpc-157-gut-health:2",
+      "text": "FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-gut-health:3",
+      "text": "Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms.",
+      "sourceUrls": [
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-bladder-pain:1",
+      "text": "An uncontrolled retrospective report described twelve women treated by cystoscopic bladder injection; ten reported complete symptom resolution and two partial improvement.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39325560/"
+      ]
+    },
+    {
+      "id": "bpc-157-bladder-pain:2",
+      "text": "The paper describes follow-up timing inconsistently, and the lack of a comparator prevents attributing improvement to BPC-157.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39325560/"
+      ]
+    },
+    {
+      "id": "bpc-157-bladder-pain:3",
+      "text": "This procedure-specific report does not establish that oral or subcutaneous products treat bladder pain.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39325560/"
+      ]
+    },
+    {
+      "id": "bpc-157-observational-evidence:1",
+      "text": "A September 2026 preprint identified 1,039 documented users; 279 of the 354 with a recorded response direction had reported improvement, while 685 lacked a recorded response direction.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
+      "id": "bpc-157-observational-evidence:2",
+      "text": "It was not peer reviewed at this check, and missing outcomes, co-treatments and no control group prevent interpreting these counts as an effectiveness rate.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
+      "id": "bpc-157-safety:1",
+      "text": "The two-person intravenous pilot reported no adverse effects during three days of monitoring, but both participants had previous exposure.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+      ]
+    },
+    {
+      "id": "bpc-157-safety:2",
+      "text": "This small, selected sample cannot establish routine or long-term safety.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+      ]
+    },
+    {
+      "id": "bpc-157-safety:3",
+      "text": "The clinical-note preprint also describes neuropsychiatric, skin or injection-site, and gastrointestinal symptoms, without establishing causation or reliable event rates.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
+      "id": "bpc-157-growth-hormone:1",
+      "text": "A cell-culture study found increased growth-hormone receptor expression in rat tendon fibroblasts.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1420-3049/19/11/19066"
+      ]
+    },
+    {
+      "id": "bpc-157-growth-hormone:2",
+      "text": "That is different from demonstrating increased circulating growth hormone, and it does not validate combining BPC-157 with growth-hormone secretagogues in people.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1420-3049/19/11/19066"
+      ]
+    },
+    {
+      "id": "bpc-157-tb500-combination:1",
+      "text": "The knee case series included only four recipients of BPC-157 plus thymosin beta-4 and did not randomize treatment.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-tb500-combination:2",
+      "text": "A rat Achilles study found no additional benefit from its BPC-157/TB-500 combination over monotherapy, with small endpoint samples.",
+      "sourceUrls": [
+        "https://jointdrs.org/full-text/1851"
+      ]
+    },
+    {
+      "id": "bpc-157-tb500-combination:3",
+      "text": "Neither study establishes the benefit or safety of commercial peptide blends in people.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+        "https://jointdrs.org/full-text/1851"
+      ]
+    },
+    {
+      "id": "bpc-157-oral-versus-injected:1",
+      "text": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm"
+      ]
+    },
+    {
+      "id": "bpc-157-oral-versus-injected:2",
+      "text": "The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption.",
+      "sourceUrls": [
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    },
+    {
+      "id": "bpc-157-oral-versus-injected:3",
+      "text": "These sources do not establish that capsules and injections are interchangeable.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    },
+    {
+      "id": "bpc-157-half-life:1",
+      "text": "The pharmacokinetic paper reported mean intact-peptide half-lives below thirty minutes in tested rat and dog regimens.",
+      "sourceUrls": [
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    },
+    {
+      "id": "bpc-157-half-life:2",
+      "text": "The two-person human intravenous paper measured clinical laboratory markers rather than BPC-157 concentrations.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+      ]
+    },
+    {
+      "id": "bpc-157-half-life:3",
+      "text": "These studies therefore do not establish a human half-life or dosing frequency.",
+      "sourceUrls": [
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+      ]
+    },
+    {
+      "id": "bpc-157-safety-guide:1",
+      "text": "FDA identifies immunogenicity concerns and limited route-specific safety information.",
+      "sourceUrls": [
+        "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+      ]
+    },
+    {
+      "id": "bpc-157-contraindications-guide:1",
+      "text": "FDA's 2026 assessment identified no carcinogenicity studies and incomplete reproductive testing for the evaluated BPC-157 substances and routes.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-contraindications-guide:2",
+      "text": "Those gaps leave pregnancy and cancer-related safety unresolved; they do not establish either a proven-safe population or a demonstrated human cancer effect.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-interactions-guide:1",
+      "text": "The human reports were not designed to establish drug-interaction safety.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-interactions-guide:2",
+      "text": "Rat experiments involving corticosteroids do not establish compatibility in people.",
+      "sourceUrls": [
+        "https://medscimonit.com/abstract/index/idArt/878454"
+      ]
+    },
+    {
+      "id": "bpc-157-forms-dosing-guide:1",
+      "text": "FDA's 2026 review found no human pharmacokinetic data for oral, subcutaneous, nasal or transdermal BPC-157.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-results-stopping-guide:1",
+      "text": "The knee-pain report used variable retrospective follow-up, so it cannot establish a reliable healing timeline or cycling schedule.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-results-stopping-guide:2",
+      "text": "The clinical-note preprint recorded discontinuation for several reasons but did not test a tapering or withdrawal protocol.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
+      "id": "bpc-157-product-quality-guide:1",
+      "text": "FDA’s assessment identified inconsistent substance naming and incomplete impurity characterization.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-product-quality-guide:2",
+      "text": "For injectable products, it also identifies sterility, bacterial endotoxins and particulates as relevant quality attributes; a purity percentage alone does not cover those attributes.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-status-guide:1",
+      "text": "FDA's 2026 briefing states that neither BPC-157 free base nor BPC-157 acetate is a component of an FDA-approved drug.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-status-guide:2",
+      "text": "The current risk page lists BPC-157 under nominations withdrawn by their nominators.",
+      "sourceUrls": [
+        "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+      ]
+    },
+    {
+      "id": "bpc-157-overview-guide:1",
+      "text": "BPC-157 is a synthetic peptide of fifteen amino acids, studied experimentally for tissue repair and injury responses; its evaluated forms include the free base and acetate salt.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download",
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    }
+  ]
+}
