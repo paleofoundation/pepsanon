@@ -18,3 +18,15 @@ export function forPeptide(id:string) {return questions.filter(q=>q.peptideId===
 export function gradeClass(grade:string) {const g=grade.toLowerCase();return g.startsWith('high')?'grade-high':g.startsWith('moderate')?'grade-moderate':g.startsWith('very')?'grade-very-low':g.startsWith('low')?'grade-low':'grade-none'}
 export function gradeLevel(grade:string) {return gradeClass(grade)==='grade-high'?4:gradeClass(grade)==='grade-moderate'?3:gradeClass(grade)==='grade-low'?2:gradeClass(grade)==='grade-very-low'?1:0}
 export function gradeShort(grade:string) {return gradeClass(grade)==='grade-none'?'No direct human evidence identified':grade}
+
+// Editorial adjacency follows shared research topics; it does not imply equivalence.
+export const relatedPeptideIds: Record<string, string[]> = {
+ 'bpc-157': ['tb-500', 'collagen'],
+ 'tb-500': ['bpc-157', 'collagen'],
+ 'ghk-cu': ['collagen'],
+ 'cjc-1295': ['ipamorelin'],
+ 'ipamorelin': ['cjc-1295'],
+ 'semaglutide': ['tirzepatide'],
+ 'tirzepatide': ['semaglutide'],
+ 'collagen': ['ghk-cu', 'bpc-157'],
+};
