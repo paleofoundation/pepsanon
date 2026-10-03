@@ -1,0 +1,13 @@
+# Peptide guide presentation rules
+
+Core content is visible prose under the universal section headings. Do not render the main guide as a list of collapsed answers. Preserve one introductory paragraph in Overview; place clinical findings and interpretation in the relevant later sections.
+
+Use one cohesive paragraph per focused answer, with a descriptive subheading when a section covers several outcomes. Explain the finding, study design and practical interpretive limit in connected prose. Do not inflate certainty to create an authoritative tone. Keep outcome-specific evidence grades subordinate to the explanation.
+
+Reserve FAQ accordions for curated supplementary questions, and research accordions for individual study records. Main conclusions must remain understandable without opening any accordion. Target approximately 75–85% visible narrative by explanatory word count, excluding references and study records; this is our editorial target, not a measured claim about Examine.com. Do not pad content to meet a quota.
+
+Every factual sentence carries its source markers after punctuation. Preserve reference anchors, individual-question anchors, search records, universal left navigation, and related-topic right navigation.
+
+The October 3, 2026 BPC-157 revision contains 1,143 visible narrative words and 262 FAQ-answer words (81% visible), across 15 visible paragraphs and four supplementary FAQ answers. The 20 study records remain separate expandable research material. Other guides inherit visible prose as their default; substantive expansion of those guides still requires their own evidence review.
+
+The revised wording is AI-assisted and awaits human investigator review. Earlier pilot verification records describe the prior text, not an independent review of this revision.

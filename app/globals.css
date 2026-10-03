@@ -86,3 +86,16 @@ html{scroll-behavior:smooth;scroll-padding-top:110px}body{font-family:Inter,Aria
 .author-dialog{max-height:90vh;overflow-y:auto}.bio-references{font-size:14px;line-height:1.6}.bio-references h3{font-size:17px;margin-bottom:8px}.bio-references ol{list-style:decimal;padding-left:20px}.author-dialog sup{font-size:.72em;vertical-align:super;line-height:0}.author-dialog sup a{color:#007b83;padding:0 1px}
 .citation-tail{white-space:nowrap}
 .header__logo .brand-domain{font-size:.72em;letter-spacing:0}.brand-domain-label{font-size:14px;margin-top:-8px!important}
+
+/* Editorial reading hierarchy: visible explanations first; secondary FAQs last. */
+.guide-prose{font-size:18px;line-height:1.85}
+.guide-prose .guide-introduction,.guide-prose .answer-paragraph{margin:0 0 1.5rem;font-size:inherit;line-height:inherit}
+.guide-prose .section-answer{margin:2rem 0 2.4rem}
+.guide-prose .section-answer h3{font-family:Lora,Georgia,serif;font-size:1.5rem;line-height:1.4;color:#24454a;font-weight:500;margin:0 0 .9rem}
+.prose-evidence-grade{display:flex;align-items:center;gap:10px;flex-wrap:wrap;color:#607478;font-family:Inter,Arial,sans-serif;font-size:14px;line-height:1.6;margin-top:-.5rem}
+.prose-evidence-grade .grade{font-size:13px}
+.guide-introduction{scroll-margin-top:115px}
+#overview>.answer-paragraph{font-size:18px;line-height:1.85}
+#answers>.rgbc-faq-block{border-top:1px solid #dce6e5}
+#answers .rgbc-faq-item{border-bottom:1px solid #dce6e5;padding:1.2rem 0}
+@media(max-width:575px){.guide-prose,#overview>.answer-paragraph{font-size:17px;line-height:1.8}.guide-prose .section-answer h3{font-size:22px}.guide-prose .section-answer{margin:1.5rem 0 2rem}}

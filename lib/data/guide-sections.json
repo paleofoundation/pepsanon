@@ -520,6 +520,28 @@
               "kind": "Regulatory assessment"
             }
           ]
+        },
+        {
+          "text": "These are missing safety assessments, rather than evidence that every potential risk has been excluded.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "The available assessment therefore cannot define an evidence-based list of circumstances in which BPC-157 can be assumed safe, particularly where reproductive or cancer-related risks are the concern.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
         }
       ]
     },
@@ -556,6 +578,44 @@
               "pdfUrl": "https://medscimonit.com/download/freeIp/idArt/878454"
             }
           ]
+        },
+        {
+          "text": "Observations involving more than one treatment do not establish that a combination is safe or that the treatments act independently.",
+          "sources": [
+            {
+              "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+              "year": 2025,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+            },
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The reviewed human evidence consequently does not support a validated interaction list or a general assurance that adding BPC-157 to an existing regimen is safe.",
+          "sources": [
+            {
+              "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+              "year": 2025,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+            },
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+            }
+          ]
         }
       ]
     },
@@ -564,6 +624,28 @@
       "sentences": [
         {
           "text": "FDA's 2026 review found no human pharmacokinetic data for oral, subcutaneous, nasal or transdermal BPC-157.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "This limits the ability to translate a dose used in one setting into an equivalent dose for another route.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "A clinical dosing recommendation would require evidence connecting a defined formulation and exposure to a meaningful benefit and an acceptable safety profile, which this assessment does not establish for those routes.",
           "sources": [
             {
               "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
@@ -601,6 +683,30 @@
               "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub"
             }
           ]
+        },
+        {
+          "text": "Retrospective reports of improvement cannot determine the expected time to benefit for a new patient or show whether symptom changes correspond to healed tissue.",
+          "sources": [
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Likewise, records of discontinuation do not establish whether tapering is necessary or whether a particular cycle reduces adverse effects.",
+          "sources": [
+            {
+              "title": "Rising Use of Unapproved BPC-157 (“Wolverine Peptide”) and Associated Patient-Reported Outcomes Curated from Clinical Notes",
+              "url": "https://www.preprints.org/manuscript/202609.0501/v1",
+              "year": 2026,
+              "kind": "Primary research · Preprint, not peer reviewed",
+              "pdfUrl": "https://www.preprints.org/frontend/manuscript/b37b25b53488d669b4ff289e54ab3dda/download_pub"
+            }
+          ]
         }
       ]
     },
@@ -628,6 +734,28 @@
               "kind": "Regulatory assessment"
             }
           ]
+        },
+        {
+          "text": "Identity, impurity characterization and the quality requirements of the intended route are separate questions; a reported percentage of chemical purity addresses only part of that assessment.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
+        },
+        {
+          "text": "Even an analytically characterized substance does not establish that the finished formulation is clinically effective or safe for a particular use.",
+          "sources": [
+            {
+              "title": "FDA Briefing Document: BPC-157-related bulk drug substances, July 2026 Pharmacy Compounding Advisory Committee",
+              "url": "https://www.fda.gov/media/193343/download",
+              "year": 2026,
+              "kind": "Regulatory assessment"
+            }
+          ]
         }
       ]
     },
@@ -646,7 +774,7 @@
           ]
         },
         {
-          "text": "The current risk page lists BPC-157 under nominations withdrawn by their nominators.",
+          "text": "At the October 3, 2026 source check, FDA’s risk page listed BPC-157 under nominations withdrawn by their nominators.",
           "sources": [
             {
               "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
@@ -676,6 +804,46 @@
               "year": 2022,
               "kind": "Primary research · Preclinical",
               "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/pdf"
+            }
+          ]
+        },
+        {
+          "text": "Research on BPC-157 spans experimental muscle and tendon injuries, gastrointestinal injury models, and small human reports involving knee pain, bladder symptoms and intravenous administration.",
+          "sources": [
+            {
+              "title": "Stable Gastric Pentadecapeptide BPC 157 as Therapy After Surgical Detachment of the Quadriceps Muscle from Its Attachments for Muscle-to-Bone Reattachment in Rats",
+              "url": "https://www.mdpi.com/1999-4923/17/1/119",
+              "year": 2025,
+              "kind": "Primary research · Preclinical",
+              "pdfUrl": "https://www.mdpi.com/1999-4923/17/1/119/pdf"
+            },
+            {
+              "title": "Protective effects of pentadecapeptide BPC 157 on gastric ulcer in rats",
+              "url": "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+              "year": 2004,
+              "kind": "Primary research · Preclinical",
+              "pdfUrl": "https://pdfs.semanticscholar.org/910d/9901c00bfb2b4dab2cb3bca44b6c1c0df122.pdf"
+            },
+            {
+              "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+              "year": 2021,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+            },
+            {
+              "title": "Effect of BPC-157 on Symptoms in Patients with Interstitial Cystitis: A Pilot Study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+              "year": 2024,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf"
+            },
+            {
+              "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+              "year": 2025,
+              "kind": "Primary research · Human study",
+              "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
             }
           ]
         }

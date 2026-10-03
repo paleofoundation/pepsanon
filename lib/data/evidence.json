@@ -47,9 +47,21 @@
           "sourceIndexes": [
             1
           ]
+        },
+        {
+          "text": "Pain relief and tissue repair are different outcomes: a report of less pain does not show that a torn tendon has regained its structure or mechanical strength.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The rat experiment assessed surgically repaired Achilles tendons, so it also cannot determine whether BPC-157 accelerates recovery from the range of tendon injuries seen in clinical practice.",
+          "sourceIndexes": [
+            1
+          ]
         }
       ],
-      "answer": "The knee-pain case series measured subjective symptoms, without objective confirmation of tendon or ligament repair. In a 2026 rat Achilles-repair experiment, BPC-157 alone did not significantly improve maximum load to failure versus control. That experiment used four tendons per group for each endpoint, so its nonsignificant result does not establish that no effect exists."
+      "answer": "The knee-pain case series measured subjective symptoms, without objective confirmation of tendon or ligament repair. In a 2026 rat Achilles-repair experiment, BPC-157 alone did not significantly improve maximum load to failure versus control. That experiment used four tendons per group for each endpoint, so its nonsignificant result does not establish that no effect exists. Pain relief and tissue repair are different outcomes: a report of less pain does not show that a torn tendon has regained its structure or mechanical strength. The rat experiment assessed surgically repaired Achilles tendons, so it also cannot determine whether BPC-157 accelerates recovery from the range of tendon injuries seen in clinical practice."
     },
     {
       "id": "bpc-157-knee-pain",
@@ -83,9 +95,21 @@
           "sourceIndexes": [
             0
           ]
+        },
+        {
+          "text": "The patients had different types of knee pain, and the study did not include a comparable group receiving placebo or usual care alone.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The finding is therefore a preliminary signal of reported symptom improvement, rather than evidence that BPC-157 treats a defined knee disorder or repairs damaged cartilage.",
+          "sourceIndexes": [
+            0
+          ]
         }
       ],
-      "answer": "Of seventeen patients identified, sixteen were contacted; eleven of twelve receiving BPC-157 alone reported improvement. The uncontrolled, retrospective design and subjective outcomes cannot separate a drug effect from recovery, expectation or other care."
+      "answer": "Of seventeen patients identified, sixteen were contacted; eleven of twelve receiving BPC-157 alone reported improvement. The uncontrolled, retrospective design and subjective outcomes cannot separate a drug effect from recovery, expectation or other care. The patients had different types of knee pain, and the study did not include a comparable group receiving placebo or usual care alone. The finding is therefore a preliminary signal of reported symptom improvement, rather than evidence that BPC-157 treats a defined knee disorder or repairs damaged cartilage."
     },
     {
       "id": "bpc-157-muscle-recovery",
@@ -142,9 +166,25 @@
             1,
             2
           ]
+        },
+        {
+          "text": "The experiments address different injuries and treatment conditions, making their results specific to those models rather than a single, established effect on muscle recovery.",
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "text": "They do not answer whether an athlete or a patient undergoing rehabilitation would regain strength sooner, return to activity earlier, or experience fewer complications.",
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ]
         }
       ],
-      "answer": "Rat experiments reported improved muscle-to-bone reattachment and recovery after muscle–tendon junction separation. A separate rat muscle-crush experiment reported improved healing during corticosteroid exposure. These induced injuries support further research but do not establish human recovery times, effective doses or safe drug combinations."
+      "answer": "Rat experiments reported improved muscle-to-bone reattachment and recovery after muscle–tendon junction separation. A separate rat muscle-crush experiment reported improved healing during corticosteroid exposure. These induced injuries support further research but do not establish human recovery times, effective doses or safe drug combinations. The experiments address different injuries and treatment conditions, making their results specific to those models rather than a single, established effect on muscle recovery. They do not answer whether an athlete or a patient undergoing rehabilitation would regain strength sooner, return to activity earlier, or experience fewer complications."
     },
     {
       "id": "bpc-157-gut-health",
@@ -199,9 +239,23 @@
             0,
             2
           ]
+        },
+        {
+          "text": "Damage caused experimentally by concentrated alcohol is a different research problem from treating chronic inflammatory bowel disease in people.",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "text": "The animal results provide a reason to investigate gastrointestinal effects, but the incomplete human report does not establish which patients would benefit, how large the benefit would be, or whether it would persist.",
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ]
         }
       ],
-      "answer": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models. FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment. Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms."
+      "answer": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models. FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment. Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms. Damage caused experimentally by concentrated alcohol is a different research problem from treating chronic inflammatory bowel disease in people. The animal results provide a reason to investigate gastrointestinal effects, but the incomplete human report does not establish which patients would benefit, how large the benefit would be, or whether it would persist."
     },
     {
       "id": "bpc-157-bladder-pain",
@@ -241,9 +295,21 @@
           "sourceIndexes": [
             0
           ]
+        },
+        {
+          "text": "The small sample and retrospective symptom assessments make this an exploratory observation, not a controlled estimate of treatment benefit.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Its findings apply to the particular patients and bladder procedure described, and cannot supply a general treatment protocol for urinary symptoms.",
+          "sourceIndexes": [
+            0
+          ]
         }
       ],
-      "answer": "An uncontrolled retrospective report described twelve women treated by cystoscopic bladder injection; ten reported complete symptom resolution and two partial improvement. The paper describes follow-up timing inconsistently, and the lack of a comparator prevents attributing improvement to BPC-157. This procedure-specific report does not establish that oral or subcutaneous products treat bladder pain."
+      "answer": "An uncontrolled retrospective report described twelve women treated by cystoscopic bladder injection; ten reported complete symptom resolution and two partial improvement. The paper describes follow-up timing inconsistently, and the lack of a comparator prevents attributing improvement to BPC-157. This procedure-specific report does not establish that oral or subcutaneous products treat bladder pain. The small sample and retrospective symptom assessments make this an exploratory observation, not a controlled estimate of treatment benefit. Its findings apply to the particular patients and bladder procedure described, and cannot supply a general treatment protocol for urinary symptoms."
     },
     {
       "id": "bpc-157-observational-evidence",
@@ -277,9 +343,15 @@
           "sourceIndexes": [
             0
           ]
+        },
+        {
+          "text": "The much larger number of documented users improves the description of real-world use, but it does not resolve the missing outcomes or introduce the comparison group needed to estimate a treatment effect.",
+          "sourceIndexes": [
+            0
+          ]
         }
       ],
-      "answer": "A September 2026 preprint identified 1,039 documented users; 279 of the 354 with a recorded response direction had reported improvement, while 685 lacked a recorded response direction. It was not peer reviewed at this check, and missing outcomes, co-treatments and no control group prevent interpreting these counts as an effectiveness rate."
+      "answer": "A September 2026 preprint identified 1,039 documented users; 279 of the 354 with a recorded response direction had reported improvement, while 685 lacked a recorded response direction. It was not peer reviewed at this check, and missing outcomes, co-treatments and no control group prevent interpreting these counts as an effectiveness rate. The much larger number of documented users improves the description of real-world use, but it does not resolve the missing outcomes or introduce the comparison group needed to estimate a treatment effect."
     },
     {
       "id": "bpc-157-safety",
@@ -326,9 +398,21 @@
           "sourceIndexes": [
             1
           ]
+        },
+        {
+          "text": "Three days of observation in two previously exposed adults provides little information about uncommon reactions, the consequences of repeated treatment, or effects that emerge after prolonged exposure.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The larger clinical-note report adds descriptions of symptoms encountered in practice, but its retrospective records cannot reliably distinguish adverse drug reactions from symptoms associated with illness or other treatments.",
+          "sourceIndexes": [
+            1
+          ]
         }
       ],
-      "answer": "The two-person intravenous pilot reported no adverse effects during three days of monitoring, but both participants had previous exposure. This small, selected sample cannot establish routine or long-term safety. The clinical-note preprint also describes neuropsychiatric, skin or injection-site, and gastrointestinal symptoms, without establishing causation or reliable event rates."
+      "answer": "The two-person intravenous pilot reported no adverse effects during three days of monitoring, but both participants had previous exposure. This small, selected sample cannot establish routine or long-term safety. The clinical-note preprint also describes neuropsychiatric, skin or injection-site, and gastrointestinal symptoms, without establishing causation or reliable event rates. Three days of observation in two previously exposed adults provides little information about uncommon reactions, the consequences of repeated treatment, or effects that emerge after prolonged exposure. The larger clinical-note report adds descriptions of symptoms encountered in practice, but its retrospective records cannot reliably distinguish adverse drug reactions from symptoms associated with illness or other treatments."
     },
     {
       "id": "bpc-157-growth-hormone",
@@ -362,9 +446,15 @@
           "sourceIndexes": [
             0
           ]
+        },
+        {
+          "text": "Receptors describe how a cell may respond to a hormone; this experiment did not measure a rise in blood growth-hormone levels or test a clinical benefit from raising those levels.",
+          "sourceIndexes": [
+            0
+          ]
         }
       ],
-      "answer": "A cell-culture study found increased growth-hormone receptor expression in rat tendon fibroblasts. That is different from demonstrating increased circulating growth hormone, and it does not validate combining BPC-157 with growth-hormone secretagogues in people."
+      "answer": "A cell-culture study found increased growth-hormone receptor expression in rat tendon fibroblasts. That is different from demonstrating increased circulating growth hormone, and it does not validate combining BPC-157 with growth-hormone secretagogues in people. Receptors describe how a cell may respond to a hormone; this experiment did not measure a rise in blood growth-hormone levels or test a clinical benefit from raising those levels."
     },
     {
       "id": "bpc-157-tb500-combination",
@@ -470,9 +560,25 @@
             0,
             2
           ]
+        },
+        {
+          "text": "A response in an animal injury model and a measurement of drug exposure answer different questions; neither establishes that a marketed capsule delivers the same exposure or effects as an injection in a person.",
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Consequently, route-specific findings should remain attached to the formulation, species and administration method actually studied.",
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ]
         }
       ],
-      "answer": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans. The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption. These sources do not establish that capsules and injections are interchangeable."
+      "answer": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans. The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption. These sources do not establish that capsules and injections are interchangeable. A response in an animal injury model and a measurement of drug exposure answer different questions; neither establishes that a marketed capsule delivers the same exposure or effects as an injection in a person. Consequently, route-specific findings should remain attached to the formulation, species and administration method actually studied."
     },
     {
       "id": "bpc-157-half-life",
@@ -520,9 +626,15 @@
             0,
             1
           ]
+        },
+        {
+          "text": "A short animal plasma half-life also does not, by itself, tell us how long a biological effect lasts or how frequently a person would need treatment.",
+          "sourceIndexes": [
+            0
+          ]
         }
       ],
-      "answer": "The pharmacokinetic paper reported mean intact-peptide half-lives below thirty minutes in tested rat and dog regimens. The two-person human intravenous paper measured clinical laboratory markers rather than BPC-157 concentrations. These studies therefore do not establish a human half-life or dosing frequency."
+      "answer": "The pharmacokinetic paper reported mean intact-peptide half-lives below thirty minutes in tested rat and dog regimens. The two-person human intravenous paper measured clinical laboratory markers rather than BPC-157 concentrations. These studies therefore do not establish a human half-life or dosing frequency. A short animal plasma half-life also does not, by itself, tell us how long a biological effect lasts or how frequently a person would need treatment."
     },
     {
       "id": "tb-500-evidence",

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "review": "AI-assisted; human investigator review pending",
+  "review": "AI-assisted; expanded explanatory prose on 2026-10-03 using the pilot source set; human investigator review pending. Earlier independent AI verification applies to the earlier pilot wording, not this revision.",
   "claims": [
     {
       "id": "bpc-157-injury-healing:1",
@@ -24,6 +24,20 @@
       ]
     },
     {
+      "id": "bpc-157-injury-healing:4",
+      "text": "Pain relief and tissue repair are different outcomes: a report of less pain does not show that a torn tendon has regained its structure or mechanical strength.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-injury-healing:5",
+      "text": "The rat experiment assessed surgically repaired Achilles tendons, so it also cannot determine whether BPC-157 accelerates recovery from the range of tendon injuries seen in clinical practice.",
+      "sourceUrls": [
+        "https://jointdrs.org/full-text/1851"
+      ]
+    },
+    {
       "id": "bpc-157-knee-pain:1",
       "text": "Of seventeen patients identified, sixteen were contacted; eleven of twelve receiving BPC-157 alone reported improvement.",
       "sourceUrls": [
@@ -33,6 +47,20 @@
     {
       "id": "bpc-157-knee-pain:2",
       "text": "The uncontrolled, retrospective design and subjective outcomes cannot separate a drug effect from recovery, expectation or other care.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-knee-pain:3",
+      "text": "The patients had different types of knee pain, and the study did not include a comparable group receiving placebo or usual care alone.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-knee-pain:4",
+      "text": "The finding is therefore a preliminary signal of reported symptom improvement, rather than evidence that BPC-157 treats a defined knee disorder or repairs damaged cartilage.",
       "sourceUrls": [
         "https://pubmed.ncbi.nlm.nih.gov/34324435/"
       ]
@@ -55,6 +83,24 @@
     {
       "id": "bpc-157-muscle-recovery:3",
       "text": "These induced injuries support further research but do not establish human recovery times, effective doses or safe drug combinations.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.mdpi.com/2227-9059/9/11/1547",
+        "https://medscimonit.com/abstract/index/idArt/878454"
+      ]
+    },
+    {
+      "id": "bpc-157-muscle-recovery:4",
+      "text": "The experiments address different injuries and treatment conditions, making their results specific to those models rather than a single, established effect on muscle recovery.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.mdpi.com/2227-9059/9/11/1547",
+        "https://medscimonit.com/abstract/index/idArt/878454"
+      ]
+    },
+    {
+      "id": "bpc-157-muscle-recovery:5",
+      "text": "They do not answer whether an athlete or a patient undergoing rehabilitation would regain strength sooner, return to activity earlier, or experience fewer complications.",
       "sourceUrls": [
         "https://www.mdpi.com/1999-4923/17/1/119",
         "https://www.mdpi.com/2227-9059/9/11/1547",
@@ -85,6 +131,22 @@
       ]
     },
     {
+      "id": "bpc-157-gut-health:4",
+      "text": "Damage caused experimentally by concentrated alcohol is a different research problem from treating chronic inflammatory bowel disease in people.",
+      "sourceUrls": [
+        "https://www.mdpi.com/2227-9059/9/10/1300"
+      ]
+    },
+    {
+      "id": "bpc-157-gut-health:5",
+      "text": "The animal results provide a reason to investigate gastrointestinal effects, but the incomplete human report does not establish which patients would benefit, how large the benefit would be, or whether it would persist.",
+      "sourceUrls": [
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "https://www.mdpi.com/2227-9059/9/10/1300",
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
       "id": "bpc-157-bladder-pain:1",
       "text": "An uncontrolled retrospective report described twelve women treated by cystoscopic bladder injection; ten reported complete symptom resolution and two partial improvement.",
       "sourceUrls": [
@@ -106,6 +168,20 @@
       ]
     },
     {
+      "id": "bpc-157-bladder-pain:4",
+      "text": "The small sample and retrospective symptom assessments make this an exploratory observation, not a controlled estimate of treatment benefit.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39325560/"
+      ]
+    },
+    {
+      "id": "bpc-157-bladder-pain:5",
+      "text": "Its findings apply to the particular patients and bladder procedure described, and cannot supply a general treatment protocol for urinary symptoms.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39325560/"
+      ]
+    },
+    {
       "id": "bpc-157-observational-evidence:1",
       "text": "A September 2026 preprint identified 1,039 documented users; 279 of the 354 with a recorded response direction had reported improvement, while 685 lacked a recorded response direction.",
       "sourceUrls": [
@@ -115,6 +191,13 @@
     {
       "id": "bpc-157-observational-evidence:2",
       "text": "It was not peer reviewed at this check, and missing outcomes, co-treatments and no control group prevent interpreting these counts as an effectiveness rate.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
+      "id": "bpc-157-observational-evidence:3",
+      "text": "The much larger number of documented users improves the description of real-world use, but it does not resolve the missing outcomes or introduce the comparison group needed to estimate a treatment effect.",
       "sourceUrls": [
         "https://www.preprints.org/manuscript/202609.0501/v1"
       ]
@@ -141,6 +224,20 @@
       ]
     },
     {
+      "id": "bpc-157-safety:4",
+      "text": "Three days of observation in two previously exposed adults provides little information about uncommon reactions, the consequences of repeated treatment, or effects that emerge after prolonged exposure.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+      ]
+    },
+    {
+      "id": "bpc-157-safety:5",
+      "text": "The larger clinical-note report adds descriptions of symptoms encountered in practice, but its retrospective records cannot reliably distinguish adverse drug reactions from symptoms associated with illness or other treatments.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
       "id": "bpc-157-growth-hormone:1",
       "text": "A cell-culture study found increased growth-hormone receptor expression in rat tendon fibroblasts.",
       "sourceUrls": [
@@ -150,6 +247,13 @@
     {
       "id": "bpc-157-growth-hormone:2",
       "text": "That is different from demonstrating increased circulating growth hormone, and it does not validate combining BPC-157 with growth-hormone secretagogues in people.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1420-3049/19/11/19066"
+      ]
+    },
+    {
+      "id": "bpc-157-growth-hormone:3",
+      "text": "Receptors describe how a cell may respond to a hormone; this experiment did not measure a rise in blood growth-hormone levels or test a clinical benefit from raising those levels.",
       "sourceUrls": [
         "https://www.mdpi.com/1420-3049/19/11/19066"
       ]
@@ -200,6 +304,24 @@
       ]
     },
     {
+      "id": "bpc-157-oral-versus-injected:4",
+      "text": "A response in an animal injury model and a measurement of drug exposure answer different questions; neither establishes that a marketed capsule delivers the same exposure or effects as an injection in a person.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    },
+    {
+      "id": "bpc-157-oral-versus-injected:5",
+      "text": "Consequently, route-specific findings should remain attached to the formulation, species and administration method actually studied.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    },
+    {
       "id": "bpc-157-half-life:1",
       "text": "The pharmacokinetic paper reported mean intact-peptide half-lives below thirty minutes in tested rat and dog regimens.",
       "sourceUrls": [
@@ -219,6 +341,13 @@
       "sourceUrls": [
         "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
         "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+      ]
+    },
+    {
+      "id": "bpc-157-half-life:4",
+      "text": "A short animal plasma half-life also does not, by itself, tell us how long a biological effect lasts or how frequently a person would need treatment.",
+      "sourceUrls": [
+        "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
       ]
     },
     {
@@ -243,6 +372,20 @@
       ]
     },
     {
+      "id": "bpc-157-contraindications-guide:3",
+      "text": "These are missing safety assessments, rather than evidence that every potential risk has been excluded.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-contraindications-guide:4",
+      "text": "The available assessment therefore cannot define an evidence-based list of circumstances in which BPC-157 can be assumed safe, particularly where reproductive or cancer-related risks are the concern.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
       "id": "bpc-157-interactions-guide:1",
       "text": "The human reports were not designed to establish drug-interaction safety.",
       "sourceUrls": [
@@ -258,8 +401,38 @@
       ]
     },
     {
+      "id": "bpc-157-interactions-guide:3",
+      "text": "Observations involving more than one treatment do not establish that a combination is safe or that the treatments act independently.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-interactions-guide:4",
+      "text": "The reviewed human evidence consequently does not support a validated interaction list or a general assurance that adding BPC-157 to an existing regimen is safe.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
       "id": "bpc-157-forms-dosing-guide:1",
       "text": "FDA's 2026 review found no human pharmacokinetic data for oral, subcutaneous, nasal or transdermal BPC-157.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-forms-dosing-guide:2",
+      "text": "This limits the ability to translate a dose used in one setting into an equivalent dose for another route.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-forms-dosing-guide:3",
+      "text": "A clinical dosing recommendation would require evidence connecting a defined formulation and exposure to a meaningful benefit and an acceptable safety profile, which this assessment does not establish for those routes.",
       "sourceUrls": [
         "https://www.fda.gov/media/193343/download"
       ]
@@ -279,6 +452,20 @@
       ]
     },
     {
+      "id": "bpc-157-results-stopping-guide:3",
+      "text": "Retrospective reports of improvement cannot determine the expected time to benefit for a new patient or show whether symptom changes correspond to healed tissue.",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      ]
+    },
+    {
+      "id": "bpc-157-results-stopping-guide:4",
+      "text": "Likewise, records of discontinuation do not establish whether tapering is necessary or whether a particular cycle reduces adverse effects.",
+      "sourceUrls": [
+        "https://www.preprints.org/manuscript/202609.0501/v1"
+      ]
+    },
+    {
       "id": "bpc-157-product-quality-guide:1",
       "text": "FDA’s assessment identified inconsistent substance naming and incomplete impurity characterization.",
       "sourceUrls": [
@@ -293,6 +480,20 @@
       ]
     },
     {
+      "id": "bpc-157-product-quality-guide:3",
+      "text": "Identity, impurity characterization and the quality requirements of the intended route are separate questions; a reported percentage of chemical purity addresses only part of that assessment.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
+      "id": "bpc-157-product-quality-guide:4",
+      "text": "Even an analytically characterized substance does not establish that the finished formulation is clinically effective or safe for a particular use.",
+      "sourceUrls": [
+        "https://www.fda.gov/media/193343/download"
+      ]
+    },
+    {
       "id": "bpc-157-status-guide:1",
       "text": "FDA's 2026 briefing states that neither BPC-157 free base nor BPC-157 acetate is a component of an FDA-approved drug.",
       "sourceUrls": [
@@ -301,7 +502,7 @@
     },
     {
       "id": "bpc-157-status-guide:2",
-      "text": "The current risk page lists BPC-157 under nominations withdrawn by their nominators.",
+      "text": "At the October 3, 2026 source check, FDA’s risk page listed BPC-157 under nominations withdrawn by their nominators.",
       "sourceUrls": [
         "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
       ]
@@ -312,6 +513,17 @@
       "sourceUrls": [
         "https://www.fda.gov/media/193343/download",
         "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      ]
+    },
+    {
+      "id": "bpc-157-overview-guide:2",
+      "text": "Research on BPC-157 spans experimental muscle and tendon injuries, gastrointestinal injury models, and small human reports involving knee pain, bladder symptoms and intravenous administration.",
+      "sourceUrls": [
+        "https://www.mdpi.com/1999-4923/17/1/119",
+        "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
+        "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+        "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+        "https://pubmed.ncbi.nlm.nih.gov/40131143/"
       ]
     }
   ]
