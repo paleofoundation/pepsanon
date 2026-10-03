@@ -6,7 +6,7 @@
       "id": "bpc-157-injury-healing",
       "peptideId": "bpc-157",
       "question": "Does BPC-157 speed tendon or ligament healing?",
-      "answer": "Human evidence has not established that BPC-157 repairs tendons or ligaments. A 2021 retrospective knee-pain report contacted 16 patients; 11 of the 12 who received BPC-157 alone reported improvement. However, there was no placebo group, no validated functional assessment, and no imaging endpoint demonstrating tissue repair. Pain relief in an uncontrolled series cannot distinguish a drug effect from natural recovery, other treatment, or expectation. This is a preliminary symptom signal, not confirmation of faster healing or a basis for transferring results to a different injury or injection route.",
+      "answer": "The cited knee-pain report does not establish that BPC-157 repairs tendons or ligaments. A 2021 retrospective knee-pain report contacted 16 patients; 11 of the 12 who received BPC-157 alone reported improvement. However, there was no placebo group, no validated functional assessment, and no imaging endpoint demonstrating tissue repair. Pain relief in an uncontrolled series cannot distinguish a drug effect from natural recovery, other treatment, or expectation. This is a preliminary symptom signal, not confirmation of faster healing or a basis for transferring results to a different injury or injection route.",
       "grade": "No direct human evidence",
       "outcome": "Tendon or ligament healing",
       "route": "Intra-articular evidence; other routes not established",
@@ -21,7 +21,40 @@
           "kind": "Primary research",
           "webRef": "turn11view0"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "The cited knee-pain report does not establish that BPC-157 repairs tendons or ligaments.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "A 2021 retrospective knee-pain report contacted 16 patients; 11 of the 12 who received BPC-157 alone reported improvement.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "However, there was no placebo group, no validated functional assessment, and no imaging endpoint demonstrating tissue repair.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Pain relief in an uncontrolled series cannot distinguish a drug effect from natural recovery, other treatment, or expectation.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This is a preliminary symptom signal, not confirmation of faster healing or a basis for transferring results to a different injury or injection route.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "bpc-157-safety",
@@ -50,7 +83,41 @@
           "webRef": "turn12view1",
           "accessedAt": "2026-10-03"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "BPC-157 does not have a human safety database capable of establishing routine or long-term safety.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A 2025 intravenous pilot involved only two adults, both previously exposed to BPC-157, and reported no adverse effects or measured changes in selected organ-function biomarkers.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Such a design cannot reliably detect uncommon reactions, delayed harms, or risks in people with different medical conditions.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "FDA also identifies limited safety information and concerns about immunogenicity and peptide impurities.",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "text": "Absence of a detected problem in two selected participants should therefore be interpreted as a very small observation, not evidence that self-injection is safe.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "safety"
     },
     {
       "id": "bpc-157-oral-versus-injected",
@@ -71,7 +138,40 @@
           "kind": "Primary research",
           "webRef": "turn11view0"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "A reliable human comparison between oral and injected BPC-157 was not identified in this review.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The small published knee-pain report used an injection into the joint and did not include an oral group, so it cannot answer whether a swallowed product reaches the same tissue, produces a similar effect, or carries similar risks.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Changing the administration route changes the clinical question.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Even a finding that a peptide is stable under laboratory conditions would not establish human absorption or clinical effectiveness.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Claims of equivalence between capsules and injections therefore remain unproven.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "forms-dosing"
     },
     {
       "id": "tb-500-evidence",
@@ -100,13 +200,48 @@
           "kind": "Primary research",
           "webRef": "turn9search6"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "The name TB-500 requires clarification before interpreting any study.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "FDA describes TB-500 as the thymosin beta-4 fragment LKKTETQ and reports that it has not identified human exposure data for that fragment.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Full-length thymosin beta-4 has been studied in humans, including investigational eye drops for corneal disease, but that is a different molecule, formulation, target tissue, and route.",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "text": "Those trials cannot validate a vial marketed as TB-500 for tendon repair or whole-body recovery.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "For injury healing with the fragment, direct human clinical benefit remains unestablished in the evidence reviewed here.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "ghk-cu-topical",
       "peptideId": "ghk-cu",
       "question": "Does topical GHK-Cu improve skin quality?",
-      "answer": "Topical GHK-Cu has limited human research, with results that depend on the formulation and outcome measured. In a randomized study after carbon dioxide laser resurfacing, 13 patients completed follow-up. Participants using the copper-peptide regimen reported greater improvement in overall skin quality, but the treatment did not significantly accelerate resolution of redness. This small, procedure-specific study does not establish that every copper-peptide serum reduces wrinkles or reverses skin aging. Subjective satisfaction and objectively measured improvement should remain separate when judging a cosmetic claim, and findings from a topical regimen should not be transferred to injections.",
+      "answer": "The selected topical trial provides limited, procedure-specific evidence for GHK-Cu. In a randomized study after carbon dioxide laser resurfacing, 13 patients completed follow-up. Participants using the copper-peptide regimen reported greater improvement in overall skin quality, but objective assessments found no significant between-group improvement in wrinkles, overall skin quality, or resolution of redness. This small, procedure-specific study does not establish that every copper-peptide serum reduces wrinkles or reverses skin aging. Subjective satisfaction and objectively measured improvement should remain separate when judging a cosmetic claim, and findings from a topical regimen should not be transferred to injections.",
       "grade": "Low",
       "outcome": "Topical skin-quality improvement",
       "route": "Topical copper-tripeptide skin-care regimen",
@@ -121,7 +256,40 @@
           "kind": "Primary research",
           "webRef": "turn24search0"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "The selected topical trial provides limited, procedure-specific evidence for GHK-Cu.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "In a randomized study after carbon dioxide laser resurfacing, 13 patients completed follow-up.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Participants using the copper-peptide regimen reported greater improvement in overall skin quality, but objective assessments found no significant between-group improvement in wrinkles, overall skin quality, or resolution of redness.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This small, procedure-specific study does not establish that every copper-peptide serum reduces wrinkles or reverses skin aging.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Subjective satisfaction and objectively measured improvement should remain separate when judging a cosmetic claim, and findings from a topical regimen should not be transferred to injections.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "ghk-cu-injectable",
@@ -150,7 +318,43 @@
           "webRef": "turn12view1",
           "accessedAt": "2026-10-03"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "Clinical superiority of injected GHK-Cu over topical GHK-Cu has not been demonstrated in the human evidence reviewed here.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A topical study cannot establish the effectiveness or safety of systemic injection, because exposure and delivery are different.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "FDA identifies limited human safety data for injectable GHK-Cu and potential immunogenicity associated with aggregation and peptide impurities.",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "text": "The argument that injection must work better because it bypasses the skin barrier is a mechanistic hypothesis, not a clinical result.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A useful comparison would require a controlled human study of defined formulations, relevant skin outcomes, and adverse events.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        }
+      ],
+      "section": "forms-dosing"
     },
     {
       "id": "cjc-1295-benefits",
@@ -171,7 +375,40 @@
           "kind": "Primary research",
           "webRef": "turn35search2"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "CJC-1295 has demonstrated hormonal activity in humans, but that does not establish improved recovery or muscle performance.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Two short randomized, placebo-controlled trials of the long-acting formulation found increases in growth hormone and IGF-1 in healthy adults.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "These were pharmacology studies, not demonstrations of faster injury healing, greater strength, better sleep, or longer life.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "A biomarker response is useful for understanding what a compound does, while meaningful benefit requires direct clinical outcomes.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Results from the studied long-acting molecule should also not be automatically assigned to products marketed as CJC-1295 without DAC or to combination products.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "ipamorelin-sleep-recovery",
@@ -199,7 +436,45 @@
           "kind": "Primary research",
           "webRef": "turn12search0"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "The human studies reviewed here do not establish that ipamorelin improves sleep quality or training recovery, either alone or combined with CJC-1295.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Early human work examined its pharmacokinetics and growth-hormone response, while a later randomized trial studied intravenous ipamorelin after bowel surgery.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Neither setting directly tests the sleep or recovery claims made for subcutaneous combinations.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Evidence that a compound stimulates growth hormone is not interchangeable with evidence of better sleep architecture, physical function, or recovery time.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A combination also requires its own evaluation rather than assuming that separate hormone effects add up to clinical benefit.",
+          "sourceIndexes": [
+            0,
+            1
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "semaglutide-weight-loss",
@@ -220,7 +495,40 @@
           "kind": "Primary research",
           "webRef": "turn35view1"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "In STEP 1, 1,961 adults with overweight or obesity without diabetes were randomized to subcutaneous semaglutide or placebo, both alongside lifestyle intervention.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "At 68 weeks, average weight change was −14.9% with semaglutide and −2.4% with placebo.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This provides strong evidence of average weight reduction in the studied population, but it is not a forecast for an individual or evidence for an unverified research-use product.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Gastrointestinal adverse effects were common, and the trial used a defined pharmaceutical formulation under clinical supervision.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Its results should not be generalized to every dose, route, or patient group.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "semaglutide-stopping",
@@ -241,7 +549,34 @@
           "kind": "Primary research",
           "webRef": "turn12search1"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "Weight regain was substantial after treatment ended in the STEP 1 extension.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "In the extension group, participants previously assigned semaglutide regained an average 11.6 percentage points of body weight during the following year, approximately two-thirds of their earlier loss, leaving an average net reduction of 5.6% from the original baseline.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This was follow-up of a subset of the original trial, and structured lifestyle intervention also stopped, so it cannot isolate every contributor to regain.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "It nevertheless shows that a successful treatment period does not guarantee permanent weight maintenance after withdrawal.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "results-stopping"
     },
     {
       "id": "tirzepatide-weight-loss",
@@ -262,7 +597,40 @@
           "kind": "Primary research",
           "webRef": "turn24view2"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "SURMOUNT-1 randomized 2,539 adults with obesity, or overweight with a weight-related complication, without diabetes.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Across the three studied tirzepatide groups, average weight reduction at 72 weeks ranged from 15.0% to 20.9%, compared with 3.1% with placebo.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The size and randomized design support a strong conclusion about average weight reduction under the trial conditions.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Gastrointestinal adverse effects were the most common and occurred mainly during dose escalation.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "These figures describe a specific pharmaceutical product, population, and treatment program; they do not establish equivalent effects for products of unknown composition or guarantee an individual response.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "tirzepatide-versus-semaglutide",
@@ -286,7 +654,40 @@
           "kind": "Primary research",
           "webRef": "turn34view0"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "In the 2025 SURMOUNT-5 head-to-head trial, tirzepatide produced greater average weight reduction than semaglutide in adults with obesity without diabetes.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Among 751 randomized participants, mean weight change at 72 weeks was −20.2% with tirzepatide and −13.7% with semaglutide, using the maximum tolerated trial regimens.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The trial was open-label and manufacturer funded, which should be considered alongside its direct randomized comparison.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Gastrointestinal adverse events were common in both groups.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The finding applies to the formulations and regimens compared; it does not prove that one medicine is the best choice for every individual or every clinical outcome.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "tirzepatide-stopping",
@@ -307,7 +708,40 @@
           "kind": "Primary research",
           "webRef": "turn33view2"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "Many participants regained weight after tirzepatide withdrawal in SURMOUNT-4.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "After a 36-week initial treatment period, 670 participants were randomized either to continue tirzepatide or switch to placebo.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "During the next 52 weeks, the placebo group gained an average 14.0% relative to its weight at randomization, while those continuing tirzepatide lost a further 5.5%.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This is direct randomized evidence that continued treatment helped maintain weight reduction in participants who reached randomization.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "It does not mean everybody regains the same amount, and its selected population excludes people who discontinued during the initial treatment phase.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "results-stopping"
     },
     {
       "id": "collagen-joint-pain",
@@ -328,13 +762,46 @@
           "kind": "Primary research",
           "webRef": "turn24view1"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "Oral collagen hydrolysate may improve some measures of activity-related joint discomfort, but the evidence is less decisive than marketing often suggests.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "A 24-week randomized trial recruited 147 athletes and analyzed 97; several pain measures favored collagen over placebo.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The missing participants, multiple outcomes, and specific athletic population limit confidence and generalizability.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Reduced pain also does not demonstrate cartilage regeneration or accelerated repair of a torn tendon.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This result concerns an oral nutritional preparation with a particular composition, so it should not be used to justify injectable peptides or to assume that every collagen product is clinically equivalent.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "collagen-skin",
       "peptideId": "collagen",
       "question": "Do oral collagen peptides improve skin elasticity?",
-      "answer": "Some randomized studies report improvements in measured skin elasticity with specific oral collagen preparations. In one double-blind trial, 69 women aged 35–55 were assigned collagen hydrolysate or placebo for eight weeks; elasticity improved relative to placebo, while moisture-related findings were not statistically significant. This is a short-term signal in a narrow population rather than proof of broad skin rejuvenation. Results depend on the product and endpoint, and statistical improvement does not automatically establish a noticeable cosmetic difference. The trial does not support claims about injectable collagen-related peptides or permanent reversal of skin aging.",
+      "answer": "A randomized trial reported improved skin elasticity with a specific oral collagen preparation. In one double-blind trial, 69 women aged 35–55 were assigned collagen hydrolysate or placebo for eight weeks; elasticity improved relative to placebo, while moisture-related findings were not statistically significant. This is a short-term signal in a narrow population rather than proof of broad skin rejuvenation. Results depend on the product and endpoint, and statistical improvement does not automatically establish a noticeable cosmetic difference. The trial does not support claims about injectable collagen-related peptides or permanent reversal of skin aging.",
       "grade": "Low",
       "outcome": "Short-term skin elasticity",
       "route": "Oral collagen hydrolysate",
@@ -349,7 +816,40 @@
           "kind": "Primary research",
           "webRef": "turn24view0"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "A randomized trial reported improved skin elasticity with a specific oral collagen preparation.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "In one double-blind trial, 69 women aged 35–55 were assigned collagen hydrolysate or placebo for eight weeks; elasticity improved relative to placebo, while moisture-related findings were not statistically significant.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "This is a short-term signal in a narrow population rather than proof of broad skin rejuvenation.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "Results depend on the product and endpoint, and statistical improvement does not automatically establish a noticeable cosmetic difference.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The trial does not support claims about injectable collagen-related peptides or permanent reversal of skin aging.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "benefits"
     },
     {
       "id": "peptide-purity-safety",
@@ -378,7 +878,40 @@
           "kind": "Primary research",
           "webRef": "turn26view4"
         }
-      ]
+      ],
+      "sentences": [
+        {
+          "text": "A purity percentage does not establish correct identity, labeled amount, sterility, endotoxin control, or clinical safety.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "In a 2024 test-purchase study of no-prescription online semaglutide, only three of six orders arrived.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The delivered samples contained more semaglutide than labeled, had reported purity far below the advertised 99%, and one contained elevated endotoxin despite no viable microorganisms being detected.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "The sample was small and selected, so it cannot estimate the failure rate of the entire market.",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "text": "It does demonstrate why a seller's percentage or certificate cannot, by itself, establish that a finished injectable product is suitable for human use.",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "section": "product-quality"
     }
   ]
 }
