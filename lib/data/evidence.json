@@ -1,0 +1,384 @@
+{
+  "reviewedAt": "2026-10-03",
+  "gradeNote": "These are simplified, question-specific editorial evidence grades for this initial selected-source review, not a formal GRADE assessment or a completed systematic review. No direct human evidence means no directly applicable human study was identified in the sources reviewed; it is not proof of no effect. Regulatory sources inform status and safety context, not efficacy grades.",
+  "questions": [
+    {
+      "id": "bpc-157-injury-healing",
+      "peptideId": "bpc-157",
+      "question": "Does BPC-157 speed tendon or ligament healing?",
+      "answer": "Human evidence has not established that BPC-157 repairs tendons or ligaments. A 2021 retrospective knee-pain report contacted 16 patients; 11 of the 12 who received BPC-157 alone reported improvement. However, there was no placebo group, no validated functional assessment, and no imaging endpoint demonstrating tissue repair. Pain relief in an uncontrolled series cannot distinguish a drug effect from natural recovery, other treatment, or expectation. This is a preliminary symptom signal, not confirmation of faster healing or a basis for transferring results to a different injury or injection route.",
+      "grade": "No direct human evidence",
+      "outcome": "Tendon or ligament healing",
+      "route": "Intra-articular evidence; other routes not established",
+      "evidenceType": "Uncontrolled retrospective case series; indirect for healing",
+      "population": "Knee-pain patients; 16 contacted, 12 received BPC-157 alone",
+      "limitation": "Pain reports do not demonstrate structural repair.",
+      "sources": [
+        {
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+          "year": 2021,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "kind": "Primary research",
+          "webRef": "turn11view0"
+        }
+      ]
+    },
+    {
+      "id": "bpc-157-safety",
+      "peptideId": "bpc-157",
+      "question": "Has BPC-157 been shown to be safe in humans?",
+      "answer": "BPC-157 does not have a human safety database capable of establishing routine or long-term safety. A 2025 intravenous pilot involved only two adults, both previously exposed to BPC-157, and reported no adverse effects or measured changes in selected organ-function biomarkers. Such a design cannot reliably detect uncommon reactions, delayed harms, or risks in people with different medical conditions. FDA also identifies limited safety information and concerns about immunogenicity and peptide impurities. Absence of a detected problem in two selected participants should therefore be interpreted as a very small observation, not evidence that self-injection is safe.",
+      "grade": "Very low",
+      "outcome": "Human safety",
+      "route": "Intravenous pilot; cannot generalize across routes",
+      "evidenceType": "Two-person uncontrolled pilot",
+      "population": "Two adults with previous intravenous exposure",
+      "limitation": "Extremely small, selected sample and brief monitoring.",
+      "sources": [
+        {
+          "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+          "kind": "Primary research",
+          "webRef": "turn35search1"
+        },
+        {
+          "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+          "year": null,
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "kind": "Regulatory assessment",
+          "webRef": "turn12view1",
+          "accessedAt": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "bpc-157-oral-versus-injected",
+      "peptideId": "bpc-157",
+      "question": "Does oral BPC-157 work as well as an injection?",
+      "answer": "A reliable human comparison between oral and injected BPC-157 was not identified in this review. The small published knee-pain report used an injection into the joint and did not include an oral group, so it cannot answer whether a swallowed product reaches the same tissue, produces a similar effect, or carries similar risks. Changing the administration route changes the clinical question. Even a finding that a peptide is stable under laboratory conditions would not establish human absorption or clinical effectiveness. Claims of equivalence between capsules and injections therefore remain unproven.",
+      "grade": "No direct human evidence",
+      "outcome": "Oral versus injected clinical effectiveness",
+      "route": "Oral versus intra-articular or systemic injection",
+      "evidenceType": "No direct comparative human study identified",
+      "population": "No matched human comparison identified",
+      "limitation": "Available injection observations do not establish oral effectiveness.",
+      "sources": [
+        {
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+          "year": 2021,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "kind": "Primary research",
+          "webRef": "turn11view0"
+        }
+      ]
+    },
+    {
+      "id": "tb-500-evidence",
+      "peptideId": "tb-500",
+      "question": "Is TB-500 the same as thymosin beta-4, and does it heal injuries?",
+      "answer": "The name TB-500 requires clarification before interpreting any study. FDA describes TB-500 as the thymosin beta-4 fragment LKKTETQ and reports that it has not identified human exposure data for that fragment. Full-length thymosin beta-4 has been studied in humans, including investigational eye drops for corneal disease, but that is a different molecule, formulation, target tissue, and route. Those trials cannot validate a vial marketed as TB-500 for tendon repair or whole-body recovery. For injury healing with the fragment, direct human clinical benefit remains unestablished in the evidence reviewed here.",
+      "grade": "No direct human evidence",
+      "outcome": "Injury healing with the TB-500 fragment",
+      "route": "Marketed injectable fragment versus researched ophthalmic full-length peptide",
+      "evidenceType": "No direct human fragment evidence; indirect full-length ophthalmic trial",
+      "population": "Ophthalmic trials do not represent musculoskeletal-injury treatment",
+      "limitation": "Molecular identity and route prevent extrapolation.",
+      "sources": [
+        {
+          "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+          "year": null,
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "kind": "Regulatory assessment",
+          "webRef": "turn12view1",
+          "accessedAt": "2026-10-03"
+        },
+        {
+          "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36613994/",
+          "kind": "Primary research",
+          "webRef": "turn9search6"
+        }
+      ]
+    },
+    {
+      "id": "ghk-cu-topical",
+      "peptideId": "ghk-cu",
+      "question": "Does topical GHK-Cu improve skin quality?",
+      "answer": "Topical GHK-Cu has limited human research, with results that depend on the formulation and outcome measured. In a randomized study after carbon dioxide laser resurfacing, 13 patients completed follow-up. Participants using the copper-peptide regimen reported greater improvement in overall skin quality, but the treatment did not significantly accelerate resolution of redness. This small, procedure-specific study does not establish that every copper-peptide serum reduces wrinkles or reverses skin aging. Subjective satisfaction and objectively measured improvement should remain separate when judging a cosmetic claim, and findings from a topical regimen should not be transferred to injections.",
+      "grade": "Low",
+      "outcome": "Topical skin-quality improvement",
+      "route": "Topical copper-tripeptide skin-care regimen",
+      "evidenceType": "Small randomized post-procedure trial",
+      "population": "13 completers after CO2 laser resurfacing",
+      "limitation": "Small sample, mixed endpoints, procedure-specific context.",
+      "sources": [
+        {
+          "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+          "year": 2006,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+          "kind": "Primary research",
+          "webRef": "turn24search0"
+        }
+      ]
+    },
+    {
+      "id": "ghk-cu-injectable",
+      "peptideId": "ghk-cu",
+      "question": "Is injectable GHK-Cu better than a topical serum?",
+      "answer": "Clinical superiority of injected GHK-Cu over topical GHK-Cu has not been demonstrated in the human evidence reviewed here. A topical study cannot establish the effectiveness or safety of systemic injection, because exposure and delivery are different. FDA identifies limited human safety data for injectable GHK-Cu and potential immunogenicity associated with aggregation and peptide impurities. The argument that injection must work better because it bypasses the skin barrier is a mechanistic hypothesis, not a clinical result. A useful comparison would require a controlled human study of defined formulations, relevant skin outcomes, and adverse events.",
+      "grade": "No direct human evidence",
+      "outcome": "Injected versus topical skin benefit",
+      "route": "Systemic injection versus topical application",
+      "evidenceType": "No direct comparative human study identified",
+      "population": "No matched human comparison identified",
+      "limitation": "A delivery hypothesis does not establish benefit or safety.",
+      "sources": [
+        {
+          "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+          "year": 2006,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+          "kind": "Primary research",
+          "webRef": "turn24search0"
+        },
+        {
+          "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+          "year": null,
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "kind": "Regulatory assessment",
+          "webRef": "turn12view1",
+          "accessedAt": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": "cjc-1295-benefits",
+      "peptideId": "cjc-1295",
+      "question": "Does raising growth hormone with CJC-1295 prove better recovery or muscle growth?",
+      "answer": "CJC-1295 has demonstrated hormonal activity in humans, but that does not establish improved recovery or muscle performance. Two short randomized, placebo-controlled trials of the long-acting formulation found increases in growth hormone and IGF-1 in healthy adults. These were pharmacology studies, not demonstrations of faster injury healing, greater strength, better sleep, or longer life. A biomarker response is useful for understanding what a compound does, while meaningful benefit requires direct clinical outcomes. Results from the studied long-acting molecule should also not be automatically assigned to products marketed as CJC-1295 without DAC or to combination products.",
+      "grade": "No direct human evidence",
+      "outcome": "Recovery or muscle-performance benefit",
+      "route": "Subcutaneous long-acting CJC-1295 in the cited trials",
+      "evidenceType": "Randomized pharmacology trials; indirect for clinical benefit",
+      "population": "Healthy adults followed for 28 or 49 days",
+      "limitation": "GH and IGF-1 are surrogate outcomes for the proposed benefits.",
+      "sources": [
+        {
+          "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+          "year": 2006,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+          "kind": "Primary research",
+          "webRef": "turn35search2"
+        }
+      ]
+    },
+    {
+      "id": "ipamorelin-sleep-recovery",
+      "peptideId": "ipamorelin",
+      "question": "Does ipamorelin, alone or with CJC-1295, improve sleep and recovery?",
+      "answer": "The human studies reviewed here do not establish that ipamorelin improves sleep quality or training recovery, either alone or combined with CJC-1295. Early human work examined its pharmacokinetics and growth-hormone response, while a later randomized trial studied intravenous ipamorelin after bowel surgery. Neither setting directly tests the sleep or recovery claims made for subcutaneous combinations. Evidence that a compound stimulates growth hormone is not interchangeable with evidence of better sleep architecture, physical function, or recovery time. A combination also requires its own evaluation rather than assuming that separate hormone effects add up to clinical benefit.",
+      "grade": "No direct human evidence",
+      "outcome": "Sleep quality or training recovery",
+      "route": "Intravenous studies; subcutaneous combination claims not established",
+      "evidenceType": "Human pharmacology and unrelated clinical-indication studies",
+      "population": "Healthy volunteers and postoperative bowel-resection patients",
+      "limitation": "No matched clinical-outcome trial identified for these claims.",
+      "sources": [
+        {
+          "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+          "year": 1999,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+          "kind": "Primary research",
+          "webRef": "turn35search0"
+        },
+        {
+          "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+          "year": 2014,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+          "kind": "Primary research",
+          "webRef": "turn12search0"
+        }
+      ]
+    },
+    {
+      "id": "semaglutide-weight-loss",
+      "peptideId": "semaglutide",
+      "question": "How much weight loss did semaglutide produce in a major clinical trial?",
+      "answer": "In STEP 1, 1,961 adults with overweight or obesity without diabetes were randomized to subcutaneous semaglutide or placebo, both alongside lifestyle intervention. At 68 weeks, average weight change was −14.9% with semaglutide and −2.4% with placebo. This provides strong evidence of average weight reduction in the studied population, but it is not a forecast for an individual or evidence for an unverified research-use product. Gastrointestinal adverse effects were common, and the trial used a defined pharmaceutical formulation under clinical supervision. Its results should not be generalized to every dose, route, or patient group.",
+      "grade": "High",
+      "outcome": "Weight reduction over 68 weeks",
+      "route": "Studied subcutaneous pharmaceutical formulation",
+      "evidenceType": "Large double-blind randomized placebo-controlled trial",
+      "population": "1,961 adults with overweight or obesity without diabetes",
+      "limitation": "Average trial response does not predict an individual's result.",
+      "sources": [
+        {
+          "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+          "year": 2021,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+          "kind": "Primary research",
+          "webRef": "turn35view1"
+        }
+      ]
+    },
+    {
+      "id": "semaglutide-stopping",
+      "peptideId": "semaglutide",
+      "question": "What happens to weight after stopping semaglutide?",
+      "answer": "Weight regain was substantial after treatment ended in the STEP 1 extension. In the extension group, participants previously assigned semaglutide regained an average 11.6 percentage points of body weight during the following year, approximately two-thirds of their earlier loss, leaving an average net reduction of 5.6% from the original baseline. This was follow-up of a subset of the original trial, and structured lifestyle intervention also stopped, so it cannot isolate every contributor to regain. It nevertheless shows that a successful treatment period does not guarantee permanent weight maintenance after withdrawal.",
+      "grade": "Moderate",
+      "outcome": "Weight regain after withdrawal",
+      "route": "Withdrawal after studied subcutaneous semaglutide",
+      "evidenceType": "Observational extension of a randomized trial",
+      "population": "327 participants in the STEP 1 extension",
+      "limitation": "Selected follow-up subset; drug and lifestyle intervention both stopped.",
+      "sources": [
+        {
+          "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+          "kind": "Primary research",
+          "webRef": "turn12search1"
+        }
+      ]
+    },
+    {
+      "id": "tirzepatide-weight-loss",
+      "peptideId": "tirzepatide",
+      "question": "How much weight loss did tirzepatide produce in SURMOUNT-1?",
+      "answer": "SURMOUNT-1 randomized 2,539 adults with obesity, or overweight with a weight-related complication, without diabetes. Across the three studied tirzepatide groups, average weight reduction at 72 weeks ranged from 15.0% to 20.9%, compared with 3.1% with placebo. The size and randomized design support a strong conclusion about average weight reduction under the trial conditions. Gastrointestinal adverse effects were the most common and occurred mainly during dose escalation. These figures describe a specific pharmaceutical product, population, and treatment program; they do not establish equivalent effects for products of unknown composition or guarantee an individual response.",
+      "grade": "High",
+      "outcome": "Weight reduction over 72 weeks",
+      "route": "Studied subcutaneous pharmaceutical formulation",
+      "evidenceType": "Large double-blind randomized placebo-controlled trial",
+      "population": "2,539 adults with overweight or obesity without diabetes",
+      "limitation": "Effects depend on the studied population and treatment conditions.",
+      "sources": [
+        {
+          "title": "Tirzepatide Once Weekly for the Treatment of Obesity",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/",
+          "kind": "Primary research",
+          "webRef": "turn24view2"
+        }
+      ]
+    },
+    {
+      "id": "tirzepatide-versus-semaglutide",
+      "peptideId": "tirzepatide",
+      "relatedPeptideIds": [
+        "semaglutide"
+      ],
+      "question": "Does tirzepatide cause more weight loss than semaglutide?",
+      "answer": "In the 2025 SURMOUNT-5 head-to-head trial, tirzepatide produced greater average weight reduction than semaglutide in adults with obesity without diabetes. Among 751 randomized participants, mean weight change at 72 weeks was −20.2% with tirzepatide and −13.7% with semaglutide, using the maximum tolerated trial regimens. The trial was open-label and manufacturer funded, which should be considered alongside its direct randomized comparison. Gastrointestinal adverse events were common in both groups. The finding applies to the formulations and regimens compared; it does not prove that one medicine is the best choice for every individual or every clinical outcome.",
+      "grade": "Moderate",
+      "outcome": "Comparative weight reduction over 72 weeks",
+      "route": "Subcutaneous trial formulations and maximum tolerated regimens",
+      "evidenceType": "Open-label randomized head-to-head trial",
+      "population": "751 adults with obesity without diabetes",
+      "limitation": "Open-label, manufacturer-funded, specific regimens and population.",
+      "sources": [
+        {
+          "title": "Tirzepatide as Compared with Semaglutide for the Treatment of Obesity",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40353578/",
+          "kind": "Primary research",
+          "webRef": "turn34view0"
+        }
+      ]
+    },
+    {
+      "id": "tirzepatide-stopping",
+      "peptideId": "tirzepatide",
+      "question": "Do people regain weight when they stop tirzepatide?",
+      "answer": "Many participants regained weight after tirzepatide withdrawal in SURMOUNT-4. After a 36-week initial treatment period, 670 participants were randomized either to continue tirzepatide or switch to placebo. During the next 52 weeks, the placebo group gained an average 14.0% relative to its weight at randomization, while those continuing tirzepatide lost a further 5.5%. This is direct randomized evidence that continued treatment helped maintain weight reduction in participants who reached randomization. It does not mean everybody regains the same amount, and its selected population excludes people who discontinued during the initial treatment phase.",
+      "grade": "High",
+      "outcome": "Weight maintenance after continuation versus withdrawal",
+      "route": "Continuation or withdrawal of subcutaneous tirzepatide",
+      "evidenceType": "Randomized withdrawal trial after open-label lead-in",
+      "population": "670 participants randomized after 36 weeks of treatment",
+      "limitation": "Enriched for participants able to reach randomization.",
+      "sources": [
+        {
+          "title": "Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity: The SURMOUNT-4 Randomized Clinical Trial",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38078870/",
+          "kind": "Primary research",
+          "webRef": "turn33view2"
+        }
+      ]
+    },
+    {
+      "id": "collagen-joint-pain",
+      "peptideId": "collagen",
+      "question": "Do oral collagen peptides help activity-related joint pain?",
+      "answer": "Oral collagen hydrolysate may improve some measures of activity-related joint discomfort, but the evidence is less decisive than marketing often suggests. A 24-week randomized trial recruited 147 athletes and analyzed 97; several pain measures favored collagen over placebo. The missing participants, multiple outcomes, and specific athletic population limit confidence and generalizability. Reduced pain also does not demonstrate cartilage regeneration or accelerated repair of a torn tendon. This result concerns an oral nutritional preparation with a particular composition, so it should not be used to justify injectable peptides or to assume that every collagen product is clinically equivalent.",
+      "grade": "Low",
+      "outcome": "Activity-related joint pain",
+      "route": "Oral collagen hydrolysate",
+      "evidenceType": "Randomized double-blind placebo-controlled trial",
+      "population": "147 athletes recruited; 97 analyzed",
+      "limitation": "Attrition, multiple outcomes, and limited population applicability.",
+      "sources": [
+        {
+          "title": "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain",
+          "year": 2008,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18416885/",
+          "kind": "Primary research",
+          "webRef": "turn24view1"
+        }
+      ]
+    },
+    {
+      "id": "collagen-skin",
+      "peptideId": "collagen",
+      "question": "Do oral collagen peptides improve skin elasticity?",
+      "answer": "Some randomized studies report improvements in measured skin elasticity with specific oral collagen preparations. In one double-blind trial, 69 women aged 35–55 were assigned collagen hydrolysate or placebo for eight weeks; elasticity improved relative to placebo, while moisture-related findings were not statistically significant. This is a short-term signal in a narrow population rather than proof of broad skin rejuvenation. Results depend on the product and endpoint, and statistical improvement does not automatically establish a noticeable cosmetic difference. The trial does not support claims about injectable collagen-related peptides or permanent reversal of skin aging.",
+      "grade": "Low",
+      "outcome": "Short-term skin elasticity",
+      "route": "Oral collagen hydrolysate",
+      "evidenceType": "Small randomized double-blind placebo-controlled trial",
+      "population": "69 women aged 35–55, eight weeks",
+      "limitation": "Short duration, narrow population, and product-specific findings.",
+      "sources": [
+        {
+          "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study",
+          "year": 2014,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+          "kind": "Primary research",
+          "webRef": "turn24view0"
+        }
+      ]
+    },
+    {
+      "id": "peptide-purity-safety",
+      "peptideId": "semaglutide",
+      "relatedPeptideIds": [
+        "bpc-157",
+        "tb-500",
+        "ghk-cu",
+        "cjc-1295",
+        "ipamorelin",
+        "tirzepatide"
+      ],
+      "question": "Does a 99% purity claim mean a peptide is safe to inject?",
+      "answer": "A purity percentage does not establish correct identity, labeled amount, sterility, endotoxin control, or clinical safety. In a 2024 test-purchase study of no-prescription online semaglutide, only three of six orders arrived. The delivered samples contained more semaglutide than labeled, had reported purity far below the advertised 99%, and one contained elevated endotoxin despite no viable microorganisms being detected. The sample was small and selected, so it cannot estimate the failure rate of the entire market. It does demonstrate why a seller's percentage or certificate cannot, by itself, establish that a finished injectable product is suitable for human use.",
+      "grade": "Low",
+      "outcome": "Quality assurance of no-prescription online products",
+      "route": "Products sold for injection",
+      "evidenceType": "Small observational test-purchase and laboratory study",
+      "population": "Three delivered products from six selected online orders",
+      "limitation": "Documents failures; does not estimate market-wide prevalence.",
+      "sources": [
+        {
+          "title": "Safety and Risk Assessment of No-Prescription Online Semaglutide Purchases",
+          "year": 2024,
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+          "kind": "Primary research",
+          "webRef": "turn26view4"
+        }
+      ]
+    }
+  ]
+}

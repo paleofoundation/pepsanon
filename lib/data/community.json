@@ -1,0 +1,451 @@
+{
+  "project": "Peptide evidence reference site",
+  "researchedAt": "2026-10-03",
+  "scope": "Targeted public Reddit question discovery, not a systematic prevalence study.",
+  "methodology": "Public search queries targeted peptide names, efficacy, route, safety, comparison and product-quality terms. Thread title/date/content were checked in indexed public Reddit results. Questions below are editorial paraphrases. No usernames, personal medical histories or dosing instructions are retained. Cross-posts were not treated as independent question counts. The curated sample cannot establish population frequency, popularity rankings, authenticity of anecdotes or clinical effects.",
+  "questionProvenanceIsNotEvidence": true,
+  "presentation": "Use 'Questions found in public discussions' or 'Community questions'. For recurrence claims, prefer clusters with more than one independent thread. Show a 'Question source' link separately from 'Research references'.",
+  "priorityCount": 14,
+  "questions": [
+    {
+      "id": "bpc-tendon-healing",
+      "peptide": "BPC-157",
+      "question": "Does BPC-157 help tendon or ligament injuries in humans?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Chronic Triceps Tendinopathy BPC-157 Inquiries",
+          "url": "https://www.reddit.com/r/Peptides/comments/166wrzi",
+          "date": "2023-09-01",
+          "community": "Peptides"
+        },
+        {
+          "title": "BPC-157 For Fully Body Tendonosis",
+          "url": "https://www.reddit.com/r/Peptides/comments/10870yq",
+          "date": "2023-01-10",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Separate acute animal injury models from chronic human tendon disease; distinguish reported pain relief from structural repair."
+    },
+    {
+      "id": "bpc-oral-vs-injection",
+      "peptide": "BPC-157",
+      "question": "Is oral BPC-157 as effective as injected BPC-157?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Oral vs. injectable bpc157",
+          "url": "https://www.reddit.com/r/Peptides/comments/1372cht",
+          "date": "2023-05-03",
+          "community": "Peptides"
+        },
+        {
+          "title": "Injectable Wolverine Stack vs Oral/Tablet BPC-157 + TB-500 — Is There a Difference?",
+          "url": "https://www.reddit.com/r/Biohacking/comments/1wrcxno/injectable_wolverine_stack_vs_oraltablet_bpc157/",
+          "date": "2026-09-27",
+          "community": "Biohacking"
+        }
+      ],
+      "researchScope": "Require human pharmacokinetic and comparative clinical data; acid stability is not systemic bioavailability."
+    },
+    {
+      "id": "bpc-human-evidence",
+      "peptide": "BPC-157",
+      "question": "What human evidence exists for BPC-157?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Chronic Triceps Tendinopathy BPC-157 Inquiries",
+          "url": "https://www.reddit.com/r/Peptides/comments/166wrzi",
+          "date": "2023-09-01",
+          "community": "Peptides"
+        },
+        {
+          "title": "Questions on BPC-157 & TB-500 – Dosing, Administration, and Best Sources",
+          "url": "https://www.reddit.com/r/PeptideDiscussion/comments/1iec7qn",
+          "date": "2025-01-31",
+          "community": "PeptideDiscussion"
+        }
+      ],
+      "researchScope": "Inventory study design, population, route, comparator, sample size and adverse-event collection. Lack of adequate trials is an answer."
+    },
+    {
+      "id": "bpc-injection-site",
+      "peptide": "BPC-157",
+      "question": "Does BPC-157 need to be injected near an injury to work?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "BPC-157 For Fully Body Tendonosis",
+          "url": "https://www.reddit.com/r/Peptides/comments/10870yq",
+          "date": "2023-01-10",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Explain whether site-specific superiority has been tested; do not turn anecdotes into administration guidance."
+    },
+    {
+      "id": "bpc-cancer-risk",
+      "peptide": "BPC-157",
+      "question": "Does BPC-157 increase cancer risk?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Cancer risk? Stunting brain development?",
+          "url": "https://www.reddit.com/r/bpc_157/comments/1688tb0/cancer_risk_stunting_brain_development/",
+          "date": "2023-09-02",
+          "community": "bpc_157"
+        }
+      ],
+      "researchScope": "Separate biological plausibility from observed cancer outcomes and from absence of long-term safety data; avoid both proven-carcinogen and proven-safe claims."
+    },
+    {
+      "id": "bpc-nerve-pain",
+      "peptide": "BPC-157",
+      "question": "Does BPC-157 help peripheral nerve pain or nerve injury?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Questions on BPC-157 & TB-500 – Dosing, Administration, and Best Sources",
+          "url": "https://www.reddit.com/r/PeptideDiscussion/comments/1iec7qn",
+          "date": "2025-01-31",
+          "community": "PeptideDiscussion"
+        }
+      ],
+      "researchScope": "Require indication-specific human outcomes; avoid importing tendon or rodent findings."
+    },
+    {
+      "id": "tb500-vs-thymosin-beta4",
+      "peptide": "TB-500 / thymosin beta-4",
+      "question": "Are TB-500 and thymosin beta-4 the same molecule?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "TB-500 vs TB-4",
+          "url": "https://www.reddit.com/r/Peptides/comments/17r2ron",
+          "date": "2023-11-09",
+          "community": "Peptides"
+        },
+        {
+          "title": "TB4 vs TB500",
+          "url": "https://www.reddit.com/r/Peptidesource/comments/1r2z902/tb4_vs_tb500/",
+          "date": "2026-02-12",
+          "community": "Peptidesource"
+        }
+      ],
+      "researchScope": "Match sequence and formulation to cited study; distinguish full-length peptide from named fragments and ambiguous vendor labels."
+    },
+    {
+      "id": "tb500-surgery-healing",
+      "peptide": "TB-500 / thymosin beta-4",
+      "question": "Does TB-500 improve recovery or scarring after surgery?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "TB4 full sequence vs TB4 frag 17-23 (aka TB-500) for post-surgery recovery?",
+          "url": "https://www.reddit.com/r/Peptides/comments/17llo3e/tb4_full_sequence_vs_tb4_frag_1723_aka_tb500_for/",
+          "date": "2023-11-01",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Separate topical wound or ocular trials of full-length thymosin beta-4 from systemic TB-500 use."
+    },
+    {
+      "id": "bpc-tb500-combination",
+      "peptide": "BPC-157 / TB-500",
+      "question": "Is a BPC-157 and TB-500 combination better than either peptide alone?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Questions on BPC-157 & TB-500 – Dosing, Administration, and Best Sources",
+          "url": "https://www.reddit.com/r/PeptideDiscussion/comments/1iec7qn",
+          "date": "2025-01-31",
+          "community": "PeptideDiscussion"
+        },
+        {
+          "title": "Injectable Wolverine Stack vs Oral/Tablet BPC-157 + TB-500 — Is There a Difference?",
+          "url": "https://www.reddit.com/r/Biohacking/comments/1wrcxno/injectable_wolverine_stack_vs_oraltablet_bpc157/",
+          "date": "2026-09-27",
+          "community": "Biohacking"
+        }
+      ],
+      "researchScope": "Require comparative trials; combinations do not inherit proof of additive benefit from separate mechanistic studies."
+    },
+    {
+      "id": "ghk-topical-skin",
+      "peptide": "GHK-Cu",
+      "question": "Does topical GHK-Cu improve skin appearance?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Does topical GHK-Cu actually work? Or is injecting better?",
+          "url": "https://www.reddit.com/r/Peptidesource/comments/1m9tmsl/does_topical_ghkcu_actually_work_or_is_injecting/",
+          "date": "2025-07-26",
+          "community": "Peptidesource"
+        },
+        {
+          "title": "GHK-CU topical vs injection",
+          "url": "https://www.reddit.com/r/Peptides/comments/zoztmp",
+          "date": "2022-12-18",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Use controlled human studies, exact topical formulation, measured endpoint and treatment duration; qualify weak or indirect evidence."
+    },
+    {
+      "id": "ghk-injection-vs-topical",
+      "peptide": "GHK-Cu",
+      "question": "Are GHK-Cu injections better than topical products for skin?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "GHK-CU topical vs injection",
+          "url": "https://www.reddit.com/r/Peptides/comments/zoztmp",
+          "date": "2022-12-18",
+          "community": "Peptides"
+        },
+        {
+          "title": "Does topical GHK-Cu actually work? Or is injecting better?",
+          "url": "https://www.reddit.com/r/Peptidesource/comments/1m9tmsl/does_topical_ghkcu_actually_work_or_is_injecting/",
+          "date": "2025-07-26",
+          "community": "Peptidesource"
+        }
+      ],
+      "researchScope": "Require direct comparative human data; topical findings cannot establish injectable efficacy or safety."
+    },
+    {
+      "id": "ghk-topical-depth",
+      "peptide": "GHK-Cu",
+      "question": "Can topical GHK-Cu reach and repair deeper muscles or ligaments?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "GHK-Cu topical absorbtion",
+          "url": "https://www.reddit.com/r/Peptides/comments/12ldnc9",
+          "date": "2023-04-14",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Distinguish skin penetration from therapeutic delivery to deep tissue; no preparation or injection instructions."
+    },
+    {
+      "id": "cjc-ipamorelin-sleep",
+      "peptide": "CJC-1295 / ipamorelin",
+      "question": "Do CJC-1295 and ipamorelin improve sleep?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "CJC 1295 no Dac with Ipamorelin for sleep",
+          "url": "https://www.reddit.com/r/Peptides/comments/1i9qeva/cjc_1295_no_dac_with_ipamorelin_for_sleep/",
+          "date": "2025-01-25",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Check actual studied molecule (DAC versus products called no-DAC), population, combination evidence and validated sleep endpoints."
+    },
+    {
+      "id": "cjc-ipamorelin-muscle",
+      "peptide": "CJC-1295 / ipamorelin",
+      "question": "Do CJC-1295 and ipamorelin build muscle in healthy adults?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Do GH Secretagogues Affect Blood Sugar?",
+          "url": "https://www.reddit.com/r/RealSteroidWiki/comments/1vrgs77/do_gh_secretagogues_affect_blood_sugar/",
+          "date": "2026-08-18",
+          "community": "RealSteroidWiki"
+        }
+      ],
+      "researchScope": "GH or IGF-1 changes are surrogate outcomes and do not establish muscle or performance benefit."
+    },
+    {
+      "id": "cjc-ipamorelin-glucose",
+      "peptide": "CJC-1295 / ipamorelin",
+      "question": "How do CJC-1295 and ipamorelin affect blood glucose or insulin sensitivity?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Do GH Secretagogues Affect Blood Sugar?",
+          "url": "https://www.reddit.com/r/RealSteroidWiki/comments/1vrgs77/do_gh_secretagogues_affect_blood_sugar/",
+          "date": "2026-08-18",
+          "community": "RealSteroidWiki"
+        }
+      ],
+      "researchScope": "Use compound-specific clinical data and distinguish plausible class effects from measured risks."
+    },
+    {
+      "id": "tirzepatide-vs-semaglutide",
+      "peptide": "Semaglutide / tirzepatide",
+      "question": "Does tirzepatide produce more weight loss than semaglutide?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Has anyone switched from Tirzepatide to Semaglutide? Less effective? More effective?",
+          "url": "https://www.reddit.com/r/Semaglutide/comments/1bnmvch",
+          "date": "2024-03-25",
+          "community": "Semaglutide"
+        },
+        {
+          "title": "Trying to decide between tirzepatide vs semaglutide anyone have real experience with both",
+          "url": "https://www.reddit.com/r/Semaglutide/comments/1so6v0c/trying_to_decide_between_tirzepatide_vs/",
+          "date": "2026-04-17",
+          "community": "Semaglutide"
+        }
+      ],
+      "researchScope": "Prioritize head-to-head trial; identify obesity versus diabetes population, studied doses, duration, estimand and adverse events."
+    },
+    {
+      "id": "semaglutide-withdrawal",
+      "peptide": "Semaglutide",
+      "question": "What happens to weight after semaglutide is stopped?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "How to not regain it all back?",
+          "url": "https://www.reddit.com/r/Semaglutide/comments/18y2c3p",
+          "date": "2024-01-04",
+          "community": "Semaglutide"
+        },
+        {
+          "title": "Weight rebound after stopping",
+          "url": "https://www.reddit.com/r/GLP1Australia/comments/1vyddb7/weight_rebound_after_stopping/",
+          "date": "2026-08-25",
+          "community": "GLP1Australia"
+        }
+      ],
+      "researchScope": "Use withdrawal trial or extension; specify on-treatment weight loss, follow-up and regained proportion; do not prescribe stopping or restarting."
+    },
+    {
+      "id": "semaglutide-lean-mass",
+      "peptide": "Semaglutide",
+      "question": "Does semaglutide-associated weight loss include lean mass loss?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Semaglutide and muscle loss?",
+          "url": "https://www.reddit.com/r/Semaglutide/comments/1i726du",
+          "date": "2025-01-22",
+          "community": "Semaglutide"
+        },
+        {
+          "title": "Progress and muscle loss",
+          "url": "https://www.reddit.com/r/Semaglutide/comments/1vxi8r9/progress_and_muscle_loss/",
+          "date": "2026-08-24",
+          "community": "Semaglutide"
+        }
+      ],
+      "researchScope": "Distinguish DXA lean mass from skeletal muscle and strength; include absolute versus proportional changes."
+    },
+    {
+      "id": "collagen-skin",
+      "peptide": "Collagen peptides",
+      "question": "Do oral collagen peptides improve skin hydration or wrinkles?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Does Hydrolyzed collagen actually help",
+          "url": "https://www.reddit.com/r/30PlusSkinCare/comments/1fkka74/does_hydrolyzed_collagen_actually_help/",
+          "date": "2024-09-19",
+          "community": "30PlusSkinCare"
+        },
+        {
+          "title": "Collagen Peptides - have I been influenced?",
+          "url": "https://www.reddit.com/r/30PlusSkinCare/comments/1ucfxr7/collagen_peptides_have_i_been_influenced/",
+          "date": "2026-06-22",
+          "community": "30PlusSkinCare"
+        }
+      ],
+      "researchScope": "Use primary randomized trials with formulation specificity; mention sponsorship, small samples and limited generalizability."
+    },
+    {
+      "id": "collagen-other-outcomes",
+      "peptide": "Collagen peptides",
+      "question": "Do oral collagen peptides improve hair, nails or joint symptoms?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Collagen Peptides - have I been influenced?",
+          "url": "https://www.reddit.com/r/30PlusSkinCare/comments/1ucfxr7/collagen_peptides_have_i_been_influenced/",
+          "date": "2026-06-22",
+          "community": "30PlusSkinCare"
+        }
+      ],
+      "researchScope": "Split outcomes when answered; skin evidence must not be assigned to hair, nails or joints."
+    },
+    {
+      "id": "peptide-coa-purity",
+      "peptide": "Quality and safety",
+      "question": "Does a high purity result prove a peptide is sterile or safe?",
+      "priority": 1,
+      "priorityLabel": "Initial evidence answer",
+      "sources": [
+        {
+          "title": "Bought peptides from a vendor who claims four rounds of testing but the COA only shows one HPLC result. How many tests should actually be on a legit certificate?",
+          "url": "https://www.reddit.com/r/Biohacking/comments/1wk3kmr/bought_peptides_from_a_vendor_who_claims_four/",
+          "date": "2026-09-18",
+          "community": "Biohacking"
+        }
+      ],
+      "researchScope": "Use primary analytical research and authoritative methods; purity, identity, content, sterility and endotoxin are distinct measurands."
+    },
+    {
+      "id": "research-use-only",
+      "peptide": "Quality and safety",
+      "question": "What does a research-use-only label establish about safety?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Coach is pushing peptides labeled “for research use only”. am I crazy for thinking that’s not okay?",
+          "url": "https://www.reddit.com/r/Supplements/comments/1oe9o0v/coach_is_pushing_peptides_labeled_for_research/",
+          "date": "2025-10-23",
+          "community": "Supplements"
+        }
+      ],
+      "researchScope": "Use authoritative current regulatory sources; label is not approval or a clinical safety finding, jurisdiction must be explicit."
+    },
+    {
+      "id": "peptide-storage",
+      "peptide": "Quality and safety",
+      "question": "Can general online storage advice establish a peptide product's shelf life?",
+      "priority": 2,
+      "priorityLabel": "Second-pass question",
+      "sources": [
+        {
+          "title": "Need Advice for Storing Excess Peptide",
+          "url": "https://www.reddit.com/r/Peptides/comments/188xm7u/need_advice_for_storing_excess_peptide/",
+          "date": "2023-12-02",
+          "community": "Peptides"
+        },
+        {
+          "title": "GHK-Cu topical absorbtion",
+          "url": "https://www.reddit.com/r/Peptides/comments/12ldnc9",
+          "date": "2023-04-14",
+          "community": "Peptides"
+        }
+      ],
+      "researchScope": "Product/formulation-specific stability data required; do not provide generic reconstitution, freezing or storage protocol for unapproved products."
+    }
+  ]
+}
