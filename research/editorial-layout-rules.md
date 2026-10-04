@@ -4,7 +4,7 @@ Reader-facing copy describes the evidence directly: use “Studies in animals”
 
 Core content is visible prose under the universal section headings. Do not render the main guide as a list of collapsed answers. Preserve one introductory paragraph in Overview; place clinical findings and interpretation in the relevant later sections.
 
-Use one cohesive paragraph per focused answer, with a descriptive subheading when a section covers several outcomes. Explain the finding, study design and practical interpretive limit in connected prose. Do not inflate certainty to create an authoritative tone. Keep outcome-specific evidence grades subordinate to the explanation.
+Use one cohesive paragraph per focused answer, with a descriptive subheading when a section covers several outcomes. Explain the finding, study design and practical interpretive limit in connected prose. Do not inflate certainty to create an authoritative tone. Consolidate outcome-specific evidence grades in each guide’s Evidence assessments table; do not repeat grade badges beneath prose, inside FAQs, or in question previews. Every guide must link directly to #evidence from its hero (Evidence Assessments) and top-level sidebar (Evidence). Keep sentence-level source citations in the prose and keep reference numbering in first-appearance order as sections move.
 
 Reserve FAQ accordions for curated supplementary questions, and research accordions for individual study records. Main conclusions must remain understandable without opening any accordion. Target approximately 75–85% visible narrative by explanatory word count, excluding references and study records; this is our editorial target, not a measured claim about Examine.com. Do not pad content to meet a quota.
 

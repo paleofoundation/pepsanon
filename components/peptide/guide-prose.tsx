@@ -1,7 +1,6 @@
 import type {Question, Source} from '@/lib/peptides';
 import type {GuideEntry} from '@/lib/guide-sections';
 import {CitedText} from './cited-text';
-import {Grade} from './evidence';
 
 /** Main explanations are always visible. Only secondary questions use GuideFaq. */
 export function GuideProse({entry,entryId,questions,sources}:{entry?:GuideEntry;entryId:string;questions:Question[];sources:Source[]}) {
@@ -10,7 +9,6 @@ export function GuideProse({entry,entryId,questions,sources}:{entry?:GuideEntry;
   {questions.map(q=><div className="section-answer" key={q.id} id={q.id}>
    <h3>{q.question}</h3>
    <p className="answer-paragraph"><CitedText sentences={q.sentences.map(s=>({text:s.text,sources:s.sourceIndexes.map(i=>q.sources[i])}))} references={sources}/></p>
-   <div className="prose-evidence-grade"><span>Evidence for {q.outcome.toLowerCase()}</span><Grade grade={q.grade}/></div>
   </div>)}
  </div>;
 }

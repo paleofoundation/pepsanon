@@ -11,6 +11,7 @@ export const guideSections=[
  {id:'product-quality',label:'Product quality'},
  {id:'status',label:'Status'},
  {id:'answers',label:'FAQs'},
+ {id:'evidence',label:'Evidence'},
  {id:'research',label:'Research'},
 ];
 export type GuideEntry={question:string;sentences:CitedSentence[]};
