@@ -1,20 +1,23 @@
 import pilot from '@/lib/data/bpc-pilot.json';
-import {CitedText} from './cited-text';
+import {SourceMarkers} from './cited-text';
 import type {Source} from '@/lib/peptides';
+import {ChevronRight} from 'lucide-react';
+import {ResearchPanel,ResearchPanelTrigger} from './research-panel';
 
 export function PilotStudies({sources}:{sources:Source[]}) {
   return <div id="reviewed-studies">
     <h3>Primary studies reviewed</h3>
     <p>The studies below include {pilot.humanReports} human reports, including one preprint, and {pilot.preclinicalReports} animal or laboratory reports. These studies were selected for relevance and full-text accessibility; this is not an exhaustive systematic review.</p>
-    <div className="rgbc-faq-block">
-      {pilot.studies.map(study=><details className="rgbc-faq-item" key={study.id} id={`pilot-${study.id}`}>
-        <summary><span className="rgbc-faq-icon" aria-hidden="true"/><span>{study.label} · {study.source.year}</span></summary>
-        <div className="rgbc-faq-a">
-          <p className="answer-paragraph"><CitedText sentences={study.sentences.map(text=>({text,sources:[study.source]}))} references={sources}/></p>
-          <p className="study-locator"><a href={study.pdfUrl} target="_blank" rel="noreferrer">Read the study (PDF)</a> · Relevant pages: {study.locators.join(', ')}.</p>
-          {study.hold&&<p className="editorial-note">Animal dose and sample-size claims are withheld pending clarification of the source’s reporting discrepancies.</p>}
-        </div>
-      </details>)}
-    </div>
+    <p>Select a study to open its findings and limitations.</p>
+    <figure className="wp-block-table evidence-table primary-studies-table" role="region" aria-label="Primary studies table" tabIndex={0}><table>
+      <thead><tr><th scope="col">Study</th><th scope="col">Population / model</th><th scope="col">Year</th><th scope="col">Details</th></tr></thead>
+      <tbody>{pilot.studies.map(study=><ResearchPanel key={study.id} title={study.label} citations={[study.source]} references={sources} studies={[study]} expandStudy>
+        <tr id={`pilot-${study.id}`}>
+          <td><ResearchPanelTrigger asChild><button type="button" className="research-outcome-trigger">{study.label}</button></ResearchPanelTrigger><span className="table-citations"><SourceMarkers citations={[study.source]} references={sources}/></span></td>
+          <td>{study.species}</td><td>{study.source.year}</td>
+          <td><ResearchPanelTrigger asChild><button type="button" className="research-details-trigger" aria-label={`View study details: ${study.label}`}>Details<ChevronRight aria-hidden="true"/></button></ResearchPanelTrigger></td>
+        </tr>
+      </ResearchPanel>)}</tbody>
+    </table></figure>
   </div>;
 }

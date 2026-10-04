@@ -1,6 +1,7 @@
 import type {Metadata} from 'next';
 import './globals.css';
 import './member-experience.css';
+import './research-details.css';
 import {Shell} from '@/components/peptide/shell';
 import {AccountProvider} from '@/components/peptide/account';
 import {getChatGPTUser,chatGPTSignOutPath} from './chatgpt-auth';

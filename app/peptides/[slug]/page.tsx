@@ -3,7 +3,7 @@ import {PageCredits} from '@/components/peptide/authors';
 import {notFound} from 'next/navigation';
 import {peptides,forPeptide,reviewedAt} from '@/lib/peptides';
 import {guideSections,guideContent} from '@/lib/guide-sections';
-import {Grade} from '@/components/peptide/evidence';
+import {EvidenceTable} from '@/components/peptide/evidence-table';
 import {GuideProse} from '@/components/peptide/guide-prose';
 import {isSupplementalQuestion} from '@/lib/editorial-layout';
 import {GuideFaq} from '@/components/peptide/guide-faq';
@@ -46,7 +46,7 @@ export default async function Page({params}:{params:Promise<{slug:string}>}) {
  <section id="overview"><h2 className="wp-block-heading">Overview</h2><p className="answer-paragraph"><CitedText sentences={content.overview.sentences} references={sources}/></p></section>
  {proseSections.map(section=><section key={section.id} id={section.id}><h2 className="wp-block-heading">{section.label}</h2><GuideProse questions={section.questions} sources={sources} entry={section.entry} entryId={`${p.id}-${section.id}-guide`}/></section>)}
  <section id="answers"><h2 className="wp-block-heading">FAQs</h2>{supplemental.length>0?<GuideFaq questions={supplemental} sources={sources}/>:<nav aria-label="Questions answered in this guide"><ul className="faq-index">{qs.map(q=><li key={q.id}><a href={`#${q.id}`}>{q.question}</a></li>)}</ul></nav>}</section>
- <section id="evidence"><h2 className="wp-block-heading">Evidence assessments</h2><p>These are our editorial assessments of the selected studies. <a href="/methodology#grading">How we grade</a>.</p><figure className="wp-block-table evidence-table" role="region" aria-label="Evidence assessments table" tabIndex={0}><table className="has-fixed-layout"><thead><tr><th>Outcome and study design</th><th>Our assessment</th></tr></thead><tbody>{qs.map(q=><tr key={q.id}><td><a href={`#${q.id}`}>{q.outcome}</a><span className="table-sub"><CitedText sentences={[{text:`${q.evidenceType.replace(/[.!?]$/,'')}.`,sources:q.sources}]} references={sources}/></span></td><td><Grade grade={q.grade}/></td></tr>)}</tbody></table></figure></section>
+ <section id="evidence"><h2 className="wp-block-heading">Evidence assessments</h2><p>These are our editorial assessments of the selected studies. Select an outcome or source count to explore the supporting evidence. <a href="/methodology#grading">How we grade</a>.</p><EvidenceTable questions={qs} references={sources} studies={isPilot?bpcPilot.studies:[]}/></section>
  <section id="research"><h2 className="wp-block-heading">Research</h2>{isPilot&&<PilotStudies sources={sources}/>}<References sources={sources}/>
  <div id="community" className="community-section"><h3>Community questions</h3><p>We use public discussions to select questions; clinical answers use research and regulatory sources.</p>{threads.map(t=><p key={t.url}>{t.title.replace(/[.!?]$/,'')}.<SourceMarkers citations={[sources.find(s=>s.url===t.url)!]} references={sources}/></p>)}</div><div className="editorial-note">Last source check: {reviewedAt}. {isPilot?'This BPC-157 summary awaits human investigator review by Alex Leaf or Briana Theroux.':''} This selected-source review has not undergone independent clinical peer review. Evidence grades are editorial assessments, not formal GRADE ratings. <a href="/methodology">Read the full method.</a></div></section>
  </div><ResearchRail peptideId={p.id}/></div></div></article>;
