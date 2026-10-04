@@ -85,6 +85,13 @@ html{scroll-behavior:smooth;scroll-padding-top:110px}body{font-family:Inter,Aria
 .section-answer{scroll-margin-top:115px}.section-answer h3{color:var(--color-primary);font-size:24px;line-height:1.4;margin-bottom:18px}.section-answer p{font-size:18px;line-height:1.8}.faq-index{padding-left:1.2em}.faq-index li{margin-bottom:14px;line-height:1.6}.entry-content sup,.answer-body sup{font-size:.72em;line-height:0;vertical-align:super;white-space:nowrap}.entry-content sup a,.answer-body sup a{padding:0 1px}.source-section li:target{background:#e1f1ef;outline:2px solid #007b83;outline-offset:5px}#research h3{margin-top:24px}#community,#evidence{scroll-margin-top:115px}
 .author-dialog{max-height:90vh;overflow-y:auto}.bio-references{font-size:14px;line-height:1.6}.bio-references h3{font-size:17px;margin-bottom:8px}.bio-references ol{list-style:decimal;padding-left:20px}.author-dialog sup{font-size:.72em;vertical-align:super;line-height:0}.author-dialog sup a{color:#007b83;padding:0 1px}
 .citation-tail{white-space:nowrap}
+/* Reserve line-box space for table citations; do not combine a raised offset
+   with superscript alignment or let a source group wrap apart. */
+.evidence-table table{min-width:34rem}
+.wp-block-table.evidence-table td,.wp-block-table.evidence-table th{word-break:normal;overflow-wrap:normal}
+.evidence-table .table-sub{font-size:14px;line-height:1.75}
+.evidence-table .table-sub sup{position:static;inset:auto;display:inline-block;font-size:12px;line-height:1;vertical-align:super}
+.evidence-table .table-sub .rgbc-reference{font-size:inherit;line-height:inherit}
 .header__logo .brand-domain{font-size:.72em;letter-spacing:0}.brand-domain-label{font-size:14px;margin-top:-8px!important}
 
 /* Editorial reading hierarchy: visible explanations first; secondary FAQs last. */
