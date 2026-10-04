@@ -2,7 +2,7 @@ import {ArrowRight,ArrowUpRight,BookOpen} from 'lucide-react';
 import {InvestigatorFooter} from './authors';
 
 const groups=[
-  {title:'The library',links:[['Peptide directory','/peptides'],['Research questions','/questions'],['Studies & references','/sources'],['My saved research','/profile']]},
+  {title:'The library',links:[['Peptide directory','/peptides'],['Peptide stacks','/stacks'],['Wolverine stack','/stacks/wolverine-stack'],['Research questions','/questions'],['Studies & references','/sources'],['My saved research','/profile']]},
   {title:'Explore peptides',links:[['BPC-157','/peptides/bpc-157'],['Semaglutide','/peptides/semaglutide'],['Tirzepatide','/peptides/tirzepatide'],['Collagen peptides','/peptides/collagen']]},
   {title:'About the research',links:[['How we grade evidence','/methodology#grading'],['Editorial standards','/methodology'],['Primary investigators','/methodology#investigators'],['Medical Disclaimer','/medical-disclaimer']]},
 ];

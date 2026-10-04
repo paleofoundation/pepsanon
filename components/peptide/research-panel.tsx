@@ -55,13 +55,14 @@ export function ResearchPanel({children, title, citations, references, question,
         <ul className="research-source-list">
           {ordered.map(source => {
             const study = studies.find(record => record.source.url === source.url);
+            const isStudy = source.kind.startsWith('Primary research');
             const index = references.findIndex(reference => reference.url === source.url) + 1;
             const citedSentences = question?.sentences.filter(sentence => sentence.sourceIndexes.some(i => question.sources[i].url === source.url));
             return <li key={source.url}>
               <a className="research-source-title" href={source.url} target="_blank" rel="noreferrer">[{index}] {source.title}</a>
               <span className="research-source-meta">{source.kind} · {source.year || `Accessed ${source.accessedAt || '2026-10-03'}`}</span>
               <details className="research-study-details" open={expandStudy || undefined}>
-                <summary aria-label={`${study ? 'Study' : 'Source'} details: ${source.title}`}><span>{study ? 'Study' : 'Source'} details</span><ChevronDown aria-hidden="true"/></summary>
+                <summary aria-label={`${isStudy ? 'Study' : 'Source'} details: ${source.title}`}><span>{isStudy ? 'Study' : 'Source'} details</span><ChevronDown aria-hidden="true"/></summary>
                 <div className="research-study-details__body">
                   {study ? <>
                     <dl className="research-facts"><dt>Population / model</dt><dd>{study.species}</dd></dl>

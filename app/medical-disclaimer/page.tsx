@@ -1,6 +1,7 @@
 import {PolicyPage} from '@/components/peptide/policy-page';
+import {pageMetadata} from '@/lib/seo';
 
-export const metadata={title:'Medical Disclaimer',description:'The educational scope and limitations of the peptide research information published by Peptides Anonymous.'};
+export const metadata=pageMetadata('Medical Disclaimer','The educational scope and limitations of the peptide research information published by Peptides Anonymous.','/medical-disclaimer');
 
 export default function Page() {
   return <PolicyPage title="Medical Disclaimer" description="Research information to help you understand the evidence. Personal medical decisions belong with a qualified healthcare professional.">

@@ -1,3 +1,6 @@
+import {pageMetadata,breadcrumbs} from '@/lib/seo';
+import {StructuredData} from '@/components/peptide/structured-data';
+import {StackLinks} from '@/components/peptide/stack-links';
 import {FavoriteButton} from '@/components/peptide/account';
 import {PageCredits} from '@/components/peptide/authors';
 import {notFound} from 'next/navigation';
@@ -14,7 +17,7 @@ import community from '@/lib/data/community.json';
 import bpcPilot from '@/lib/data/bpc-pilot.json';
 import {PilotStudies} from '@/components/peptide/pilot-studies';
 import {referencesInOrder} from '@/lib/citation-order';
-export async function generateMetadata({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const p=peptides.find(p=>p.id===slug);return {title:p?`${p.name}: evidence, benefits, safety, and questions`:'Peptide not found',description:p?.description}}
+export async function generateMetadata({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const p=peptides.find(p=>p.id===slug);return p?pageMetadata(`${p.name}: evidence, benefits, safety, and questions`,p.description,`/peptides/${p.id}`):{title:'Peptide not found',robots:{index:false}}}
 export default async function Page({params}:{params:Promise<{slug:string}>}) {
  const {slug}=await params;const p=peptides.find(p=>p.id===slug);if(!p)notFound();
  const isPilot=p.id==='bpc-157';
@@ -37,7 +40,7 @@ export default async function Page({params}:{params:Promise<{slug:string}>}) {
   ...threads.map(t=>({title:t.title,url:t.url,year:t.date,kind:`Community question · r/${t.community}`})),
  ]);
  const sections=guideSections.map(s=>({...s,children:s.id==='research'?[...(isPilot?[{id:'reviewed-studies',label:'Primary studies reviewed'}]:[]),{id:'studies',label:'References'},{id:'community',label:'Community questions'}]:undefined}));
- return <article className="peptide-article">
+ return <article className="peptide-article"><StructuredData data={breadcrumbs([{name:'Home',path:'/'},{name:'Peptides',path:'/peptides'},{name:p.name,path:`/peptides/${p.id}`}])}/>
  <div className="research-hero"><div className="research-hero__wrapper"><div className="research-hero__left"><div className="research-hero__left-content"><p>Our evidence assessments are specific to an outcome, population, and formulation.</p><a href="/methodology#grading">Read our grading method</a></div></div>
  <div className="research-hero__center"><nav className="breadcrumb" aria-label="Breadcrumb"><ol className="breadcrumb__wrapper"><li className="breadcrumb__item"><a className="breadcrumb__link" href="/">Home</a></li><li className="breadcrumb__item"><a className="breadcrumb__link" href="/peptides">Peptides</a></li><li className="breadcrumb__item"><span>{p.name}</span></li></ol></nav>
  <div className="research-hero__center-content"><h1 className="research-hero__center-title">{p.name}</h1><div className="research-hero__center-text"><p>Explore the evidence on benefits, safety, contraindications, and interactions. Each answer links to its sources.</p></div></div><div className="research-hero__categories">{p.category}</div><div className="research-hero__center-tags"><FavoriteButton kind="peptide" itemId={p.id} title={p.name} hero/><a className="research-hero__center-tag" href="#safety"><ShieldCheck/>Safety</a><a className="research-hero__center-tag" href="#answers"><MessagesSquare/>FAQs</a><a className="research-hero__center-tag" href="#evidence"><ChartNoAxesColumnIncreasing/>Evidence Assessments</a><a className="research-hero__center-tag" href="#studies"><BookOpen/>References</a></div></div>
@@ -47,7 +50,7 @@ export default async function Page({params}:{params:Promise<{slug:string}>}) {
  {proseSections.map(section=><section key={section.id} id={section.id}><h2 className="wp-block-heading">{section.label}</h2><GuideProse questions={section.questions} sources={sources} entry={section.entry} entryId={`${p.id}-${section.id}-guide`}/></section>)}
  <section id="answers"><h2 className="wp-block-heading">FAQs</h2>{supplemental.length>0?<GuideFaq questions={supplemental} sources={sources}/>:<nav aria-label="Questions answered in this guide"><ul className="faq-index">{qs.map(q=><li key={q.id}><a href={`#${q.id}`}>{q.question}</a></li>)}</ul></nav>}</section>
  <section id="evidence"><h2 className="wp-block-heading">Evidence assessments</h2><p>These are our editorial assessments of the selected studies. Select an outcome or study count to explore the supporting evidence. <a href="/methodology#grading">How we grade</a>.</p><EvidenceTable questions={qs} references={sources} studies={isPilot?bpcPilot.studies:[]}/></section>
- <section id="research"><h2 className="wp-block-heading">Research</h2>{isPilot&&<PilotStudies sources={sources}/>}<References sources={sources}/>
+ <StackLinks peptideId={p.id}/><section id="research"><h2 className="wp-block-heading">Research</h2>{isPilot&&<PilotStudies sources={sources}/>}<References sources={sources}/>
  <div id="community" className="community-section"><h3>Community questions</h3><p>We use public discussions to select questions; clinical answers use research and regulatory sources.</p>{threads.map(t=><p key={t.url}>{t.title.replace(/[.!?]$/,'')}.<SourceMarkers citations={[sources.find(s=>s.url===t.url)!]} references={sources}/></p>)}</div><div className="editorial-note">Last source check: {reviewedAt}. {isPilot?'This BPC-157 summary awaits human investigator review by Alex Leaf or Briana Theroux.':''} This selected-source review has not undergone independent clinical peer review. Evidence grades are editorial assessments, not formal GRADE ratings. <a href="/methodology">Read the full method.</a></div></section>
  </div><ResearchRail peptideId={p.id}/></div></div></article>;
 }

@@ -6,6 +6,7 @@ import {FavoriteButton,useAccount} from './account';
 import {InvestigatorTeam} from './authors';
 import {peptides,questions} from '@/lib/peptides';
 import {studies} from '@/lib/studies';
+import {stacks} from '@/lib/stacks';
 import {guideQuestions} from '@/lib/guide-sections';
 import styles from './home.module.css';
 const cx=(value:string)=>value.split(' ').map(name=>styles[name]).join(' ');
@@ -23,7 +24,7 @@ export function HomePage(){
       <h1>Peptide questions.<br/><em>Evidence</em> you can trace.</h1>
       <p className={cx('hero__intro')}>Understand the research behind the claims. Explore peptide guides, study findings, and the limits of the evidence.</p>
       <SearchBox/>
-      <div className={cx('quick-searches')}><span>Start exploring</span><a href="/peptides/bpc-157">BPC-157</a><a href="/peptides/semaglutide">Semaglutide</a><a href="/peptides/ghk-cu">GHK-Cu</a></div>
+      <div className={cx('quick-searches')}><span>Start exploring</span><a href="/peptides/bpc-157">BPC-157</a><a href="/peptides/semaglutide">Semaglutide</a><a href="/stacks/wolverine-stack">Wolverine stack</a></div>
       <a className={cx('hero__browse')} href="/peptides">Explore all peptides <ArrowRight size={20} aria-hidden="true"/></a>
     </div>
     <div className={cx('hero__art')} aria-hidden="true">
@@ -46,6 +47,7 @@ export function HomePage(){
   </section>
   <section className={cx('credibility')} aria-label="Explore the library"><a href="/peptides"><BookOpen size={18}/>{peptides.length} peptide guides</a><a href="/questions">{questions.length+guideQuestions.length} research questions</a><a href="/sources"><FileText size={18}/>{studies.length} research references</a></section>
   <section className={cx('section')} id="explore"><div className={cx('section-intro centered')}><p className="section-kicker">EXPLORE THE LIBRARY</p><h2>Start with what you want to understand.</h2><p>Browse peptides by research topic, or go straight to a question.</p></div><div className={cx('collection-grid')}>{collections.map(c=><article className={cx('collection-card')} key={c.number}><div className={cx('collection-card__top')}><span>{c.number}</span><small>{c.label}</small></div><h3>{c.title}</h3><p>{c.copy}</p><ul>{c.ids.map(id=>{const p=peptides.find(p=>p.id===id)!;return <li key={id}><a className="rgbc-archive__link" href={`/peptides/${id}`}>{p.name}</a></li>;})}</ul><a className={cx('card-link')} href="/peptides">Browse the peptide directory</a></article>)}</div></section>
+  <section className="home-stacks-feature"><p className="section-kicker">NEW · THE COMBINATION QUESTION</p><h2>What does the evidence say about peptide stacks?</h2><p>Explore the ingredients, studies, and unanswered questions behind the names.</p><div>{stacks.map(stack=><a href={`/stacks/${stack.slug}`} key={stack.slug}>{stack.name} ↗</a>)}<a href="/stacks">Compare all stacks →</a></div></section>
   <section className={cx('library-strip')} id="your-library" aria-labelledby="home-library-title">
     <Bookmark size={30} aria-hidden="true"/>
     <div><h2 id="home-library-title">Your research, together.</h2><p>{user?'Return to your saved peptides and studies.':'Keep the peptides and studies you want to come back to.'}</p>{user&&!loading&&!error&&favorites.length>0&&<p className={styles['library-strip__counts']}>{savedPeptides} saved {savedPeptides===1?'peptide':'peptides'} · {savedStudies} saved {savedStudies===1?'study':'studies'}</p>}</div>
