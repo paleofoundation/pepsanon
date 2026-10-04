@@ -1,8 +1,16 @@
 /* Compact research tables keep study records in an accessible side panel. */
-.evidence-assessments table{min-width:40rem}
-.evidence-assessments td:first-child{width:46%}
-.evidence-assessments td:nth-child(2){width:31%}
-.evidence-assessments td:last-child{width:23%}
+.evidence-assessments table{min-width:36rem}
+.evidence-assessments td:first-child{width:58%}
+.evidence-assessments td:nth-child(2){width:18%;text-align:center;vertical-align:middle}
+.evidence-assessments th:nth-child(2){text-align:center}
+.evidence-assessments td:last-child{width:24%;vertical-align:middle}
+.evidence-assessments .grade{justify-content:center;min-width:90px;padding:9px 11px;font-size:14px;white-space:nowrap}
+.evidence-count-link{display:inline-flex;align-items:center;gap:8px;padding:8px 0;min-height:44px;border:0;border-radius:0;background:transparent;color:var(--color-primary);font:inherit;line-height:1.5;text-align:left;white-space:nowrap}
+.evidence-count-link svg{width:19px;height:19px;opacity:.7}
+.evidence-count-link span{text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}
+.evidence-count-link:hover{color:var(--color-primary-dark)}
+.evidence-count-link:hover span{text-decoration-thickness:2px}
+.evidence-source-note{display:block;color:#617378;font-size:12px;line-height:1.7;margin-top:3px}
 .evidence-table tbody tr:hover{background:#edf5f5}
 .research-outcome-trigger{display:block;padding:0;border:0;background:none;color:var(--color-primary);text-align:left;font:inherit;line-height:1.6}
 .research-outcome-trigger:hover{text-decoration:underline;text-underline-offset:3px}

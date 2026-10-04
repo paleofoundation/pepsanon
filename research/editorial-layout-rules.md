@@ -15,3 +15,5 @@ The October 3, 2026 BPC-157 revision contains 1,143 visible narrative words and 
 The revised wording is AI-assisted and awaits human investigator review. Earlier pilot verification records describe the prior text, not an independent review of this revision.
 
 The homepage hero uses a turquoise field, prominent editorial typography, and search as its focus. Keep the account's saved-library summary below the topic collections as a compact secondary section; do not put an account card or empty saved-item counters in the hero.
+
+Evidence tables use an Evidence column with a document icon and an underlined study-count link that opens the right-side panel. Count unique primary research sources as studies; identify regulatory or other documents separately. Keep citations with the study-design text, outside the count link. Public badges, the grading legend, and filters use only Low, Moderate, or High. For this simplified display, Low combines the earlier Low, Very low, and No direct human evidence categories; retain the original review records and scientific limitations. Do not infer participant totals or effect sizes from source counts.

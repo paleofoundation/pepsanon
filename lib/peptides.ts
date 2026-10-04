@@ -15,9 +15,11 @@ export const peptides = [
 ];
 export const categories=['All peptides','Recovery','Skin & aging','Hormones','Weight management','Nutrition'];
 export function forPeptide(id:string) {return questions.filter(q=>q.peptideId===id)}
-export function gradeClass(grade:string) {const g=grade.toLowerCase();return g.startsWith('high')?'grade-high':g.startsWith('moderate')?'grade-moderate':g.startsWith('very')?'grade-very-low':g.startsWith('low')?'grade-low':'grade-none'}
-export function gradeLevel(grade:string) {return gradeClass(grade)==='grade-high'?4:gradeClass(grade)==='grade-moderate'?3:gradeClass(grade)==='grade-low'?2:gradeClass(grade)==='grade-very-low'?1:0}
-export function gradeShort(grade:string) {return gradeClass(grade)==='grade-none'?'No direct human evidence identified':grade}
+// Preserve the original review records while presenting one three-level scale.
+// Sparse and indirect evidence, including the former evidence-gap label, is Low.
+export function gradeShort(grade:string):'High'|'Moderate'|'Low' {const g=grade.toLowerCase();return g.startsWith('high')?'High':g.startsWith('moderate')?'Moderate':'Low'}
+export function gradeClass(grade:string) {return `grade-${gradeShort(grade).toLowerCase()}`}
+export function gradeLevel(grade:string) {return gradeShort(grade)==='High'?3:gradeShort(grade)==='Moderate'?2:1}
 
 // Editorial adjacency follows shared research topics; it does not imply equivalence.
 export const relatedPeptideIds: Record<string, string[]> = {
