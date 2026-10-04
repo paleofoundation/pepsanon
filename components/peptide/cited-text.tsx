@@ -1,9 +1,11 @@
 import {FavoriteButton} from './account';
 import type {Source} from '@/lib/peptides';
 import {Citation} from './citations';
+import {referencesInOrder} from '@/lib/citation-order';
 export type CitedSentence = {text:string;sources:Source[]};
 export function SourceMarkers({citations,references}:{citations:Source[];references:Source[]}) {
- return <>{citations.map(source=>{const index=references.findIndex(s=>s.url===source.url)+1;if(!index)throw new Error(`Missing reference: ${source.url}`);return <Citation key={source.url} source={source} index={index} href={`#ref-${index}`}/>;})}</>;
+ const numbered=referencesInOrder(citations).map(source=>{const index=references.findIndex(s=>s.url===source.url)+1;if(!index)throw new Error(`Missing reference: ${source.url}`);return {source:references[index-1],index};}).sort((a,b)=>a.index-b.index);
+ return <>{numbered.map(({source,index})=><Citation key={source.url} source={source} index={index} href={`#ref-${index}`}/>)}</>;
 }
 export function CitedText({sentences,references}:{sentences:CitedSentence[];references:Source[]}) {
  return <>{sentences.map((sentence,i)=>{const split=sentence.text.lastIndexOf(' ');return <span key={i}>{i>0?' ':''}{sentence.text.slice(0,split+1)}<span className="citation-tail">{sentence.text.slice(split+1)}<SourceMarkers citations={sentence.sources} references={references}/></span></span>})}</>;
