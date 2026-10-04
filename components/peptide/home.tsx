@@ -1,5 +1,5 @@
+/* eslint-disable @next/next/no-html-link-for-pages -- Use document navigation because this Vinext deployment does not support Link prefetch. */
 'use client';
-import Link from 'next/link';
 import {ArrowRight,BookOpen,Bookmark,FileText} from 'lucide-react';
 import {SearchBox} from './search';
 import {FavoriteButton,useAccount} from './account';
@@ -23,8 +23,8 @@ export function HomePage(){
       <h1>Peptide questions.<br/><em>Evidence</em> you can trace.</h1>
       <p className={cx('hero__intro')}>Understand the research behind the claims. Explore peptide guides, study findings, and the limits of the evidence.</p>
       <SearchBox/>
-      <div className={cx('quick-searches')}><span>Start exploring</span><Link href="/peptides/bpc-157">BPC-157</Link><Link href="/peptides/semaglutide">Semaglutide</Link><Link href="/peptides/ghk-cu">GHK-Cu</Link></div>
-      <Link className={cx('hero__browse')} href="/peptides">Explore all peptides <ArrowRight size={20} aria-hidden="true"/></Link>
+      <div className={cx('quick-searches')}><span>Start exploring</span><a href="/peptides/bpc-157">BPC-157</a><a href="/peptides/semaglutide">Semaglutide</a><a href="/peptides/ghk-cu">GHK-Cu</a></div>
+      <a className={cx('hero__browse')} href="/peptides">Explore all peptides <ArrowRight size={20} aria-hidden="true"/></a>
     </div>
     <div className={cx('hero__art')} aria-hidden="true">
       <svg viewBox="0 0 560 610" fill="none" focusable="false">
@@ -44,14 +44,14 @@ export function HomePage(){
       <span>Good questions. Clearer understanding.</span>
     </div>
   </section>
-  <section className={cx('credibility')} aria-label="Explore the library"><Link href="/peptides"><BookOpen size={18}/>{peptides.length} peptide guides</Link><Link href="/questions">{questions.length+guideQuestions.length} research questions</Link><Link href="/sources"><FileText size={18}/>{studies.length} research references</Link></section>
-  <section className={cx('section')} id="explore"><div className={cx('section-intro centered')}><p className="section-kicker">EXPLORE THE LIBRARY</p><h2>Start with what you want to understand.</h2><p>Browse peptides by research topic, or go straight to a question.</p></div><div className={cx('collection-grid')}>{collections.map(c=><article className={cx('collection-card')} key={c.number}><div className={cx('collection-card__top')}><span>{c.number}</span><small>{c.label}</small></div><h3>{c.title}</h3><p>{c.copy}</p><ul>{c.ids.map(id=>{const p=peptides.find(p=>p.id===id)!;return <li key={id}><a className="rgbc-archive__link" href={`/peptides/${id}`}>{p.name}</a></li>;})}</ul><Link className={cx('card-link')} href="/peptides">Browse the peptide directory</Link></article>)}</div></section>
+  <section className={cx('credibility')} aria-label="Explore the library"><a href="/peptides"><BookOpen size={18}/>{peptides.length} peptide guides</a><a href="/questions">{questions.length+guideQuestions.length} research questions</a><a href="/sources"><FileText size={18}/>{studies.length} research references</a></section>
+  <section className={cx('section')} id="explore"><div className={cx('section-intro centered')}><p className="section-kicker">EXPLORE THE LIBRARY</p><h2>Start with what you want to understand.</h2><p>Browse peptides by research topic, or go straight to a question.</p></div><div className={cx('collection-grid')}>{collections.map(c=><article className={cx('collection-card')} key={c.number}><div className={cx('collection-card__top')}><span>{c.number}</span><small>{c.label}</small></div><h3>{c.title}</h3><p>{c.copy}</p><ul>{c.ids.map(id=>{const p=peptides.find(p=>p.id===id)!;return <li key={id}><a className="rgbc-archive__link" href={`/peptides/${id}`}>{p.name}</a></li>;})}</ul><a className={cx('card-link')} href="/peptides">Browse the peptide directory</a></article>)}</div></section>
   <section className={cx('library-strip')} id="your-library" aria-labelledby="home-library-title">
     <Bookmark size={30} aria-hidden="true"/>
     <div><h2 id="home-library-title">Your research, together.</h2><p>{user?'Return to your saved peptides and studies.':'Keep the peptides and studies you want to come back to.'}</p>{user&&!loading&&!error&&favorites.length>0&&<p className={styles['library-strip__counts']}>{savedPeptides} saved {savedPeptides===1?'peptide':'peptides'} · {savedStudies} saved {savedStudies===1?'study':'studies'}</p>}</div>
     <a href={user?'/profile':'/login'}>{user?'Open my library':'Create your library'}<ArrowRight size={20} aria-hidden="true"/></a>
   </section>
-  <section className={cx('section method')} id="research"><div className={cx('method__heading')}><p className="section-kicker">THE RESEARCH BEHIND THE ANSWERS</p><h2>Read it.<br/>Question it.<br/>Keep it.</h2><p>Open the original studies, follow their place in a peptide guide, and save them for later.</p><Link href="/sources" className={cx('text-link')}>Explore all research references</Link></div><div className="home-study-list">{studies.filter(s=>s.kind==='Primary research').slice(0,3).map(s=><article key={s.id}><span className="section-kicker">{s.kind}{s.year?` · ${s.year}`:''}</span><h3><a href={s.href}>{s.title}</a></h3><div><a className="quiet-link" href={s.url} target="_blank" rel="noreferrer">Read original study</a><FavoriteButton kind="study" itemId={s.id} title={s.title}/></div></article>)}</div></section>
-  <section className={cx('section')}><div className="home-team-heading"><p className="section-kicker">THE PEOPLE BEHIND THE PROJECT</p><h2>Meet the primary investigators.</h2></div><InvestigatorTeam/><Link className="quiet-link" href="/methodology">Read our editorial standards</Link></section>
+  <section className={cx('section method')} id="research"><div className={cx('method__heading')}><p className="section-kicker">THE RESEARCH BEHIND THE ANSWERS</p><h2>Read it.<br/>Question it.<br/>Keep it.</h2><p>Open the original studies, follow their place in a peptide guide, and save them for later.</p><a href="/sources" className={cx('text-link')}>Explore all research references</a></div><div className="home-study-list">{studies.filter(s=>s.kind==='Primary research').slice(0,3).map(s=><article key={s.id}><span className="section-kicker">{s.kind}{s.year?` · ${s.year}`:''}</span><h3><a href={s.href}>{s.title}</a></h3><div><a className="quiet-link" href={s.url} target="_blank" rel="noreferrer">Read original study</a><FavoriteButton kind="study" itemId={s.id} title={s.title}/></div></article>)}</div></section>
+  <section className={cx('section')}><div className="home-team-heading"><p className="section-kicker">THE PEOPLE BEHIND THE PROJECT</p><h2>Meet the primary investigators.</h2></div><InvestigatorTeam/><a className="quiet-link" href="/methodology">Read our editorial standards</a></section>
  </div>;
 }
