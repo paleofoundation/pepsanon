@@ -3,6 +3,7 @@ import './globals.css';
 import './member-experience.css';
 import './research-details.css';
 import './policies.css';
+import './brand.css';
 import {Shell} from '@/components/peptide/shell';
 import {AccountProvider} from '@/components/peptide/account';
 import {getChatGPTUser,chatGPTSignOutPath} from './chatgpt-auth';
