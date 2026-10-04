@@ -17,9 +17,9 @@ export const studies=Array.from(new Map([...stacks.flatMap(stackReferences).filt
   peptideIds:peptides.filter(p=>(p.id==='bpc-157'&&bpcPilot.studies.some(s=>s.source.url===source.url))||questions.some(q=>q.peptideId===p.id&&q.sources.some(s=>s.url===source.url))||Object.values(guideContent[p.id]||{}).some(entry=>entry.sentences.some(sentence=>sentence.sources.some(s=>s.url===source.url)))).map(p=>p.id),
 }));
 export function studyHref(source:Source) {return `/sources#${sourceAnchor(source.url)}`;}
-export type SearchItem={kind:'peptide'|'study'|'question'|'stack';id:string;title:string;description:string;href:string;meta:string};
+export type SearchItem={kind:'peptide'|'study'|'question'|'stack';id:string;title:string;description:string;href:string;meta:string;keywords?:string};
 export const searchItems:SearchItem[]=[
-  ...stacks.map(stack=>({kind:'stack' as const,id:stack.slug,title:stack.name,description:`${stack.description} ${stack.aliases}`,href:`/stacks/${stack.slug}`,meta:'Peptide stack guide'})),
+  ...stacks.map(stack=>({kind:'stack' as const,id:stack.slug,title:stack.name,description:stack.description,keywords:stack.aliases,href:`/stacks/${stack.slug}`,meta:'Peptide stack guide'})),
   ...stacks.flatMap(stack=>stack.faqs.map(faq=>({kind:'question' as const,id:`${stack.slug}-${faq.id}`,title:faq.question,description:faq.paragraphs.map(p=>p.text).join(' '),href:`/stacks/${stack.slug}#${faq.id}`,meta:stack.name}))),
   ...peptides.map(p=>({kind:'peptide' as const,id:p.id,title:p.name,description:`${p.subtitle}. ${p.description} ${p.aliases}`,href:`/peptides/${p.id}`,meta:p.category})),
   ...studies.map(s=>({kind:'study' as const,id:s.id,title:s.title,description:`${s.kind} ${s.peptideIds.map(id=>peptides.find(p=>p.id===id)?.name).join(' ')}`,href:s.href,meta:`${s.kind}${s.year?` · ${s.year}`:''}`})),
@@ -28,6 +28,6 @@ export const searchItems:SearchItem[]=[
 export function searchLibrary(query:string) {
   const words=query.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
   if(!words.length)return [];
-  return searchItems.filter(item=>words.every(word=>`${item.title} ${item.description} ${item.meta}`.toLocaleLowerCase().includes(word)))
+  return searchItems.filter(item=>words.every(word=>`${item.title} ${item.description} ${item.meta} ${item.keywords||''}`.toLocaleLowerCase().includes(word)))
     .sort((a,b)=>Number(b.title.toLocaleLowerCase().includes(query.toLocaleLowerCase().trim()))-Number(a.title.toLocaleLowerCase().includes(query.toLocaleLowerCase().trim())));
 }
