@@ -1,5 +1,7 @@
 # Peptide guide presentation rules
 
+Reader-facing copy describes the evidence directly: use “Studies in animals” or “A pharmacokinetic study,” never “ingested papers” or descriptions of internal extraction, processing, task orchestration, or site-building steps. Keep source links, study page locators, scientific limitations, and review-status disclosures where they help readers assess the evidence. Internal workflow details belong only in research records.
+
 Core content is visible prose under the universal section headings. Do not render the main guide as a list of collapsed answers. Preserve one introductory paragraph in Overview; place clinical findings and interpretation in the relevant later sections.
 
 Use one cohesive paragraph per focused answer, with a descriptive subheading when a section covers several outcomes. Explain the finding, study design and practical interpretive limit in connected prose. Do not inflate certainty to create an authoritative tone. Keep outcome-specific evidence grades subordinate to the explanation.

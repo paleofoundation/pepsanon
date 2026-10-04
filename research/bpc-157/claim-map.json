@@ -109,7 +109,7 @@
     },
     {
       "id": "bpc-157-gut-health:1",
-      "text": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models.",
+      "text": "Studies in animals report reduced injury in rat models of gastric ulcers and concentrated-alcohol exposure.",
       "sourceUrls": [
         "https://www.wjgnet.com/1007-9327/full/v10/i7/1032.htm",
         "https://www.mdpi.com/2227-9059/9/10/1300"
@@ -290,7 +290,7 @@
     },
     {
       "id": "bpc-157-oral-versus-injected:2",
-      "text": "The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption.",
+      "text": "A pharmacokinetic study examined intravenous and intramuscular administration in rats and dogs; it did not evaluate human oral absorption.",
       "sourceUrls": [
         "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
       ]

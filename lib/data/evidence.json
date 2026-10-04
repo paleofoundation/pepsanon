@@ -196,7 +196,7 @@
       "route": "Study-specific; no cross-route equivalence assumed",
       "evidenceType": "Rat injury experiments; regulatory assessment of an abstract-only human trial",
       "population": "Rat gastric-injury models; separate human ulcerative-colitis abstract",
-      "limitation": "Human evidence includes an incompletely reported meeting abstract, not among the20ingested full papers.",
+      "limitation": "Human evidence includes an incompletely reported meeting abstract, with insufficient detail to assess effectiveness reliably.",
       "sources": [
         {
           "title": "Protective effects of pentadecapeptide BPC 157 on gastric ulcer in rats",
@@ -221,7 +221,7 @@
       ],
       "sentences": [
         {
-          "text": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models.",
+          "text": "Studies in animals report reduced injury in rat models of gastric ulcers and concentrated-alcohol exposure.",
           "sourceIndexes": [
             0,
             1
@@ -255,7 +255,7 @@
           ]
         }
       ],
-      "answer": "The ingested animal papers report reduced injury in rat gastric-ulcer and concentrated-alcohol models. FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment. Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms. Damage caused experimentally by concentrated alcohol is a different research problem from treating chronic inflammatory bowel disease in people. The animal results provide a reason to investigate gastrointestinal effects, but the incomplete human report does not establish which patients would benefit, how large the benefit would be, or whether it would persist."
+      "answer": "Studies in animals report reduced injury in rat models of gastric ulcers and concentrated-alcohol exposure. FDA separately reviewed a small placebo-controlled ulcerative-colitis study reported only as a meeting abstract, with insufficient detail for a reliable effectiveness assessment. Those findings do not establish a benefit for commercial oral BPC-157 products or nonspecific “leaky gut” symptoms. Damage caused experimentally by concentrated alcohol is a different research problem from treating chronic inflammatory bowel disease in people. The animal results provide a reason to investigate gastrointestinal effects, but the incomplete human report does not establish which patients would benefit, how large the benefit would be, or whether it would persist."
     },
     {
       "id": "bpc-157-bladder-pain",
@@ -549,7 +549,7 @@
           ]
         },
         {
-          "text": "The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption.",
+          "text": "A pharmacokinetic study examined intravenous and intramuscular administration in rats and dogs; it did not evaluate human oral absorption.",
           "sourceIndexes": [
             2
           ]
@@ -578,7 +578,7 @@
           ]
         }
       ],
-      "answer": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans. The ingested pharmacokinetic paper studied intravenous and intramuscular administration in rats and dogs, not human oral absorption. These sources do not establish that capsules and injections are interchangeable. A response in an animal injury model and a measurement of drug exposure answer different questions; neither establishes that a marketed capsule delivers the same exposure or effects as an injection in a person. Consequently, route-specific findings should remain attached to the formulation, species and administration method actually studied."
+      "answer": "Oral administration produced effects in some rat injury experiments, but those experiments did not measure clinical equivalence in humans. A pharmacokinetic study examined intravenous and intramuscular administration in rats and dogs; it did not evaluate human oral absorption. These sources do not establish that capsules and injections are interchangeable. A response in an animal injury model and a measurement of drug exposure answer different questions; neither establishes that a marketed capsule delivers the same exposure or effects as an injection in a person. Consequently, route-specific findings should remain attached to the formulation, species and administration method actually studied."
     },
     {
       "id": "bpc-157-half-life",
