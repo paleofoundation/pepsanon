@@ -13,3 +13,5 @@ Every factual sentence carries its source markers after punctuation. Preserve re
 The October 3, 2026 BPC-157 revision contains 1,143 visible narrative words and 262 FAQ-answer words (81% visible), across 15 visible paragraphs and four supplementary FAQ answers. The 20 study records remain separate expandable research material. Other guides inherit visible prose as their default; substantive expansion of those guides still requires their own evidence review.
 
 The revised wording is AI-assisted and awaits human investigator review. Earlier pilot verification records describe the prior text, not an independent review of this revision.
+
+The homepage hero uses a turquoise field, prominent editorial typography, and search as its focus. Keep the account's saved-library summary below the topic collections as a compact secondary section; do not put an account card or empty saved-item counters in the hero.
