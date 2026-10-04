@@ -25,14 +25,14 @@
   --hero-ink: #ffffff;
   position: relative;
   isolation: isolate;
-  background: var(--brand-hero);
+  background: var(--brand-research);
   color: var(--hero-ink);
   padding: 72px max(24px, 5.5vw, calc((100vw - 1536px) / 2));
   display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(0, .8fr);
   gap: clamp(36px, 4vw, 72px); align-items: center;
 }
 .home .hero__copy { position:relative;z-index:2;max-width:920px; }
-.home .hero :global(.section-kicker){color:var(--brand-yellow);font-size:14px;letter-spacing:.12em;margin-bottom:25px;display:flex;align-items:center;gap:12px}
+.home .hero :global(.section-kicker){color:#fff3cb;font-size:14px;letter-spacing:.12em;margin-bottom:25px;display:flex;align-items:center;gap:12px}
 .home .hero :global(.section-kicker)::before{content:'';width:28px;height:1px;background:currentColor}
 .home h1 { font-size: clamp(3rem, 5.2vw, 5.5rem); line-height: 1.08; letter-spacing:-.045em; margin: 0 0 30px; }
 .home .hero h1{color:var(--hero-ink);max-width:18ch;text-wrap:balance}

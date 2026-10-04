@@ -1,5 +1,5 @@
 /* The logo's dominant teal anchors the palette. Yellow is an accent, never body text on white. */
-:root{--brand-teal:#026472;--brand-hero:#045b68;--brand-deep:#163f47;--brand-ink:#182f36;--brand-muted:#4d6268;--brand-yellow:#f4cf62;--brand-yellow-hover:#ffe08a;--brand-paper:#fbfaf6;--brand-line:#d6ddda}
+:root{--brand-teal:#026472;--brand-research:var(--color-primary);--brand-hero:#045b68;--brand-deep:#163f47;--brand-ink:#182f36;--brand-muted:#4d6268;--brand-yellow:#f4cf62;--brand-yellow-hover:#ffe08a;--brand-paper:#fbfaf6;--brand-line:#d6ddda}
 .site-footer{background:var(--brand-paper);border-top:5px solid var(--brand-yellow);color:var(--brand-ink)}
 .site-footer-main,.site-footer-people{max-width:1440px;margin:0 auto;padding-inline:clamp(24px,5.5vw,88px)}
 .site-footer-main{display:grid;grid-template-columns:minmax(240px,1fr) minmax(0,2fr);gap:clamp(40px,6vw,100px);padding-block:58px 44px}
