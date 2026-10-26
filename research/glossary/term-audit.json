@@ -1,0 +1,463 @@
+{
+  "method": "Counts are prose blocks mentioning each term or alias, once per block, in authored guide sections and question answers. Excludes reference titles, navigation, metadata, and the glossary itself.",
+  "terms": [
+    {
+      "slug": "formulation",
+      "name": "Formulation",
+      "mentions": 18,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "bpc-157",
+        "tb-500",
+        "ghk-cu",
+        "cjc-1295",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "oral",
+      "name": "Oral",
+      "mentions": 16,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "bpc-157",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "peptide",
+      "name": "Peptide",
+      "mentions": 15,
+      "guides": [
+        "bpc-157",
+        "tb-500",
+        "ghk-cu",
+        "ipamorelin",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "name": "Randomized controlled trial",
+      "mentions": 14,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "ghk-cu",
+        "cjc-1295",
+        "ipamorelin",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "collagen",
+      "name": "Collagen",
+      "mentions": 12,
+      "guides": [
+        "collagen"
+      ]
+    },
+    {
+      "slug": "placebo",
+      "name": "Placebo",
+      "mentions": 10,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "bpc-157",
+        "cjc-1295",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "topical",
+      "name": "Topical",
+      "mentions": 10,
+      "guides": [
+        "ghk-cu"
+      ]
+    },
+    {
+      "slug": "subcutaneous",
+      "name": "Subcutaneous",
+      "mentions": 9,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "bpc-157",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "intravenous",
+      "name": "Intravenous",
+      "mentions": 8,
+      "guides": [
+        "bpc-157",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "growth-hormone",
+      "name": "Growth hormone",
+      "mentions": 7,
+      "guides": [
+        "bpc-157",
+        "cjc-1295",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "purity",
+      "name": "Purity",
+      "mentions": 7,
+      "guides": [
+        "semaglutide",
+        "bpc-157",
+        "cjc-1295",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "retrospective-study",
+      "name": "Retrospective study",
+      "mentions": 6,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "immunogenicity",
+      "name": "Immunogenicity",
+      "mentions": 5,
+      "guides": [
+        "bpc-157",
+        "tb-500",
+        "ghk-cu",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "name": "Treatment withdrawal",
+      "mentions": 5,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "bpc-157",
+        "ghk-cu"
+      ]
+    },
+    {
+      "slug": "half-life",
+      "name": "Half-life",
+      "mentions": 4,
+      "guides": [
+        "bpc-157",
+        "cjc-1295",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "name": "Hydrolyzed collagen",
+      "mentions": 4,
+      "guides": [
+        "collagen"
+      ]
+    },
+    {
+      "slug": "igf-1",
+      "name": "Insulin-like growth factor 1 (IGF-1)",
+      "mentions": 4,
+      "guides": [
+        "cjc-1295"
+      ]
+    },
+    {
+      "slug": "pharmacokinetics",
+      "name": "Pharmacokinetics",
+      "mentions": 4,
+      "guides": [
+        "bpc-157",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "absorption",
+      "name": "Absorption",
+      "mentions": 3,
+      "guides": [
+        "tirzepatide",
+        "bpc-157",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "endotoxin",
+      "name": "Endotoxin",
+      "mentions": 3,
+      "guides": [
+        "semaglutide",
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "endpoint",
+      "name": "Endpoint",
+      "mentions": 3,
+      "guides": [
+        "bpc-157",
+        "collagen"
+      ]
+    },
+    {
+      "slug": "glp-1",
+      "name": "Glucagon-like peptide-1 (GLP-1)",
+      "mentions": 3,
+      "guides": [
+        "semaglutide",
+        "tirzepatide"
+      ]
+    },
+    {
+      "slug": "receptor-agonist",
+      "name": "Receptor agonist",
+      "mentions": 3,
+      "guides": [
+        "semaglutide",
+        "tirzepatide",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "adverse-event",
+      "name": "Adverse event",
+      "mentions": 2,
+      "guides": [
+        "tirzepatide",
+        "ghk-cu"
+      ]
+    },
+    {
+      "slug": "amino-acid",
+      "name": "Amino acid",
+      "mentions": 2,
+      "guides": [
+        "bpc-157",
+        "ipamorelin"
+      ]
+    },
+    {
+      "slug": "baseline",
+      "name": "Baseline",
+      "mentions": 2,
+      "guides": [
+        "semaglutide",
+        "cjc-1295"
+      ]
+    },
+    {
+      "slug": "case-series",
+      "name": "Case series",
+      "mentions": 2,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "name": "Patient-reported outcome",
+      "mentions": 2,
+      "guides": [
+        "bpc-157",
+        "ghk-cu"
+      ]
+    },
+    {
+      "slug": "receptor",
+      "name": "Receptor",
+      "mentions": 2,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "sterility",
+      "name": "Sterility",
+      "mentions": 2,
+      "guides": [
+        "semaglutide",
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "biomarker",
+      "name": "Biomarker",
+      "mentions": 1,
+      "guides": [
+        "cjc-1295"
+      ]
+    },
+    {
+      "slug": "biomechanical-testing",
+      "name": "Biomechanical testing",
+      "mentions": 1,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "blinding",
+      "name": "Blinding",
+      "mentions": 1,
+      "guides": [
+        "collagen"
+      ]
+    },
+    {
+      "slug": "control-group",
+      "name": "Control group",
+      "mentions": 1,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "fibroblast",
+      "name": "Fibroblast",
+      "mentions": 1,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "gip",
+      "name": "Glucose-dependent insulinotropic peptide (GIP)",
+      "mentions": 1,
+      "guides": [
+        "tirzepatide"
+      ]
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "name": "Growth hormone secretagogue",
+      "mentions": 1,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "ghrh",
+      "name": "Growth hormone–releasing hormone (GHRH)",
+      "mentions": 1,
+      "guides": [
+        "cjc-1295"
+      ]
+    },
+    {
+      "slug": "intramuscular",
+      "name": "Intramuscular",
+      "mentions": 1,
+      "guides": [
+        "bpc-157"
+      ]
+    },
+    {
+      "slug": "metabolism",
+      "name": "Metabolism",
+      "mentions": 1,
+      "guides": [
+        "collagen"
+      ]
+    },
+    {
+      "slug": "tripeptide",
+      "name": "Tripeptide",
+      "mentions": 1,
+      "guides": [
+        "ghk-cu"
+      ]
+    },
+    {
+      "slug": "auc",
+      "name": "Area under the curve (AUC)",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "bioavailability",
+      "name": "Bioavailability",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "extracellular-matrix",
+      "name": "Extracellular matrix",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "histology",
+      "name": "Histology",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "in-vitro",
+      "name": "In vitro",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "in-vivo",
+      "name": "In vivo",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "intra-articular",
+      "name": "Intra-articular",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "cmax",
+      "name": "Peak concentration (Cmax)",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "pentadecapeptide",
+      "name": "Pentadecapeptide",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "pharmacodynamics",
+      "name": "Pharmacodynamics",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "preclinical",
+      "name": "Preclinical",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "route-of-administration",
+      "name": "Route of administration",
+      "mentions": 0,
+      "guides": []
+    },
+    {
+      "slug": "tmax",
+      "name": "Time to peak concentration (Tmax)",
+      "mentions": 0,
+      "guides": []
+    }
+  ]
+}

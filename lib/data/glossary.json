@@ -1,0 +1,3135 @@
+{
+  "updatedAt": "2026-10-04",
+  "sources": {
+    "bpcpk": {
+      "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "year": 2022,
+      "kind": "Primary research · Rats, dogs and laboratory samples",
+      "doi": "10.3389/fphar.2022.1026182",
+      "corpusFile": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf"
+    },
+    "fibro": {
+      "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+      "url": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "year": 2014,
+      "kind": "Primary research · Rat tendon cells",
+      "doi": "10.3390/molecules191119066",
+      "corpusFile": "Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf"
+    },
+    "eye": {
+      "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "year": 2023,
+      "kind": "Primary research · Human randomized trial",
+      "doi": "10.3390/ijms24010554",
+      "corpusFile": "0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf"
+    },
+    "knee": {
+      "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "year": 2021,
+      "kind": "Primary research · Human retrospective case series",
+      "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+      "corpusFile": "Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf"
+    },
+    "tendon": {
+      "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+      "url": "https://jointdrs.org/full-text/1851",
+      "year": 2026,
+      "kind": "Primary research · Rat tendon repair",
+      "doi": "10.52312/jdrs.2026.2951",
+      "corpusFile": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf"
+    },
+    "collagen": {
+      "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "year": 2019,
+      "kind": "Primary research · Human crossover trial",
+      "doi": "10.3390/nu11051064",
+      "corpusFile": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf"
+    },
+    "skin": {
+      "title": "Human skin penetration of a copper tripeptide in vitro as a function of skin layer",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "year": 2010,
+      "kind": "Primary research · Excised human skin",
+      "doi": "10.1007/s00011-010-0238-9",
+      "corpusFile": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf"
+    },
+    "cjc": {
+      "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "year": 2006,
+      "kind": "Primary research · Human pharmacology trials",
+      "doi": "10.1210/jc.2005-1536"
+    },
+    "ipa": {
+      "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+      "year": 1999,
+      "kind": "Primary research · Human pharmacology study",
+      "doi": "10.1023/a:1018955126402"
+    },
+    "step": {
+      "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "year": 2022,
+      "kind": "Primary research · Human trial extension",
+      "doi": "10.1111/dom.14725",
+      "corpusFile": "Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf"
+    },
+    "gip": {
+      "title": "The dual glucose-dependent insulinotropic peptide and glucagon-like peptide-1 receptor agonist, tirzepatide, improves lipoprotein biomarkers associated with insulin resistance and cardiovascular risk in patients with type 2 diabetes",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "year": 2020,
+      "kind": "Primary research · Human trial biomarker analysis",
+      "doi": "10.1111/dom.14174",
+      "corpusFile": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf"
+    },
+    "phase1": {
+      "title": "A first-in-human, randomized, double-blind, single- and multiple-dose, phase I study of recombinant human thymosin β4 in healthy Chinese volunteers",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "year": 2021,
+      "kind": "Primary research · Human phase I trial",
+      "doi": "10.1111/jcmm.16693",
+      "corpusFile": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf"
+    },
+    "quality": {
+      "title": "Safety and Risk Assessment of No-Prescription Online Semaglutide Purchases",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "year": 2024,
+      "kind": "Primary research · Purchased-product testing",
+      "doi": "10.1001/jamanetworkopen.2024.28280"
+    },
+    "consort": {
+      "title": "CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials",
+      "url": "https://www.bmj.com/content/340/bmj.c869",
+      "year": 2010,
+      "kind": "Methods paper · Trial reporting",
+      "doi": "10.1136/bmj.c869"
+    },
+    "immune": {
+      "title": "FDA: Immunogenicity of Protein-based Therapeutics",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/immunogenicity-protein-based-therapeutics",
+      "year": null,
+      "accessedAt": "2026-10-04",
+      "kind": "Primary agency reference · Definition"
+    },
+    "manufacturing": {
+      "title": "Scalable Production of a De Novo SARS-CoV-2 Antiviral Miniprotein in Escherichia coli",
+      "url": "https://doi.org/10.3390/pharmaceutics18091110",
+      "year": 2026,
+      "kind": "Primary research · Manufacturing and analytical testing",
+      "doi": "10.3390/pharmaceutics18091110",
+      "corpusFile": "Scalable_miniprotein_production_endotoxin_LAL_PMID42797285_PMC13610847.pdf"
+    }
+  },
+  "terms": [
+    {
+      "slug": "absorption",
+      "name": "Absorption",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "absorbed"
+      ],
+      "related": [
+        "bioavailability",
+        "oral",
+        "pharmacokinetics"
+      ],
+      "definition": {
+        "text": "The process by which material from an administered preparation enters the body. The collagen trial examines the appearance of amino acids in blood after ingestion.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "Abstract and Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "Researchers took blood samples before and after participants consumed different collagen preparations. They compared the resulting amino-acid concentration profiles.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "In that trial, the measured substances were circulating amino acids. This does not mean that the entire ingested collagen protein entered the blood unchanged.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Abstract; Analytical Methods; Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "adverse-event",
+      "name": "Adverse event",
+      "category": "Safety & quality",
+      "aliases": [
+        "adverse events",
+        "AE",
+        "AEs",
+        "treatment-emergent adverse events"
+      ],
+      "related": [
+        "immunogenicity",
+        "endpoint",
+        "control-group"
+      ],
+      "definition": {
+        "text": "An unfavorable medical occurrence recorded during a study, with causation assessed separately. The eye trial tabulates events and their relationship to study treatment.",
+        "citations": [
+          {
+            "source": "eye",
+            "locator": "Safety results; Tables 5–6"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The report distinguishes ocular from non-ocular events and summarizes events in both treatment and placebo groups. It also records severity, seriousness and treatment relationship.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Safety results; Tables 5–6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "An event count and a count of affected participants are different quantities. The trial reports both, along with separate assessments of whether events were related to treatment.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Tables 5–6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "amino-acid",
+      "name": "Amino acid",
+      "category": "Peptide basics",
+      "aliases": [
+        "amino acids",
+        "amino-acid residues"
+      ],
+      "related": [
+        "peptide",
+        "collagen",
+        "hydrolyzed-collagen"
+      ],
+      "definition": {
+        "text": "One of the molecular units that make up proteins and peptides. The collagen absorption paper discusses glycine, proline and hydroxyproline as amino-acid components of collagen.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "That study measured amino acids in blood after participants consumed collagen preparations. This is an absorption question: whether the preparation supplies measurable circulating amino acids after ingestion.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Abstract and Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "An increase in blood amino acids is the measured result in this experiment. The authors call for further work connecting these absorption findings with collagen synthesis and effects in people with musculoskeletal conditions.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Discussion and Conclusions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "auc",
+      "name": "Area under the curve (AUC)",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "AUC",
+        "area under the curve",
+        "area under the concentration-time curve"
+      ],
+      "related": [
+        "cmax",
+        "tmax",
+        "bioavailability"
+      ],
+      "definition": {
+        "text": "A summary of concentration across a span of time. In the BPC-157 paper, AUC is the area beneath the plasma concentration-versus-time curve.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Table 1 footnote"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The paper distinguishes AUC up to the last observation from AUC extrapolated to infinity. These refer to different time limits for the exposure estimate.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Table 1 footnote; Pharmacokinetic analysis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "AUC and Cmax answer different questions: the first summarizes exposure across time, while the second identifies the peak concentration. Both appear in the study's pharmacokinetic tables.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Tables 1–6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "baseline",
+      "name": "Baseline",
+      "category": "Reading studies",
+      "aliases": [
+        "baseline measurement"
+      ],
+      "related": [
+        "endpoint",
+        "treatment-withdrawal",
+        "biomarker"
+      ],
+      "definition": {
+        "text": "The starting measurement used for comparison with later observations. The STEP 1 extension reports participant characteristics and changes relative to specified study time points.",
+        "citations": [
+          {
+            "source": "step",
+            "locator": "Methods; Table 1"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The extension distinguishes the beginning of the main trial from the point when treatment stopped. Weight change can therefore be expressed relative to different starting measurements.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Methods and Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Check which time point is being used when reading a change. Weight regained after stopping treatment and weight change from the original trial baseline answer different questions in this report.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Results and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bioavailability",
+      "name": "Bioavailability",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "absolute bioavailability"
+      ],
+      "related": [
+        "absorption",
+        "auc",
+        "route-of-administration"
+      ],
+      "definition": {
+        "text": "The extent to which an administered substance reaches the systemic circulation. The BPC-157 paper estimates absolute bioavailability by comparing dose-adjusted intramuscular and intravenous exposure.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Table 2 footnote; Methods: Pharmacokinetic analysis"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The study uses area under the concentration-time curve to make that comparison. The intravenous and intramuscular doses enter the calculation separately, so the comparison accounts for their different administered amounts.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Tables 2 and 5 footnotes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Its bioavailability measurements concern BPC-157 given by those routes in rats and dogs. They do not measure oral absorption or establish bioavailability after administration to people.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Introduction; Results 2.1–2.2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "biomarker",
+      "name": "Biomarker",
+      "category": "Reading studies",
+      "aliases": [
+        "biomarkers",
+        "hormone-marker",
+        "hormone marker"
+      ],
+      "related": [
+        "endpoint",
+        "growth-hormone",
+        "pharmacodynamics"
+      ],
+      "definition": {
+        "text": "A measurable biological characteristic used to study a process or response. The tirzepatide analysis measures blood lipoprotein-related biomarkers.",
+        "citations": [
+          {
+            "source": "gip",
+            "locator": "Aim; Materials and Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators used available blood samples from a clinical trial to examine changes in lipid particles and related proteins. These measurements helped investigate possible metabolic mechanisms.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The authors distinguish biomarker changes from directly demonstrated cardiovascular benefits. A favorable marker result in this analysis is not the same endpoint as fewer cardiovascular events.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "biomechanical-testing",
+      "name": "Biomechanical testing",
+      "category": "Reading studies",
+      "aliases": [
+        "biomechanical",
+        "biomechanics",
+        "maximum load to failure",
+        "load to failure"
+      ],
+      "related": [
+        "histology",
+        "endpoint",
+        "preclinical"
+      ],
+      "definition": {
+        "text": "Testing a biological tissue's mechanical behavior. The Achilles repair paper measures the maximum load a repaired rat tendon withstands before failure.",
+        "citations": [
+          {
+            "source": "tendon",
+            "locator": "Materials and methods: Biomechanical testing"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "This endpoint is different from looking at tissue under a microscope. The study used mechanical testing and histological evaluation as separate assessments of the repaired tendons.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The experimental model involved surgically injured and repaired rat Achilles tendons. The measured load describes those specimens, rather than a patient's pain, mobility or return to sport.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods; Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "blinding",
+      "name": "Blinding",
+      "category": "Reading studies",
+      "aliases": [
+        "blinded",
+        "double-blind",
+        "double-blinded",
+        "double-masked",
+        "masking"
+      ],
+      "related": [
+        "randomized-controlled-trial",
+        "placebo",
+        "control-group"
+      ],
+      "definition": {
+        "text": "Keeping specified people in a study unaware of which intervention participants receive. A useful report identifies who was blinded and how.",
+        "citations": [
+          {
+            "source": "consort",
+            "locator": "Item 11a: Blinding"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The thymosin β4 eye trial describes itself as double-masked. Its methods and study organization explain the treatment comparison and blinded conduct.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Materials and Methods; Conflicts of Interest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Read the blinding description with the rest of the methods. CONSORT recommends naming the people kept unaware of allocation instead of relying only on shorthand such as double-blind.",
+              "citations": [
+                {
+                  "source": "consort",
+                  "locator": "Item 11a: Blinding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "case-series",
+      "name": "Case series",
+      "category": "Reading studies",
+      "aliases": [
+        "case series",
+        "uncontrolled case series"
+      ],
+      "related": [
+        "retrospective-study",
+        "control-group",
+        "patient-reported-outcome"
+      ],
+      "definition": {
+        "text": "A description of a group of patients with a shared treatment or condition. The BPC-157 knee report describes treated patients without a randomized control group.",
+        "citations": [
+          {
+            "source": "knee",
+            "locator": "Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The report includes people with different causes of knee pain and records their reported response after treatment. This supplies descriptive information about those patients.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Methods and Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The study did not use standardized instruments for function or imaging to confirm tissue repair. Its symptom observations should therefore remain distinct from claims of restored tendon or cartilage structure.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Abstract: Methods and Clinical Implications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "collagen",
+      "name": "Collagen",
+      "category": "Peptide basics",
+      "aliases": [
+        "collagens"
+      ],
+      "related": [
+        "hydrolyzed-collagen",
+        "extracellular-matrix",
+        "fibroblast"
+      ],
+      "definition": {
+        "text": "A structural protein found in connective tissue. The collagen absorption paper describes it as an important component of bone, tendon, ligament and cartilage.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "Collagen is also part of the extracellular matrix around tendon cells. The BPC-157 cell paper describes tendon fibroblasts producing collagen and other matrix components during tendon repair.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Introduction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Ingested collagen hydrolysates are the intervention in the absorption trial; circulating amino acids are its measurements. The study does not directly measure repaired tendon or cartilage as a clinical outcome.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Materials and Methods; Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "control-group",
+      "name": "Control group",
+      "category": "Reading studies",
+      "aliases": [
+        "control groups",
+        "controlled trial"
+      ],
+      "related": [
+        "placebo",
+        "randomized-controlled-trial",
+        "endpoint"
+      ],
+      "definition": {
+        "text": "The group used as a comparison for the intervention. The Achilles experiment includes a vehicle-treated control group alongside peptide-treated groups.",
+        "citations": [
+          {
+            "source": "tendon",
+            "locator": "Materials and methods: Study groups"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators compared the repaired rat tendons across groups using mechanical and tissue assessments. The control received the administration vehicle without the tested peptides.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The choice of comparison helps define the question. In the collagen absorption trial, water was the placebo comparator, and differently processed collagen preparations were also compared with each other.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Study Design"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "endotoxin",
+      "name": "Endotoxin",
+      "category": "Safety & quality",
+      "aliases": [
+        "endotoxins"
+      ],
+      "related": [
+        "sterility",
+        "purity",
+        "adverse-event"
+      ],
+      "definition": {
+        "text": "A bacterial toxin contaminant evaluated separately from viable microbes in the semaglutide product-testing study.",
+        "citations": [
+          {
+            "source": "quality",
+            "locator": "Results"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The miniprotein manufacturing paper describes endotoxin removal and a kinetic chromogenic LAL assay to quantify it. Protein purity is assessed using different analytical methods.",
+              "citations": [
+                {
+                  "source": "manufacturing",
+                  "locator": "Sections 2.5.4 and 2.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The semaglutide study illustrates the distinction: endotoxin was detected even without detectable viable microorganisms.",
+              "citations": [
+                {
+                  "source": "quality",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "endpoint",
+      "name": "Endpoint",
+      "category": "Reading studies",
+      "aliases": [
+        "endpoints",
+        "outcome measure",
+        "outcome measures",
+        "primary endpoint"
+      ],
+      "related": [
+        "biomarker",
+        "patient-reported-outcome",
+        "biomechanical-testing"
+      ],
+      "definition": {
+        "text": "The specified outcome a study evaluates. The eye trial defines its primary endpoint as complete healing of the persistent corneal epithelial defect at the designated visit.",
+        "citations": [
+          {
+            "source": "eye",
+            "locator": "Results: Primary efficacy endpoint"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The same trial also evaluates symptoms and other eye measurements. These are separate outcomes, with their own timing and analyses.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "A claim should identify which endpoint it describes. A symptom result, a microscopic tissue score and a mechanical strength test are different measurements, as illustrated by the eye and Achilles studies.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods"
+                },
+                {
+                  "source": "eye",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "extracellular-matrix",
+      "name": "Extracellular matrix",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "extracellular matrix"
+      ],
+      "related": [
+        "fibroblast",
+        "collagen",
+        "histology"
+      ],
+      "definition": {
+        "text": "The material surrounding cells in a tissue. The tendon-cell paper describes a matrix containing collagen and glycoproteins around tendon fibroblasts.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors place matrix production within tendon repair: fibroblasts move to the injury site, proliferate and produce matrix components during the regenerative stage.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Introduction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The rat Achilles study examines tissue organization with histological methods and mechanical strength with a separate test. These provide different views of the repairing tissue.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fibroblast",
+      "name": "Fibroblast",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "fibroblasts",
+        "tendon fibroblasts"
+      ],
+      "related": [
+        "extracellular-matrix",
+        "collagen",
+        "in-vitro"
+      ],
+      "definition": {
+        "text": "A connective-tissue cell involved in producing extracellular matrix. The tendon paper describes fibroblasts making collagen and other matrix components during repair.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The experiment isolated tendon fibroblasts from rats, cultured them and studied their responses to BPC-157 and growth hormone. Receptor expression, proliferation and signaling were measured separately.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Abstract and Experimental Section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Cell proliferation means the cells are increasing in number. In this study, that cellular readout is not a direct test of the mechanical strength of a healed tendon.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Results and Experimental Section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "formulation",
+      "name": "Formulation",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "formulations",
+        "preparation"
+      ],
+      "related": [
+        "route-of-administration",
+        "topical",
+        "purity"
+      ],
+      "definition": {
+        "text": "The prepared form of a substance used in a study. The RGN-259 trial, for example, evaluates thymosin β4 in an ophthalmic solution.",
+        "citations": [
+          {
+            "source": "eye",
+            "locator": "Abstract; Materials and Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The trial's preparation was delivered to the eye in patients with neurotrophic keratopathy. Its outcomes included healing of a persistent defect on the corneal surface and ocular symptoms.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Materials and Methods; Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The study therefore concerns a particular molecule, eye-drop preparation, route and condition. It does not test a commercially named TB-500 injection for tendon injury.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Abstract; Materials and Methods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "glp-1",
+      "name": "Glucagon-like peptide-1 (GLP-1)",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "GLP-1",
+        "GLP1",
+        "glucagon-like peptide-1"
+      ],
+      "related": [
+        "gip",
+        "receptor-agonist",
+        "treatment-withdrawal"
+      ],
+      "definition": {
+        "text": "The peptide signal whose receptor is targeted by GLP-1 receptor agonists. The STEP 1 extension describes semaglutide as a GLP-1 analogue.",
+        "citations": [
+          {
+            "source": "step",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The STEP 1 extension followed weight and cardiometabolic measures after the semaglutide treatment period ended. The active-treatment phase had compared semaglutide with placebo alongside lifestyle intervention.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The tirzepatide biomarker paper distinguishes GLP-1 receptor activity from combined GIP and GLP-1 receptor activity. A shared receptor target does not make the two study interventions identical.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Introduction and Materials and Methods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gip",
+      "name": "Glucose-dependent insulinotropic peptide (GIP)",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "GIP",
+        "glucose-dependent insulinotropic peptide"
+      ],
+      "related": [
+        "glp-1",
+        "receptor-agonist",
+        "biomarker"
+      ],
+      "definition": {
+        "text": "A peptide signal discussed in the tirzepatide paper in relation to its receptor and metabolic effects. Tirzepatide is described as acting at both GIP and GLP-1 receptors.",
+        "citations": [
+          {
+            "source": "gip",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The paper discusses GIP receptor expression in adipose tissue and the possible relevance of receptor activation to lipid handling. Its own analysis measures circulating lipoprotein-related markers in trial participants.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Introduction; Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The authors use these measurements to investigate possible mechanisms behind lipid changes. That is a narrower question than directly measuring whether treatment prevents cardiovascular events.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Aim and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "growth-hormone",
+      "name": "Growth hormone",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "GH"
+      ],
+      "related": [
+        "ghrh",
+        "growth-hormone-secretagogue",
+        "receptor"
+      ],
+      "definition": {
+        "text": "A peptide hormone released from the anterior pituitary. The tendon-cell paper describes growth hormone acting through cell-surface receptors and downstream signaling.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "In that experiment, growth hormone was added to BPC-157-treated rat tendon fibroblasts. The researchers measured proliferation and signaling within those cultured cells.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This is a mechanistic experiment. Its measurements concern cells and their responses; it does not directly test whether a growth hormone change improves recovery after an injury in a person.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Abstract and Experimental Section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "name": "Growth hormone secretagogue",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "secretagogue",
+        "secretagogues",
+        "growth hormone releasing peptide"
+      ],
+      "related": [
+        "growth-hormone",
+        "pharmacodynamics",
+        "ghrh"
+      ],
+      "definition": {
+        "text": "A substance that stimulates growth hormone release. The ipamorelin study examines this action by measuring GH concentrations after administration.",
+        "citations": [
+          {
+            "source": "ipa",
+            "locator": "Abstract: Purpose and Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors modeled the relationship between ipamorelin concentrations and the time course of GH release.",
+              "citations": [
+                {
+                  "source": "ipa",
+                  "locator": "Abstract: Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This study measures a hormone response in healthy volunteers. It is not a direct trial of improved sleep or injury recovery.",
+              "citations": [
+                {
+                  "source": "ipa",
+                  "locator": "Abstract: Purpose, Methods and Conclusions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ghrh",
+      "name": "Growth hormone–releasing hormone (GHRH)",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "GHRH",
+        "growth hormone-releasing hormone",
+        "GH-releasing hormone"
+      ],
+      "related": [
+        "growth-hormone",
+        "growth-hormone-secretagogue",
+        "igf-1"
+      ],
+      "definition": {
+        "text": "A hormone that stimulates growth hormone release. The CJC-1295 paper studies a long-acting analogue of GHRH.",
+        "citations": [
+          {
+            "source": "cjc",
+            "locator": "Abstract: Context and Objective"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators followed CJC-1295 exposure and GH and IGF-I concentrations in healthy adults.",
+              "citations": [
+                {
+                  "source": "cjc",
+                  "locator": "Abstract: Participants and Main outcome measures"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Those hormone measurements describe the study's pharmacodynamic response, rather than a directly measured injury-recovery outcome.",
+              "citations": [
+                {
+                  "source": "cjc",
+                  "locator": "Abstract: Main outcome measures"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "half-life",
+      "name": "Half-life",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "half life",
+        "elimination half-life",
+        "terminal half-life",
+        "t1/2"
+      ],
+      "related": [
+        "pharmacokinetics",
+        "metabolism",
+        "auc"
+      ],
+      "definition": {
+        "text": "The time taken for a measured drug concentration to decrease by half during the specified decline phase. The BPC-157 paper reports an elimination half-life for the parent peptide.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Results 2.1–2.2; Tables 1–6"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The paper distinguishes intact parent BPC-157 from total radioactivity measured after administration of a labeled version. Radioactivity can also reflect products formed as the peptide is broken down.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.3; Discussion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Read a half-life together with what was measured, the species and the route. The authors obtained different concentration profiles for parent peptide and labeled material; those are not interchangeable measures.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.1–2.3; Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "histology",
+      "name": "Histology",
+      "category": "Reading studies",
+      "aliases": [
+        "histological",
+        "histopathological",
+        "histopathology"
+      ],
+      "related": [
+        "extracellular-matrix",
+        "biomechanical-testing",
+        "endpoint"
+      ],
+      "definition": {
+        "text": "The microscopic study of tissue structure. In the rat Achilles paper, histological evaluation examines stained sections of healing tendons.",
+        "citations": [
+          {
+            "source": "tendon",
+            "locator": "Materials and methods: Histological evaluation"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors used staining and scoring methods to assess features of the repaired tissue. They also assessed collagen expression with immunohistochemical methods.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The same paper measured load to failure separately. Its microscopic and mechanical assessments used different tendon samples, so a histological score should not be relabeled as a measurement of tendon strength.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods: Study design and biomechanical testing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "name": "Hydrolyzed collagen",
+      "category": "Peptide basics",
+      "aliases": [
+        "hydrolysed collagen",
+        "collagen hydrolysate",
+        "collagen hydrolysates",
+        "collagen peptides"
+      ],
+      "related": [
+        "collagen",
+        "amino-acid",
+        "absorption"
+      ],
+      "definition": {
+        "text": "Collagen processed into smaller peptide fragments by hydrolysis. The cited trial compares collagen preparations that differ in enzymatic processing.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "Introduction and Study Design"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "Participants consumed the preparations on separate study days, and researchers measured the subsequent blood amino-acid response. The authors frame hydrolysis as a processing step that can affect digestion and absorption.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Materials and Methods; Discussion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The distinction matters when matching a product to a paper: this experiment compared specified preparations and an absorption endpoint. It did not establish that every collagen product has the same composition or clinical effect.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Study Design and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "immunogenicity",
+      "name": "Immunogenicity",
+      "category": "Safety & quality",
+      "aliases": [
+        "immunogenic",
+        "immune response",
+        "immune reactions"
+      ],
+      "related": [
+        "adverse-event",
+        "formulation",
+        "peptide"
+      ],
+      "definition": {
+        "text": "The tendency of a therapeutic substance to provoke an immune response against itself. FDA uses this definition for protein therapeutics.",
+        "citations": [
+          {
+            "source": "immune",
+            "locator": "General Overview"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "One measurement used in research is anti-drug antibodies. The phase I thymosin β4 study collected blood to assess antibodies to its investigational preparation.",
+              "citations": [
+                {
+                  "source": "phase1",
+                  "locator": "Trial design and Procedure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "An antibody response and its clinical consequences are separate questions. FDA explains that antibodies can alter a therapeutic protein's effects and can also cause complications; the consequences depend on the response and product.",
+              "citations": [
+                {
+                  "source": "immune",
+                  "locator": "General Overview"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "in-vitro",
+      "name": "In vitro",
+      "category": "Reading studies",
+      "aliases": [
+        "in-vitro",
+        "cell culture"
+      ],
+      "related": [
+        "in-vivo",
+        "preclinical",
+        "fibroblast"
+      ],
+      "definition": {
+        "text": "Studied outside a living organism, for example in cultured cells. The BPC-157 tendon paper investigates isolated rat fibroblasts grown in laboratory culture.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Experimental Section: Cell culture"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The researchers applied BPC-157 and growth hormone to these cells and measured receptor expression, proliferation and signaling. These methods let them examine a proposed cellular mechanism.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Experimental Section and Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The experimental unit is the cultured cell system. These observations do not directly measure tendon strength, pain or recovery in a human participant.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Abstract; Experimental Section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "in-vivo",
+      "name": "In vivo",
+      "category": "Reading studies",
+      "aliases": [
+        "in-vivo"
+      ],
+      "related": [
+        "in-vitro",
+        "preclinical",
+        "pharmacokinetics"
+      ],
+      "definition": {
+        "text": "Studied within a living organism. The BPC-157 pharmacokinetic paper uses in vivo for processes occurring after administration in animals.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Abstract and Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators measured drug concentrations, metabolism and excretion in rats and dogs, with additional laboratory analyses of collected samples.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "In vivo does not specify that a study was in people. This paper's living subjects were animals, and the authors describe the work as preclinical.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Introduction"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "igf-1",
+      "name": "Insulin-like growth factor 1 (IGF-1)",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "IGF-1",
+        "IGF-I",
+        "insulin-like growth factor I",
+        "insulin-like growth factor 1"
+      ],
+      "related": [
+        "growth-hormone",
+        "biomarker",
+        "endpoint"
+      ],
+      "definition": {
+        "text": "A growth factor measured alongside growth hormone in the CJC-1295 study. The paper uses the equivalent spelling IGF-I.",
+        "citations": [
+          {
+            "source": "cjc",
+            "locator": "Title and Abstract"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The study tracked IGF-I concentrations following CJC-1295 administration in healthy adults.",
+              "citations": [
+                {
+                  "source": "cjc",
+                  "locator": "Abstract: Interventions and Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Read the finding as a hormone-marker result within that study population.",
+              "citations": [
+                {
+                  "source": "cjc",
+                  "locator": "Abstract: Participants and Main outcome measures"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "intra-articular",
+      "name": "Intra-articular",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "intraarticular",
+        "intra-articular injection"
+      ],
+      "related": [
+        "route-of-administration",
+        "case-series",
+        "retrospective-study"
+      ],
+      "definition": {
+        "text": "Administered within a joint. In the BPC-157 knee report, the term describes injections into the knee.",
+        "citations": [
+          {
+            "source": "knee",
+            "locator": "Abstract: Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The report looked back at treated patients and gathered information about their knee pain. It did not randomly allocate patients to a peptide injection or a placebo injection.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Its measured outcome was reported symptom improvement. The authors state that future research should include imaging to document structural changes, so the symptom report should not be presented as an imaging-confirmed repair result.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Abstract and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "intramuscular",
+      "name": "Intramuscular",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "IM",
+        "intramuscularly"
+      ],
+      "related": [
+        "intravenous",
+        "bioavailability",
+        "route-of-administration"
+      ],
+      "definition": {
+        "text": "Administered into muscle. The BPC-157 pharmacokinetic study abbreviates intramuscular administration as IM.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Abstract and Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The researchers examined both single and repeated intramuscular administrations in rats and dogs, then compared concentration-time profiles and exposure measurements.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.1–2.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The study's IM measurements should be read with their species and preparation. Its experimental dosing schedules are part of an animal pharmacokinetic study, not a validated human treatment regimen.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Introduction and Methods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "intravenous",
+      "name": "Intravenous",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "IV",
+        "intravenously",
+        "intravenous infusion"
+      ],
+      "related": [
+        "intramuscular",
+        "subcutaneous",
+        "bioavailability"
+      ],
+      "definition": {
+        "text": "Administered into a vein. The BPC-157 pharmacokinetic paper abbreviates this route as IV.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Abstract and Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "Intravenous administration is the comparison route used when the researchers calculate absolute bioavailability after intramuscular administration.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Tables 2 and 5 footnotes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The phase I thymosin β4 study also used intravenous administration, but studied a different peptide preparation in healthy volunteers. Its safety observations belong to that preparation and study setting.",
+              "citations": [
+                {
+                  "source": "phase1",
+                  "locator": "Trial design and Procedure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "metabolism",
+      "name": "Metabolism",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "metabolized",
+        "metabolised",
+        "metabolites"
+      ],
+      "related": [
+        "pharmacokinetics",
+        "half-life",
+        "amino-acid"
+      ],
+      "definition": {
+        "text": "The chemical transformation of a substance in the body. The BPC-157 study investigates breakdown of the parent peptide into smaller fragments and amino acids.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Abstract and Results 2.3"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators used labeled BPC-157 to examine the distribution, breakdown and excretion of drug-related material. They also measured the intact parent peptide using a separate analytical method.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.3 and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "A signal from labeled material can persist after the parent molecule has been transformed. The paper explicitly distinguishes parent-drug pharmacokinetics from measurements based on radioactivity.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "oral",
+      "name": "Oral",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "orally",
+        "oral administration",
+        "oral supplementation"
+      ],
+      "related": [
+        "absorption",
+        "hydrolyzed-collagen",
+        "route-of-administration"
+      ],
+      "definition": {
+        "text": "Taken through the mouth. In the collagen absorption trial, oral administration means participants consumed the study preparation as a drink.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "Study Design"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The researchers measured blood amino-acid concentrations after ingestion. They compared differently processed collagen preparations with a control drink on separate study days.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This trial concerns those preparations and amino-acid absorption. The oral route alone does not establish that a different peptide or formulation has the same absorption profile.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Study Design; Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "name": "Patient-reported outcome",
+      "category": "Reading studies",
+      "aliases": [
+        "patient-reported",
+        "patient reported",
+        "subjective symptoms"
+      ],
+      "related": [
+        "endpoint",
+        "case-series",
+        "biomechanical-testing"
+      ],
+      "definition": {
+        "text": "An outcome reported by the participant, such as their experience of pain. The knee study asked treated patients about their knee symptoms.",
+        "citations": [
+          {
+            "source": "knee",
+            "locator": "Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors collected retrospective reports of symptom change. They stated that no specific tools were used to assess function, quality of life, stiffness or activities of daily living.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Abstract: Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "These reports describe patients' experiences. The paper calls for future imaging, so reported pain relief should not be rewritten as an imaging-confirmed finding of structural healing.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Clinical Implications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cmax",
+      "name": "Peak concentration (Cmax)",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "Cmax",
+        "peak concentration",
+        "maximum concentration"
+      ],
+      "related": [
+        "auc",
+        "tmax",
+        "pharmacokinetics"
+      ],
+      "definition": {
+        "text": "The peak measured concentration of a drug in plasma. The BPC-157 paper labels this quantity Cmax.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Table 2 footnote"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "After administration, the researchers sampled plasma over time and reported the peak concentration alongside the time at which it occurred, Tmax.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.1–2.2; Pharmacokinetic study methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Cmax is a concentration measurement. The BPC-157 experiment used it to characterize drug exposure in animals, rather than as a direct measurement of wound healing.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Study objective; Results 2.1–2.2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pentadecapeptide",
+      "name": "Pentadecapeptide",
+      "category": "Peptide basics",
+      "aliases": [
+        "pentadecapeptides"
+      ],
+      "related": [
+        "peptide",
+        "amino-acid",
+        "preclinical"
+      ],
+      "definition": {
+        "text": "A peptide containing fifteen amino-acid units. The tendon-cell paper uses this term for the BPC-157 fragment.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Discussion"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors report the BPC-157 amino-acid sequence when explaining the fragment's identity. In the experiment, BPC-157 exposure was followed by measurements of growth hormone receptor expression and cell responses.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Discussion and Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This label describes molecular length. The biological findings in this paper concern rat tendon fibroblasts studied in culture; the name itself is not a clinical result about human tendon recovery.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Abstract and Experimental Section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "peptide",
+      "name": "Peptide",
+      "category": "Peptide basics",
+      "aliases": [
+        "peptides"
+      ],
+      "related": [
+        "amino-acid",
+        "tripeptide",
+        "pentadecapeptide"
+      ],
+      "definition": {
+        "text": "A molecule made from a sequence of linked amino-acid units. In the BPC-157 research, the sequence identifies the peptide being tested.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Introduction and Discussion"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The BPC-157 paper distinguishes the short peptide fragment from the larger body protection compound. Its experiments then examine that particular peptide in isolated rat tendon cells, rather than treating all peptides as one intervention.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Abstract and Discussion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Peptide names can describe quite different experimental materials. The thymosin β4 eye study examines an ophthalmic preparation, while the collagen study examines ingested protein hydrolysates. The molecule and preparation are part of what was studied.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Abstract and Materials and Methods"
+                },
+                {
+                  "source": "collagen",
+                  "locator": "Abstract and Materials and Methods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pharmacodynamics",
+      "name": "Pharmacodynamics",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "PD",
+        "pharmacodynamic"
+      ],
+      "related": [
+        "pharmacokinetics",
+        "growth-hormone",
+        "biomarker"
+      ],
+      "definition": {
+        "text": "The measured biological response to a drug and its relationship to exposure. The ipamorelin paper models GH release in relation to ipamorelin concentrations.",
+        "citations": [
+          {
+            "source": "ipa",
+            "locator": "Abstract: Results"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The study separates the drug's concentration-time behavior from the hormone response it produces.",
+              "citations": [
+                {
+                  "source": "ipa",
+                  "locator": "Abstract: Results and Conclusions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "A pharmacodynamic marker need not be a clinical outcome. In this experiment, the response being modeled is GH release in healthy volunteers.",
+              "citations": [
+                {
+                  "source": "ipa",
+                  "locator": "Abstract: Purpose and Results"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pharmacokinetics",
+      "name": "Pharmacokinetics",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "PK",
+        "pharmacokinetic"
+      ],
+      "related": [
+        "absorption",
+        "half-life",
+        "bioavailability",
+        "pharmacodynamics"
+      ],
+      "definition": {
+        "text": "The study of a substance's concentrations and movement through the body over time. The BPC-157 paper examines absorption, distribution, metabolism and excretion in rats and dogs.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Abstract and Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators measured plasma concentrations after specified routes of administration and summarized the curves using quantities such as Cmax, Tmax, AUC and elimination half-life.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.1–2.2 and Tables 1–6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "These findings belong to the studied species, routes and formulations. The authors describe the work as preclinical pharmacokinetics intended to inform further development; it is not a human dosing trial.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Introduction and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "placebo",
+      "name": "Placebo",
+      "category": "Reading studies",
+      "aliases": [
+        "placebo-controlled",
+        "placebo controlled"
+      ],
+      "related": [
+        "control-group",
+        "randomized-controlled-trial",
+        "blinding"
+      ],
+      "definition": {
+        "text": "A comparison preparation without the active intervention being tested, often designed to resemble it.",
+        "citations": [
+          {
+            "source": "consort",
+            "locator": "Blinding: Similarity of interventions"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "In the RGN-259 trial, the placebo group provided a comparison for the eye-drop preparation. Both groups were assessed for healing and ocular symptoms.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Materials and Methods; Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "A placebo need not be an injection or tablet. The collagen absorption trial used water as its control drink while studying amino-acid responses after ingestion of collagen preparations.",
+              "citations": [
+                {
+                  "source": "collagen",
+                  "locator": "Abstract and Study Design"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "preclinical",
+      "name": "Preclinical",
+      "category": "Reading studies",
+      "aliases": [
+        "preclinical studies",
+        "animal model",
+        "animal models"
+      ],
+      "related": [
+        "in-vitro",
+        "in-vivo",
+        "randomized-controlled-trial"
+      ],
+      "definition": {
+        "text": "Research used to investigate a potential treatment before establishing its clinical use in people. The BPC-157 pharmacokinetic paper describes its animal and laboratory work as preclinical.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "That study asks how the compound is distributed and eliminated in rats and dogs. The authors present the findings as information to support further clinical development.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Introduction; Discussion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "A separate Achilles experiment tests repaired rat tendons. Its controlled animal design supplies evidence about that model; it does not directly test recovery in human patients.",
+              "citations": [
+                {
+                  "source": "tendon",
+                  "locator": "Materials and methods; Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "purity",
+      "name": "Purity",
+      "category": "Safety & quality",
+      "aliases": [
+        "peptide purity"
+      ],
+      "related": [
+        "sterility",
+        "endotoxin",
+        "formulation"
+      ],
+      "definition": {
+        "text": "An analytical measure of the intended substance relative to other material detected by the test. The online semaglutide study reports purity separately from drug content.",
+        "citations": [
+          {
+            "source": "quality",
+            "locator": "Methods and Results"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators also tested microbiological quality. A purity measurement did not replace those separate tests.",
+              "citations": [
+                {
+                  "source": "quality",
+                  "locator": "Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The manufacturing paper likewise uses different analytical methods for protein purity and endotoxin. A result should be read with the specific assay it describes.",
+              "citations": [
+                {
+                  "source": "manufacturing",
+                  "locator": "Sections 2.5.4 and 2.6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "name": "Randomized controlled trial",
+      "category": "Reading studies",
+      "aliases": [
+        "RCT",
+        "RCTs",
+        "randomized",
+        "randomised",
+        "randomized trial",
+        "randomised controlled trial"
+      ],
+      "related": [
+        "control-group",
+        "placebo",
+        "blinding",
+        "endpoint"
+      ],
+      "definition": {
+        "text": "A study that uses a chance-based allocation process to assign participants to comparison groups.",
+        "citations": [
+          {
+            "source": "consort",
+            "locator": "Randomisation: Sequence generation"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The RGN-259 trial assigned participants to an ophthalmic peptide preparation or placebo. The investigators compared healing and other eye-related outcomes between those groups.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Randomization does not by itself ensure a decisive result. This eye trial reported that its prespecified primary healing endpoint did not reach statistical significance in the small study population.",
+              "citations": [
+                {
+                  "source": "eye",
+                  "locator": "Results: Primary efficacy endpoint"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "receptor",
+      "name": "Receptor",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "receptors"
+      ],
+      "related": [
+        "receptor-agonist",
+        "growth-hormone",
+        "pharmacodynamics"
+      ],
+      "definition": {
+        "text": "A molecular target through which a signal can act on a cell. The tendon-cell paper describes growth hormone binding to its receptor on the cell membrane and activating intracellular signaling.",
+        "citations": [
+          {
+            "source": "fibro",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators separately measured receptor expression and the response to added growth hormone. They assessed receptor RNA and protein as well as cell proliferation and JAK2 pathway activation.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "More receptor expression and a downstream cellular response are distinct observations. In this paper they come from cultured rat tendon cells; they are not direct measurements of injury healing in human participants.",
+              "citations": [
+                {
+                  "source": "fibro",
+                  "locator": "Abstract; Results; Experimental Section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "receptor-agonist",
+      "name": "Receptor agonist",
+      "category": "Mechanisms & hormones",
+      "aliases": [
+        "agonist",
+        "agonists",
+        "receptor agonists"
+      ],
+      "related": [
+        "receptor",
+        "glp-1",
+        "gip"
+      ],
+      "definition": {
+        "text": "A substance that activates a receptor. In the tirzepatide paper, agonism refers to activity at the receptors for GIP and GLP-1.",
+        "citations": [
+          {
+            "source": "gip",
+            "locator": "Introduction"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors describe tirzepatide as a dual receptor agonist and analyze blood lipid-related biomarkers from a trial in people with type 2 diabetes. Receptor activity describes a mechanism; the study's measurements describe the outcomes it assessed.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Introduction and Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This analysis measured stored blood samples and lipid markers. Its discussion distinguishes those findings from a completed test of cardiovascular outcomes, which the authors identify as a further research question.",
+              "citations": [
+                {
+                  "source": "gip",
+                  "locator": "Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "retrospective-study",
+      "name": "Retrospective study",
+      "category": "Reading studies",
+      "aliases": [
+        "retrospective",
+        "retrospective chart review"
+      ],
+      "related": [
+        "case-series",
+        "control-group",
+        "endpoint"
+      ],
+      "definition": {
+        "text": "A study that looks back at events or treatment that have already occurred. The knee-pain paper describes a retrospective chart review followed by patient contact.",
+        "citations": [
+          {
+            "source": "knee",
+            "locator": "Abstract: Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The researchers identified patients who had received injections and asked about their knee pain afterward. Follow-up timing varied between patients.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This design differs from assigning treatment prospectively and following a predefined control group. The paper's symptom reports do not isolate treatment effects from all other possible reasons for change.",
+              "citations": [
+                {
+                  "source": "knee",
+                  "locator": "Methods and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "route-of-administration",
+      "name": "Route of administration",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "administration route",
+        "route of administration",
+        "routes of administration"
+      ],
+      "related": [
+        "oral",
+        "subcutaneous",
+        "intravenous",
+        "topical"
+      ],
+      "definition": {
+        "text": "The way a preparation is delivered to the body. The BPC-157 pharmacokinetic study distinguishes intravenous administration from intramuscular administration.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Introduction and Methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "Route is part of the study design because the investigators compare plasma exposure after administration into a vein with exposure after administration into muscle.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Results 2.1–2.2; Tables 1–6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "The GHK-Cu skin experiment uses another approach: material is applied to the surface of excised skin. That experiment measures penetration through tissue, rather than exposure after injection in a patient.",
+              "citations": [
+                {
+                  "source": "skin",
+                  "locator": "Materials and methods"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sterility",
+      "name": "Sterility",
+      "category": "Safety & quality",
+      "aliases": [
+        "sterile",
+        "microbiological contamination"
+      ],
+      "related": [
+        "purity",
+        "endotoxin",
+        "adverse-event"
+      ],
+      "definition": {
+        "text": "Absence of viable microorganisms. The semaglutide product study evaluated microbiological contamination separately from chemical analysis.",
+        "citations": [
+          {
+            "source": "quality",
+            "locator": "Methods and Results"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The authors detected endotoxin in a sample even though viable microorganisms were not detected.",
+              "citations": [
+                {
+                  "source": "quality",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "In this study, absence of detected living microbes did not mean absence of every contaminant. Endotoxin and chemical purity remained separate measurements.",
+              "citations": [
+                {
+                  "source": "quality",
+                  "locator": "Results"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "subcutaneous",
+      "name": "Subcutaneous",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "subcutaneously",
+        "subcutaneous injection"
+      ],
+      "related": [
+        "route-of-administration",
+        "intravenous",
+        "formulation"
+      ],
+      "definition": {
+        "text": "Administered beneath the skin. The STEP 1 report uses subcutaneous, abbreviated s.c., for the semaglutide injections studied in its main treatment phase.",
+        "citations": [
+          {
+            "source": "step",
+            "locator": "Abstract and Study design"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The paper follows participants from that injection-based treatment phase into an off-treatment extension. Treatment and lifestyle intervention were stopped at the end of the main phase.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Its results concern this studied intervention and follow-up design. Oral semaglutide is not the administered formulation in this trial extension.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Study design and Intervention"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tmax",
+      "name": "Time to peak concentration (Tmax)",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "Tmax",
+        "time to peak concentration"
+      ],
+      "related": [
+        "cmax",
+        "absorption",
+        "pharmacokinetics"
+      ],
+      "definition": {
+        "text": "The time at which a drug's plasma concentration reaches its peak. This is the meaning given to Tmax in the BPC-157 pharmacokinetic tables.",
+        "citations": [
+          {
+            "source": "bpcpk",
+            "locator": "Table 2 footnote"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The paper reports Tmax for the studied intramuscular administrations alongside Cmax and AUC. It locates the concentration peak within the sampling period.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Tables 2, 3, 5 and 6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This is the time to a concentration peak, not the time to clinical improvement. The experiment measured drug exposure and disposition in rats and dogs.",
+              "citations": [
+                {
+                  "source": "bpcpk",
+                  "locator": "Abstract; Results 2.1–2.2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "topical",
+      "name": "Topical",
+      "category": "Drug behavior & delivery",
+      "aliases": [
+        "topically",
+        "topical application"
+      ],
+      "related": [
+        "route-of-administration",
+        "formulation",
+        "in-vitro"
+      ],
+      "definition": {
+        "text": "Applied to a surface such as the skin. The copper tripeptide skin study examines a preparation applied to skin samples.",
+        "citations": [
+          {
+            "source": "skin",
+            "locator": "Materials and methods"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The investigators measured copper retained within skin layers and copper that crossed into receiving fluid. The samples were excised human skin studied outside a living participant.",
+              "citations": [
+                {
+                  "source": "skin",
+                  "locator": "Experimental design; Tissue preparation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This is a penetration experiment, not an injection trial. Its methods and measurements cannot be relabeled as evidence about systemic GHK-Cu injections.",
+              "citations": [
+                {
+                  "source": "skin",
+                  "locator": "Objectives and Experimental design"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "name": "Treatment withdrawal",
+      "category": "Reading studies",
+      "aliases": [
+        "withdrawal",
+        "treatment discontinuation",
+        "discontinued",
+        "off-treatment"
+      ],
+      "related": [
+        "baseline",
+        "endpoint",
+        "placebo"
+      ],
+      "definition": {
+        "text": "Stopping the study intervention. In the STEP 1 extension, withdrawal means that the trial's semaglutide or placebo treatment was discontinued.",
+        "citations": [
+          {
+            "source": "step",
+            "locator": "Study design"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The trial's lifestyle intervention also ended, and a subset of participants was followed during an off-treatment period. The extension analyses were exploratory.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Materials and Methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "This use of withdrawal describes stopping treatment; it is not itself a diagnosis of a withdrawal syndrome. Interpretation must also account for the lifestyle support ending at the same time.",
+              "citations": [
+                {
+                  "source": "step",
+                  "locator": "Study design and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tripeptide",
+      "name": "Tripeptide",
+      "category": "Peptide basics",
+      "aliases": [
+        "tripeptides",
+        "copper tripeptide"
+      ],
+      "related": [
+        "amino-acid",
+        "peptide",
+        "topical"
+      ],
+      "definition": {
+        "text": "A peptide containing three amino-acid units. GHK refers to glycyl-L-histidyl-L-lysine; GHK-Cu is its copper complex in the cited skin-penetration study.",
+        "citations": [
+          {
+            "source": "skin",
+            "locator": "Introduction and chemical structure"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "id": "in-the-research",
+          "title": "How the research uses this term",
+          "paragraphs": [
+            {
+              "text": "The researchers applied a GHK-Cu preparation to excised human skin and measured copper in skin layers and the receiving fluid. They explicitly reported concentrations in terms of copper.",
+              "citations": [
+                {
+                  "source": "skin",
+                  "locator": "Materials and methods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading-the-evidence",
+          "title": "Reading the evidence",
+          "paragraphs": [
+            {
+              "text": "Copper detected across a skin sample describes that experiment's penetration measurements. The authors discuss changes in copper complexes in physiological environments, so these measurements should not be read as a direct measurement of intact GHK-Cu circulating in a patient.",
+              "citations": [
+                {
+                  "source": "skin",
+                  "locator": "Materials and Discussion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

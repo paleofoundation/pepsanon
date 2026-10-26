@@ -1,0 +1,185 @@
+{
+  "source": "User-provided focus list. Signal links retained for provenance only; not visited or used as clinical evidence.",
+  "rows": [
+    {
+      "priority": 1,
+      "peptide": "Tirzepatide",
+      "stack": "Wolverine stack",
+      "signal_url": "https://america1stpeptides.com/top-sellers/"
+    },
+    {
+      "priority": 2,
+      "peptide": "Semaglutide",
+      "stack": "CJC-1295 + ipamorelin",
+      "signal_url": "https://america1stpeptides.com/top-sellers/"
+    },
+    {
+      "priority": 3,
+      "peptide": "BPC-157",
+      "stack": "GLOW stack",
+      "signal_url": "https://america1stpeptides.com/top-sellers/"
+    },
+    {
+      "priority": 4,
+      "peptide": "Retatrutide",
+      "stack": "KLOW stack",
+      "signal_url": "https://america1stpeptides.com/top-sellers/"
+    },
+    {
+      "priority": 5,
+      "peptide": "GHK-Cu",
+      "stack": "Tesamorelin + ipamorelin",
+      "signal_url": "https://optides.com/shop"
+    },
+    {
+      "priority": 6,
+      "peptide": "TB-500",
+      "stack": "Semaglutide + cagrilintide / CagriSema",
+      "signal_url": "https://biocuralabs.com/products/klow-stack/"
+    },
+    {
+      "priority": 7,
+      "peptide": "Collagen peptides",
+      "stack": "Semax + Selank",
+      "signal_url": "https://www.perxpeptides.com/stacks"
+    },
+    {
+      "priority": 8,
+      "peptide": "Tesamorelin",
+      "stack": "Sermorelin + ipamorelin",
+      "signal_url": "https://peptide-medix.com/products/sermorelin-ipamorelin/"
+    },
+    {
+      "priority": 9,
+      "peptide": "CJC-1295",
+      "stack": "Retatrutide + cagrilintide",
+      "signal_url": "https://celvarislabs.com/product/retatrutide-cagrilintide-blend-12-5mg/"
+    },
+    {
+      "priority": 10,
+      "peptide": "Ipamorelin",
+      "stack": "MOTS-c + SS-31",
+      "signal_url": "https://pepdaddylabs.com/pages/stacks/mitochondrial-signaling"
+    },
+    {
+      "priority": 11,
+      "peptide": "MOTS-c",
+      "stack": "BPC-157 + KPV",
+      "signal_url": "https://peptide-medix.com/products/bpc-157-kpv/"
+    },
+    {
+      "priority": 12,
+      "peptide": "Sermorelin",
+      "stack": "Tesamorelin + CJC-1295 + ipamorelin",
+      "signal_url": "https://peptide-warehouse.com/peptides/"
+    },
+    {
+      "priority": 13,
+      "peptide": "PT-141 / bremelanotide",
+      "stack": "Tirzepatide + cagrilintide",
+      "signal_url": "https://www.reddit.com/r/Retatrutide/comments/1tuzjhr/reta_7_months_in_my_experience_with_stacking_tirz/"
+    },
+    {
+      "priority": 14,
+      "peptide": "Cagrilintide",
+      "stack": "Tesamorelin + AOD-9604",
+      "signal_url": "https://www.getoam.com/stacks"
+    },
+    {
+      "priority": 15,
+      "peptide": "SS-31 / elamipretide",
+      "stack": "Tesamorelin + MOTS-c",
+      "signal_url": "https://formblends.com/products"
+    },
+    {
+      "priority": 16,
+      "peptide": "KPV",
+      "stack": "AOD-9604 + MOTS-c",
+      "signal_url": "https://www.perxpeptides.com/stacks"
+    },
+    {
+      "priority": 17,
+      "peptide": "Semax",
+      "stack": "MOTS-c + NAD+",
+      "signal_url": "https://www.reddit.com/r/Biohacking/comments/1sq2nxd/motsc_nad_without_ss31/"
+    },
+    {
+      "priority": 18,
+      "peptide": "Selank",
+      "stack": "MOTS-c + SS-31 + NAD+",
+      "signal_url": "https://quietlabsresearch.com/product/mito-stack/"
+    },
+    {
+      "priority": 19,
+      "peptide": "Epitalon / Epithalon",
+      "stack": "BPC-157 + TB-500 + KPV",
+      "signal_url": "https://formblends.com/products"
+    },
+    {
+      "priority": 20,
+      "peptide": "Thymosin alpha-1",
+      "stack": "BPC-157 + TB-500 + CJC-1295 + ipamorelin",
+      "signal_url": "https://www.reddit.com/r/CleanHealth/comments/1vp5gku/peptide_bundles_4packs_worth_buying/"
+    },
+    {
+      "priority": 21,
+      "peptide": "AOD-9604",
+      "stack": "CJC-1295 + ipamorelin + GHK-Cu",
+      "signal_url": "https://www.getoam.com/stacks"
+    },
+    {
+      "priority": 22,
+      "peptide": "Melanotan II",
+      "stack": "GHK-Cu + Epitalon",
+      "signal_url": "https://www.perxpeptides.com/stacks"
+    },
+    {
+      "priority": 23,
+      "peptide": "DSIP",
+      "stack": "Epitalon + thymalin",
+      "signal_url": "https://igetpeptides.com/shop?category=blends"
+    },
+    {
+      "priority": 24,
+      "peptide": "IGF-1 LR3",
+      "stack": "DSIP + ipamorelin",
+      "signal_url": "https://www.getoam.com/stacks"
+    },
+    {
+      "priority": 25,
+      "peptide": "GHRP-2",
+      "stack": "PT-141 + oxytocin",
+      "signal_url": "https://www.getoam.com/stacks"
+    },
+    {
+      "priority": 26,
+      "peptide": "GHRP-6",
+      "stack": "Tirzepatide + tesamorelin",
+      "signal_url": "https://www.getoam.com/stacks"
+    },
+    {
+      "priority": 27,
+      "peptide": "Kisspeptin-10",
+      "stack": "Retatrutide + MOTS-c",
+      "signal_url": "https://www.reddit.com/r/Retatrutide/comments/1jkumhp/best_stack_with_reta/"
+    },
+    {
+      "priority": 28,
+      "peptide": "Oxytocin",
+      "stack": "Retatrutide + tirzepatide",
+      "signal_url": "https://www.reddit.com/r/Retatrutide/comments/1j4213g/stack_tirzepatide_and_retatrutide/"
+    },
+    {
+      "priority": 29,
+      "peptide": "LL-37",
+      "stack": "Semaglutide + B12",
+      "signal_url": "https://pharmalabs.com/wp-content/uploads/2025/07/Semaglutide_Cyanocobalamin-2.5mg_0.5mg_mL-Subcutaneous-Injection.pdf"
+    },
+    {
+      "priority": 30,
+      "peptide": "Hexarelin",
+      "stack": "Tirzepatide + B12",
+      "signal_url": "https://pharmalabs.com/wp-content/uploads/2025/07/Tirzepatide-10-mg_mL-and-Cyanocobalamin-0.5-mg_mL-Subcutaneous-Injection.pdf"
+    }
+  ]
+}

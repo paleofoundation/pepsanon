@@ -1,0 +1,28 @@
+LOCAL CORPUS RULES
+Source folder: /Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/
+Read order: README.md, MANIFEST.csv, GAP-NOTE.md, eligible PDFs.
+Eligible numerical evidence: PDFs named in MANIFEST.csv with obtained=y and tier=PRIMARY.
+No web searches, downloads, or facts recalled from papers outside the folder.
+Every numerical claim must occur in the eligible PDF and cite its exact filename and actual DOI.
+If the requested number is absent, write NOT IN CORPUS.
+If the DOI cannot be found in the packet, write DOI: NOT IN CORPUS; do not invent or substitute an identifier. In the index this marks a DOI not located in PDF text, not proof that the publication has no DOI.
+Do not calculate new effect sizes, digitize unprinted values, infer doses, or set product ceilings.
+Do not draft outbound email.
+SUPPORTIVE rows, PAYWALLED-NEEDED.csv and GAP-NOTE.md are not numerical evidence.
+GAP-NOTE.md describes missing material only. sha256.txt is identity information only.
+Figures on a peptide page must originate in an eligible PDF in this folder assigned to that peptide topic in MANIFEST.csv.
+If no eligible figure source exists, write NOT IN CORPUS and name the peptide.
+Topic indexing does not establish molecular equivalence: keep the actual molecule, formulation, route, species, model and endpoint explicit.
+Distinguish experiments and measured outcomes from protocols, modeling, indirect comparisons and cited background.
+Do not present referenced-study results as original observations in the current PDF.
+Check original PDF pages and captions visually before releasing a number or a figure.
+
+INGESTION OUTPUTS
+index.json and index.csv: manifest eligibility, local paths, DOI verification state and identity metadata.
+text/: full pdftotext layout extraction, with form-feed PDF page boundaries.
+Text may contain extraction errors; it is a retrieval aid, not a curated numerical evidence table.
+Figure caption locations are machine-detected candidates, not an approved figure selection.
+Pages with little extractable text are flagged in index.json and remain available in the original PDFs. Image-only text and numbers have not been transcribed.
+This ingestion is a searchable extraction and identifier audit, not an exhaustive scientific review or visual inspection of every page.
+Metadata counts, page positions, filenames and hashes are identifiers or processing metadata, not scientific results.
+The source packet is unchanged. No website content has been edited.

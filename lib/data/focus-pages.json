@@ -1,0 +1,801 @@
+{
+  "peptides": [
+    {
+      "id": "tirzepatide",
+      "name": "Tirzepatide",
+      "aliases": "",
+      "priority": 1,
+      "existing": true
+    },
+    {
+      "id": "semaglutide",
+      "name": "Semaglutide",
+      "aliases": "",
+      "priority": 2,
+      "existing": true
+    },
+    {
+      "id": "bpc-157",
+      "name": "BPC-157",
+      "aliases": "",
+      "priority": 3,
+      "existing": true
+    },
+    {
+      "id": "retatrutide",
+      "name": "Retatrutide",
+      "aliases": "",
+      "priority": 4,
+      "existing": false
+    },
+    {
+      "id": "ghk-cu",
+      "name": "GHK-Cu",
+      "aliases": "",
+      "priority": 5,
+      "existing": true
+    },
+    {
+      "id": "tb-500",
+      "name": "TB-500",
+      "aliases": "",
+      "priority": 6,
+      "existing": true
+    },
+    {
+      "id": "collagen",
+      "name": "Collagen peptides",
+      "aliases": "",
+      "priority": 7,
+      "existing": true
+    },
+    {
+      "id": "tesamorelin",
+      "name": "Tesamorelin",
+      "aliases": "",
+      "priority": 8,
+      "existing": false
+    },
+    {
+      "id": "cjc-1295",
+      "name": "CJC-1295",
+      "aliases": "",
+      "priority": 9,
+      "existing": true
+    },
+    {
+      "id": "ipamorelin",
+      "name": "Ipamorelin",
+      "aliases": "",
+      "priority": 10,
+      "existing": true
+    },
+    {
+      "id": "mots-c",
+      "name": "MOTS-c",
+      "aliases": "MOTS c MOTSc",
+      "priority": 11,
+      "existing": false
+    },
+    {
+      "id": "sermorelin",
+      "name": "Sermorelin",
+      "aliases": "",
+      "priority": 12,
+      "existing": false
+    },
+    {
+      "id": "pt-141",
+      "name": "PT-141 / bremelanotide",
+      "aliases": "bremelanotide PT141",
+      "priority": 13,
+      "existing": false
+    },
+    {
+      "id": "cagrilintide",
+      "name": "Cagrilintide",
+      "aliases": "CagriSema",
+      "priority": 14,
+      "existing": false
+    },
+    {
+      "id": "ss-31",
+      "name": "SS-31 / elamipretide",
+      "aliases": "elamipretide SS31",
+      "priority": 15,
+      "existing": false
+    },
+    {
+      "id": "kpv",
+      "name": "KPV",
+      "aliases": "",
+      "priority": 16,
+      "existing": false
+    },
+    {
+      "id": "semax",
+      "name": "Semax",
+      "aliases": "",
+      "priority": 17,
+      "existing": false
+    },
+    {
+      "id": "selank",
+      "name": "Selank",
+      "aliases": "",
+      "priority": 18,
+      "existing": false
+    },
+    {
+      "id": "epitalon",
+      "name": "Epitalon / Epithalon",
+      "aliases": "Epithalon",
+      "priority": 19,
+      "existing": false
+    },
+    {
+      "id": "thymosin-alpha-1",
+      "name": "Thymosin alpha-1",
+      "aliases": "thymosin alpha 1",
+      "priority": 20,
+      "existing": false
+    },
+    {
+      "id": "aod-9604",
+      "name": "AOD-9604",
+      "aliases": "AOD9604",
+      "priority": 21,
+      "existing": false
+    },
+    {
+      "id": "melanotan-ii",
+      "name": "Melanotan II",
+      "aliases": "Melanotan 2",
+      "priority": 22,
+      "existing": false
+    },
+    {
+      "id": "dsip",
+      "name": "DSIP",
+      "aliases": "",
+      "priority": 23,
+      "existing": false
+    },
+    {
+      "id": "igf-1-lr3",
+      "name": "IGF-1 LR3",
+      "aliases": "IGF1 LR3",
+      "priority": 24,
+      "existing": false
+    },
+    {
+      "id": "ghrp-2",
+      "name": "GHRP-2",
+      "aliases": "GHRP2",
+      "priority": 25,
+      "existing": false
+    },
+    {
+      "id": "ghrp-6",
+      "name": "GHRP-6",
+      "aliases": "GHRP6",
+      "priority": 26,
+      "existing": false
+    },
+    {
+      "id": "kisspeptin-10",
+      "name": "Kisspeptin-10",
+      "aliases": "kisspeptin 10",
+      "priority": 27,
+      "existing": false
+    },
+    {
+      "id": "oxytocin",
+      "name": "Oxytocin",
+      "aliases": "",
+      "priority": 28,
+      "existing": false
+    },
+    {
+      "id": "ll-37",
+      "name": "LL-37",
+      "aliases": "LL37",
+      "priority": 29,
+      "existing": false
+    },
+    {
+      "id": "hexarelin",
+      "name": "Hexarelin",
+      "aliases": "",
+      "priority": 30,
+      "existing": false
+    }
+  ],
+  "stacks": [
+    {
+      "slug": "wolverine-stack",
+      "name": "Wolverine stack",
+      "priority": 1,
+      "ingredients": [
+        {
+          "id": "bpc-157",
+          "name": "BPC-157",
+          "hasPage": true
+        },
+        {
+          "id": "tb-500",
+          "name": "TB-500",
+          "hasPage": true
+        }
+      ],
+      "existing": true
+    },
+    {
+      "slug": "cjc-1295-ipamorelin",
+      "name": "CJC-1295 + ipamorelin",
+      "priority": 2,
+      "ingredients": [
+        {
+          "id": "cjc-1295",
+          "name": "CJC-1295",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": true
+    },
+    {
+      "slug": "glow-stack",
+      "name": "GLOW stack",
+      "priority": 3,
+      "ingredients": [
+        {
+          "id": "bpc-157",
+          "name": "BPC-157",
+          "hasPage": true
+        },
+        {
+          "id": "tb-500",
+          "name": "TB-500",
+          "hasPage": true
+        },
+        {
+          "id": "ghk-cu",
+          "name": "GHK-Cu",
+          "hasPage": true
+        }
+      ],
+      "existing": true
+    },
+    {
+      "slug": "klow-stack",
+      "name": "KLOW stack",
+      "priority": 4,
+      "ingredients": [
+        {
+          "id": "bpc-157",
+          "name": "BPC-157",
+          "hasPage": true
+        },
+        {
+          "id": "tb-500",
+          "name": "TB-500",
+          "hasPage": true
+        },
+        {
+          "id": "ghk-cu",
+          "name": "GHK-Cu",
+          "hasPage": true
+        },
+        {
+          "id": "kpv",
+          "name": "KPV",
+          "hasPage": true
+        }
+      ],
+      "existing": true
+    },
+    {
+      "slug": "tesamorelin-ipamorelin",
+      "name": "Tesamorelin + ipamorelin",
+      "priority": 5,
+      "ingredients": [
+        {
+          "id": "tesamorelin",
+          "name": "Tesamorelin",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "semaglutide-cagrilintide",
+      "name": "Semaglutide + cagrilintide / CagriSema",
+      "priority": 6,
+      "ingredients": [
+        {
+          "id": "semaglutide",
+          "name": "Semaglutide",
+          "hasPage": true
+        },
+        {
+          "id": "cagrilintide",
+          "name": "Cagrilintide",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "semax-selank",
+      "name": "Semax + Selank",
+      "priority": 7,
+      "ingredients": [
+        {
+          "id": "semax",
+          "name": "Semax",
+          "hasPage": true
+        },
+        {
+          "id": "selank",
+          "name": "Selank",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "sermorelin-ipamorelin",
+      "name": "Sermorelin + ipamorelin",
+      "priority": 8,
+      "ingredients": [
+        {
+          "id": "sermorelin",
+          "name": "Sermorelin",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "retatrutide-cagrilintide",
+      "name": "Retatrutide + cagrilintide",
+      "priority": 9,
+      "ingredients": [
+        {
+          "id": "retatrutide",
+          "name": "Retatrutide",
+          "hasPage": true
+        },
+        {
+          "id": "cagrilintide",
+          "name": "Cagrilintide",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "mots-c-ss-31",
+      "name": "MOTS-c + SS-31",
+      "priority": 10,
+      "ingredients": [
+        {
+          "id": "mots-c",
+          "name": "MOTS-c",
+          "hasPage": true
+        },
+        {
+          "id": "ss-31",
+          "name": "SS-31",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "bpc-157-kpv",
+      "name": "BPC-157 + KPV",
+      "priority": 11,
+      "ingredients": [
+        {
+          "id": "bpc-157",
+          "name": "BPC-157",
+          "hasPage": true
+        },
+        {
+          "id": "kpv",
+          "name": "KPV",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "tesamorelin-cjc-1295-ipamorelin",
+      "name": "Tesamorelin + CJC-1295 + ipamorelin",
+      "priority": 12,
+      "ingredients": [
+        {
+          "id": "tesamorelin",
+          "name": "Tesamorelin",
+          "hasPage": true
+        },
+        {
+          "id": "cjc-1295",
+          "name": "CJC-1295",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "tirzepatide-cagrilintide",
+      "name": "Tirzepatide + cagrilintide",
+      "priority": 13,
+      "ingredients": [
+        {
+          "id": "tirzepatide",
+          "name": "Tirzepatide",
+          "hasPage": true
+        },
+        {
+          "id": "cagrilintide",
+          "name": "Cagrilintide",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "tesamorelin-aod-9604",
+      "name": "Tesamorelin + AOD-9604",
+      "priority": 14,
+      "ingredients": [
+        {
+          "id": "tesamorelin",
+          "name": "Tesamorelin",
+          "hasPage": true
+        },
+        {
+          "id": "aod-9604",
+          "name": "AOD-9604",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "tesamorelin-mots-c",
+      "name": "Tesamorelin + MOTS-c",
+      "priority": 15,
+      "ingredients": [
+        {
+          "id": "tesamorelin",
+          "name": "Tesamorelin",
+          "hasPage": true
+        },
+        {
+          "id": "mots-c",
+          "name": "MOTS-c",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "aod-9604-mots-c",
+      "name": "AOD-9604 + MOTS-c",
+      "priority": 16,
+      "ingredients": [
+        {
+          "id": "aod-9604",
+          "name": "AOD-9604",
+          "hasPage": true
+        },
+        {
+          "id": "mots-c",
+          "name": "MOTS-c",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "mots-c-nad",
+      "name": "MOTS-c + NAD+",
+      "priority": 17,
+      "ingredients": [
+        {
+          "id": "mots-c",
+          "name": "MOTS-c",
+          "hasPage": true
+        },
+        {
+          "id": "nad",
+          "name": "NAD+",
+          "hasPage": false
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "mots-c-ss-31-nad",
+      "name": "MOTS-c + SS-31 + NAD+",
+      "priority": 18,
+      "ingredients": [
+        {
+          "id": "mots-c",
+          "name": "MOTS-c",
+          "hasPage": true
+        },
+        {
+          "id": "ss-31",
+          "name": "SS-31",
+          "hasPage": true
+        },
+        {
+          "id": "nad",
+          "name": "NAD+",
+          "hasPage": false
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "bpc-157-tb-500-kpv",
+      "name": "BPC-157 + TB-500 + KPV",
+      "priority": 19,
+      "ingredients": [
+        {
+          "id": "bpc-157",
+          "name": "BPC-157",
+          "hasPage": true
+        },
+        {
+          "id": "tb-500",
+          "name": "TB-500",
+          "hasPage": true
+        },
+        {
+          "id": "kpv",
+          "name": "KPV",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "bpc-157-tb-500-cjc-1295-ipamorelin",
+      "name": "BPC-157 + TB-500 + CJC-1295 + ipamorelin",
+      "priority": 20,
+      "ingredients": [
+        {
+          "id": "bpc-157",
+          "name": "BPC-157",
+          "hasPage": true
+        },
+        {
+          "id": "tb-500",
+          "name": "TB-500",
+          "hasPage": true
+        },
+        {
+          "id": "cjc-1295",
+          "name": "CJC-1295",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "cjc-1295-ipamorelin-ghk-cu",
+      "name": "CJC-1295 + ipamorelin + GHK-Cu",
+      "priority": 21,
+      "ingredients": [
+        {
+          "id": "cjc-1295",
+          "name": "CJC-1295",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        },
+        {
+          "id": "ghk-cu",
+          "name": "GHK-Cu",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "ghk-cu-epitalon",
+      "name": "GHK-Cu + Epitalon",
+      "priority": 22,
+      "ingredients": [
+        {
+          "id": "ghk-cu",
+          "name": "GHK-Cu",
+          "hasPage": true
+        },
+        {
+          "id": "epitalon",
+          "name": "Epitalon",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "epitalon-thymalin",
+      "name": "Epitalon + thymalin",
+      "priority": 23,
+      "ingredients": [
+        {
+          "id": "epitalon",
+          "name": "Epitalon",
+          "hasPage": true
+        },
+        {
+          "id": "thymalin",
+          "name": "Thymalin",
+          "hasPage": false
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "dsip-ipamorelin",
+      "name": "DSIP + ipamorelin",
+      "priority": 24,
+      "ingredients": [
+        {
+          "id": "dsip",
+          "name": "DSIP",
+          "hasPage": true
+        },
+        {
+          "id": "ipamorelin",
+          "name": "Ipamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "pt-141-oxytocin",
+      "name": "PT-141 + oxytocin",
+      "priority": 25,
+      "ingredients": [
+        {
+          "id": "pt-141",
+          "name": "PT-141",
+          "hasPage": true
+        },
+        {
+          "id": "oxytocin",
+          "name": "Oxytocin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "tirzepatide-tesamorelin",
+      "name": "Tirzepatide + tesamorelin",
+      "priority": 26,
+      "ingredients": [
+        {
+          "id": "tirzepatide",
+          "name": "Tirzepatide",
+          "hasPage": true
+        },
+        {
+          "id": "tesamorelin",
+          "name": "Tesamorelin",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "retatrutide-mots-c",
+      "name": "Retatrutide + MOTS-c",
+      "priority": 27,
+      "ingredients": [
+        {
+          "id": "retatrutide",
+          "name": "Retatrutide",
+          "hasPage": true
+        },
+        {
+          "id": "mots-c",
+          "name": "MOTS-c",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "retatrutide-tirzepatide",
+      "name": "Retatrutide + tirzepatide",
+      "priority": 28,
+      "ingredients": [
+        {
+          "id": "retatrutide",
+          "name": "Retatrutide",
+          "hasPage": true
+        },
+        {
+          "id": "tirzepatide",
+          "name": "Tirzepatide",
+          "hasPage": true
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "semaglutide-b12",
+      "name": "Semaglutide + B12",
+      "priority": 29,
+      "ingredients": [
+        {
+          "id": "semaglutide",
+          "name": "Semaglutide",
+          "hasPage": true
+        },
+        {
+          "id": "b12",
+          "name": "B12",
+          "hasPage": false
+        }
+      ],
+      "existing": false
+    },
+    {
+      "slug": "tirzepatide-b12",
+      "name": "Tirzepatide + B12",
+      "priority": 30,
+      "ingredients": [
+        {
+          "id": "tirzepatide",
+          "name": "Tirzepatide",
+          "hasPage": true
+        },
+        {
+          "id": "b12",
+          "name": "B12",
+          "hasPage": false
+        }
+      ],
+      "existing": false
+    }
+  ]
+}

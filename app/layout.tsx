@@ -5,6 +5,8 @@ import './research-details.css';
 import './policies.css';
 import './brand.css';
 import './stacks.css';
+import './focus-pages.css';
+import './glossary.css';
 import {StructuredData} from '@/components/peptide/structured-data';
 import {SITE_ORIGIN} from '@/lib/seo';
 import {Shell} from '@/components/peptide/shell';

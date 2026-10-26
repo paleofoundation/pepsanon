@@ -104,3 +104,13 @@ html{scroll-behavior:smooth;scroll-padding-top:110px}body{font-family:Inter,Aria
 #answers>.rgbc-faq-block{border-top:1px solid #dce6e5}
 #answers .rgbc-faq-item{border-bottom:1px solid #dce6e5;padding:1.2rem 0}
 @media(max-width:575px){.guide-prose,#overview>.answer-paragraph{font-size:17px;line-height:1.8}.guide-prose .section-answer h3{font-size:22px}.guide-prose .section-answer{margin:1.5rem 0 2rem}}
+
+/* Source-packet study records: lazy-loaded evidence with exact provenance. */
+.corpus-citation{display:block;font-style:normal;font-size:.72rem;line-height:1.55;color:var(--muted-foreground,#526064);overflow-wrap:anywhere;margin-top:.55rem}
+.corpus-file-label{display:block;font-size:.67rem;line-height:1.4;overflow-wrap:anywhere;color:var(--muted-foreground,#526064);margin-top:.5rem}
+.corpus-doi{font-size:.74rem;overflow-wrap:anywhere;min-width:8rem}
+.corpus-record-body blockquote{margin:1rem 0;padding:.8rem 1rem;border-left:2px solid #026472;background:#fbfaf6}
+.corpus-record-body blockquote p{margin:0;font-size:.88rem;line-height:1.65;white-space:pre-wrap;overflow-wrap:anywhere}
+.corpus-record-field{margin:1.4rem 0}.corpus-record-field h3{font-size:1rem;margin-bottom:.6rem}
+.corpus-record-body .research-facts dd{overflow-wrap:anywhere}.corpus-number-ledger>p{font-size:.85rem}
+.corpus-studies{scroll-margin-top:6rem;margin:1.5rem 0 2.5rem}.corpus-studies table td:first-child{min-width:17rem}.corpus-studies table th{white-space:nowrap}

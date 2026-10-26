@@ -1,0 +1,944 @@
+[
+  {
+    "slug": "absorption",
+    "name": "Absorption",
+    "aliases": [
+      "absorbed"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The process by which material from an administered preparation enters the body. The collagen trial examines the appearance of amino acids in blood after ingestion.",
+    "sources": [
+      {
+        "id": "collagen",
+        "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/"
+      }
+    ]
+  },
+  {
+    "slug": "adverse-event",
+    "name": "Adverse event",
+    "aliases": [
+      "adverse events",
+      "AE",
+      "AEs",
+      "treatment-emergent adverse events"
+    ],
+    "category": "Safety & quality",
+    "definition": "An unfavorable medical occurrence recorded during a study, with causation assessed separately. The eye trial tabulates events and their relationship to study treatment.",
+    "sources": [
+      {
+        "id": "eye",
+        "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/"
+      }
+    ]
+  },
+  {
+    "slug": "amino-acid",
+    "name": "Amino acid",
+    "aliases": [
+      "amino acids",
+      "amino-acid residues"
+    ],
+    "category": "Peptide basics",
+    "definition": "One of the molecular units that make up proteins and peptides. The collagen absorption paper discusses glycine, proline and hydroxyproline as amino-acid components of collagen.",
+    "sources": [
+      {
+        "id": "collagen",
+        "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/"
+      }
+    ]
+  },
+  {
+    "slug": "auc",
+    "name": "Area under the curve (AUC)",
+    "aliases": [
+      "AUC",
+      "area under the curve",
+      "area under the concentration-time curve"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "A summary of concentration across a span of time. In the BPC-157 paper, AUC is the area beneath the plasma concentration-versus-time curve.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "baseline",
+    "name": "Baseline",
+    "aliases": [
+      "baseline measurement"
+    ],
+    "category": "Reading studies",
+    "definition": "The starting measurement used for comparison with later observations. The STEP 1 extension reports participant characteristics and changes relative to specified study time points.",
+    "sources": [
+      {
+        "id": "step",
+        "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/"
+      }
+    ]
+  },
+  {
+    "slug": "bioavailability",
+    "name": "Bioavailability",
+    "aliases": [
+      "absolute bioavailability"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The extent to which an administered substance reaches the systemic circulation. The BPC-157 paper estimates absolute bioavailability by comparing dose-adjusted intramuscular and intravenous exposure.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "biomarker",
+    "name": "Biomarker",
+    "aliases": [
+      "biomarkers",
+      "hormone-marker",
+      "hormone marker"
+    ],
+    "category": "Reading studies",
+    "definition": "A measurable biological characteristic used to study a process or response. The tirzepatide analysis measures blood lipoprotein-related biomarkers.",
+    "sources": [
+      {
+        "id": "gip",
+        "title": "The dual glucose-dependent insulinotropic peptide and glucagon-like peptide-1 receptor agonist, tirzepatide, improves lipoprotein biomarkers associated with insulin resistance and cardiovascular risk in patients with type 2 diabetes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/"
+      }
+    ]
+  },
+  {
+    "slug": "biomechanical-testing",
+    "name": "Biomechanical testing",
+    "aliases": [
+      "biomechanical",
+      "biomechanics",
+      "maximum load to failure",
+      "load to failure"
+    ],
+    "category": "Reading studies",
+    "definition": "Testing a biological tissue's mechanical behavior. The Achilles repair paper measures the maximum load a repaired rat tendon withstands before failure.",
+    "sources": [
+      {
+        "id": "tendon",
+        "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+        "url": "https://jointdrs.org/full-text/1851"
+      }
+    ]
+  },
+  {
+    "slug": "blinding",
+    "name": "Blinding",
+    "aliases": [
+      "blinded",
+      "double-blind",
+      "double-blinded",
+      "double-masked",
+      "masking"
+    ],
+    "category": "Reading studies",
+    "definition": "Keeping specified people in a study unaware of which intervention participants receive. A useful report identifies who was blinded and how.",
+    "sources": [
+      {
+        "id": "consort",
+        "title": "CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials",
+        "url": "https://www.bmj.com/content/340/bmj.c869"
+      }
+    ]
+  },
+  {
+    "slug": "case-series",
+    "name": "Case series",
+    "aliases": [
+      "case series",
+      "uncontrolled case series"
+    ],
+    "category": "Reading studies",
+    "definition": "A description of a group of patients with a shared treatment or condition. The BPC-157 knee report describes treated patients without a randomized control group.",
+    "sources": [
+      {
+        "id": "knee",
+        "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      }
+    ]
+  },
+  {
+    "slug": "collagen",
+    "name": "Collagen",
+    "aliases": [
+      "collagens"
+    ],
+    "category": "Peptide basics",
+    "definition": "A structural protein found in connective tissue. The collagen absorption paper describes it as an important component of bone, tendon, ligament and cartilage.",
+    "sources": [
+      {
+        "id": "collagen",
+        "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/"
+      }
+    ]
+  },
+  {
+    "slug": "control-group",
+    "name": "Control group",
+    "aliases": [
+      "control groups",
+      "controlled trial"
+    ],
+    "category": "Reading studies",
+    "definition": "The group used as a comparison for the intervention. The Achilles experiment includes a vehicle-treated control group alongside peptide-treated groups.",
+    "sources": [
+      {
+        "id": "tendon",
+        "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+        "url": "https://jointdrs.org/full-text/1851"
+      }
+    ]
+  },
+  {
+    "slug": "endotoxin",
+    "name": "Endotoxin",
+    "aliases": [
+      "endotoxins"
+    ],
+    "category": "Safety & quality",
+    "definition": "A bacterial toxin contaminant evaluated separately from viable microbes in the semaglutide product-testing study.",
+    "sources": [
+      {
+        "id": "quality",
+        "title": "Safety and Risk Assessment of No-Prescription Online Semaglutide Purchases",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882"
+      }
+    ]
+  },
+  {
+    "slug": "endpoint",
+    "name": "Endpoint",
+    "aliases": [
+      "endpoints",
+      "outcome measure",
+      "outcome measures",
+      "primary endpoint"
+    ],
+    "category": "Reading studies",
+    "definition": "The specified outcome a study evaluates. The eye trial defines its primary endpoint as complete healing of the persistent corneal epithelial defect at the designated visit.",
+    "sources": [
+      {
+        "id": "eye",
+        "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/"
+      }
+    ]
+  },
+  {
+    "slug": "extracellular-matrix",
+    "name": "Extracellular matrix",
+    "aliases": [
+      "extracellular matrix"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "The material surrounding cells in a tissue. The tendon-cell paper describes a matrix containing collagen and glycoproteins around tendon fibroblasts.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "fibroblast",
+    "name": "Fibroblast",
+    "aliases": [
+      "fibroblasts",
+      "tendon fibroblasts"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A connective-tissue cell involved in producing extracellular matrix. The tendon paper describes fibroblasts making collagen and other matrix components during repair.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "formulation",
+    "name": "Formulation",
+    "aliases": [
+      "formulations",
+      "preparation"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The prepared form of a substance used in a study. The RGN-259 trial, for example, evaluates thymosin β4 in an ophthalmic solution.",
+    "sources": [
+      {
+        "id": "eye",
+        "title": "0.1% RGN-259 (Thymosin ß4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/"
+      }
+    ]
+  },
+  {
+    "slug": "glp-1",
+    "name": "Glucagon-like peptide-1 (GLP-1)",
+    "aliases": [
+      "GLP-1",
+      "GLP1",
+      "glucagon-like peptide-1"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "The peptide signal whose receptor is targeted by GLP-1 receptor agonists. The STEP 1 extension describes semaglutide as a GLP-1 analogue.",
+    "sources": [
+      {
+        "id": "step",
+        "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/"
+      }
+    ]
+  },
+  {
+    "slug": "gip",
+    "name": "Glucose-dependent insulinotropic peptide (GIP)",
+    "aliases": [
+      "GIP",
+      "glucose-dependent insulinotropic peptide"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A peptide signal discussed in the tirzepatide paper in relation to its receptor and metabolic effects. Tirzepatide is described as acting at both GIP and GLP-1 receptors.",
+    "sources": [
+      {
+        "id": "gip",
+        "title": "The dual glucose-dependent insulinotropic peptide and glucagon-like peptide-1 receptor agonist, tirzepatide, improves lipoprotein biomarkers associated with insulin resistance and cardiovascular risk in patients with type 2 diabetes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/"
+      }
+    ]
+  },
+  {
+    "slug": "growth-hormone",
+    "name": "Growth hormone",
+    "aliases": [
+      "GH"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A peptide hormone released from the anterior pituitary. The tendon-cell paper describes growth hormone acting through cell-surface receptors and downstream signaling.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "growth-hormone-secretagogue",
+    "name": "Growth hormone secretagogue",
+    "aliases": [
+      "secretagogue",
+      "secretagogues",
+      "growth hormone releasing peptide"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A substance that stimulates growth hormone release. The ipamorelin study examines this action by measuring GH concentrations after administration.",
+    "sources": [
+      {
+        "id": "ipa",
+        "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/"
+      }
+    ]
+  },
+  {
+    "slug": "ghrh",
+    "name": "Growth hormone–releasing hormone (GHRH)",
+    "aliases": [
+      "GHRH",
+      "growth hormone-releasing hormone",
+      "GH-releasing hormone"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A hormone that stimulates growth hormone release. The CJC-1295 paper studies a long-acting analogue of GHRH.",
+    "sources": [
+      {
+        "id": "cjc",
+        "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/"
+      }
+    ]
+  },
+  {
+    "slug": "half-life",
+    "name": "Half-life",
+    "aliases": [
+      "half life",
+      "elimination half-life",
+      "terminal half-life",
+      "t1/2"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The time taken for a measured drug concentration to decrease by half during the specified decline phase. The BPC-157 paper reports an elimination half-life for the parent peptide.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "histology",
+    "name": "Histology",
+    "aliases": [
+      "histological",
+      "histopathological",
+      "histopathology"
+    ],
+    "category": "Reading studies",
+    "definition": "The microscopic study of tissue structure. In the rat Achilles paper, histological evaluation examines stained sections of healing tendons.",
+    "sources": [
+      {
+        "id": "tendon",
+        "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study",
+        "url": "https://jointdrs.org/full-text/1851"
+      }
+    ]
+  },
+  {
+    "slug": "hydrolyzed-collagen",
+    "name": "Hydrolyzed collagen",
+    "aliases": [
+      "hydrolysed collagen",
+      "collagen hydrolysate",
+      "collagen hydrolysates",
+      "collagen peptides"
+    ],
+    "category": "Peptide basics",
+    "definition": "Collagen processed into smaller peptide fragments by hydrolysis. The cited trial compares collagen preparations that differ in enzymatic processing.",
+    "sources": [
+      {
+        "id": "collagen",
+        "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/"
+      }
+    ]
+  },
+  {
+    "slug": "immunogenicity",
+    "name": "Immunogenicity",
+    "aliases": [
+      "immunogenic",
+      "immune response",
+      "immune reactions"
+    ],
+    "category": "Safety & quality",
+    "definition": "The tendency of a therapeutic substance to provoke an immune response against itself. FDA uses this definition for protein therapeutics.",
+    "sources": [
+      {
+        "id": "immune",
+        "title": "FDA: Immunogenicity of Protein-based Therapeutics",
+        "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/immunogenicity-protein-based-therapeutics"
+      }
+    ]
+  },
+  {
+    "slug": "in-vitro",
+    "name": "In vitro",
+    "aliases": [
+      "in-vitro",
+      "cell culture"
+    ],
+    "category": "Reading studies",
+    "definition": "Studied outside a living organism, for example in cultured cells. The BPC-157 tendon paper investigates isolated rat fibroblasts grown in laboratory culture.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "in-vivo",
+    "name": "In vivo",
+    "aliases": [
+      "in-vivo"
+    ],
+    "category": "Reading studies",
+    "definition": "Studied within a living organism. The BPC-157 pharmacokinetic paper uses in vivo for processes occurring after administration in animals.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "igf-1",
+    "name": "Insulin-like growth factor 1 (IGF-1)",
+    "aliases": [
+      "IGF-1",
+      "IGF-I",
+      "insulin-like growth factor I",
+      "insulin-like growth factor 1"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A growth factor measured alongside growth hormone in the CJC-1295 study. The paper uses the equivalent spelling IGF-I.",
+    "sources": [
+      {
+        "id": "cjc",
+        "title": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/"
+      }
+    ]
+  },
+  {
+    "slug": "intra-articular",
+    "name": "Intra-articular",
+    "aliases": [
+      "intraarticular",
+      "intra-articular injection"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "Administered within a joint. In the BPC-157 knee report, the term describes injections into the knee.",
+    "sources": [
+      {
+        "id": "knee",
+        "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      }
+    ]
+  },
+  {
+    "slug": "intramuscular",
+    "name": "Intramuscular",
+    "aliases": [
+      "IM",
+      "intramuscularly"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "Administered into muscle. The BPC-157 pharmacokinetic study abbreviates intramuscular administration as IM.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "intravenous",
+    "name": "Intravenous",
+    "aliases": [
+      "IV",
+      "intravenously",
+      "intravenous infusion"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "Administered into a vein. The BPC-157 pharmacokinetic paper abbreviates this route as IV.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "metabolism",
+    "name": "Metabolism",
+    "aliases": [
+      "metabolized",
+      "metabolised",
+      "metabolites"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The chemical transformation of a substance in the body. The BPC-157 study investigates breakdown of the parent peptide into smaller fragments and amino acids.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "oral",
+    "name": "Oral",
+    "aliases": [
+      "orally",
+      "oral administration",
+      "oral supplementation"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "Taken through the mouth. In the collagen absorption trial, oral administration means participants consumed the study preparation as a drink.",
+    "sources": [
+      {
+        "id": "collagen",
+        "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/"
+      }
+    ]
+  },
+  {
+    "slug": "patient-reported-outcome",
+    "name": "Patient-reported outcome",
+    "aliases": [
+      "patient-reported",
+      "patient reported",
+      "subjective symptoms"
+    ],
+    "category": "Reading studies",
+    "definition": "An outcome reported by the participant, such as their experience of pain. The knee study asked treated patients about their knee symptoms.",
+    "sources": [
+      {
+        "id": "knee",
+        "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      }
+    ]
+  },
+  {
+    "slug": "cmax",
+    "name": "Peak concentration (Cmax)",
+    "aliases": [
+      "Cmax",
+      "peak concentration",
+      "maximum concentration"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The peak measured concentration of a drug in plasma. The BPC-157 paper labels this quantity Cmax.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "pentadecapeptide",
+    "name": "Pentadecapeptide",
+    "aliases": [
+      "pentadecapeptides"
+    ],
+    "category": "Peptide basics",
+    "definition": "A peptide containing fifteen amino-acid units. The tendon-cell paper uses this term for the BPC-157 fragment.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "peptide",
+    "name": "Peptide",
+    "aliases": [
+      "peptides"
+    ],
+    "category": "Peptide basics",
+    "definition": "A molecule made from a sequence of linked amino-acid units. In the BPC-157 research, the sequence identifies the peptide being tested.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "pharmacodynamics",
+    "name": "Pharmacodynamics",
+    "aliases": [
+      "PD",
+      "pharmacodynamic"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The measured biological response to a drug and its relationship to exposure. The ipamorelin paper models GH release in relation to ipamorelin concentrations.",
+    "sources": [
+      {
+        "id": "ipa",
+        "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/"
+      }
+    ]
+  },
+  {
+    "slug": "pharmacokinetics",
+    "name": "Pharmacokinetics",
+    "aliases": [
+      "PK",
+      "pharmacokinetic"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The study of a substance's concentrations and movement through the body over time. The BPC-157 paper examines absorption, distribution, metabolism and excretion in rats and dogs.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "placebo",
+    "name": "Placebo",
+    "aliases": [
+      "placebo-controlled",
+      "placebo controlled"
+    ],
+    "category": "Reading studies",
+    "definition": "A comparison preparation without the active intervention being tested, often designed to resemble it.",
+    "sources": [
+      {
+        "id": "consort",
+        "title": "CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials",
+        "url": "https://www.bmj.com/content/340/bmj.c869"
+      }
+    ]
+  },
+  {
+    "slug": "preclinical",
+    "name": "Preclinical",
+    "aliases": [
+      "preclinical studies",
+      "animal model",
+      "animal models"
+    ],
+    "category": "Reading studies",
+    "definition": "Research used to investigate a potential treatment before establishing its clinical use in people. The BPC-157 pharmacokinetic paper describes its animal and laboratory work as preclinical.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "purity",
+    "name": "Purity",
+    "aliases": [
+      "peptide purity"
+    ],
+    "category": "Safety & quality",
+    "definition": "An analytical measure of the intended substance relative to other material detected by the test. The online semaglutide study reports purity separately from drug content.",
+    "sources": [
+      {
+        "id": "quality",
+        "title": "Safety and Risk Assessment of No-Prescription Online Semaglutide Purchases",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882"
+      }
+    ]
+  },
+  {
+    "slug": "randomized-controlled-trial",
+    "name": "Randomized controlled trial",
+    "aliases": [
+      "RCT",
+      "RCTs",
+      "randomized",
+      "randomised",
+      "randomized trial",
+      "randomised controlled trial"
+    ],
+    "category": "Reading studies",
+    "definition": "A study that uses a chance-based allocation process to assign participants to comparison groups.",
+    "sources": [
+      {
+        "id": "consort",
+        "title": "CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials",
+        "url": "https://www.bmj.com/content/340/bmj.c869"
+      }
+    ]
+  },
+  {
+    "slug": "receptor",
+    "name": "Receptor",
+    "aliases": [
+      "receptors"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A molecular target through which a signal can act on a cell. The tendon-cell paper describes growth hormone binding to its receptor on the cell membrane and activating intracellular signaling.",
+    "sources": [
+      {
+        "id": "fibro",
+        "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+      }
+    ]
+  },
+  {
+    "slug": "receptor-agonist",
+    "name": "Receptor agonist",
+    "aliases": [
+      "agonist",
+      "agonists",
+      "receptor agonists"
+    ],
+    "category": "Mechanisms & hormones",
+    "definition": "A substance that activates a receptor. In the tirzepatide paper, agonism refers to activity at the receptors for GIP and GLP-1.",
+    "sources": [
+      {
+        "id": "gip",
+        "title": "The dual glucose-dependent insulinotropic peptide and glucagon-like peptide-1 receptor agonist, tirzepatide, improves lipoprotein biomarkers associated with insulin resistance and cardiovascular risk in patients with type 2 diabetes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/"
+      }
+    ]
+  },
+  {
+    "slug": "retrospective-study",
+    "name": "Retrospective study",
+    "aliases": [
+      "retrospective",
+      "retrospective chart review"
+    ],
+    "category": "Reading studies",
+    "definition": "A study that looks back at events or treatment that have already occurred. The knee-pain paper describes a retrospective chart review followed by patient contact.",
+    "sources": [
+      {
+        "id": "knee",
+        "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+      }
+    ]
+  },
+  {
+    "slug": "route-of-administration",
+    "name": "Route of administration",
+    "aliases": [
+      "administration route",
+      "route of administration",
+      "routes of administration"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The way a preparation is delivered to the body. The BPC-157 pharmacokinetic study distinguishes intravenous administration from intramuscular administration.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "sterility",
+    "name": "Sterility",
+    "aliases": [
+      "sterile",
+      "microbiological contamination"
+    ],
+    "category": "Safety & quality",
+    "definition": "Absence of viable microorganisms. The semaglutide product study evaluated microbiological contamination separately from chemical analysis.",
+    "sources": [
+      {
+        "id": "quality",
+        "title": "Safety and Risk Assessment of No-Prescription Online Semaglutide Purchases",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882"
+      }
+    ]
+  },
+  {
+    "slug": "subcutaneous",
+    "name": "Subcutaneous",
+    "aliases": [
+      "subcutaneously",
+      "subcutaneous injection"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "Administered beneath the skin. The STEP 1 report uses subcutaneous, abbreviated s.c., for the semaglutide injections studied in its main treatment phase.",
+    "sources": [
+      {
+        "id": "step",
+        "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/"
+      }
+    ]
+  },
+  {
+    "slug": "tmax",
+    "name": "Time to peak concentration (Tmax)",
+    "aliases": [
+      "Tmax",
+      "time to peak concentration"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "The time at which a drug's plasma concentration reaches its peak. This is the meaning given to Tmax in the BPC-157 pharmacokinetic tables.",
+    "sources": [
+      {
+        "id": "bpcpk",
+        "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+      }
+    ]
+  },
+  {
+    "slug": "topical",
+    "name": "Topical",
+    "aliases": [
+      "topically",
+      "topical application"
+    ],
+    "category": "Drug behavior & delivery",
+    "definition": "Applied to a surface such as the skin. The copper tripeptide skin study examines a preparation applied to skin samples.",
+    "sources": [
+      {
+        "id": "skin",
+        "title": "Human skin penetration of a copper tripeptide in vitro as a function of skin layer",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/"
+      }
+    ]
+  },
+  {
+    "slug": "treatment-withdrawal",
+    "name": "Treatment withdrawal",
+    "aliases": [
+      "withdrawal",
+      "treatment discontinuation",
+      "discontinued",
+      "off-treatment"
+    ],
+    "category": "Reading studies",
+    "definition": "Stopping the study intervention. In the STEP 1 extension, withdrawal means that the trial's semaglutide or placebo treatment was discontinued.",
+    "sources": [
+      {
+        "id": "step",
+        "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/"
+      }
+    ]
+  },
+  {
+    "slug": "tripeptide",
+    "name": "Tripeptide",
+    "aliases": [
+      "tripeptides",
+      "copper tripeptide"
+    ],
+    "category": "Peptide basics",
+    "definition": "A peptide containing three amino-acid units. GHK refers to glycyl-L-histidyl-L-lysine; GHK-Cu is its copper complex in the cited skin-penetration study.",
+    "sources": [
+      {
+        "id": "skin",
+        "title": "Human skin penetration of a copper tripeptide in vitro as a function of skin layer",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/"
+      }
+    ]
+  }
+]

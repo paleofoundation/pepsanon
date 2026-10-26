@@ -1,0 +1,164 @@
+{
+  "tesamorelin": [
+    {
+      "text": "The objective of this study was to determine whether tesamorelin, a stabilized growth hormonereleasing hormone analogue, would alter insulin sensitivity or control of diabetes.",
+      "source": {
+        "filename": "Safety_and_metabolic_effects_of_tesamorelin_a_growth_hormone_releasing_f_28617838_PMC5472315.pdf",
+        "doi": "10.1371/journal.pone.0179538",
+        "pdf_page": 1
+      },
+      "section": "Abstract",
+      "recordId": "packet-6783b2265ab56bf2",
+      "label": "Study question"
+    },
+    {
+      "text": "Statistical analyses The primary endpoint of the study was the relative insulin response over the 12-week treatment period.",
+      "source": {
+        "filename": "Safety_and_metabolic_effects_of_tesamorelin_a_growth_hormone_releasing_f_28617838_PMC5472315.pdf",
+        "doi": "10.1371/journal.pone.0179538",
+        "pdf_page": 4
+      },
+      "section": "Methods",
+      "recordId": "packet-6783b2265ab56bf2",
+      "label": "Primary endpoint"
+    },
+    {
+      "text": "After screening and a 14-day lead-in period to establish and characterize daily dietary patterns and blood measurements, patients diabetes were randomly assigned to receive either placebo, tesamorelin 1 mg, or tesamorelin 2 mg, administered by subcutaneous injection for 12 weeks (Fig 1).",
+      "source": {
+        "filename": "Safety_and_metabolic_effects_of_tesamorelin_a_growth_hormone_releasing_f_28617838_PMC5472315.pdf",
+        "doi": "10.1371/journal.pone.0179538",
+        "pdf_page": 2
+      },
+      "section": "Methods",
+      "recordId": "packet-6783b2265ab56bf2",
+      "label": "Study dose and route"
+    },
+    {
+      "text": "There was a borderline effect of time on fasting glucose (p = 0.06), with glucose values higher in the tesamorelin 2 mg group at Weeks 4 and 8 compared to values in the other groups.",
+      "source": {
+        "filename": "Safety_and_metabolic_effects_of_tesamorelin_a_growth_hormone_releasing_f_28617838_PMC5472315.pdf",
+        "doi": "10.1371/journal.pone.0179538",
+        "pdf_page": 8
+      },
+      "section": "Results",
+      "recordId": "packet-6783b2265ab56bf2",
+      "label": "Glucose observation"
+    },
+    {
+      "text": "The goals of this exploratory secondary analysis were to determine the effects of tesamorelin on muscle quality, as measured by changes in computed tomography (CT)based trunk muscle density, a biopsy-correlated measurement of skeletal muscle fat (26), and trunk muscle area.",
+      "source": {
+        "filename": "The_Growth_Hormone_Releasing_Hormone_Analogue_Tesamorelin_Decreases_Musc_31237318_PMC6766405.pdf",
+        "doi": "10.14283/jfa.2018.45",
+        "pdf_page": 2
+      },
+      "section": "Selected PDF passage",
+      "recordId": "packet-8e5b1766be35abe7",
+      "label": "Muscle imaging study"
+    }
+  ],
+  "kisspeptin-10": [
+    {
+      "text": "Analytical methods Serum LH and FSH levels were measured at all time points using automated chemiluminescent immunoassays (Abbott Diagnostics, Maidenhead, UK).",
+      "source": {
+        "filename": "Direct_comparison_of_the_effects_of_intravenous_kisspeptin_10_kisspeptin_26089302_PMC4507333.pdf",
+        "doi": "10.1093/humrep/dev143",
+        "pdf_page": 4
+      },
+      "section": "Methods",
+      "recordId": "packet-7717796263d5c13d",
+      "label": "Hormones measured"
+    },
+    {
+      "text": "A single-blinded 3 h continuous intravenous infusion of gelofusin (vehicle), kisspeptin-10 (0.10, 0.30 or 1.00 nmol/kg/h), kisspeptin-54 (0.10, 0.30 or 1.00 nmol/ kg/h) or GnRH (0.10, 0.30 or 1.00 nmol/kg/h) was commenced at time 60 min and continued until 240 min (n = 5 subjects per group; see Table II for dose allocation of subjects).",
+      "source": {
+        "filename": "Direct_comparison_of_the_effects_of_intravenous_kisspeptin_10_kisspeptin_26089302_PMC4507333.pdf",
+        "doi": "10.1093/humrep/dev143",
+        "pdf_page": 3
+      },
+      "section": "Selected PDF passage",
+      "recordId": "packet-7717796263d5c13d",
+      "label": "Study dose and route"
+    },
+    {
+      "text": "main results and the role of chance: Serum LH and FSH levels were ∼3-fold higher during GnRH infusion when compared with kisspeptin-10 and ∼2-fold higher when compared with kisspeptin-54 [mean area under the curve serum LH during infusion (in hours times international units per litre, h.IU/l): 10.81 ± 1.73, 1.0 nmol/kg/h kisspeptin-10; 14.43 ± 1.27, 1.0 nmol/kg/h kisspeptin-54; 34.06 ± 5.18, 1.0 nmol/kg/h GnRH, P < 0.001 versus kisspeptin-10, P < 0.01 versus kisspeptin-54].",
+      "source": {
+        "filename": "Direct_comparison_of_the_effects_of_intravenous_kisspeptin_10_kisspeptin_26089302_PMC4507333.pdf",
+        "doi": "10.1093/humrep/dev143",
+        "pdf_page": 1
+      },
+      "section": "Abstract",
+      "recordId": "packet-7717796263d5c13d",
+      "label": "Reported hormone response"
+    }
+  ],
+  "oxytocin": [
+    {
+      "text": "A total of 87 children (aged between 3 and 12 years) with autism received 16 International Units (IU) of oxytocin (n = 45) or placebo (n = 42) nasal spray, morning and night (32 IU per day) for twelve weeks, following a 3-week placebo lead-in phase.",
+      "source": {
+        "filename": "The_effect_of_oxytocin_nasal_spray_on_social_interaction_in_young_childr_36302965_PMC9607840.pdf",
+        "doi": "10.1038/s41380-022-01845-8",
+        "pdf_page": 1
+      },
+      "section": "Abstract",
+      "recordId": "packet-966d4212f3dcdb1f",
+      "label": "Population, dose and route"
+    },
+    {
+      "text": "The ﬁrst primary outcome measure was the caregivercompleted Social Responsiveness Scale, Second Edition (SRS-2) [24].",
+      "source": {
+        "filename": "The_effect_of_oxytocin_nasal_spray_on_social_interaction_in_young_childr_36302965_PMC9607840.pdf",
+        "doi": "10.1038/s41380-022-01845-8",
+        "pdf_page": 2
+      },
+      "section": "Methods",
+      "recordId": "packet-966d4212f3dcdb1f",
+      "label": "Primary outcome"
+    },
+    {
+      "text": "Overall, there was no effect of oxytocin treatment over time on the caregiver-rated Social Responsiveness Scale (SRS-2) (p = 0.686). However, a signiﬁcant interaction with age (p = 0.028) showed that for younger children, aged 3–5 years, there was some indication of a treatment effect. Younger children who received oxytocin showed improvement on caregiver-rated social responsiveness ( SRS-2). There was no other evidence of beneﬁt in the sample as a whole, or in the younger age group, on the clinician-rated Clinical Global Improvement Scale (CGI-S), or any secondary measure.",
+      "source": {
+        "filename": "The_effect_of_oxytocin_nasal_spray_on_social_interaction_in_young_childr_36302965_PMC9607840.pdf",
+        "doi": "10.1038/s41380-022-01845-8",
+        "pdf_page": 1
+      },
+      "section": "Selected PDF passage",
+      "recordId": "packet-966d4212f3dcdb1f",
+      "label": "Overall result and subgroup finding"
+    }
+  ],
+  "ll-37": [
+    {
+      "text": "CD spectroscopy Samples containing 40 μM CsgA in 50 mM potassium phosphate buffer (KPi) and 0.02% NaN3, pH 7.2, with and without 10 μM LL-37 were incubated for 60 h at 37°C.",
+      "source": {
+        "filename": "Uropathogenic_Escherichia_coli_modulates_immune_responses_and_its_curli__20661475_PMC2908543.pdf",
+        "doi": "10.1371/journal.ppat.1001010",
+        "pdf_page": 14
+      },
+      "section": "Methods",
+      "recordId": "packet-4233261b0609dc24",
+      "label": "Laboratory exposure"
+    },
+    {
+      "text": "(B) At 2.5 μM, LL-37 caused more than 80% reduction of biofilm production, whereas the same concentration of the control peptides gave a reduction of only ∼10%.",
+      "source": {
+        "filename": "Uropathogenic_Escherichia_coli_modulates_immune_responses_and_its_curli__20661475_PMC2908543.pdf",
+        "doi": "10.1371/journal.ppat.1001010",
+        "pdf_page": 7
+      },
+      "section": "Results",
+      "recordId": "packet-4233261b0609dc24",
+      "label": "Biofilm experiment"
+    },
+    {
+      "text": "For the generation of complexes, 100 µl of these supernatants was mixed with 10 µg of LL37.",
+      "source": {
+        "filename": "Self_RNA_antimicrobial_peptide_complexes_activate_human_dendritic_cells__19703986_PMC2737167.pdf",
+        "doi": "10.1084/jem.20090480",
+        "pdf_page": 10
+      },
+      "section": "Selected PDF passage",
+      "recordId": "packet-01d6bd658bc55441",
+      "label": "Cell experiment"
+    }
+  ]
+}

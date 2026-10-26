@@ -1,0 +1,24 @@
+.focus-article .research-hero__wrapper{min-height:0}
+.focus-article .research-hero__right-meta p{font-size:1rem;line-height:1.65;margin:0 0 1rem}
+.focus-article .entry-content>section{margin-bottom:2.8rem;scroll-margin-top:7rem}
+.focus-article .entry-content h2{font-size:1.9rem;line-height:1.3;margin-bottom:1rem}
+.focus-article .entry-content h3{font-size:1.2rem;line-height:1.45;margin:1.5rem 0 .7rem}
+.focus-article .entry-content p{font-size:1rem;line-height:1.8}
+.focus-evidence-gap{padding:1.4rem;border:1px solid #d2dfe0;border-left:4px solid var(--brand-yellow,#f4cf62);background:#f5f8f7;margin:1.5rem 0}
+.focus-evidence-gap dl{margin:1.2rem 0}
+.focus-evidence-gap dl>div{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:1rem;border-top:1px solid #d7e2e1;padding:.8rem 0;font-size:1rem;line-height:1.6}
+.focus-evidence-gap dd{margin:0;font-weight:600;color:#284f53}
+.focus-finding{margin:1.6rem 0 2.3rem}
+.focus-finding blockquote{margin:0 0 .8rem;padding:1rem 1.25rem;border-left:3px solid #93afb0;background:#f7f9f8}
+.focus-finding .corpus-citation,.focus-source-context .corpus-citation{display:block;overflow-wrap:anywhere;font-size:.875rem;line-height:1.65;margin:.7rem 0}
+.focus-ingredient-evidence{padding:1rem 0;border-top:1px solid #d7e2e1}
+.focus-article .research-study-details{padding:1rem 0;line-height:1.7}
+.directory-order{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin:1.5rem 0}
+.directory-order select{padding:.65rem 1rem;border:1px solid #bbcfcf;background:white;border-radius:4px;font-size:1rem}
+.focus-directory-row{display:grid;grid-template-columns:2.5rem minmax(0,1fr);gap:1rem;padding:1.2rem 0;border-bottom:1px solid #dce5e6}
+.focus-directory-row>span{font-size:1rem;color:#577074;padding-top:.3rem}
+.focus-directory-row .rgbc-archive__link{margin:0}
+.focus-directory-row p{margin:.4rem 0}
+.focus-packet-status{font-size:.875rem!important;color:#476568}
+.pe-mega-menu .mega-peptide-groups{max-height:min(65vh,650px);overflow-y:auto}
+@media(max-width:600px){.focus-evidence-gap{padding:1rem}.focus-evidence-gap dl>div{grid-template-columns:1fr;gap:.25rem}.focus-article .research-hero__center-title{overflow-wrap:anywhere}}

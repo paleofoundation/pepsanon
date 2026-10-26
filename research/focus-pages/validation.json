@@ -1,0 +1,17 @@
+{
+  "source_integrity": "PASS",
+  "peptide_pages": 30,
+  "stack_pages": 30,
+  "scientific_record_fields_unchanged": 506,
+  "cited_excerpts_verified": 14,
+  "local_route_checks": "PASS",
+  "http_pages_checked": 60,
+  "directory_links": "PASS",
+  "sitemap": "PASS",
+  "typescript": "PASS",
+  "browser_checks": [
+    "30-peptide priority directory",
+    "Tesamorelin sourced page with PDF citations",
+    "CagriSema complete-combination gap with ingredient links"
+  ]
+}

@@ -44,3 +44,23 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# --- backup additions 2026-10-26 ---
+.env*
+*.log
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.key
+*.p12
+.DS_Store
+.dev.vars
+/.next/
+/dist/
+/.wrangler/
+/.vercel/
+/node_modules*
+/media/
+/work/

@@ -1,0 +1,94 @@
+{
+  "tesamorelin": [
+    [
+      "packet-6783b2265ab56bf2",
+      "what_it_measured",
+      0,
+      "Study question"
+    ],
+    [
+      "packet-6783b2265ab56bf2",
+      "endpoint",
+      1,
+      "Primary endpoint"
+    ],
+    [
+      "packet-6783b2265ab56bf2",
+      "dose",
+      0,
+      "Study dose and route"
+    ],
+    [
+      "packet-6783b2265ab56bf2",
+      "reported_results",
+      2,
+      "Glucose observation"
+    ],
+    [
+      "packet-8e5b1766be35abe7",
+      "endpoint",
+      0,
+      "Muscle imaging study"
+    ]
+  ],
+  "kisspeptin-10": [
+    [
+      "packet-7717796263d5c13d",
+      "endpoint",
+      1,
+      "Hormones measured"
+    ],
+    [
+      "packet-7717796263d5c13d",
+      "dose",
+      0,
+      "Study dose and route"
+    ],
+    [
+      "packet-7717796263d5c13d",
+      "reported_results",
+      0,
+      "Reported hormone response"
+    ]
+  ],
+  "oxytocin": [
+    [
+      "packet-966d4212f3dcdb1f",
+      "dose",
+      0,
+      "Population, dose and route"
+    ],
+    [
+      "packet-966d4212f3dcdb1f",
+      "endpoint",
+      1,
+      "Primary outcome"
+    ],
+    [
+      "packet-966d4212f3dcdb1f",
+      "reported_results",
+      0,
+      "Overall result and subgroup finding"
+    ]
+  ],
+  "ll-37": [
+    [
+      "packet-4233261b0609dc24",
+      "dose",
+      0,
+      "Laboratory exposure"
+    ],
+    [
+      "packet-4233261b0609dc24",
+      "reported_results",
+      4,
+      "Biofilm experiment"
+    ],
+    [
+      "packet-01d6bd658bc55441",
+      "dose",
+      0,
+      "Cell experiment"
+    ]
+  ]
+}

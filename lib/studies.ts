@@ -1,6 +1,8 @@
+import {glossaryIndex} from './glossary-index';
 import {questions,peptides,type Source} from './peptides';
 import {guideContent,guideQuestions} from './guide-sections';
 import {stacks,stackReferences} from './stacks';
+import {corpusStudies} from './corpus';
 import bpcPilot from './data/bpc-pilot.json';
 const guideSources=Object.values(guideContent).flatMap(entries=>Object.values(entries).flatMap(entry=>entry.sentences.flatMap(sentence=>sentence.sources)));
 
@@ -17,8 +19,10 @@ export const studies=Array.from(new Map([...stacks.flatMap(stackReferences).filt
   peptideIds:peptides.filter(p=>(p.id==='bpc-157'&&bpcPilot.studies.some(s=>s.source.url===source.url))||questions.some(q=>q.peptideId===p.id&&q.sources.some(s=>s.url===source.url))||Object.values(guideContent[p.id]||{}).some(entry=>entry.sentences.some(sentence=>sentence.sources.some(s=>s.url===source.url)))).map(p=>p.id),
 }));
 export function studyHref(source:Source) {return `/sources#${sourceAnchor(source.url)}`;}
-export type SearchItem={kind:'peptide'|'study'|'question'|'stack';id:string;title:string;description:string;href:string;meta:string;keywords?:string};
+export type SearchItem={kind:'peptide'|'study'|'question'|'stack'|'glossary';id:string;title:string;description:string;href:string;meta:string;keywords?:string};
 export const searchItems:SearchItem[]=[
+  ...glossaryIndex.map(term=>({kind:'glossary' as const,id:term.slug,title:term.name,description:term.definition,keywords:term.aliases.join(' '),href:`/glossary/${term.slug}`,meta:term.category})),
+  ...corpusStudies.map(s=>({kind:'study' as const,id:s.id,title:s.title,description:`${s.peptide} ${s.filename} ${s.doi}`,href:`/sources#${s.id}`,meta:s.record_type === 'quality' ? 'Quality record' : 'Study record'})),
   ...stacks.map(stack=>({kind:'stack' as const,id:stack.slug,title:stack.name,description:stack.description,keywords:stack.aliases,href:`/stacks/${stack.slug}`,meta:'Peptide stack guide'})),
   ...stacks.flatMap(stack=>stack.faqs.map(faq=>({kind:'question' as const,id:`${stack.slug}-${faq.id}`,title:faq.question,description:faq.paragraphs.map(p=>p.text).join(' '),href:`/stacks/${stack.slug}#${faq.id}`,meta:stack.name}))),
   ...peptides.map(p=>({kind:'peptide' as const,id:p.id,title:p.name,description:`${p.subtitle}. ${p.description} ${p.aliases}`,href:`/peptides/${p.id}`,meta:p.category})),

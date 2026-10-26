@@ -17,3 +17,28 @@ Content lives in `lib/data/evidence.json` and `lib/data/community.json`. Peptide
 The homepage composition, grouped search, editable profile (display name and bio), and study-favorite interaction are adapted from the same reference repository's `HomePage`, `SearchAutocomplete`, `dashboard/profile`, and `FavoriteStudyButton`. `home.module.css` retains its Inter/Lora type scale, two-column hero, collection grid, and research section. The homepage is `/`; the directory remains available at `/peptides`. Navigation uses accessible grouped megamenus and a mobile drawer.
 
 Account identity uses Sites-managed Sign in with ChatGPT. Peptide Evidence profiles and favorites use its own D1 database, with every read and mutation scoped to the authenticated site user. The reference site's Supabase identity and user data are not shared or copied. Favorites use canonical peptide IDs and source URLs; all displayed study metadata comes from the site's evidence catalog. The profile and account APIs use no-store responses.
+
+## Stack guide contract
+
+Stack detail pages use the shared research hero, prose typography, section drawer,
+FAQ accordions, evidence table, and collapsible related-content rail. Their section
+order and labels are defined once in `lib/stack-sections.ts`, independently of the
+peptide guide taxonomy: Overview; Ingredients; Why combine them?; Combination
+benefits; Safety & interactions; Forms & dosing; FAQs; Evidence; References.
+
+The overview is continuous cited prose without a direct-answer box or kicker.
+Main explanations stay visible. Every FAQ uses `GuideFaq` and its native details /
+summary accordion, including keyboard operation and automatic opening for a FAQ
+fragment link. Dose questions belong in Forms & dosing; other questions belong
+under their fixed topic and retain their original fragment identifiers.
+
+Every stack supplies ingredient identity, combination rationale, outcome evidence,
+safety uncertainties, and regimen limitations. Do not equate a rationale with
+proven additional benefit or fill evidence gaps with dosing instructions. Match
+citations and reference numbering to the rendered section order. FAQ structured
+data must use the same records as the visible accordions.
+
+The right rail shows ingredient guides, related stacks, and the grading method.
+An ingredient without a standalone guide links to its explanation within the
+article. On mobile, this content remains available beneath the article; the left
+section navigation uses the shared On this page drawer.

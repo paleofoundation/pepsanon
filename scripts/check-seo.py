@@ -41,7 +41,7 @@ class Page(HTMLParser):
 
 xml=ET.fromstring(fetch('/sitemap.xml'))
 urls=[el.text for el in xml.findall('{*}url/{*}loc')]
-assert len(urls)==19 and len(set(urls))==19, urls
+assert len(urls)>=19 and len(set(urls))==len(urls), urls
 assert all(url.startswith('https://pepsanon.com/') for url in urls)
 assert 'Sitemap: https://pepsanon.com/sitemap.xml' in fetch('/robots.txt')
 titles=set()
@@ -77,8 +77,24 @@ for url in urls:
     schemas=[item for block in page.jsonld for item in (block if isinstance(block,list) else [block])]
     if path.startswith('/stacks/'):
         faq=next(item for item in schemas if item.get('@type')=='FAQPage')
-        assert len(faq['mainEntity'])==4, path
-        visible=' '.join(re.sub(r'\[\d+\]','', ' '.join(page.data)).split())
+        accordion_ids=[a['id'] for tag,a in page.tags if tag=='details' and 'rgbc-faq-item' in a.get('class','').split()]
+        assert len(faq['mainEntity'])==len(accordion_ids)>0, (path,'FAQ accordion/schema mismatch')
+        labels=['Overview','Ingredients','Why combine them?','Combination benefits','Safety & interactions','Forms & dosing','FAQs','Evidence','References']
+        targets=['overview','ingredients','rationale','benefits','safety','forms-dosing','answers','evidence','studies']
+        nav=Page(re.search(r'<nav aria-label="On this page">(.*?)</nav>',html,re.S).group(1))
+        assert [a['href'] for tag,a in nav.tags if tag=='a']==['#'+id for id in targets], (path,'stack navigation')
+        assert ' '.join(nav.data)==' '.join(labels), (path,'stack labels')
+        overview=Page(re.search(r'<section id="overview">(.*?)</section>',html,re.S).group(1))
+        assert len([tag for tag,a in overview.tags if tag=='p'])==1, (path,'prose overview')
+        assert not any(tag in ['ul','ol','table','details'] for tag,a in overview.tags), (path,'overview format')
+        legacy={
+            'wolverine-stack':['combination','identity','interpretation','dose','bpc-alone','blend','glow-difference'],
+            'glow-stack':['skin','recovery','comparison','dose','contents','hair','klow'],
+            'klow-stack':['kpv','comparison','gut','dose','contents','ibd','choice'],
+            'cjc-1295-ipamorelin':['hormones','dac','synergy','dose','sleep','muscle','no-dac'],
+        }
+        assert all(id in ids for id in legacy[path.rsplit('/',1)[1]]), (path,'legacy fragment missing')
+        visible=' '.join(re.sub(r'\[\d+\]','', ''.join(page.data)).split())
         for item in faq['mainEntity']:
             assert item['name'] in visible, (path,'FAQ question mismatch')
             assert item['acceptedAnswer']['text'] in visible, (path,'FAQ answer mismatch')
@@ -87,4 +103,4 @@ for url in urls:
 for path in ['/search?q=wolverine','/login','/profile']:
     page=Page(fetch(path))
     assert any(tag=='meta' and a.get('name')=='robots' and 'noindex' in a.get('content','') for tag,a in page.tags), path
-print('PASS: 19 sitemap URLs; metadata in head; unique titles/descriptions; valid JSON-LD; citation order; FAQ parity; private pages excluded.')
+print(f'PASS: {len(urls)} sitemap URLs; metadata in head; unique titles/descriptions; valid JSON-LD; citation order; FAQ parity; private pages excluded.')
