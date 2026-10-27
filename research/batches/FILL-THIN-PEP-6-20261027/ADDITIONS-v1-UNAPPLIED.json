@@ -1,0 +1,282 @@
+{
+  "base": "f0a8fb65455f5205e7a4e53acf240bb041236cca",
+  "scope": "Only three qualified existing glossary records under explicit ELON15:42 fewer-than10 clause; seven-page shortfall and all route/source/component holds disclosed",
+  "records": [
+    {
+      "slug": "endpoint",
+      "sectionId": "in-the-research",
+      "text": "The eye-drop trial specified complete corneal-defect healing at a designated visit as its primary outcome and separately listed other healing assessments, ocular discomfort and visual measurements, giving each reported observation a defined role within the study.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p12 Study design and safety outcome measures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endpoint",
+      "sectionId": "in-the-research",
+      "text": "Participant-reported discomfort and a clinician's assessment of the corneal surface are different observations, even when collected during the same trial, so a finding for symptoms should not automatically be restated as the primary healing result.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p12 Study design and safety outcome measures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endpoint",
+      "sectionId": "in-the-research",
+      "text": "The statistical methods identify the primary healing comparison and describe sensitivity and alternative analyses separately, preserving the distinction between the prespecified main question and other ways of examining the available observations.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses; p14 sensitivity and alternative analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endpoint",
+      "sectionId": "in-the-research",
+      "text": "The report describes how early withdrawals or escape interventions were handled in the primary analysis, while a sensitivity analysis used observed data from participants with the relevant visit measurement, making the analysis population part of the endpoint interpretation.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses; p14 sensitivity and alternative analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endpoint",
+      "sectionId": "reading-the-evidence",
+      "text": "The Achilles experiment allocated repaired rat tendons to tissue assessment or mechanical testing, so microscopic organization and load-to-failure findings came from separately assigned specimens rather than every outcome being measured within the same tendon.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Figure 1 and specimen allocation; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endpoint",
+      "sectionId": "reading-the-evidence",
+      "text": "Histological and staining-based scores summarize selected tissue features, while tensile testing examines the response to mechanical loading, leaving these endpoints different from a patient's reported pain, mobility or return to activity.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 Histological and biomechanical analyses; p5 scoring methods"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endpoint",
+      "sectionId": "reading-the-evidence",
+      "text": "The tendon authors identify the assessment period, healthy young rat model and absence of functional testing as limitations, so the reported experimental outcomes should not be promoted into evidence of later human recovery that the study did not measure.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p14 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "in-the-research",
+      "text": "The eye trial's safety tables distinguish the number of recorded events from the number of participants experiencing an event, because the table entries describe different counting units rather than interchangeable summaries of how often a problem occurred.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p8 Results 2.4 and Table 5; p9 Table 6"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "in-the-research",
+      "text": "The overall safety summary separately identifies ocular events, events outside the eye and serious events, alongside assessments of treatment relationship, preserving distinctions between where an event occurred and how it was classified.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p8 Results 2.4 and Table 5; p9 Table 6"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "in-the-research",
+      "text": "The authors also report severity separately from seriousness and treatment relationship, so recording an event during follow-up should not automatically be interpreted as a conclusion that the study preparation caused that event.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p8 Results 2.4 and Table 5; p9 Table 6"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "in-the-research",
+      "text": "The eye-drop protocol included participant adverse-event questions alongside visual-acuity, eye-examination and other safety measurements, illustrating that safety assessment can combine reported experiences with specified clinical observations.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p12 Safety outcome measures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "reading-the-evidence",
+      "text": "The recombinant thymosin trial investigated a specified intravenous preparation in screened healthy volunteers, with placebo comparisons and planned safety monitoring, so its adverse-event observations retain that product, population and experimental setting.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design, Subject eligibility and Procedure; p3 Safety and tolerability"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "reading-the-evidence",
+      "text": "That report describes coding adverse events and assessing their relationship and clinical severity within its stated classification procedures, rather than treating every unfavorable observation as an established adverse drug reaction.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p3 Statistical analysis and Safety and tolerability"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "adverse-event",
+      "sectionId": "reading-the-evidence",
+      "text": "The thymosin observations concern the trial's administration and follow-up procedures; they do not establish the long-term safety of an unrelated marketed formulation, a different route or use in a population excluded by the trial's eligibility criteria.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design and Procedure; p5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "in-the-research",
+      "text": "The ophthalmic trial examined its specified RGN-259 preparation in participants with neurotrophic keratopathy, tying the findings to the eye-drop intervention and disease setting rather than to every product described using a thymosin-related name.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Materials and Methods; p12 Subject demographics and Study design"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "in-the-research",
+      "text": "Its outcome measurements concerned the corneal surface, ocular symptoms and eye-related safety assessments, so a formulation comparison should retain those endpoints instead of silently substituting tendon repair or systemic recovery claims.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Materials and Methods; p12 Subject demographics and Study design"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "in-the-research",
+      "text": "The separate thymosin trial evaluated a recombinant investigational preparation delivered intravenously to healthy volunteers, a different product, route and population from the ophthalmic trial rather than a direct comparison of the preparations.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design, Subject eligibility and Procedure"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "in-the-research",
+      "text": "The intravenous trial describes its investigational product and saline placebo and specifies how their appearance, packaging and labeling were matched, keeping the actual study preparations identifiable within the comparison.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design, Subject eligibility and Procedure"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "reading-the-evidence",
+      "text": "The copper-tripeptide study used a supplied GHK-Cu preparation on excised human skin and notes that it was not analyzed for stoichiometric purity, while discussing the possibility of rearrangement among copper-containing complexes.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials and Tissue preparation"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "reading-the-evidence",
+      "text": "The skin experiment quantified copper with elemental mass spectrometry, so its measurements do not by themselves identify every transported species as the intact original peptide complex or demonstrate exposure after an injected formulation.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Analytical methodology; p6 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "formulation",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors propose further work with labeled ligands to clarify transport, leaving the identity and behavior of the tested material as analytical questions rather than validating a different product solely because it carries the same broad label.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Analytical methodology; p6 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

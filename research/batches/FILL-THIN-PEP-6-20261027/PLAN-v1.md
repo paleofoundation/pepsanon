@@ -1,0 +1,7 @@
+# PEP-6 prospective plan
+
+ELON15:42 permits fewer than ten eligible pages. This base and historical ranking support only three currently qualified existing glossary fills: endpoint, adverse-event and formulation. Seven-page shortfall, nine newly missing literal routes, four policy skips, two directory component holds, three focus-entry/source holds and the honest KLOW complete-combination gap are recorded explicitly in SHORTFALL-BASE-READINESS. No restoration, alias, index, component or new canonical/source entry is assumed. Three prior citation-thin attempts are not retried without new support.
+
+Read and hash actual eligible originals before claims. Every new qualitative paragraph carries the original source URL and physical locator. Keep population, preparation, route, assay and outcome distinctions. No numerical scientific claims, hosted PDFs or added public em/en dashes. Root audits the proposed exact21 source-located paragraphs before application, then actual final mobile before seal.
+
+Only the three existing term objects may change, including inherited locator punctuation normalization within those selected records. Preserve all51 outside raw term objects, all16 raw source objects, the other357 prior packet files, index and shared renderer. Capture the same81local routes before and after using unchanged fail-closed robots/audit limits, report three measured results and all shortfall/hold classifications. Ordinary commit, verify success and head, then a separate plain push; one draft PR stacked on PEP5. No merge or release. Receiver OFF.

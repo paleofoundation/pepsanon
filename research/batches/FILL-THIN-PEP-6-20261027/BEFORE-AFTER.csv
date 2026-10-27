@@ -1,0 +1,4 @@
+rank,url,beforeWords,afterWords,beforeCitations,afterCitations,beforeFlags,afterFlags
+93,https://pepsanon.com/glossary/endpoint,268,561,3,3,words<400,
+108,https://pepsanon.com/glossary/adverse-event,211,535,2,4,words<400;claims_with_2_citations,
+133,https://pepsanon.com/glossary/formulation,253,615,2,6,words<400;claims_with_2_citations,
