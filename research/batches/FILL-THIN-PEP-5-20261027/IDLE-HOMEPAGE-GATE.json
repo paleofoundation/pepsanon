@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-27T15:14:51.679219+02:00",
+  "state": "IDLE_HOMEPAGE_SELECTION_GATE_ONLY",
+  "nextRead": "2026-10-27T15:18:51.679219+02:00",
+  "etaMin": "15 after exact selection ruling",
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "indexFirstCommit": "c1e7e7e5a22b4820ae874ac121f9eeb7a8b107f1",
+  "activeCandidateSha256": "b032f582ce2434d2cb201f0ad41dcac9a45a79b06fb556202cd186afd98eac74",
+  "canonicalDataSha256": "ae38e58eef1a1120d07af6f19bc98188ea78fd2fd67e5bb981ef2257ee295d22",
+  "rootSourceReceiptSha256": "61846298927d0615d67a6cc022351f4117b483433cf479f54c5906bc56c7c642",
+  "rootNineMobileReceiptSha256": "d29032482472e860f424ba776fa8fe9311434615fc2398ae584d04c39e992121",
+  "completedScope": "63 exact source-located paragraphs across9existingterms; boundedsource/SSR/mobile technical passes; all9wordflagsclear",
+  "remainingGate": "Rank81existinghomepage component-scope: OptionA exactrank82biomarker substitute or OptionB partialnine; no answer/no automatic substitution",
+  "priorCitationAttempt": "tripeptide/oral/receptor-agonist0newcitations;3citationthinflagsretained",
+  "preview": "Owned24856 stopped exit0; port8794 check follows",
+  "noFillCommitPushOrPr": true,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

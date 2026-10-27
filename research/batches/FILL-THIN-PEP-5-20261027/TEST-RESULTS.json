@@ -1,0 +1,173 @@
+{
+  "state": "FINAL_TEN_CHECKED_PRE_COMMIT",
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "indexFirstCommit": "c1e7e7e5a22b4820ae874ac121f9eeb7a8b107f1",
+  "candidateSha256": "ee03b87f34ce25ba8bdbfbd1987149e39c6ebfcaac3294dbad52013a8b3b21e3",
+  "canonicalSha256": "537d98c512e1bfd3fd2e79fbeaceaae87b0a17400fb5562dd5af1104e4fb5a81",
+  "build": "PASS",
+  "indexGenerator": "PASS54",
+  "glossary": "PASS54routes512citedparagraphs16sources",
+  "existingGuideCitationIntegrity": "PASS8guides240sourcedsentences",
+  "typeScript": "PASS no diagnostics",
+  "exact70SSRTextSourceLocatorMatches": "PASS",
+  "outside44RawTermObjects": "PASS byte exact",
+  "outside44ArticleSubtrees": "PASS exact without normalization",
+  "all16RawSourceObjects": "PASS byte exact",
+  "prior235Files": "PASS byte exact",
+  "homeSourceAndMainDom": "PASS byte exact",
+  "priorNineV3ObjectsAndArticles": "PASS exact",
+  "finalRootMobileReceiptSha256": "e04e3a6eecf3f7b91483fd2fa161e8be560c16399caef4c3b39552be1d8812ca",
+  "numericScientificClaimsAdded": 0,
+  "addedPublicEmEnDashes": 0,
+  "inheritedPunctuation": "Four occurrences of the unchanged native collagen source title, narrowly retained under prior12:42 ruling; no global zero-dash claim",
+  "threePriorCitationCountFlagsRetained": true,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false,
+  "all54RemainingThinPages": [
+    {
+      "url": "https://pepsanon.com/glossary/absorption",
+      "words": 440,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/adverse-event",
+      "words": 211,
+      "citations": 2,
+      "thin_reasons": "words<400;claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "words": 434,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/baseline",
+      "words": 436,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/bioavailability",
+      "words": 451,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "words": 437,
+      "citations": 1,
+      "thin_reasons": "claims_with_1_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/case-series",
+      "words": 436,
+      "citations": 1,
+      "thin_reasons": "claims_with_1_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endpoint",
+      "words": 268,
+      "citations": 3,
+      "thin_reasons": "words<400"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "words": 466,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/formulation",
+      "words": 253,
+      "citations": 2,
+      "thin_reasons": "words<400;claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/gip",
+      "words": 440,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/histology",
+      "words": 427,
+      "citations": 1,
+      "thin_reasons": "claims_with_1_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "words": 437,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/metabolism",
+      "words": 434,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "words": 459,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "words": 436,
+      "citations": 1,
+      "thin_reasons": "claims_with_1_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/peptide",
+      "words": 344,
+      "citations": 6,
+      "thin_reasons": "words<400"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor",
+      "words": 448,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor-agonist",
+      "words": 471,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "words": 415,
+      "citations": 1,
+      "thin_reasons": "claims_with_1_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/sterility",
+      "words": 368,
+      "citations": 2,
+      "thin_reasons": "words<400;claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/topical",
+      "words": 436,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/treatment-withdrawal",
+      "words": 432,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tripeptide",
+      "words": 445,
+      "citations": 2,
+      "thin_reasons": "claims_with_2_citations"
+    }
+  ]
+}

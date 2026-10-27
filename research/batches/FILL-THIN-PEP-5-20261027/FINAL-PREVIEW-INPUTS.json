@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-27T15:25:20.158398+02:00",
+  "candidateSha256": "ee03b87f34ce25ba8bdbfbd1987149e39c6ebfcaac3294dbad52013a8b3b21e3",
+  "canonicalDataSha256": "537d98c512e1bfd3fd2e79fbeaceaae87b0a17400fb5562dd5af1104e4fb5a81",
+  "serverSha256": "5b7bf0264888e603d58a136577e7a635f98828168ce1957fa6f8b3d957eb38f8",
+  "indexSha256": "cb1ebaf328a87e8c131e5fb9da544595d4942e9f778281555112d638fba5a56b",
+  "preview": "http://127.0.0.1:8794",
+  "state": "STABLE_FINAL10_PENDING_ROOT_FINAL_MOBILE"
+}

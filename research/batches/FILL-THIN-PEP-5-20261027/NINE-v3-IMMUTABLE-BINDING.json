@@ -1,0 +1,17 @@
+{
+  "canonicalDataSha256": "ae38e58eef1a1120d07af6f19bc98188ea78fd2fd67e5bb981ef2257ee295d22",
+  "candidateSha256": "b032f582ce2434d2cb201f0ad41dcac9a45a79b06fb556202cd186afd98eac74",
+  "records": {
+    "collagen": "cf179849eacf38aa70558af0369511fa972f5fdcf4ca7afcf44671d8a0c4d830",
+    "control-group": "b7416f7c1a4b0e40256ac66a5314c47d02afce399d29a2b37d417dcfd5db48bd",
+    "glp-1": "d5e44e75749b78a1492ab706585c1099d2f501fbbfe175d5e6f844b8a6bffe40",
+    "immunogenicity": "f8b668fc9413c390814eba46a583e24efdb58b2de1dda97f5a318959098e989c",
+    "intravenous": "09730120cb484b0de2acc214275a0eefabaf49b7bdf2bc61dd41dddb39df3e87",
+    "placebo": "3519d5e9a520525dec2446e594ed60811b39cacbb811d896df2d2d74301ef35d",
+    "preclinical": "6053cb8be202d489db88b1e0c33d6f4af678c6b98c4521f0522538a445f85bd8",
+    "randomized-controlled-trial": "bc2577bbb620fa7c61e5dbbf476388b749bb13eae5e8a630b1dd3f401aded0e2",
+    "route-of-administration": "592fa4ab2cbf3d36baf5de2d213384a10720af7c115468f152d551d0a16b70b4"
+  },
+  "renderedCheckpointSha256": "50ae1a21f0da1c0190ef3f4e93bb0c0d4e6dabf2ae7fd4f11be1628e84dccfa3",
+  "state": "NINE_V3_STABLE_PRECISION_CORRECTION_BEFORE_TENTH_SELECTION"
+}

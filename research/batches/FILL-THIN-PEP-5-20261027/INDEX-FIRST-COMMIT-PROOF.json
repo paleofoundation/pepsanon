@@ -1,0 +1,15 @@
+{
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "patchSha256": "05deb1890efe167046ca217f57cca0978bf613ed8093197b381f3520fc1f9984",
+  "before": "18deda5e76f48f3d7d0109ce4c408fb26de1b971ca1d5a1da6b9272c193f4a03",
+  "after": "cb1ebaf328a87e8c131e5fb9da544595d4942e9f778281555112d638fba5a56b",
+  "changedPaths": [
+    "lib/data/glossary-index.json"
+  ],
+  "allOtherTrackedFilesByteIdentical": 973,
+  "diff": "diff --git a/lib/data/glossary-index.json b/lib/data/glossary-index.json\nindex 88e8413..0cebe10 100644\n--- a/lib/data/glossary-index.json\n+++ b/lib/data/glossary-index.json\n@@ -66,6 +66,11 @@\n         \"id\": \"bpcpk\",\n         \"title\": \"Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs\",\n         \"url\": \"https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full\"\n+      },\n+      {\n+        \"id\": \"cjc\",\n+        \"title\": \"Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults\",\n+        \"url\": \"https://pubmed.ncbi.nlm.nih.gov/16352683/\"\n       }\n     ]\n   },\n@@ -627,6 +632,11 @@\n         \"id\": \"bpcpk\",\n         \"title\": \"Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs\",\n         \"url\": \"https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full\"\n+      },\n+      {\n+        \"id\": \"cjc\",\n+        \"title\": \"Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults\",\n+        \"url\": \"https://pubmed.ncbi.nlm.nih.gov/16352683/\"\n       }\n     ]\n   },\n@@ -885,6 +895,11 @@\n         \"id\": \"bpcpk\",\n         \"title\": \"Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs\",\n         \"url\": \"https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full\"\n+      },\n+      {\n+        \"id\": \"cjc\",\n+        \"title\": \"Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults\",\n+        \"url\": \"https://pubmed.ncbi.nlm.nih.gov/16352683/\"\n       }\n     ]\n   },\n",
+  "firstOwnCommit": "c1e7e7e5a22b4820ae874ac121f9eeb7a8b107f1",
+  "commitParent": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "exactPatchBytesEqualGitCommitDiff": true,
+  "patchApplicationState": "clean git apply --check, exact git apply; no improvisation"
+}

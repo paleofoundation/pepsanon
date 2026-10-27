@@ -1,0 +1,286 @@
+{
+  "state": "PASS_FOR_ALL54_ARTICLE_SUBTREES",
+  "comparison": "PEP4 final capture vs PEP5 after exact first patch, before any fill build",
+  "all54ArticleSubtreesByteIdentical": true,
+  "rawWholeDocumentEqualCount": 0,
+  "rawHtmlNormalizationUsed": false,
+  "scope": "No claim of whole-document build-asset identity if hashes differ. Tracked renderer and other973 files exact separately.",
+  "routes": [
+    {
+      "url": "https://pepsanon.com/glossary/absorption",
+      "articleSha256": "197ceb7b87be3208f57f7a7678ef6f9ab44cf1b02061a7ab8016b8af8191e439",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/adverse-event",
+      "articleSha256": "830a5a8c9531f59a77d22c39de592d214a77abe9c6c6ba1b88adac4ca957adc8",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "articleSha256": "44d1f570748146fc1f3f20f76235c8addd3fa2ae4013061f4c7af5c4cc188a50",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/auc",
+      "articleSha256": "399972a5f82bdeb5f01eb5a8bed9db417c341e148669b73560bed8af24c818c0",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/baseline",
+      "articleSha256": "3f157b1dc1911535d9f41f70c24241f5323d094b61460b942c824cde7bd5c76a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/bioavailability",
+      "articleSha256": "c2b0412c512ab0a8b69a4f150cf896b4850dd27e080dcbae9db1c42fba1f3cbf",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomarker",
+      "articleSha256": "248367d372fa3abf95831af9c839199adee2152c3b900f13f00017b8d530870e",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "articleSha256": "0ba5ef8b6411bae763e94e58036da168e0ac90618ba6b7604031b5463ec3611c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/blinding",
+      "articleSha256": "9ed1dc43cd04bc24be7258aec78581e453e101aa0cb4392af028a65aa757f154",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/case-series",
+      "articleSha256": "3d68f50c774ee979a588513f9a1842ae42094940929bcbeebdaf3b1e2c9bbc56",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/collagen",
+      "articleSha256": "e7b72f5ee151ffa74ce6652937f3175ae33c7416eda6c086e32cb4bc8bb98e26",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/control-group",
+      "articleSha256": "fa0bbe886e3a5501c548dfeb79919814cca23623062dbedf50ce02f4f2437f05",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endotoxin",
+      "articleSha256": "06d6be5bec055aeeab41d565111e08873b9213b2e62a65cdaf09779689c3f977",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endpoint",
+      "articleSha256": "b1e09297c1f604e3cd3fd765a026869c6640ca1332049f7fe63be5f202ae1f22",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/extracellular-matrix",
+      "articleSha256": "1400c3810972b95c40f843425362cf1c53ee305e8ee150e14817a8a952a51c2c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "articleSha256": "76479ade7b8a743c9afd45c11bbfbf79db8de512bb036217b6fb3f709d92d41a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/formulation",
+      "articleSha256": "c98a76a90495106e3de68d5e139fd6acd36599873e611d30fad5217721f0b8da",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/glp-1",
+      "articleSha256": "429a7b570ad54bdf93fdac7a938f1cfc59de5ddb3342ab2cba303d0314ef6800",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/gip",
+      "articleSha256": "7bc572a781418666f804f742872a418b0503e0c0555db159284ddab549d98640",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone",
+      "articleSha256": "06dc4f0c20a98680fb175364ff5804f04ec2027a2f080b060bf9860340d24289",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone-secretagogue",
+      "articleSha256": "492bb42dae9aaf95921d6a62fe3f9cc8e401b149fec5e497354390bddff13cbc",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/ghrh",
+      "articleSha256": "19e1af7373c78cbda75a393452e19944dd21276b29eef0055e1e46ff8f046464",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/half-life",
+      "articleSha256": "f71246ae5b5fd3f9c96e12b3fac1fa89854a035e07e96ab5a7bb7ea24635df5e",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/histology",
+      "articleSha256": "4b6925b47b4c2294549e569807b25f7455c2672aa724cf085ef66e160905299c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "articleSha256": "8324762ac9971024ee921929ace6315843311d2f200059dcfddf77f815f871d9",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/immunogenicity",
+      "articleSha256": "cc307ceb65f108485861f0881b6d441af9a237a7b7bf1eac0e5265c5113efcd0",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vitro",
+      "articleSha256": "be18df4383074a111ac651d90c9fabf5214706761870ba0d5fc30308dc762568",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vivo",
+      "articleSha256": "3a4d5f67747896feae30d063d5912e0bcb7a29d3ee21f33712fcea4d0baf8cb9",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/igf-1",
+      "articleSha256": "ed4cf1fa32772a216b90c951d2fb6d43aa71e92904f440dbc292122cd14d8289",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intra-articular",
+      "articleSha256": "3dbf040a557fd5edf375ca31db740ddfba123f783d285705e43b6ffd3952b1ed",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intramuscular",
+      "articleSha256": "931bc71349f9667acb4a782fb6040485898446b48d15b173b899228ea80b29d0",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intravenous",
+      "articleSha256": "06bee5a115ba841fec7357f42f44b08a10e7152cdd4fc0730b998c7c102272ca",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/metabolism",
+      "articleSha256": "6ae2000c07859710cbfa30263819abfb4fa29b26b38aafe75fed9f551b82b992",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "articleSha256": "95d2cb03e96304cec487cb6880e209586371138902b3b9faafa34ef03f011b3a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "articleSha256": "0e934e223b6a2a12e1ac769d48ab51be868016997fbc1d826987a0d3c9e31038",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/cmax",
+      "articleSha256": "7bf1f0488865612231e6e7c1180628afe847d6bd1d664e32274a8fd6edce6276",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pentadecapeptide",
+      "articleSha256": "788b9f530d78153966105427be418fc7259fa4e9602879ba1f84536f874820c2",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/peptide",
+      "articleSha256": "eda3fa344d6d15b580af59d28657bf8f444652029134f9fd353633d41eb2f6fd",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacodynamics",
+      "articleSha256": "65feab4508741edc3888634e674c4162efd4c6de4b68b34043da87ed3b533786",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacokinetics",
+      "articleSha256": "0dcc5be6c07b5b4c62789aa970e5fe9247c87263e6710a16dc27d951a34dac86",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/placebo",
+      "articleSha256": "f8173cb661276497d4c8a92f5720434a537bb1b4f07480b3aa4748c4077ae9ac",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/preclinical",
+      "articleSha256": "30d15aee1c2ad4837d02f9a1004e503d8d44bcb68d0cca01a382bb6438afed06",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/purity",
+      "articleSha256": "205cabc76cef4d0a0e4151df830d2cf77f09523460460d4964f9a1615f105806",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/randomized-controlled-trial",
+      "articleSha256": "0cbb1a0e4209fb750f4336fcc3190d186370a06d4151bfad9bba04f68bd71885",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor",
+      "articleSha256": "9b71492032229f532e8d0d5d86092a716911df47faef419f7d9d4bf71669a399",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor-agonist",
+      "articleSha256": "bd3e7c8ace8f3f687f0f61cb1000fc4e1e217dcd709f8d66e49cb679ebda0850",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "articleSha256": "318db6b4dd7955f917befe69e1a69a63886744a679504254aa5e6caf87216433",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/route-of-administration",
+      "articleSha256": "d537e021eb49d17a6bb6789eca46b00536b6c43eafe176733dafb147d1041cde",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/sterility",
+      "articleSha256": "5f34ae5ceb6acd9cdcc378782c3463bc693d07914712b8605694dd204e46df78",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/subcutaneous",
+      "articleSha256": "621bc4559195c0d2d073691923b843bc92f81a4af6fc5fd127331ae61def7ef2",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tmax",
+      "articleSha256": "f4f01dc0b9fcc1a6571c08be7c7a6dc02de53e247303f3cab8784a060a1704a4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/topical",
+      "articleSha256": "b174fab72f9023f0116b61ffa6ef745b2cc834c73ab2cc61f980fab9c27dc67d",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/treatment-withdrawal",
+      "articleSha256": "59a94de326c06e828ebb88fdea8715c327f78a39e8ea21a28d5ef6c2534ec709",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tripeptide",
+      "articleSha256": "bc2a8eb1e414b2525b1c71d49ffb2f231e7e4aeb5b9d0b8923ab8293788a339a",
+      "rawWholeDocumentEqual": false
+    }
+  ],
+  "firstWholeDocumentDifference": {
+    "url": "https://pepsanon.com/glossary/absorption",
+    "byteOffset": 380,
+    "before": "sources\"/><link rel=\"modulepreload\" fetchPriority=\"low\" href=\"/_next/static/chunks/index-DJjQ1iEH.js\"/><script src=\"/_next/static/chunks/rolldown-runtime-C60lm6uB.js\" type=\"module\" async=\"\"></script><script src=\"/_next/static/chunks/framework-D_rUT4EX.js\" type=\"module\" ",
+    "after": "sources\"/><link rel=\"modulepreload\" fetchPriority=\"low\" href=\"/_next/static/chunks/index-DMi2UUys.js\"/><script src=\"/_next/static/chunks/rolldown-runtime-C60lm6uB.js\" type=\"module\" async=\"\"></script><script src=\"/_next/static/chunks/framework-D_rUT4EX.js\" type=\"module\" "
+  }
+}

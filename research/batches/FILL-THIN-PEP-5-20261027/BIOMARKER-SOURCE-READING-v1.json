@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-27T15:20:33.216328+02:00",
+  "bindings": [
+    {
+      "source": "gip",
+      "file": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "sha256": "c5ab3c2bdb380d60d739a01ef78badafe2e08e549e6699fbebe01636736861ad",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "doi": "10.1111/dom.14174",
+      "locators": [
+        "PDF p2 Study procedures",
+        "PDF p2 Study procedures; p7 Discussion",
+        "PDF p7 Discussion and limitations",
+        "PDF p7 Discussion and limitations; p8 Conclusions"
+      ],
+      "readingScope": "Fresh original hash verified, selected physical pages reread from original PDF-derived extraction; no new numerical claims",
+      "existingCanonicalSource": true
+    },
+    {
+      "source": "cjc",
+      "file": "paper-68bd15da459b37ca.pdf",
+      "sha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "locators": [
+        "PDF p1 Abstract; p2 Laboratory methods",
+        "PDF p6 Discussion and In summary"
+      ],
+      "readingScope": "Fresh original hash verified, selected physical pages reread from original PDF-derived extraction; no new numerical claims",
+      "existingCanonicalSource": true
+    }
+  ],
+  "bounds": "GIP stored fasting samples, enzyme mass vs tissue activity and posthoc/descriptive limitations; CJC separate hormone/drug assays and clinical utility future studies. No molecule interchangeability or clinical benefit inference.",
+  "candidateSha256": "9df0e5643a1fc1dd8471e563d96b510cd29908e8c90a85284ea311bb6a40d82b"
+}

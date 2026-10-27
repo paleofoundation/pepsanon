@@ -1,0 +1,128 @@
+{
+  "at": "2026-10-27T13:27:07.869953+00:00",
+  "result": "PASS_TEN_EXACT70_MOBILE_TUPLES",
+  "method": "Actual CUA IAB tab25 DOM, 390x844. Paragraph text excluding superscripts while retaining inline link text; citation source ID plus locator tooltip and reference external URL. Sorted by paragraph text; compact Unicode JSON SHA256. All ten freshly navigated and captured on stable V4 final preview. Biomarker top and evidence paragraphs visually inspected by scrolling. Promise digest was awaited before verification. Own tab closed and viewport reset.",
+  "preview": "http://127.0.0.1:8794",
+  "candidateSha256": "ee03b87f34ce25ba8bdbfbd1987149e39c6ebfcaac3294dbad52013a8b3b21e3",
+  "canonicalSha256": "537d98c512e1bfd3fd2e79fbeaceaae87b0a17400fb5562dd5af1104e4fb5a81",
+  "compiledServerSha256": "5b7bf0264888e603d58a136577e7a635f98828168ce1957fa6f8b3d957eb38f8",
+  "sourceReceiptSha256": "61846298927d0615d67a6cc022351f4117b483433cf479f54c5906bc56c7c642",
+  "pages": [
+    {
+      "slug": "collagen",
+      "count": 7,
+      "actualRenderedTupleSha256": "2317f2762ffd0ab94217c73f95273f17886dddb1affb7f25771a346b1a53370b",
+      "expectedCandidateTupleSha256": "2317f2762ffd0ab94217c73f95273f17886dddb1affb7f25771a346b1a53370b",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 1
+    },
+    {
+      "slug": "immunogenicity",
+      "count": 7,
+      "actualRenderedTupleSha256": "43cb3a310ace1014ed2b103389cc5943336be6c7f178b0d640c1e65fbbae5658",
+      "expectedCandidateTupleSha256": "43cb3a310ace1014ed2b103389cc5943336be6c7f178b0d640c1e65fbbae5658",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "control-group",
+      "count": 7,
+      "actualRenderedTupleSha256": "d00600769d6376159f1c0b4496639c077cd8fc612db8e4f34765020ce93eeafe",
+      "expectedCandidateTupleSha256": "d00600769d6376159f1c0b4496639c077cd8fc612db8e4f34765020ce93eeafe",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 1
+    },
+    {
+      "slug": "route-of-administration",
+      "count": 7,
+      "actualRenderedTupleSha256": "8f854bd250e5b4e86cccf285372bf152f199e448406282e99dfc729b4fe39502",
+      "expectedCandidateTupleSha256": "8f854bd250e5b4e86cccf285372bf152f199e448406282e99dfc729b4fe39502",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "preclinical",
+      "count": 7,
+      "actualRenderedTupleSha256": "173418ac2ac6b6acc6faf4abf6a11e3399fbf12a4f6b8d66ea3ca1d524a6ad03",
+      "expectedCandidateTupleSha256": "173418ac2ac6b6acc6faf4abf6a11e3399fbf12a4f6b8d66ea3ca1d524a6ad03",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "glp-1",
+      "count": 7,
+      "actualRenderedTupleSha256": "6a4dff94e869bea85747ea4fb12b95f9db6a832a8cf990e84efd284b646465f9",
+      "expectedCandidateTupleSha256": "6a4dff94e869bea85747ea4fb12b95f9db6a832a8cf990e84efd284b646465f9",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "intravenous",
+      "count": 7,
+      "actualRenderedTupleSha256": "d5fc1bdcd4244f680f7342f757e4bfa8b7e7f39f55dff6718ab7e045a848054d",
+      "expectedCandidateTupleSha256": "d5fc1bdcd4244f680f7342f757e4bfa8b7e7f39f55dff6718ab7e045a848054d",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "count": 7,
+      "actualRenderedTupleSha256": "d90b12e5f15e775c702cb611daf9e08b8dc0dfd65626472780a82c2ec157292e",
+      "expectedCandidateTupleSha256": "d90b12e5f15e775c702cb611daf9e08b8dc0dfd65626472780a82c2ec157292e",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 1
+    },
+    {
+      "slug": "placebo",
+      "count": 7,
+      "actualRenderedTupleSha256": "ce10903e2706dca704ef91e33548077514f8559f7c45fe36a12b16d7b79b2e32",
+      "expectedCandidateTupleSha256": "ce10903e2706dca704ef91e33548077514f8559f7c45fe36a12b16d7b79b2e32",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 1
+    },
+    {
+      "slug": "biomarker",
+      "count": 7,
+      "actualRenderedTupleSha256": "886ae0739a5d483ca4d38365f0592bc75fb75de1661c067a88dc645199bb9d6f",
+      "expectedCandidateTupleSha256": "886ae0739a5d483ca4d38365f0592bc75fb75de1661c067a88dc645199bb9d6f",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    }
+  ],
+  "punctuation": "Only inherited collagen paper title contains em dash on four pages; exact quoted title/source URL bound to canonical sources.collagen. Narrow ELON12:42 grant; no new prose dashes.",
+  "biomarkerSourceReceiptSha256": "6879ac6f88abd48b14394039ad159de8cc4614e57022b3ab3961d6c1a97d17b0",
+  "scope": "Exactly ten existing glossary pages, nine63rows unchanged plus7biomarker. ELON15:18 granted exactrank82biomarker replacing81homepageHELD-COMPONENT-SCOPE. No home/app edits or other substitution.",
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}
