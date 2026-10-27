@@ -1,0 +1,1058 @@
+{
+  "authority": "Elon11:26 plus exact11:37 OptionA",
+  "base": "8bb517ed61b0f01927186fefddf532e0887060da",
+  "sourceObjectsCreated": 0,
+  "state": "SOURCE_LOCATED_CANDIDATE_NOT_YET_APPLIED",
+  "records": [
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "in-the-research",
+      "text": "The CJC-1295 research provides another example: investigators followed the study drug in blood while separately measuring circulating growth hormone and IGF-I, keeping drug exposure and the biological response as distinct observations.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods, Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "in-the-research",
+      "text": "These randomized, placebo-controlled studies enrolled healthy adults, so their hormone measurements describe pharmacological activity in that population rather than recovery from a tendon injury or treatment of an established disease.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods, Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "in-the-research",
+      "text": "The laboratory methods describe assays for the drug and for the hormones, which means that a reported hormone response must be read alongside the identity of the substance measured and the sampling schedule.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods, Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors discussed sustained hormone responses and called for further studies of clinical utility, leaving a distinction between demonstrating a biological response and establishing a useful treatment effect in patients.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "reading-the-evidence",
+      "text": "A hormone concentration can therefore be a relevant study endpoint without answering a question about pain, physical function or injury healing, because those were not the outcomes evaluated by this pharmacology experiment.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "reading-the-evidence",
+      "text": "The tendon-cell experiment asks a different pharmacodynamic question by examining receptor expression and cellular responses in cultured rat fibroblasts, rather than measuring circulating hormones in volunteers.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results2.1-2.2; p6-7 Discussion; p7-9 Experimental Section4.1-4.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sectionId": "reading-the-evidence",
+      "text": "Keeping these models separate prevents a change in receptor expression in a dish from being treated as the same observation as a hormone response in a person or as direct evidence of tendon recovery.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results2.1-2.2; p6-7 Discussion; p7-9 Experimental Section4.1-4.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "in-the-research",
+      "text": "The CJC-1295 paper examines stimulation of growth hormone release through a modified growth hormone-releasing hormone analogue, providing a source-specific example of why the precise molecule matters when discussing hormone stimulation.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Introduction; p2 Subjects and Methods and Figure1"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "in-the-research",
+      "text": "Its chemical description includes an albumin-binding component intended to prolong activity, so the formulation investigated in this paper must remain attached to the reported hormone findings.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Introduction; p2 Subjects and Methods and Figure1"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "in-the-research",
+      "text": "The investigators measured circulating growth hormone and IGF-I as well as the study drug, rather than assessing a recovery program or using the word secretagogue as a measure of clinical benefit.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Introduction; p2 Subjects and Methods and Figure1"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "reading-the-evidence",
+      "text": "The participants were healthy adults in a controlled pharmacology experiment, and that population does not establish the response of people seeking treatment for a specific injury or an endocrine disorder.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract Participants and Main Outcome Measures; p5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper discusses possible therapeutic applications as questions for further investigation, so the observed hormonal activity should remain separate from a demonstrated improvement in symptoms or physical function.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract Participants and Main Outcome Measures; p5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "reading-the-evidence",
+      "text": "The BPC-157 tendon-cell study concerns expression of the growth hormone receptor and responses after growth hormone was added to cultured cells, which is a different experiment from measuring release of the hormone into blood.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results2.1-2.2; p6-7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sectionId": "reading-the-evidence",
+      "text": "In that model, receptor expression and cell proliferation are the measured observations, and the authors acknowledge that cultured fibroblasts do not reproduce the full environment of a healing tendon.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results2.1-2.2; p6-7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "in-the-research",
+      "text": "The purchased-product study used microbiological testing alongside chemical analysis, allowing the investigators to ask whether a product contained the stated drug and whether other quality concerns were detectable.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "in-the-research",
+      "text": "Packaging inspection was also part of the investigation, but visual similarities or differences were evaluated separately from the laboratory tests rather than being treated as proof of the contents.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "in-the-research",
+      "text": "The results distinguish viable microorganisms, endotoxin, chemical purity and active-ingredient content, so a reassuring finding in a microbiological test cannot stand in for the results of the other analyses.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "in-the-research",
+      "text": "The reported endotoxin finding despite an absence of detected viable microorganisms illustrates the specific limit of reading a microbiological result as a comprehensive statement about product quality.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "reading-the-evidence",
+      "text": "This was an investigation of selected products obtained from online vendors, not a clinical experiment establishing how often contamination causes illness or how a particular patient would respond.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Results and Discussion, limitations paragraph"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "reading-the-evidence",
+      "text": "Only the products that were actually received could undergo the reported laboratory examination, and the authors identify the limited tested sample and excluded higher-priced offerings as constraints on generalizability.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Results and Discussion, limitations paragraph"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "sterility",
+      "sectionId": "reading-the-evidence",
+      "text": "The appropriate conclusion remains tied to the tested products and the assays performed, without treating the findings as a prevalence estimate for every product sold under the same drug name.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original primary XML body Results and Discussion, limitations paragraph"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "doi": "10.1001/jamanetworkopen.2024.28280",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "in-the-research",
+      "text": "The investigators measured IGF-I alongside growth hormone and CJC-1295, allowing them to follow a downstream hormonal response while also characterizing exposure to the administered study drug.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Laboratory methods, IGF-I and Pharmacokinetic analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "in-the-research",
+      "text": "The methods describe a laboratory assay for IGF-I and repeated sampling, so the reported response concerns measured circulating concentrations over the study follow-up rather than a visual assessment of recovery.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Laboratory methods, IGF-I and Pharmacokinetic analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "in-the-research",
+      "text": "The trial enrolled healthy adults whose IGF-I concentrations were within the study eligibility range, keeping the findings attached to that selected population rather than to patients with a diagnosed deficiency.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Laboratory methods, IGF-I and Pharmacokinetic analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors considered the persistence of the hormone response and its possible therapeutic relevance, while explicitly identifying further investigation of clinical utility as necessary.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "reading-the-evidence",
+      "text": "A change in this marker is therefore an observation about the hormone system under study, without by itself establishing improved muscle function, relief of pain or healing of a tendon injury.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "reading-the-evidence",
+      "text": "The tendon-cell paper discusses growth hormone signaling in its biological background but experimentally measures receptor expression and cell responses, which should not be confused with the circulating IGF-I measurements in the CJC-1295 trials.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "igf-1",
+      "sectionId": "reading-the-evidence",
+      "text": "The comparison helps separate a biological explanation from a measured result: the cell experiment and the human hormone experiment examine related questions in different systems, without establishing the same clinical outcome.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "in-the-research",
+      "text": "The pharmacokinetic investigation administered BPC157 to rats and beagle dogs and then analyzed collected samples, combining observations from living animals with laboratory measurements performed on those samples.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p1 Abstract; Results2.1-2.3; Materials and methods4.2-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "in-the-research",
+      "text": "Its concentration-time experiments compared intravenous and intramuscular administration, making the animal species and route part of the result rather than interchangeable details.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p1 Abstract; Results2.1-2.3; Materials and methods4.2-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "in-the-research",
+      "text": "Additional work followed a radiolabeled preparation in rats to investigate distribution, metabolism and excretion, while chemical analysis helped distinguish the parent compound from products formed after administration.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p1 Abstract; Results2.1-2.3; Materials and methods4.2-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors describe breakdown of the administered peptide into smaller products, so a measurement of total radioactivity should not automatically be read as an equivalent amount of unchanged active peptide in a tissue.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Discussion and Results2.3, metabolism and tissue distribution"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "reading-the-evidence",
+      "text": "They also identify limits in their tissue-metabolite analysis, which matters when using distribution findings to explain what a drug might do at a proposed site of action.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Discussion and Results2.3, metabolism and tissue distribution"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "reading-the-evidence",
+      "text": "This is an animal disposition study, so the presence of an in vivo experiment does not convert its exposure or metabolism findings into a demonstrated effect on symptoms or wound healing in people.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Discussion and Results2.3, metabolism and tissue distribution"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vivo",
+      "sectionId": "reading-the-evidence",
+      "text": "The tendon-fibroblast authors explicitly note that a culture system does not reproduce the living healing environment, where interactions with other cells may contribute to the overall response.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; Experimental Section4.1"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "in-the-research",
+      "text": "The researchers obtained fibroblasts from rat Achilles tendons and grew them under defined laboratory conditions, making the isolated cell culture the setting in which the subsequent measurements were made.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7-9 Experimental Section4.1-4.2; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "in-the-research",
+      "text": "They examined growth hormone receptor expression using RNA and protein methods, then tested cellular responses when growth hormone was added after BPC157 exposure.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7-9 Experimental Section4.1-4.2; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "in-the-research",
+      "text": "The proliferation-related measurements and signaling analyses help investigate a proposed mechanism in that system, while remaining separate from a direct measurement of the mechanical strength of a healed tendon.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7-9 Experimental Section4.1-4.2; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors acknowledge that the experimental culture cannot mimic the full tendon environment and discuss interactions with other cell types as a possible influence during healing in a living organism.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; Experimental Section4.1-4.7"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "reading-the-evidence",
+      "text": "This is why a cellular response must retain the species, cell type and preparation in its description, instead of being shortened to a general claim that a peptide improves human recovery.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; Experimental Section4.1-4.7"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "reading-the-evidence",
+      "text": "The separate pharmacokinetic paper illustrates another distinction by administering a compound to living animals and then using laboratory analyses on collected material, rather than treating every laboratory measurement as a cell-culture treatment experiment.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.3, metabolism; Discussion; Materials and methods4.2-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "in-vitro",
+      "sectionId": "reading-the-evidence",
+      "text": "Identifying where the intervention occurred and where the measurement occurred keeps a culture study, an animal exposure study and a human clinical outcome from being combined into an unsupported conclusion.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.3, metabolism; Discussion; Materials and methods4.2-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "in-the-research",
+      "text": "The paper distinguishes native GHRH from the modified CJC-1295 compound studied in the trial, describing a chemical design intended to extend the duration of activity through binding to albumin.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Introduction; p2 Figure1 and Subjects and Methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "in-the-research",
+      "text": "This makes molecular identity part of the interpretation: a finding obtained with the specified long-acting analogue cannot simply be assigned to every product or compound described as GHRH-related.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Introduction; p2 Figure1 and Subjects and Methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "in-the-research",
+      "text": "The researchers followed the administered compound alongside circulating growth hormone and IGF-I, examining drug exposure and downstream hormone responses in healthy adults.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Introduction; p2 Figure1 and Subjects and Methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "reading-the-evidence",
+      "text": "The hormone assays and concentration-time analyses describe what the study actually measured, while the authors discuss possible clinical applications as an area requiring further investigation.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "reading-the-evidence",
+      "text": "The resulting evidence supports a conclusion about hormonal activity under the trial conditions, without directly answering whether an injured person gains better function or faster recovery.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "reading-the-evidence",
+      "text": "Keeping native hormone, modified analogue and clinical objective separate avoids using a shared name as a substitute for matching the study molecule, population and outcome to the question being asked.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "doi": "10.1210/jc.2005-1536",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "ghrh",
+      "sectionId": "reading-the-evidence",
+      "text": "The BPC-157 fibroblast experiment examines the response of cultured rat cells to growth hormone and changes in its receptor, rather than administering GHRH or measuring pituitary hormone release.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results2.1-2.2; p6-7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "in-the-research",
+      "text": "The methods identify the BPC157 material used in the experiment and describe adding it to fibroblasts grown from rat Achilles tendons, keeping the molecular name connected to an actual laboratory preparation.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7-9 Experimental Section4.1-4.2; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "in-the-research",
+      "text": "The investigators then measured growth hormone receptor expression through RNA and protein analyses, and examined cell responses when growth hormone was added after pretreatment.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7-9 Experimental Section4.1-4.2; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "in-the-research",
+      "text": "These observations concern the behavior of the specified compound in cultured tendon cells, rather than an effect shared by every peptide with the same molecular length.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7-9 Experimental Section4.1-4.2; p3 Results2.1-2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors discuss the limitations of reproducing tendon healing in a culture system, where the interactions among cells in a living tissue are not fully represented.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; Experimental Section4.1-4.7"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "The description pentadecapeptide therefore does not identify the study design or establish an outcome on its own, so the material, model and measured response remain necessary parts of reading the experiment.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p6-7 Discussion; Experimental Section4.1-4.7"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "doi": "10.3390/molecules191119066",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "The pharmacokinetic paper investigates the disposition and breakdown of BPC157 in animals, providing a different research question about the compound from the tendon-cell receptor experiment.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p1 Abstract; Results2.3 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "Its analyses distinguish the parent peptide from smaller products formed during metabolism, so a structural name should not be used to assume that every measured signal represents intact peptide at a proposed treatment target.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p1 Abstract; Results2.3 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "in-the-research",
+      "text": "The BPC157 pharmacokinetic study compared intramuscular administration with intravenous administration in rats and beagle dogs, keeping each route attached to a distinct concentration-time experiment.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.1-2.2; Materials and methods4.3-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "in-the-research",
+      "text": "Blood samples were collected after administration and analyzed for the compound, so the results concern systemic exposure under the animal study conditions rather than a direct assessment of human recovery.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.1-2.2; Materials and methods4.3-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "in-the-research",
+      "text": "The route comparison matters because an observation after drug was placed in muscle is not automatically the same exposure pattern as administration directly into the circulation.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.1-2.2; Materials and methods4.3-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "reading-the-evidence",
+      "text": "The investigators also studied metabolism and excretion, including work with a radiolabeled preparation in rats, which means that distribution signals need to be interpreted alongside the fate of the parent compound.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.3 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors identify limitations in tissue-metabolite analysis, leaving a distinction between detecting a related signal and establishing how much unchanged compound reaches a proposed site of action.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.3 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "reading-the-evidence",
+      "text": "These findings remain preclinical and route-specific, rather than establishing that a person should use an intramuscular preparation or that the same findings apply to a different formulation.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF Results2.3 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intramuscular",
+      "sectionId": "reading-the-evidence",
+      "text": "The knee-pain report concerns injections into the joint and retrospective symptom follow-up, so it cannot serve as a human intramuscular pharmacokinetic study despite discussing the same named peptide.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p2-3 Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "in-the-research",
+      "text": "The knee-pain report reviewed records from a clinical practice and contacted patients about their symptoms after injections into the knee joint, rather than randomly assigning a treatment and comparing it with placebo.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p2-3 Methods, Patients and Results"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "in-the-research",
+      "text": "Some patients received BPC157 alone and others received a combination with thymosin-beta-4, so the identity of the administered preparation must stay attached to the reported observations.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p2-3 Methods, Patients and Results"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "in-the-research",
+      "text": "The investigators asked about recalled pain and the duration of relief, while describing an absence of specific measurement tools for function, stiffness, quality of life and activities of daily living.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p2-3 Methods, Patients and Results"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors called for future work with follow-up imaging, which separates the symptom reports collected in this study from a demonstrated structural repair of cartilage, a meniscus or another joint tissue.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods and Clinical Implications; p3-5 Results and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "reading-the-evidence",
+      "text": "Because this was a retrospective practice report, its observations should remain distinct from a controlled estimate of treatment benefit and from a comparison of the peptide with an established therapy.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods and Clinical Implications; p3-5 Results and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "reading-the-evidence",
+      "text": "The phrase intra-articular identifies the administration site, but it does not resolve questions about the active ingredient, the combination used, the way outcomes were measured or the strength of the study design.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods and Clinical Implications; p3-5 Results and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "doi": null,
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    },
+    {
+      "slug": "intra-articular",
+      "sectionId": "reading-the-evidence",
+      "text": "The rat-and-dog pharmacokinetic paper used intramuscular and intravenous administration, so its route-specific exposure findings should not be relabeled as evidence about injections into a human knee joint.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p1 Abstract; Results2.1-2.2; Materials and methods4.3-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "doi": "10.3389/fphar.2022.1026182",
+      "scientificReview": "AI-assisted source-located draft, independent/human review pending",
+      "newNumericalClaim": false
+    }
+  ]
+}

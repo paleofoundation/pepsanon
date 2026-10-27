@@ -1,0 +1,273 @@
+{
+  "status": "PASS",
+  "base": "8bb517ed61b0f01927186fefddf532e0887060da",
+  "changed10": [
+    "growth-hormone-secretagogue",
+    "ghrh",
+    "in-vitro",
+    "in-vivo",
+    "igf-1",
+    "intra-articular",
+    "intramuscular",
+    "pentadecapeptide",
+    "pharmacodynamics",
+    "sterility"
+  ],
+  "unchanged44TermRawSpans": [
+    {
+      "slug": "absorption",
+      "sha256": "a36cc93be659b8888cc238ba8fd7ac01640b20c0ded4023459c5ca454c2d58fb"
+    },
+    {
+      "slug": "adverse-event",
+      "sha256": "ff867102b6eb48a5817cc177591b61301228218b3782bae947e477b785f7fdf1"
+    },
+    {
+      "slug": "amino-acid",
+      "sha256": "45d183f2084479c9493265f2c0b4f942f7a6aa3e050a64e4e7977db300d59e08"
+    },
+    {
+      "slug": "auc",
+      "sha256": "e06d86914085a3ee264c1a8ee2c9eb7678d8bf00002b22a9fb5d7c37f5055afa"
+    },
+    {
+      "slug": "baseline",
+      "sha256": "37a9cb69e1ed8739bb072779375f2678be908ae366ee8d0c8b8e2a1e66e7c7d2"
+    },
+    {
+      "slug": "bioavailability",
+      "sha256": "26b207ac0e138be9dec78fc9155c4549ce17fef4fba62309bb9a23e603df0f32"
+    },
+    {
+      "slug": "biomarker",
+      "sha256": "d106373f0f320bb472c65143bd519e68e4be5c09f2257491c91eb2bb5856970f"
+    },
+    {
+      "slug": "biomechanical-testing",
+      "sha256": "ffae99badaf6d035fd5271abc361cff2f1ead79786bcb78148dd54ac58cf419b"
+    },
+    {
+      "slug": "blinding",
+      "sha256": "e43e331b9a13a1803179e9526db3941e87cd33b62b9cf221823e70f44a859c0d"
+    },
+    {
+      "slug": "case-series",
+      "sha256": "b2894482ff726b86b2539ce86f51b31901c9397ba5693ec0434ecebec3e99b5e"
+    },
+    {
+      "slug": "collagen",
+      "sha256": "b5b6f81d4fd6b9043f17d89fca6969ca875a6e7e7d104dee7bbb3338fe61205f"
+    },
+    {
+      "slug": "control-group",
+      "sha256": "b17fdb753269e6c1a7407096158043471d7b03fcb2e88a0e10c2e292ad285773"
+    },
+    {
+      "slug": "endotoxin",
+      "sha256": "c9be3e0b576bf50e3aa8c252586e35ab0d4b2fb8260112f9f969f7976d726e8d"
+    },
+    {
+      "slug": "endpoint",
+      "sha256": "9103e6615b3ad05680c2fe309136be7a8d064237a203455fccb733f8475e06f4"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sha256": "6d673fb115795242cccbd81c27168996d00a5e7aa8699d7e6b189844a5971c93"
+    },
+    {
+      "slug": "fibroblast",
+      "sha256": "66dd17edb10154ee6e13ac967f7edc4c82097edd0960dca93d19c7dac1142a59"
+    },
+    {
+      "slug": "formulation",
+      "sha256": "21b8bb1bb12083dd3c745d88642e1f57b04fc91f352c3588dd3746cb9fbc214f"
+    },
+    {
+      "slug": "glp-1",
+      "sha256": "dc0d0004e36edc7569a558d9a45d7432a68c29f9b97ec9487a2b8789248835b9"
+    },
+    {
+      "slug": "gip",
+      "sha256": "e3fa4e5442a3f28ec7c19e3aac2941466e01d5e414ff710363a8909ea5a7ab0b"
+    },
+    {
+      "slug": "growth-hormone",
+      "sha256": "d75f177fec91db5f704cb8182ed5d90239ff092f7495bae0ccc4c6b93bd5ae6b"
+    },
+    {
+      "slug": "half-life",
+      "sha256": "225e10f784cc72c0d2264b52c7b6532df4957bbaca007c843b9b9298000350a7"
+    },
+    {
+      "slug": "histology",
+      "sha256": "8256db0574f402b5068a0491a3004a67877d0ee65bb7f7baea095f586834a72c"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sha256": "0171c705158a589ad0f4b53923a0a71d05afa624d97787c25c7a596e9a68303a"
+    },
+    {
+      "slug": "immunogenicity",
+      "sha256": "2a77e0f4660c3fd1daae066fff821cb8b9b4f42b0e76376474ebcd0c25c75460"
+    },
+    {
+      "slug": "intravenous",
+      "sha256": "1579d3846acb9277de1f6e0f13a9933f309fe6ac05e14d8b9bd3b1c7bd44e06c"
+    },
+    {
+      "slug": "metabolism",
+      "sha256": "981b5975c6ca7d9859a8ada453722941048f8600a84f317c0e2c3acbf9056d2a"
+    },
+    {
+      "slug": "oral",
+      "sha256": "1f26c6248b01b7030cde27c01be734fcfe1620cc05dd0caad75a9f3fe65ab04c"
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "sha256": "1b617298c924d3be0bace7250f68d0fd37efc65db31a0e402c1ffcd50864982b"
+    },
+    {
+      "slug": "cmax",
+      "sha256": "57ee78b65694c4192400f640bf4af336d6031ebcc7be44fc6f73804cc74cedbb"
+    },
+    {
+      "slug": "peptide",
+      "sha256": "65060634e509419199f52a20bea0eb6a3edfb0fe147979d87a7ba317cfae40ab"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sha256": "b12cecbaf5611c8c41c06633ea8705e781a1cc2ce9763c8ac46d8ce33013bb32"
+    },
+    {
+      "slug": "placebo",
+      "sha256": "751533bc81e737dd2286ff0d89f96787ec1eeaf35eef00a1910fd4f412b70fad"
+    },
+    {
+      "slug": "preclinical",
+      "sha256": "07a38d3ba7836824d4d966d3b67adc7e6540bbfe4de65adda817083c9ea85f16"
+    },
+    {
+      "slug": "purity",
+      "sha256": "43d25465f54f33be4580bedfd890005a8f45bc40b926735bdde6e55c05b691be"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sha256": "4e3167f21abd303e7bbf26041901ac23899c9c5371696e6617bc7706dd5f334d"
+    },
+    {
+      "slug": "receptor",
+      "sha256": "50542e33db6885044a5270c00a0075439f6a98f47ff5fad8ec987971e9141c5a"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sha256": "44e0a4b4f29719836df6026838030375b4e78e05d44f7da9e3bd1528545896bb"
+    },
+    {
+      "slug": "retrospective-study",
+      "sha256": "e9792edde4cca37d2a64ff82e297c7effe67ed42c461f5074d1e98e5537647ad"
+    },
+    {
+      "slug": "route-of-administration",
+      "sha256": "91390dec7a6d472a70ea05e3427df197b138419668b0cc54a83f8897a900cf85"
+    },
+    {
+      "slug": "subcutaneous",
+      "sha256": "684dcee3a5817235941d1a55e72eb3b9364b76d0a5ce72208b1d032d2deaeaac"
+    },
+    {
+      "slug": "tmax",
+      "sha256": "c80f755a62c4e05fb6f51178060d7243039e763ef2f7d4ae391603e938476884"
+    },
+    {
+      "slug": "topical",
+      "sha256": "80472f744dfc868190440e3b86a2da36e52346accc2f17a595c90246a8f3e6f6"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sha256": "be91524db753ac8e866cda3de6cf910c4cabdb3860c99bcc35b1c1205b3d791e"
+    },
+    {
+      "slug": "tripeptide",
+      "sha256": "61a75d6929b1718104ecb259e03faec49c66f433e91acc95c6d8fbe222f084bc"
+    }
+  ],
+  "unchanged16SourceRawSpans": [
+    {
+      "id": "bpcpk",
+      "sha256": "fdf09881cf1db4b860836230f29b9eb081cf46247a5a14a862593dddfa730d28"
+    },
+    {
+      "id": "fibro",
+      "sha256": "8fa3fd6397181dad0053e5efec0ff0fe3dff358322f91bc8cd351201d895c199"
+    },
+    {
+      "id": "eye",
+      "sha256": "04cc917a1a44c211cc83a704c7c2788089209a0b6ecca16af77169d7ad3f57d3"
+    },
+    {
+      "id": "knee",
+      "sha256": "c052ef8985b27aed13abd368149ada56d24a79ac5cd50f85bdc5a3c8579c0068"
+    },
+    {
+      "id": "tendon",
+      "sha256": "45834c41483865b50b19fe105e95e3ea80f08787251a8c94fa91e33baa12b703"
+    },
+    {
+      "id": "collagen",
+      "sha256": "b592537771fa10e6ba22dedea630bb4d762248eaa40a292bff07bc966d3defa8"
+    },
+    {
+      "id": "skin",
+      "sha256": "df7ad761414a827573323628218658a9a468e8e0a7747fc5095a8c76c33990d9"
+    },
+    {
+      "id": "cjc",
+      "sha256": "90cef996a5223af0f929bd49ed79d1fecd2776b56513a4f9bff1f0755b735b1e"
+    },
+    {
+      "id": "ipa",
+      "sha256": "1ad0f9228e7c9c2362ad0212ba398e18e460ecb8af8877ce7645f57131d00e76"
+    },
+    {
+      "id": "step",
+      "sha256": "67606b3ee180e4a781b964fd4fef86158dfa23266b6b0893a84abde488977705"
+    },
+    {
+      "id": "gip",
+      "sha256": "246a8db96262bbedc326284a0510705382b50a489361f37f00235af716d779bd"
+    },
+    {
+      "id": "phase1",
+      "sha256": "96fb11bc87a1125228ff681f6fcc569703eb6f0a646dfdc41ef18514150a5f59"
+    },
+    {
+      "id": "quality",
+      "sha256": "f83e951cbb987e1a711beee97ce1ef83d10e55db141671ca45313e011f2a7202"
+    },
+    {
+      "id": "consort",
+      "sha256": "8d022564b5f54d43b1099952fa002aee3bd4dc346bb33f9e18ec573386974d66"
+    },
+    {
+      "id": "immune",
+      "sha256": "886e297fcf64604cda6b37c21cd0607b6836561a919fe1c1149cd2dff2782113"
+    },
+    {
+      "id": "manufacturing",
+      "sha256": "5cc7e800ee9280fce9689749f951cd3b281f9be32eb3ecfcedfb76952ff2de16"
+    }
+  ],
+  "allOriginalParagraphs": "Preserved order and facts; only inherited ghrh name/intramuscular locator en dashes replaced with ASCII hyphens;7 new paragraphs per selected term",
+  "newSourceObjects": 0,
+  "newCanonicalTerms": 0,
+  "newScientificNumberCheck": "No digits/statistical quantities after allowlisting molecule names; no effect sizes/doses/thresholds added",
+  "newPublicDashCharacters": 0,
+  "appDiffPaths": [
+    "app/glossary/[slug]/page.tsx",
+    "lib/data/glossary-index.json",
+    "lib/data/glossary.json",
+    "research/glossary/term-audit.json"
+  ],
+  "generatedProjectionScope": "Only ghrh name punctuation in glossary-index and term-audit; exactly granted tooltip literal in glossary page; all other shared code byte-identical",
+  "analyzer": "Exact historical SHA256, host list and logic unchanged"
+}

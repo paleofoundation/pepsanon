@@ -1,0 +1,147 @@
+{
+  "status": "CORRECTED_NEW_CJC_LOCATORS_ONLY",
+  "source": "Root original-page spotcheck and own form-feed page-boundary audit",
+  "retainedHistory": [
+    "ADDITIONS-v1.json",
+    "ROOT-BROWSER-before-locator-tooltip-fixes.json"
+  ],
+  "changes": [
+    {
+      "slug": "pharmacodynamics",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 (printed804) Discussion and conclusion"
+        }
+      ]
+    },
+    {
+      "slug": "pharmacodynamics",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 (printed804) Discussion and conclusion"
+        }
+      ]
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract Participants and Main Outcome Measures; p5 Discussion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract Participants and Main Outcome Measures; p6 (printed804) Discussion"
+        }
+      ]
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract Participants and Main Outcome Measures; p5 Discussion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract Participants and Main Outcome Measures; p6 (printed804) Discussion"
+        }
+      ]
+    },
+    {
+      "slug": "igf-1",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 (printed804) Discussion and conclusion"
+        }
+      ]
+    },
+    {
+      "slug": "igf-1",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p5 Discussion and conclusion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 (printed804) Discussion and conclusion"
+        }
+      ]
+    },
+    {
+      "slug": "ghrh",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p5 Discussion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p6 (printed804) Discussion"
+        }
+      ]
+    },
+    {
+      "slug": "ghrh",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p5 Discussion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p6 (printed804) Discussion"
+        }
+      ]
+    },
+    {
+      "slug": "ghrh",
+      "before": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p5 Discussion"
+        }
+      ],
+      "after": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p6 (printed804) Discussion"
+        }
+      ]
+    }
+  ],
+  "scientificContentChanged": false,
+  "sourceObjectsChanged": false
+}
