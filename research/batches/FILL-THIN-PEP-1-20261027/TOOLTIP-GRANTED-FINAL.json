@@ -1,0 +1,544 @@
+{
+  "status": "PASS_FRESH_BUILD",
+  "authority": "Elon2026-10-27 11:56 exact separator ruling",
+  "scope": "Tooltip separator on EVERY existing glossary route (54 captured), not selected10 only",
+  "originalUnappliedPatchPreserved": "6f674112a6faba815d3c64c9d670d6f801514cd654fe79bf6b9607a31549f07c",
+  "appliedSeparator": "; ",
+  "noLeadingSpace": true,
+  "unselectedExamples": [
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone",
+      "beforeTitle": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts \u2014 Introduction",
+      "afterTitle": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Introduction",
+      "sourceAnchor": "#ref-fibro",
+      "beforeHtmlSha256": "a67f0ae40c78ed81e32c6a5f457c624107e03240b62805913645d123f4cfc6c2",
+      "afterHtmlSha256": "5ccbb7372aedbca9318394c79025503619083827f9d2e741e3c9703bfef3e9ab"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacokinetics",
+      "beforeTitle": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs \u2014 Abstract and Introduction",
+      "afterTitle": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Abstract and Introduction",
+      "sourceAnchor": "#ref-bpcpk",
+      "beforeHtmlSha256": "c9d5f646754a0d88a30f466e70cebd0c0bd631d0b1eea0fb4f4131d2e4f4a981",
+      "afterHtmlSha256": "bef5c821e2083c86396e5b2b75e6e1cf4499cedd3d088aca6d3d517a4c44424e"
+    }
+  ],
+  "routes": [
+    {
+      "url": "https://pepsanon.com/glossary/absorption",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "bc37b983338552025ebde5d0b99f62781d32a170f3f28a82f5e5f0927bdd46f4",
+      "rawAfterSha256": "9fa7cbe0397da0644ed0f298bf6352001883feb88cb035aa739ceb4d94c7198d"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/adverse-event",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "773b9d9d6dfb3be9621465b80beeac651689aa447a72c4702fbb6146de3ded7e",
+      "rawAfterSha256": "b8ef3ddb324b758ae872596f6b5346ce2b8560f081612af3004cddf6b0b6d39d"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "a32c02d134e486d6b8e76aa169ba9b693499d8ad9587c999c74811f3cc461b81",
+      "rawAfterSha256": "17bc6cce3db9f9c98cdd28683ae431406e5a736bf4b4b100690949ab8a3f4977"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/auc",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "527a6dea8d3809cd1568f141a7f3f8a1d2afd15a74cd508e8b525a235a1a627b",
+      "rawAfterSha256": "04a25c10654e3e93a1a936fb1e40efae67c847eb1f42f1ea70991b53bdb16725"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/baseline",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "b89ade0b06dc9f0793e6c8fc11ab3c12aff333724e49e60ed58734ff04b6e30d",
+      "rawAfterSha256": "a4e45c125f09c18245b78221183fef0251350b5fb680b89d18ae922af43a9138"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/bioavailability",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "d21f2d51a8d907bb88595199f32d3d92e55051f5dc0709256c67e208e0e15907",
+      "rawAfterSha256": "579650200f6a33c9914b849d4b5f43569f4b9f0c281e7fee5435cf8e73102783"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomarker",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "14d477b1f55503226f844ca0b930e82913364ead5d341c02b2c0dbc79d684244",
+      "rawAfterSha256": "224799fbabc836f5455474b8fb39600d8b6b4d2f03d5e9a6811d34985ac0db7c"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "e1e65776cc5f40df32cedf3bd08b3fadb1e644749a20be3b97a2b91ef84fa922",
+      "rawAfterSha256": "4fb0de25281501fe97bb5bf7700b9f0046e4c43990a1a4cd842cd14bd92d43fb"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/blinding",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "c6e5fc45084e1ddb7fb4be22ef6a2232f1aee6a5aaf8f4cff2b80be5c881b6d3",
+      "rawAfterSha256": "a1c0ed100eda8c13dba197a24c9acf3f528b0a4e8491fbda5dc8493448cc5d37"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/case-series",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "1c58b979587d6e7cc7fd2e900ebf13ba6616f03a1692b9a0794bb42bd371fbd1",
+      "rawAfterSha256": "b48803639f92b70ff656db14884dbeb13c57ada2b4f21376d9280e399a05b1f1"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/collagen",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "e3e5edd748d8cf88332addfff2d299069ef0313075be09ec67ed29cf4074ebdd",
+      "rawAfterSha256": "73ddcc8337c32e8633c4772b891c536b8b4edce098a406ec7e0c3f8f8b51572c"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/control-group",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "dada4e9411194ba56b7161fa7d1a23b35e3700fde673df3ec4e97b96fba190df",
+      "rawAfterSha256": "b9b5e918d23e99472f1284e2c39c8a79dab9871a2189320c533a4e4fa02c23ac"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endotoxin",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "ce19e6ecf33c2217df510655e8449ce9c92a0085b75986fe2ab25a6a5b4dea04",
+      "rawAfterSha256": "b54d033393574cd09561f5f677f3e206ea26d2e7fda846843cc50b9da43b8a76"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endpoint",
+      "beforeCitationTitles": 4,
+      "afterCitationTitles": 4,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "d4e0b205e4f07f26081312f143555546c3954ed822c2f8eb74959fbdd2aa28bf",
+      "rawAfterSha256": "541c7af8b4ea9986510b711c6a43d5a9e74ed64050ca5918a3206ddfdb6b5d7c"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/extracellular-matrix",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "4145d5cc00240464e7bd36d3fa5dc0bc8f830efe5f08380291fa1dfc29d411e6",
+      "rawAfterSha256": "e52b8362e0f415c8b8f4fbcdefe6326d7bbf4d66ebc5a7f3abbd9bbe0a4dc2a9"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "958a63b01ea77f6f6ee0e88ed26d4bb66a0c6f2a7272dc537c53859e774cfd48",
+      "rawAfterSha256": "2348aaa97f53d6a11dd560d5828d1fc680b7c70365a71e248cc925075b25727c"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/formulation",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "f85ab52e6599399e58d587474c49afc5caa7d01b5e1754f93ac5ac3eb770ae38",
+      "rawAfterSha256": "00b25bf712d2e397475694246f4eb6b3af3737966479610ea495c54b04840e98"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/glp-1",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "c7f3dcc86d7fb651d029e1ab0a59615b39d3b836a942f87e91d12cfcf284b79f",
+      "rawAfterSha256": "9daf46e5a808d4caf1077fe62e0231fc5f829f1c1cd8b5e1d00ed941a3e6cd33"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/gip",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "5153a713a8b52f4886b38126ba7b45c8f5bde907a79080e9199a8b31220da3ae",
+      "rawAfterSha256": "f5512c159d054d5ef1b8606b86dc2dc40855ff884af2b39825a19438a0f2aea3"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "a67f0ae40c78ed81e32c6a5f457c624107e03240b62805913645d123f4cfc6c2",
+      "rawAfterSha256": "5ccbb7372aedbca9318394c79025503619083827f9d2e741e3c9703bfef3e9ab"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone-secretagogue",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "293a512eadb0fe590dae33691bfa6ed8c1732608d18f230e91a263792effcdc3",
+      "rawAfterSha256": "3107332976492b8c223bf78831d427711c90bd2a7dc27cb8261b9b99a55df4f7"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/ghrh",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "d8f184aa47eee3c93a8a94d2769b7b5352a7b2aa0b521f6121362e6014551992",
+      "rawAfterSha256": "653fcc0eb3251834dee1ff8bc0d5ab8dad056eb736384af4e51481c842b0886f"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/half-life",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "5c975114773ef002e6bfca6a38c06b902b8b1050c924f0314aa2187140a94dea",
+      "rawAfterSha256": "187f108f27d82fd2b427c60a41f016249ed8a057be0a70f0fa2370402cab90e4"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/histology",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "886cba67fd8105b78b0fb1cb1215988617d9b2bd117d469cb84b24f9a3f72592",
+      "rawAfterSha256": "ed3fc970939bf8a0409ae07e2ee60b7c00139f2f3742af6c75be613d0b8864c9"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "a4767f61821233f458900d227bdea8c2009ba7cfd812245f697cf0fb6d43f23c",
+      "rawAfterSha256": "d99cde55a9e13b8021d53190c12f619a8d6d55d7863100093fe3de1afc06115d"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/immunogenicity",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "2150126b0e09fb684215538b4515a862875b6d90f4e89b8acbdd1885a1c1328a",
+      "rawAfterSha256": "cb15025a3a1d33a89f94de11fff4df4c47ff1952df12f7a7d0ea0acf730948d1"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vitro",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "304e63a74f394885870807316c0ec6623278154515a959d4e6e8dca72d160f96",
+      "rawAfterSha256": "5fd6c4bbc501a55a20b48e0d287e0f50f0d8baa002ac8eb83c6be9a9b1324d7e"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vivo",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "b2defb33bee8506ce55bcb1eeb2f985bc4e0534ba0f4207b4b69af337fa4f89c",
+      "rawAfterSha256": "eeccfa2d87442b04e76fc77b1b2c321031886644b82f51cd4b0ffa529db50c9b"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/igf-1",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "333aad0830bfa1823a9cb24639b62f1d7d18487ba946c62280eca59cec61fac5",
+      "rawAfterSha256": "d1ec723bbfc58c813b87b1b48dad758a9045449df0340441b3a87922edc920a7"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intra-articular",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "b1f4de87588e0849981f4b44fee102fc4aeff9996dec677c2af566b2f6897e59",
+      "rawAfterSha256": "2e7d5b8978e53c45749c937a675fcfad57f5a383b0a5cfdfa6603f1db0016a51"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intramuscular",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "7ba4f4747b3197511b2e6ff501a60cd76986dd043fea4acbc0bb9cfbb846793b",
+      "rawAfterSha256": "05dba6f33f2ddc41a54febf9bd60ac100bd397d61c6d2f0010f6691da427112b"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intravenous",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "16c161f476b235dc8a2711396199026790a49a167e3f1e3cfb98d6b8e681ece3",
+      "rawAfterSha256": "7e391311e315d40c91ee85491f6c2134a81fb725ac5b87040a9e3c6e3f66fc88"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/metabolism",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "b64b4aa1c48583b7b8105fc2ba3d95d66d1d904dd728ff169826933597f6f244",
+      "rawAfterSha256": "7a4d3c0ecfd5caa138b1e27ce588d159a2a955470dcdd7deb1f51a694600645b"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "14134aff2e7444b18b9612b35fd418184e6801a8d07eb9c9bb9229472af92c1a",
+      "rawAfterSha256": "88a618c7e43c2ea647280895433372a858bdd8470b80640ca24c76c67e1db764"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "06bab00282c7a9e3e846599aa2e515eb079fc23395f696c677540dd2c388926a",
+      "rawAfterSha256": "4d3e7856135c03076bde361fdce8ca9ceda616ea204025d97dbc973fb54c5028"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/cmax",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "5eb5a23c44e82d296a8cd8197ec7b5c791217a2c8eb186707aaaf72a12b72255",
+      "rawAfterSha256": "2cbc3638374c3599a24a5f255c5a674486ac05b7411144d9bb2e622f8945af68"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pentadecapeptide",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "5f0a95353b12ccdfd212d2182d25e09fa3d154ee3ef82fd5bdb3ab019c843baa",
+      "rawAfterSha256": "6d8e670474fcaa309c23c3591ae592a435b9eb0e84255ef9feb56a22a48835dd"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/peptide",
+      "beforeCitationTitles": 4,
+      "afterCitationTitles": 4,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "ec8ed91aaa7c4c8703f59d3aa3d6e8548c014a9bec46214a95bf849748a73619",
+      "rawAfterSha256": "56405929a1052a8f46d600a29744ba5e87d3b8c5feaf34310545a56d13ae872c"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacodynamics",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "afd11f588ae51e41a6e4fee6180f286a5391d1af17f219aa6cc1f0f1d93bfb64",
+      "rawAfterSha256": "030f028b5ee729dd9d61e449ab67a2733093f04409662d7eb78465120956fb17"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacokinetics",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "c9d5f646754a0d88a30f466e70cebd0c0bd631d0b1eea0fb4f4131d2e4f4a981",
+      "rawAfterSha256": "bef5c821e2083c86396e5b2b75e6e1cf4499cedd3d088aca6d3d517a4c44424e"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/placebo",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "0e4f8c28968e959ad1338d71782a70f3ebf1d7ae73c2a07bd06698ba8b83473c",
+      "rawAfterSha256": "8a34c9a71469d9d986b552c093c6607674af705dc724a28328f7416f71a7282a"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/preclinical",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "1a88d26e5a429fb49bdf8ded38e1478a9fa10dd7f6eb366b29b46bb598d8f2c8",
+      "rawAfterSha256": "9be82b87095226834d6f183ab4a25bb3ee8f137a65e634bcc71b1cdb1f4fe7bc"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/purity",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "bb946e54ca89d579a5ab92a1001651b9de56ec464c5d201a70bf29a9c4b5a8d6",
+      "rawAfterSha256": "0b77fb3caa7577335c18b99f619a2bb872fed2edf332ff97aa3ba06611c1a3da"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/randomized-controlled-trial",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "31ef1fb3cff3b2a39b5850b9c9da01923f798c53cce91e029c7f83e7252a38fe",
+      "rawAfterSha256": "1c7e7d99d4ff91e957368f8c5a0c33062c3b82f78518b54b05f5bed29fcea31e"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "b83bce8ba56992a6996e9fddf0a0e0a45c3015a83a5ddca5c547baaa34b31881",
+      "rawAfterSha256": "64c8c31c3b15a1c6bf975ea075b17c29d26d44bd5828b4b44e94e522cdbc0309"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor-agonist",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "e2455f0b234817224e04cbde9dae9595a0887eff1ae91a7fad2ccf4bb92a808a",
+      "rawAfterSha256": "1989bf4de979bf43f0e2e043926b3090d6e0555e0e9aa1ead64d8bfe1cebc4a5"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "333f84fbcee53a42c7a53572893f8c8d955becf223888e038644aea2bf1c6a87",
+      "rawAfterSha256": "da14e3d98eda32f7c80299fe3afc459e919e1cff0fb204984dd033ed07805068"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/route-of-administration",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "43f53bc4dbc0618d654b00425fd2d785e3989a794ebf185caa6fd72fad540342",
+      "rawAfterSha256": "70214eb773b13b95c1d72843c2b195fc978def9c3d1d3d2f2577a6b86d0067d4"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/sterility",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 10,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "7127400f446609330d6350c77de5bea684add4a5d8678022046163e44edda24f",
+      "rawAfterSha256": "18bdbbdd83d52365c448e8d06100abb8390dece32db990b4f5d3bbfa9c1c1e0d"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/subcutaneous",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "0eac40d6389844c2864af87458e0d930229939e7d3be238f1a45552be02257ad",
+      "rawAfterSha256": "82d1c399e2035a8492e4a6c9b92b31542cc80405eb9654e9e344984385205605"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tmax",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "79e0e7b55b9ba01f8d898647bdae9d8fdfb164b093b6a7e3fc96ae8baf569837",
+      "rawAfterSha256": "f42050de44699f2c78a8594b9a61503f77e4c66e7b1394e7dd0fe4dff821e43a"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/topical",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "7db9fcdde47d93460a2b74171337e0ec1c1654be54cf22dad3e5bf2552df78e8",
+      "rawAfterSha256": "ed899d5fa4b2be2639ae789c34498b2e4da2d7eae341f3e357055054c43b5e57"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/treatment-withdrawal",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "3f92690177326e2093115a58410996a92049c278e25f7dc11228bd0e3ddf384a",
+      "rawAfterSha256": "24d9152fc5ed900b14880cf2a6cce68b71d7f6d7829d8bbc7f54b037e5a5650f"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tripeptide",
+      "beforeCitationTitles": 3,
+      "afterCitationTitles": 3,
+      "separatorStatus": "PASS exact semicolon plus space; zero inherited em separators",
+      "rawBeforeSha256": "3f2b899ca716a5fd650d7b8bcefaa09d12aa5583986d2af6abbc47df8ddfc3ab",
+      "rawAfterSha256": "5f6239f48d96f0832bb3ce9568cc9d8dc36b178d96b84403f55da3484855b9e5"
+    }
+  ],
+  "inheritedPunctuationExceptions": [
+    {
+      "url": "https://pepsanon.com/glossary/absorption",
+      "titlesWithInheritedNativeOrLocatorDashes": 3,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/adverse-event",
+      "titlesWithInheritedNativeOrLocatorDashes": 3,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "titlesWithInheritedNativeOrLocatorDashes": 3,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/auc",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/bioavailability",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/collagen",
+      "titlesWithInheritedNativeOrLocatorDashes": 2,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/control-group",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/half-life",
+      "titlesWithInheritedNativeOrLocatorDashes": 2,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "titlesWithInheritedNativeOrLocatorDashes": 3,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "titlesWithInheritedNativeOrLocatorDashes": 3,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/cmax",
+      "titlesWithInheritedNativeOrLocatorDashes": 2,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/peptide",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacokinetics",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/placebo",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/route-of-administration",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tmax",
+      "titlesWithInheritedNativeOrLocatorDashes": 1,
+      "canonicalData": "Unselected original data preserved"
+    }
+  ],
+  "globalZeroDashClaim": false,
+  "exceptionBoundary": "Only inherited separator replaced globally; native source title and unselected old locator punctuation stays byte-identical. All selected10 visible and tooltip dash counts zero."
+}

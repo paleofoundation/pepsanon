@@ -1,0 +1,144 @@
+{
+  "time": "2026-10-27T11:50:14.727679+02:00",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "method": "CUA IAB tab13 DOM and screenshots at local production preview8794",
+  "source_data_sha256": "d12d3163b0fa1349c313108e401e9da3ddd7e5fa24d8e306879038eacfe8ea9f",
+  "renderer_sha256": "af8d9171475f0f2e745bce129e5109650d5f69edd48b49e32153ced1cf7e8217",
+  "rows": [
+    {
+      "slug": "pharmacodynamics",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "sterility",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "igf-1",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "in-vivo",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "in-vitro",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "ghrh",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "pentadecapeptide",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "intramuscular",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    },
+    {
+      "slug": "intra-articular",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "inherited_title_em_dash_count": 10
+    }
+  ],
+  "visual_inspection": [
+    "intra-articular top definition/navigation",
+    "sterility definition/navigation",
+    "pharmacodynamics source distinctions",
+    "pharmacodynamics references with locators"
+  ],
+  "bounded_console_warn_error_sample": [],
+  "limits": [
+    "Strict title attribute punctuation FAILS baseline shared separator, 100 citations across selected ten. Exact one-character separator GATE pending; no global punctuation PASS.",
+    "Visual screenshots sample representative layouts, DOM checks all10. Empty console sample limit15 is not network-wide certification.",
+    "No independent clinical/scientific approval; existing ipamorelin content unchanged and original not held."
+  ]
+}

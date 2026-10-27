@@ -1,0 +1,86 @@
+{
+  "at": "2026-10-27T11:54:57.748831+02:00",
+  "status": "BOUNDED_DRAFT_SOURCE_FIDELITY_CHECK_AFTER_LOCATOR_CORRECTION",
+  "bindings": {
+    "ADDITIONS-v1.json": "f4ff8fe36355e5d98c5719812a3f7262ffa4fb4fa662f81834ff4862d60f1f89",
+    "ADDITIONS-v2.json": "f11d692c79a68169cb1fda218b41656ba8a63da13a733e1ceb4bb2361a3d1483",
+    "PAGE-LOCATOR-AUDIT.json": "e82d7bbef309bff3b715c5673668ac8e47e3b52945b18ddea2bdac435a23112c"
+  },
+  "glossary_sha256": "c586902146ab01dafde7efc40f154811b4def6f2664ea887303b8d0bff25e2b4",
+  "source_original_sha256": {
+    "cjc": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+    "quality": "14d9de9bc7dd84c2015b8e14696e5a3bab2d7102dd0c32b38bbaa9e9b605bae1",
+    "fibro": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+    "bpcpk": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+    "knee": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f"
+  },
+  "correction": {
+    "v1_preserved": true,
+    "prose_identical": true,
+    "changed_new_CJC_locator_rows": [
+      4,
+      5,
+      11,
+      12,
+      25,
+      26,
+      46,
+      47,
+      48
+    ],
+    "old_incorrect": "PDF p5 Discussion",
+    "corrected": "PDF p6 printed804 Discussion and In summary",
+    "root_original_page_image_read": true
+  },
+  "text_read": {
+    "cjc": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "quality": "primary XML body Methods/Results/Discussion and limits",
+    "fibro": [
+      3,
+      6,
+      7
+    ],
+    "bpcpk": [
+      1,
+      13,
+      14,
+      15
+    ],
+    "knee": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "visual_pages_read": {
+    "cjc": [
+      6
+    ],
+    "knee": [
+      3
+    ]
+  },
+  "boundaries_checked": [
+    "healthy adults and actual albumin-binding CJC compound; drug exposure/hormone response not tendon recovery or disease treatment",
+    "cultured rat Achilles fibroblasts/receptor expression and response to added GH not circulating hormone release or human recovery",
+    "animal IV/IM PK, parent compound versus radioactive metabolites; tissue-metabolite gap, no human dose/route recommendation",
+    "selected online products; sterility/viable microorganisms/endotoxin/purity/content distinct, no market prevalence or patient harm estimate",
+    "retrospective knee-practice symptom recall, preparations with/without TB4, no placebo/comparative efficacy or structural repair finding"
+  ],
+  "limits": [
+    "This checks bounded qualitative additions and consequential source distinctions, not a complete scientific appraisal or independent clinical peer review.",
+    "Existing ipamorelin source original not held; no new ipa-based statements in70 additions, old content not independently reapproved.",
+    "Original supplementary materials, external current integrity records and clinical guidance were not searched.",
+    "Pending shared-tooltip punctuation GATE and fresh post-correction browser binding are separate; no global clean or release approval."
+  ],
+  "scientific_acceptance": false,
+  "human_approval": false,
+  "released": false
+}

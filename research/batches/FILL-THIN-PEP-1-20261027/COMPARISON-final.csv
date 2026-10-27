@@ -1,0 +1,11 @@
+url,historicalRank,historicalWords,beforeWords,afterWords,deltaWords,beforeCitations,afterCitations,beforeThin,afterThin,beforeFlags,afterFlags
+https://pepsanon.com/glossary/pharmacodynamics,7,135,132,457,325,2,6,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/growth-hormone-secretagogue,8,141,154,470,316,2,6,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/sterility,9,148,145,368,223,2,2,yes,yes,words<400;claims_with_2_citations,words<400;claims_with_2_citations
+https://pepsanon.com/glossary/igf-1,10,158,155,429,274,2,4,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/in-vivo,13,162,159,428,269,2,4,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/in-vitro,14,163,160,447,287,2,4,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/ghrh,15,164,161,421,260,2,4,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/pentadecapeptide,16,170,167,443,276,2,4,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/intramuscular,18,176,189,452,263,2,3,yes,no,words<400;claims_with_2_citations,
+https://pepsanon.com/glossary/intra-articular,19,177,174,468,294,1,3,yes,no,words<400;claims_with_1_citations,

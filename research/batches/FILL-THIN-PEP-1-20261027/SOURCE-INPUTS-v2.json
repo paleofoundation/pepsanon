@@ -1,0 +1,55 @@
+{
+  "records": [
+    {
+      "sourceId": "cjc",
+      "rootId": "HELD_STUDY_ORIGINALS",
+      "path": "paper-68bd15da459b37ca.pdf",
+      "sha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+      "bytes": 304125,
+      "inspectionTarget": "PDFp1 Abstract; p2 Subjects and Methods/Laboratory methods; p3-5 Results; p6 printed804 Discussion and In summary",
+      "newNumericalClaimsAllowed": false
+    },
+    {
+      "sourceId": "quality",
+      "rootId": "HELD_STUDY_ORIGINALS",
+      "path": "paper-2e8d88d44afe181b.xml",
+      "sha256": "14d9de9bc7dd84c2015b8e14696e5a3bab2d7102dd0c32b38bbaa9e9b605bae1",
+      "bytes": 29719,
+      "inspectionTarget": "Original XML body sections Methods/Results/Discussion",
+      "newNumericalClaimsAllowed": false
+    },
+    {
+      "sourceId": "fibro",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+      "sha256": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+      "bytes": 330399,
+      "inspectionTarget": "PDF Methods/Results/Discussion",
+      "newNumericalClaimsAllowed": false
+    },
+    {
+      "sourceId": "bpcpk",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "bytes": 2600556,
+      "inspectionTarget": "PDF Methods/Results/Discussion",
+      "newNumericalClaimsAllowed": false
+    },
+    {
+      "sourceId": "knee",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf",
+      "sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+      "bytes": 191413,
+      "eligibility": {
+        "tier": "PRIMARY",
+        "obtained": "y"
+      },
+      "inspectionTarget": "Original Methods/Results/Discussion, not a controlled trial",
+      "newNumericalClaimsAllowed": false
+    }
+  ],
+  "ipaOriginal": "Not found in bounded own primary packet and held study originals; no new ipa-based statement will be added. Existing source object and original glossary prose remain unchanged.",
+  "sourceScope": "Existing canonical source IDs only. Older source receipt metadata is identity information, not scientific approval."
+}

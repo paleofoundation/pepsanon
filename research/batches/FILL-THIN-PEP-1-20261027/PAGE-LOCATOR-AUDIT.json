@@ -1,0 +1,107 @@
+{
+  "status": "TARGETED_PAGE_BOUNDARIES_CHECKED",
+  "records": [
+    {
+      "sourceId": "cjc",
+      "pageBoundaries": "Actual pdftotext form-feed positions, checked against selected original page images",
+      "locatorLines": [
+        {
+          "pdfPage": 2,
+          "headingsOrLocatorLines": [
+            "Subjects and Methods                                     model in the multiple-dose study (WinNonlin Professional version"
+          ]
+        },
+        {
+          "pdfPage": 3,
+          "headingsOrLocatorLines": [
+            "Results"
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "headingsOrLocatorLines": [
+            "Discussion                                   peutic studies in patients with various clinical conditions.",
+            "ever, failure to mimic the physiological pulsatile nature of                 In summary, a single sc administration of CJC-1295 pro-",
+            "(7 min) (5) renders GHRH impractical for therapeutic use.                 particularly at doses of 30 and 60 \u242eg/kg. Future studies are"
+          ]
+        }
+      ]
+    },
+    {
+      "sourceId": "fibro",
+      "pageBoundaries": "Actual pdftotext form-feed positions, checked against selected original page images",
+      "locatorLines": [
+        {
+          "pdfPage": 3,
+          "headingsOrLocatorLines": [
+            "Results in Figure 3A,B revealed a similar pattern of PCNA induction in tendon fibroblasts by BPC 157"
+          ]
+        },
+        {
+          "pdfPage": 5,
+          "headingsOrLocatorLines": [
+            "3. Discussion"
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "headingsOrLocatorLines": [
+            "4. Experimental Section"
+          ]
+        }
+      ]
+    },
+    {
+      "sourceId": "bpcpk",
+      "pageBoundaries": "Actual pdftotext form-feed positions, checked against selected original page images",
+      "locatorLines": [
+        {
+          "pdfPage": 10,
+          "headingsOrLocatorLines": [
+            "and excretion pathway in the body.                                          3 Discussion"
+          ]
+        },
+        {
+          "pdfPage": 13,
+          "headingsOrLocatorLines": [
+            "then undergoes multi-step enzymatic degradation to produce                   4 Materials and methods"
+          ]
+        }
+      ]
+    },
+    {
+      "sourceId": "knee",
+      "pageBoundaries": "Actual pdftotext form-feed positions, checked against selected original page images",
+      "locatorLines": [
+        {
+          "pdfPage": 1,
+          "headingsOrLocatorLines": [
+            "Methods \u2022 A retrospective study was done at the Institute        injection of BPC-157 helps with multiple types of knee",
+            "1-year chart review from 2019 to 2020 was performed.             types of knee pain.2,3 Future studies are needed to look at",
+            "to which the injection helped them. No specific tools were       Future studies are needed to look at the different causes of",
+            "Results \u2022 Of the 16 patients, 12 had received only BPC 157       BPC157 offers advantages over the use of steroids. (Altern"
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "headingsOrLocatorLines": [
+            "Methods                                                           betadine and alcohol. No lidocaine was used to anesthetize"
+          ]
+        },
+        {
+          "pdfPage": 3,
+          "headingsOrLocatorLines": [
+            "Results                                                           Table 5. Duration of Improvement in Knee Pain Reported"
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "headingsOrLocatorLines": [
+            "Discussion                                                             Intra-articular injections of hyaluronic acid are"
+          ]
+        }
+      ]
+    }
+  ],
+  "correction": "New CJC Discussion/clinical-utility statements corrected to PDFp6/printed804. Existing baseline locators preserved except separately disclosed ASCII dash punctuation."
+}

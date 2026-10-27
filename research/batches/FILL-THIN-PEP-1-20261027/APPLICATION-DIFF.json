@@ -1,0 +1,28 @@
+{
+  "base": "8bb517ed61b0f01927186fefddf532e0887060da",
+  "branch": "codex/fill-thin-pep-1",
+  "renderer": "app/glossary/[slug]/page.tsx",
+  "rendererBaseSha256": "af8d9171475f0f2e745bce129e5109650d5f69edd48b49e32153ced1cf7e8217",
+  "rendererFinalSha256": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab",
+  "exactReplacement": {
+    "before": " \u2014 ",
+    "after": "; ",
+    "occurrences": 1
+  },
+  "sourceObjectsAdded": 0,
+  "canonicalTermsAdded": 0,
+  "appFiles": [
+    "lib/data/glossary.json",
+    "lib/data/glossary-index.json",
+    "research/glossary/term-audit.json",
+    "app/glossary/[slug]/page.tsx"
+  ],
+  "fileHashes": {
+    "lib/data/glossary.json": "c586902146ab01dafde7efc40f154811b4def6f2664ea887303b8d0bff25e2b4",
+    "lib/data/glossary-index.json": "18deda5e76f48f3d7d0109ce4c408fb26de1b971ca1d5a1da6b9272c193f4a03",
+    "research/glossary/term-audit.json": "c260939338fc0568b086a59238fe62d057fcb5633e6daded193a274153a115ff",
+    "app/glossary/[slug]/page.tsx": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab"
+  },
+  "otherSharedCode": "Unchanged",
+  "claimState": "Bounded fidelity only, not scientific/human/release approval"
+}

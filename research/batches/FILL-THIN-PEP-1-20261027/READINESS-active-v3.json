@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-27T09:59:54.625542+00:00",
+  "state": "DRAFT_READY_BOUNDED_TECHNICAL_CHECKS_COMPLETE",
+  "authority": [
+    "Elon11:26 order",
+    "Elon11:37 exact OptionA",
+    "Elon11:56 exact tooltip separator grant"
+  ],
+  "activeCandidate": "ADDITIONS-v2.json",
+  "candidateSha256": "f11d692c79a68169cb1fda218b41656ba8a63da13a733e1ceb4bb2361a3d1483",
+  "sourceInputsSha256": "2da9fa57a27faa2f4109354eb21cfe87d36083425a8c35d9235c97b315909ac9",
+  "sourceReadingSha256": "1e8d1ae7fb6bb717a628ff626323b46954313deee88e827eafd334d407c50c4e",
+  "rootSourceAuditSha256": "a31b8c0c576f705337918ac81d8f3a4be1c806e8232611fe37a1a450d54d31dc",
+  "sourceReading": "Bounded original passage fidelity checks only; scientific approval false",
+  "CjcLocator": "Nine new Discussion locators corrected to PDFp6 printed804; prose unchanged; historicalv1 retained",
+  "canonicalTermAdditions": 0,
+  "sourceAdditions": 0,
+  "newScientificNumbers": 0,
+  "thinFlagsCleared": 9,
+  "sterility": "Still thin368 words and2 counted citations under unchanged analyzer",
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false,
+  "historicalReceipts": "v1/v2 and initial strict tooltip failure retained; no PASS transfer",
+  "ipa": "Original missing, no new dependent paragraph",
+  "globalRendererChange": "Exactly one approved tooltip literal, all54 routes checked, two unselected examples in TOOLTIP-GRANTED-FINAL.json",
+  "rootBrowserFinalSha256": "caa8b993e274f01383466cbaf7bfdfef2cacdf5393547edcfef49b198f4af1f0"
+}
