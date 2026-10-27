@@ -43,4 +43,6 @@ Final Node22 production build, TypeScript, existing8-guide240-sourced-sentence c
 
 ROOT-BROWSER-FINAL is a fresh postcorrection/postgrant390x844 check of all10 selected and two unselected routes,100selected title/target checks and9corrected CJCprinted804locators, pending disclosure and no overflow. Earlier browser receipt and strict title failure are preserved; no PASS transfer. Root source audit is bounded fidelity, not full scientific review. Initial Python3.15/lxml incompatibility was resolved by using the same supported Python3.12 runtime for both measurements; analyzer logic stayed unchanged.
 
+The Git whitespace check flags CRLF line endings in preserved CSV exports, including the exact historical ranked input. These evidence bytes are retained and no blanket whitespace-check PASS is claimed. Application diff whitespace is clean.
+
 No merge, deploy, publish, credentials, external messages, production data or real-person actions. Receiver remains OFF. The draft's remaining limits are sterility's thin flag, absent three historical routes, unavailable ipamorelin original, inherited punctuation on unselected original data and pending scientific/human/release review.
