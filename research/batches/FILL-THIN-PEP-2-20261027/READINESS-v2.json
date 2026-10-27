@@ -1,0 +1,23 @@
+{
+  "time": "2026-10-27T10:41:09.203028+00:00",
+  "state": "APPLIED_EXACT10_BUILD_TYPECHECK_CITATIONS_PASS_SSR_AND_ROOT_REVIEW_PENDING",
+  "base": "778e0fbdecd3db50ed229012d8987eb768b33a2b",
+  "activeUnappliedCandidate": "ADDITIONS-v2-UNAPPLIED.json",
+  "candidateSha256": "441055a0b73e98f4ff8ebb4244377242d0ca7578d4ca0d07dd0b2b07b37feb09",
+  "sourceReading": "SOURCE-READING-v2.json",
+  "originalFiles": 5,
+  "newScientificNumbers": 0,
+  "newCanonicalSources": 0,
+  "newCanonicalTerms": 0,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false,
+  "baselineCapture": "Fresh local59pages54glossary+5held404s,60GETs including robots",
+  "sourceHashConsistency": "Five current hashes recorded; all obtained PRIMARY; no prior PASS transferred",
+  "priorBatch": "59files and prior10terms frozen; sterility not revisited",
+  "activeCandidate": "ADDITIONS-v3.json",
+  "authority": "Elon12:42 GATE A and narrow inherited GATE B",
+  "previousCandidate": "ADDITIONS-v2-UNAPPLIED.json remains eight-term history",
+  "newParagraphs": 70,
+  "appDiff": "lib/data/glossary.json only; selected four inherited locator en dashes ASCII; shared renderer/index/audit unchanged"
+}

@@ -1,0 +1,135 @@
+{
+  "state": "PASS_BOUNDED_SELECTED_ORIGINAL_PASSAGE_FIDELITY_V4_ONLY",
+  "checkedAt": "2026-10-27T10:47:57.946159+00:00",
+  "candidate": "ADDITIONS-v4.json",
+  "candidateSha256": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5",
+  "recordsChecked": 70,
+  "termsChecked": [
+    "absorption",
+    "auc",
+    "biomechanical-testing",
+    "cmax",
+    "fibroblast",
+    "histology",
+    "patient-reported-outcome",
+    "receptor",
+    "retrospective-study",
+    "tmax"
+  ],
+  "bindings": {
+    "ADDITIONS-v4.json": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5",
+    "SOURCE-INPUTS-v1.json": "0f8f1b0959cfed4bdd8b892e5d6a3fe82f3998b84c7fabdff7a5a076d5e582ad",
+    "SOURCE-READING-v3.json": "46f08cb4aedd7c3ffd40c6db4431fc5a0c482b63a2301140b803e49164820616",
+    "LOCATOR-CORRECTION.json": "71d8e7ad3c576c2f848368f6b0759de389fddda931e421adc93d4b44f875d1fc"
+  },
+  "sourceHashesFreshlyReverified": [
+    {
+      "sourceId": "bpcpk",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "exists": true,
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "bytes": 2600556,
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full"
+    },
+    {
+      "sourceId": "knee",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf",
+      "exists": true,
+      "sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+      "bytes": 191413,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+    },
+    {
+      "sourceId": "fibro",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+      "exists": true,
+      "sha256": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+      "bytes": 330399,
+      "url": "https://www.mdpi.com/1420-3049/19/11/19066"
+    },
+    {
+      "sourceId": "tendon",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "exists": true,
+      "sha256": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+      "bytes": 1125985,
+      "url": "https://jointdrs.org/full-text/1851"
+    },
+    {
+      "sourceId": "collagen",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "exists": true,
+      "sha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88",
+      "bytes": 1566516,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/"
+    }
+  ],
+  "rootTextPassages": {
+    "bpcpk": [
+      2,
+      4,
+      6,
+      8,
+      13,
+      14
+    ],
+    "knee": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "fibro": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tendon": [
+      2,
+      3,
+      4,
+      5,
+      13,
+      14
+    ],
+    "collagen": [
+      2,
+      3,
+      4,
+      9,
+      10
+    ]
+  },
+  "rootVisualPages": {
+    "tendon": [
+      4
+    ],
+    "collagen": [
+      10
+    ]
+  },
+  "qualifications": [
+    "Parent-drug profiles distinct from total radioactivity/metabolites; no human healing schedule inferred.",
+    "Retrospective subjective phone outcomes uncontrolled/heterogeneous; no objective verification or demonstrated structural repair/clinical advantage.",
+    "Rat cultured fibroblasts and receptor expression/GH stimulation/JAK2 activation distinct from intact tendon mechanics or human benefit.",
+    "Rat repair model histology not mechanical equivalence; BPC maximum-load contrast nonsignificant; missing area/stress/stiffness/energy/failure-mode/function retained.",
+    "Collagen acute crossover plasma amino-acid findings restricted to measured products/endpoints, no tendon/cartilage/pain benefit.",
+    "Inherited quoted collagen title retained only under ELON12:42 narrow gate; no source/renderer change authorized.",
+    "Exact one v3-to-v4 locator correction independently confirmed: Figure3 PDFp5 printed19070; old v3 no PASS transfer."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "numericalRelease": false,
+  "grade": null,
+  "releaseApproval": false,
+  "limits": "Selected source passage fidelity audit only; no complete scientific/methodological appraisal or external supplement/protocol/current-integrity verification."
+}

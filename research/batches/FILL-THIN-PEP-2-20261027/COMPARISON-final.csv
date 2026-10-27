@@ -1,0 +1,11 @@
+url,historicalRank,historicalWords,beforeWords,afterWords,beforeCitations,afterCitations,beforeThin,afterThin,beforeFlags,afterFlags
+https://pepsanon.com/glossary/retrospective-study,20,178,175,415,1,1,yes,yes,words<400;claims_with_1_citations,claims_with_1_citations
+https://pepsanon.com/glossary/tmax,21,178,175,428,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations
+https://pepsanon.com/glossary/histology,23,181,178,427,1,1,yes,yes,words<400;claims_with_1_citations,claims_with_1_citations
+https://pepsanon.com/glossary/auc,24,181,178,433,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations
+https://pepsanon.com/glossary/absorption,26,183,186,440,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations
+https://pepsanon.com/glossary/fibroblast,27,183,180,466,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations
+https://pepsanon.com/glossary/cmax,29,186,183,435,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations
+https://pepsanon.com/glossary/receptor,30,187,184,448,2,2,yes,yes,words<400,claims_with_2_citations
+https://pepsanon.com/glossary/patient-reported-outcome,31,188,185,436,1,1,yes,yes,words<400;claims_with_1_citations,claims_with_1_citations
+https://pepsanon.com/glossary/biomechanical-testing,32,191,188,437,1,1,yes,yes,words<400;claims_with_1_citations,claims_with_1_citations

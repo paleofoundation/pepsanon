@@ -1,0 +1,109 @@
+{
+  "state": "EXACT10_SOURCE_LOCATED_NEW_REPLACEMENT_CLAIMS_CHECKED",
+  "sources": [
+    {
+      "sourceId": "bpcpk",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "exists": true,
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "bytes": 2600556,
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "readPassages": "PDFp4/p6 Tables1-6 and footnotes, p6/p8 radioactive table9 comparison, p13 Discussion, p14 Methods4.3-4.5",
+      "inspection": "Actual original text inspected; qualitative model/design/method boundaries only",
+      "visualPages": []
+    },
+    {
+      "sourceId": "knee",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf",
+      "exists": true,
+      "sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+      "bytes": 191413,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "readPassages": "PDFp1 Abstract Methods/Clinical Implications, p3 retrospective methods, p4-5 Discussion",
+      "inspection": "Actual original text inspected; qualitative model/design/method boundaries only",
+      "visualPages": []
+    },
+    {
+      "sourceId": "fibro",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+      "exists": true,
+      "sha256": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+      "bytes": 330399,
+      "url": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "readPassages": "PDFp3 Results2.1/2.2, p5Figure3,p5-6 Results2.3/Figure4,p7Discussion,p7-9Methods4.1-4.5",
+      "inspection": "Actual original text inspected; qualitative model/design/method boundaries only",
+      "visualPages": [
+        5
+      ],
+      "figure3PrintedPage": "19070"
+    },
+    {
+      "sourceId": "tendon",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "exists": true,
+      "sha256": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+      "bytes": 1125985,
+      "url": "https://jointdrs.org/full-text/1851",
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "readPassages": "PDFp2-4 Methods/Figure1, p4 histology/biomechanics, p13-14 Discussion/limitations",
+      "inspection": "Actual original text inspected; qualitative model/design/method boundaries only",
+      "visualPages": [
+        4,
+        14
+      ]
+    },
+    {
+      "sourceId": "collagen",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "exists": true,
+      "sha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88",
+      "bytes": 1566516,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "readPassages": "PDFp2 subjects,p3design/experimentalprotocol/products,p4blood/NMR,p8-10Discussion/Conclusions",
+      "inspection": "Actual original text inspected; qualitative model/design/method boundaries only",
+      "visualPages": [
+        3,
+        10
+      ]
+    }
+  ],
+  "scientificApproval": false,
+  "time": "2026-10-27T10:39:24.958463+00:00",
+  "newScientificNumbers": 0,
+  "humanApproval": false,
+  "privateExtractsAndImages": "Owned private work directory outside Git, not published",
+  "candidate": "ADDITIONS-v4.json",
+  "candidateSha256": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5",
+  "ownLocatorCorrection": "Before root handoff, re-read kneePDFp1/p5 and replaced unsupported future validated-tools assertion with exact abstract no-specific-tools boundary; v1 is history only",
+  "replacementScope": {
+    "patient-reported-outcome": "knee PDFp1 Abstract Methods,p3 subjective phone survey/exclusion/no objective testing,p4-5 future structural/comparison caveat",
+    "biomechanical-testing": "tendon PDFp2-4model/allocation/apparatus; p5 Results; p13-14 limitations, no function/area/stiffness/energy/failure-mode study"
+  },
+  "authority": "Elon12:42 exact replacement grant; inherited-title ruling recorded separately, not scientific approval",
+  "checkedAt": "2026-10-27T10:47:24.893742+00:00",
+  "rootLocatorCorrection": "Fibroblast PCNA Figure3 is PDFp5 printed19070, notp4; originalp5 visually checked; v2 receipt superseded"
+}

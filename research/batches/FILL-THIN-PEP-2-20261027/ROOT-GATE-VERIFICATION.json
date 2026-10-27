@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-27T12:35:59.778886+02:00",
+  "status": "VERIFIED_CONCRETE_GATE_PROPOSAL_NOT_GRANTED",
+  "base": "778e0fbdecd3db50ed229012d8987eb768b33a2b",
+  "ranked_sha256": "f8b97c447bb4c0a191e6ab5eb11a68d5d90811077c58b1d20611d77e15d37898",
+  "proposal_sha256": "8a8da8b72663a67e57bb3f2566c79d3a29d32847698839f11f5c962002b47d22",
+  "selection_sha256": "1550c142ae1eb660522c7da74179a45a3d3f26e8e56736a2fa876d76bee868c7",
+  "exact_strict_ranks": [
+    "20",
+    "21",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "missing_base_papers": [
+    "https://pepsanon.com/research/paper-29343d5dff2c8e1b",
+    "https://pepsanon.com/research/paper-84d99218fb837c75"
+  ],
+  "proposed_replacement_ranks": [
+    "31",
+    "32"
+  ],
+  "all_ten_proposed_glossary_objects_exist_on_base": true,
+  "app_research_routes_absent_on_base": true,
+  "collagen_native_title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate\u2014A Randomized Controlled Trial",
+  "affected_selected_slug": "absorption",
+  "title_dashes_inherited": true,
+  "source_and_renderer_change_authorized": false,
+  "limits": "Selection/base-path/canonical-title proof only;not grant/source science approval/live drift diagnosis."
+}

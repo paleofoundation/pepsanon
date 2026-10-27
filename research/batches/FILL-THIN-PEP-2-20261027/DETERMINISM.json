@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "activeCandidate": "ADDITIONS-v4.json",
+  "beforeAndAfterSha256": {
+    "lib/data/glossary.json": "0db124cf0fe738650ba5b99815951c161098567200cf7c351fc2d275cbd1583a",
+    "app/glossary/[slug]/page.tsx": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab",
+    "lib/data/glossary-index.json": "18deda5e76f48f3d7d0109ce4c408fb26de1b971ca1d5a1da6b9272c193f4a03",
+    "research/glossary/term-audit.json": "c260939338fc0568b086a59238fe62d057fcb5633e6daded193a274153a115ff"
+  },
+  "operations": [
+    "apply_additions.py --candidate ADDITIONS-v4.json",
+    "build-glossary-index.mjs",
+    "check-glossary.mjs"
+  ]
+}
