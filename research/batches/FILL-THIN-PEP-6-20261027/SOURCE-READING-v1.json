@@ -1,0 +1,48 @@
+[
+  {
+    "source": "eye",
+    "locators": [
+      "PDF p11 Materials and Methods; p12 Subject demographics and Study design",
+      "PDF p12 Safety outcome measures",
+      "PDF p12 Study design and safety outcome measures",
+      "PDF p13 Statistical Analyses; p14 sensitivity and alternative analyses",
+      "PDF p8 Results 2.4 and Table 5; p9 Table 6"
+    ],
+    "originalFreshHash": "3d36897d69374c4251d5a77f0867ba38a3810401041538edf000960c6a9dd632",
+    "readingScope": "Selected physical PDF methods/results/discussion pages reread; eye physical8/9 tables additionally visually inspected; no whole-paper approval",
+    "scientificApproval": false
+  },
+  {
+    "source": "tendon",
+    "locators": [
+      "PDF p14 Discussion limitations",
+      "PDF p3 Figure 1 and specimen allocation; p4 Histological and biomechanical analyses",
+      "PDF p4 Histological and biomechanical analyses; p5 scoring methods"
+    ],
+    "originalFreshHash": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+    "readingScope": "Selected physical PDF methods/results/discussion pages reread; eye physical8/9 tables additionally visually inspected; no whole-paper approval",
+    "scientificApproval": false
+  },
+  {
+    "source": "phase1",
+    "locators": [
+      "PDF p2 Trial design and Procedure; p5 Discussion",
+      "PDF p2 Trial design, Subject eligibility and Procedure",
+      "PDF p2 Trial design, Subject eligibility and Procedure; p3 Safety and tolerability",
+      "PDF p3 Statistical analysis and Safety and tolerability"
+    ],
+    "originalFreshHash": "20495706952071b174ab04bab2d4755a0055226a69a3ad9ac73e65201a78722c",
+    "readingScope": "Selected physical PDF methods/results/discussion pages reread; eye physical8/9 tables additionally visually inspected; no whole-paper approval",
+    "scientificApproval": false
+  },
+  {
+    "source": "skin",
+    "locators": [
+      "PDF p2 Materials and Tissue preparation",
+      "PDF p3 Analytical methodology; p6 Discussion"
+    ],
+    "originalFreshHash": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+    "readingScope": "Selected physical PDF methods/results/discussion pages reread; eye physical8/9 tables additionally visually inspected; no whole-paper approval",
+    "scientificApproval": false
+  }
+]

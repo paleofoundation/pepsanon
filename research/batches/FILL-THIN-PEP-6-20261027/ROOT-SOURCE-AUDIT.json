@@ -1,0 +1,152 @@
+{
+  "at": "2026-10-27T13:55:30.384261+00:00",
+  "result": "PASS_BOUNDED_EXACT21_PARAGRAPHS_THREE_EXISTING_TERMS",
+  "candidate": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-pep-1/checkout/research/batches/FILL-THIN-PEP-6-20261027/ADDITIONS-v1-UNAPPLIED.json",
+  "candidateSha256": "021683a205205efb91fbc4f70854ac63fbad746e4e920cc0e8e840215fe27b01",
+  "candidateRecords": 21,
+  "terms": [
+    "adverse-event",
+    "endpoint",
+    "formulation"
+  ],
+  "bindings": {
+    "SOURCE-INPUTS-v2.json": "dbc2c828e33e2eaf7e4dcb9b9b1a29021aa2c876ad51387f69402857ebf246e1",
+    "SOURCE-READING-v1.json": "10971903c6c13515aaaeb406dfd695dcbb8eef603d5fa8389ed9aa589ae3fe98",
+    "ADDITIONS-v1-UNAPPLIED.json": "021683a205205efb91fbc4f70854ac63fbad746e4e920cc0e8e840215fe27b01"
+  },
+  "rootFreshOriginals": [
+    {
+      "id": "eye",
+      "filename": "0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+      "sha256": "3d36897d69374c4251d5a77f0867ba38a3810401041538edf000960c6a9dd632",
+      "doi": "10.3390/ijms24010554",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "existingCanonicalSource": true,
+      "extractionDiagnostics": "",
+      "manifestEligibility": [
+        {
+          "filename": "0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+          "topic": "tb-500",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+      "rootFreshText": "work/conductor-source-review/pep6/eye.txt",
+      "rootTextSha256": "3f6383cb8c0c95017baf517a696ff35b26caa18987661e1e9a3536f951e5e19b"
+    },
+    {
+      "id": "tendon",
+      "filename": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "sha256": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+      "doi": "10.52312/jdrs.2026.2951",
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "existingCanonicalSource": true,
+      "extractionDiagnostics": "",
+      "manifestEligibility": [
+        {
+          "filename": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+          "topic": "bpc-157",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "rootFreshText": "work/conductor-source-review/pep6/tendon.txt",
+      "rootTextSha256": "a22138b077394df7be8b813b941aeb0bd4289a28492099dd138741f9e60103a7"
+    },
+    {
+      "id": "phase1",
+      "filename": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+      "sha256": "20495706952071b174ab04bab2d4755a0055226a69a3ad9ac73e65201a78722c",
+      "doi": "10.1111/jcmm.16693",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "existingCanonicalSource": true,
+      "extractionDiagnostics": "",
+      "manifestEligibility": [
+        {
+          "filename": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+          "topic": "tb-500",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+      "rootFreshText": "work/conductor-source-review/pep6/phase1.txt",
+      "rootTextSha256": "7c995e8836d317406198a773233b3f06ff68f1f7698edf52f5cd38537f6912d4"
+    },
+    {
+      "id": "skin",
+      "filename": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "sha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+      "doi": "10.1007/s00011-010-0238-9",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "existingCanonicalSource": true,
+      "extractionDiagnostics": "Syntax Warning: Invalid shared object hint table offset",
+      "manifestEligibility": [
+        {
+          "filename": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+          "topic": "ghk-cu",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "rootFreshText": "work/conductor-source-review/pep6/skin.txt",
+      "rootTextSha256": "f3b0f42637686ee7406a425a2131fb65dc989316e2732557262bd81c144cd207"
+    }
+  ],
+  "rootSelectedPhysicalPagesRead": {
+    "eye": [
+      8,
+      9,
+      11,
+      12,
+      13,
+      14
+    ],
+    "tendon": [
+      3,
+      4,
+      5,
+      14
+    ],
+    "phase1": [
+      2,
+      3,
+      5
+    ],
+    "skin": [
+      2,
+      3,
+      6
+    ]
+  },
+  "rootVisuals": {
+    "eye": [
+      8,
+      9
+    ],
+    "tendon": [
+      3
+    ],
+    "phase1": [
+      2
+    ],
+    "skin": [
+      2
+    ]
+  },
+  "bounds": [
+    "Eye RGN259 ocular NK study: report-design primarycompletePEDhealing distinct secondarysymptoms/otherhealing/visual andsafetymeasures. PrimaryITT earlywithdrawal/escape medication/surgicalintervention imputednoresolution vsobserveddataITT/PPsensitivity; alternativechi-square/adhoctestsnotpromotedprimarysuccess. Study-reportdescriptionofspecifiedprimaryoutcome, independentprotocolprespecificationnotverified. Small18vsplanned46/earlytermination/imbalancedlesionsnotdecisivebenefit.",
+    "EyeTable5/6 eventcounts vspeople/ocularvsnonocular/SAEvsseverityvsattributedrelationship distinct. Table5definesrelated possible/probable/definite/unclassified/missing;notproven causality. Smallshortstudy/noequivalence/generalproductlifetimesafety. Protocolqueryplusclinicaleyeobservations supportsqualitativeeducationonly.",
+    "Tendonrepairedyounghealthyratmodel4week; randomspecimenallocation4mechanical/4histology pergroupnotallendpointssametendon. Bonar/Movin/stain/IHCmorphologydifferentmechanicalloadnothumanpain/activity; limitedtime/noformalaprioripower/nointerobserverreliability/no functional/molecularPK/crosssectionstress/completebiomechanics. No inferredclinicalrecovery/combination superiority.",
+    "Phase1 NL005 recombinantIV44aminoacidpreparation/screenshealthyADAnegative/allergyexcluded/SAD-MADsalineplacebomatchedappearancepackage label andspecific monitoring. MedDRAcoding/CTCAErelationshipseverity describesclassificationnotcausedreaction. ShortfollowupAE/ECGwithdrawalsnotlongtermsafety/othermarketedproducts/routes/diseaseefficacy/no clinicaladministrationguidance.",
+    "Skin suppliedGHKCu notanalyzedstoichiometricpurity/dynamicligandexchangeandmultiplecomplexes, excisedcadaverdiffusiondifferentstrata/samedonorreplicates. ICPMSquantifieselementalcoppernotnecessarilyintactpeptidecomplex/systemicdose/clinicalinjectionefficacy; labeledligandsproposedfuturework notperformed. Parserinvalidsharedobjecthintwarningreturned0withfreshtext andvisualverified.",
+    "All21text/readsourceURLlocatorbound/fourfreshhashesPRIMARYobtainedy/existingcanonicalonly/no newnumericclaims. Only3eligibleunderELON1542fewerthan10clause; route/component/newrecord/sourcegapshold, nofillquota padding orcrossdrugcorroboration. No wholepaper/fullscientific/currentintegrity/human/newgrade/releaseapproval."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "newGrade": 0,
+  "releaseApproval": false
+}

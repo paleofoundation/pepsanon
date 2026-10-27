@@ -1,0 +1,53 @@
+{
+  "at": "2026-10-27T14:01:38.189041+00:00",
+  "result": "PASS_THREE_EXACT21_FINAL_MOBILE_TUPLES",
+  "method": "Actual CUA IAB tab27 freshly navigated all3 at390x844; seven newly appended paragraphs per page, text excluding direct SUP children while preserving inline glossary link text; sourceID/exacttooltiplocator/referenceexternalURL tuples sorted compact Unicode JSON SHA256 independently matched. Formulation reading evidence fresh visual screenshot wrapping inspected, tabclosed/viewportreset. Initial cloneNode method unsupported and returned no capture; replaced with read-only childNodes inspection before all captures.",
+  "preview": "http://127.0.0.1:8794",
+  "candidateSha256": "021683a205205efb91fbc4f70854ac63fbad746e4e920cc0e8e840215fe27b01",
+  "finalInputBindings": {
+    "dist/server/index.js": "f39944779c9fc3f1e7e6d6c487b2faca06ce02f5f291ea3aca0a9a3ce6922eed",
+    "lib/data/glossary.json": "2ec2e93ade0fdd65942f66ab46c0ed569f411afa91928712f74c76d7a3cfe329",
+    "lib/data/glossary-index.json": "cb1ebaf328a87e8c131e5fb9da544595d4942e9f778281555112d638fba5a56b",
+    "app/glossary/[slug]/page.tsx": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab"
+  },
+  "sourceReceiptSha256": "547545ceb862e5449fd50dc9148c69c4457a46e2926df74e7abbd8b9f559821a",
+  "pages": [
+    {
+      "slug": "endpoint",
+      "count": 7,
+      "actualRenderedTupleSha256": "5b59cee539973cc2e1f3e2fbf724b199d9d5f53b9cb40aa55c4813eeaa87bc70",
+      "expectedCandidateTupleSha256": "5b59cee539973cc2e1f3e2fbf724b199d9d5f53b9cb40aa55c4813eeaa87bc70",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "adverse-event",
+      "count": 7,
+      "actualRenderedTupleSha256": "072af686194c4ed17bf66de31cef6cdee82422c2958b2ba58ba76b09ca944511",
+      "expectedCandidateTupleSha256": "072af686194c4ed17bf66de31cef6cdee82422c2958b2ba58ba76b09ca944511",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    },
+    {
+      "slug": "formulation",
+      "count": 7,
+      "actualRenderedTupleSha256": "96fdab7b61ef186a379d94a191cd1e273b02d98ff370ec83351d6c92d3f39b43",
+      "expectedCandidateTupleSha256": "96fdab7b61ef186a379d94a191cd1e273b02d98ff370ec83351d6c92d3f39b43",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "disclaimer": true,
+      "publicDashCount": 0
+    }
+  ],
+  "scope": "Exactly3 existing glossary terms under ELON1555 fewerthan10 clause; seven-page shortfall/gaps held, no component/index/route/canonical sourcecreation. Three inherited adverse-event locator ranges normalized only. No otherprose/sourcechange.",
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

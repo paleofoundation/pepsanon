@@ -1,0 +1,38 @@
+[
+  {
+    "id": "eye",
+    "filename": "0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+    "sha256": "3d36897d69374c4251d5a77f0867ba38a3810401041538edf000960c6a9dd632",
+    "doi": "10.3390/ijms24010554",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+    "existingCanonicalSource": true,
+    "extractionDiagnostics": ""
+  },
+  {
+    "id": "tendon",
+    "filename": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+    "sha256": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+    "doi": "10.52312/jdrs.2026.2951",
+    "sourceUrl": "https://jointdrs.org/full-text/1851",
+    "existingCanonicalSource": true,
+    "extractionDiagnostics": ""
+  },
+  {
+    "id": "phase1",
+    "filename": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+    "sha256": "20495706952071b174ab04bab2d4755a0055226a69a3ad9ac73e65201a78722c",
+    "doi": "10.1111/jcmm.16693",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+    "existingCanonicalSource": true,
+    "extractionDiagnostics": ""
+  },
+  {
+    "id": "skin",
+    "filename": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+    "sha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+    "doi": "10.1007/s00011-010-0238-9",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+    "existingCanonicalSource": true,
+    "extractionDiagnostics": "Syntax Warning: Invalid shared object hint table offset"
+  }
+]
