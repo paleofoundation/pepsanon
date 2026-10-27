@@ -1,0 +1,11 @@
+{
+  "status": "PRIVATE_RAW_BUILD_LOG_WARNINGS_RETAINED",
+  "fullStagedCheckExit": 2,
+  "warningCount": 38,
+  "files": {
+    "BUILD-baseline.log": 19,
+    "BUILD-final.log": 19
+  },
+  "applicationDiffCheckExit": 0,
+  "blanketWhitespacePass": false
+}

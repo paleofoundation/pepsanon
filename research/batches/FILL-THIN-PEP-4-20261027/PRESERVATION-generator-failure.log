@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-pep-1/checkout/research/batches/FILL-THIN-PEP-4-20261027/verify.py", line 31, in <module>
+    for f in shared:assert subprocess.check_output(['git','-C',str(R),'show',B+':'+f])==(R/f).read_bytes(),f
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: lib/data/glossary-index.json

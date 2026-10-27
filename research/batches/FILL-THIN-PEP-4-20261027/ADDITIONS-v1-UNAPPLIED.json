@@ -1,0 +1,921 @@
+{
+  "state": "UNAPPLIED_SOURCE_LOCATED_PENDING_ROOT_FIDELITY",
+  "base": "c7c5e9a81260ee45e99b8e7c7f11fa8b5d981740",
+  "at": "2026-10-27T12:18:10.360078+00:00",
+  "authority": "ELON14:10 FILL-THIN-PEP-4",
+  "records": [
+    {
+      "slug": "subcutaneous",
+      "sectionId": "in-the-research",
+      "text": "The main semaglutide trial compared the specified injected preparation with placebo alongside structured lifestyle support, so the route describes an intervention delivered within that combined trial setting rather than an isolated test of every injection product.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "subcutaneous",
+      "sectionId": "in-the-research",
+      "text": "The extension followed selected participants after study medication and lifestyle intervention ended, making its later measurements observations after cessation rather than evidence that participants continued receiving the original injections.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "subcutaneous",
+      "sectionId": "in-the-research",
+      "text": "The investigators recorded body measurements and cardiometabolic laboratory values during follow-up, and those endpoints should remain attached to the trial population and its treatment history rather than generalized from the route name alone.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "subcutaneous",
+      "sectionId": "in-the-research",
+      "text": "The CJC-1295 trials also used subcutaneous administration, but examined a growth-hormone-releasing-hormone analogue in healthy adults with placebo comparisons, a different preparation and research question from the semaglutide extension.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods and Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "subcutaneous",
+      "sectionId": "reading-the-evidence",
+      "text": "Those trials measured circulating CJC-1295 separately from growth hormone and insulin-like growth factor, distinguishing the administered analogue from the hormonal responses assessed after its injection.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods and Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "subcutaneous",
+      "sectionId": "reading-the-evidence",
+      "text": "The CJC-1295 authors identify further studies of clinical utility and longer-term efficacy and safety as necessary, so observing a hormonal response after injection does not itself establish a clinical treatment benefit.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "subcutaneous",
+      "sectionId": "reading-the-evidence",
+      "text": "The semaglutide report identifies the administered formulation and its cessation explicitly, and its extension does not provide a head-to-head comparison with an oral formulation or a different peptide delivered beneath the skin.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design; p4 Procedures and Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "in-the-research",
+      "text": "The tendon-cell investigators examined growth-hormone receptor RNA and protein after exposing cultured rat fibroblasts to BPC157, then studied the response when growth hormone was added after that pretreatment.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1 and 2.2; p8 Experimental Section"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "in-the-research",
+      "text": "Receptor expression was assessed with gene-expression analysis and protein blotting, which are molecular measurements in the cultured cells rather than direct measurements of circulating hormone release or repaired tendon strength.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1 and 2.2; p8 Experimental Section"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "in-the-research",
+      "text": "The cell experiments used an MTT readout for viable-cell response and separately examined a proliferation-associated gene marker, keeping those laboratory observations distinct from an assessment of recovery in an injured person.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p5 Figure 3; p9 MTT assay"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "in-the-research",
+      "text": "The signaling experiments distinguished phosphorylation of a downstream kinase from its total amount, so the reported cellular response should not be restated as an increase in every component of the hormone pathway.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors acknowledge that cultured fibroblasts do not reproduce the complete tendon environment, where other cells interact during healing, limiting a direct translation from this experiment to whole-tissue recovery.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "reading-the-evidence",
+      "text": "The human CJC-1295 study administered a releasing-hormone analogue and measured growth hormone in blood, a different experimental approach from directly adding growth hormone to isolated rat tendon cells.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "growth-hormone",
+      "sectionId": "reading-the-evidence",
+      "text": "The CJC-1295 investigators describe the hormonal responses in healthy subjects and call for further clinical-utility studies, rather than demonstrating that the measured changes improve an injured patient's tendon function.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "in-the-research",
+      "text": "The skin experiment used a preparation described as a copper complex of GHK, while the material section notes that copper complexes can rearrange and that the supplied preparation was not analyzed for stoichiometric purity.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials and Tissue preparation"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "in-the-research",
+      "text": "The tissue came from human cadaver skin and was prepared as different barrier compartments, so this was an experiment on excised material rather than a trial administering the tripeptide to living participants.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials and Tissue preparation"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "in-the-research",
+      "text": "The investigators collected receiving fluid from diffusion cells and analyzed copper retained within tissue, preserving a distinction between passage across the prepared barrier and deposition inside that barrier.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Diffusion experiment and Analytical methodology"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "in-the-research",
+      "text": "The analytical method quantified copper with elemental mass spectrometry, and the paper reports the experimental concentrations in terms of copper rather than directly counting intact peptide complexes in each sample.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Diffusion experiment and Analytical methodology"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors discuss possible exchange of copper between the original ligand and components in the tissue environment, leaving the molecular identity of every transported copper-containing species unresolved by copper measurement alone.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "They suggest that studies using labeled ligands could help clarify the complex penetration behavior, identifying a further analytical question rather than claiming that this experiment tracked intact GHK throughout the body.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tripeptide",
+      "sectionId": "reading-the-evidence",
+      "text": "The proposed transdermal applications in the conclusion extend beyond the measured diffusion and tissue-retention endpoints, which do not directly compare clinical symptom relief or establish the safety of an injected preparation.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "in-the-research",
+      "text": "The tendon-cell paper introduces extracellular matrix as part of the tissue-repair background, while its own experiments focus on receptor expression and cellular responses after treatment rather than directly measuring assembly of a complete repaired tendon.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p2 Introduction; p3 Results 2.1 and 2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "in-the-research",
+      "text": "The introduction describes fibroblasts producing collagen and glycoproteins during repair, but those background descriptions should not be relabeled as additional matrix-synthesis outcomes measured by the receptor-expression experiments.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p2 Introduction; p3 Results 2.1 and 2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "in-the-research",
+      "text": "The separate rat repair study allocated excised tendons to histological assessment or mechanical testing, meaning that the tissue images and strength measurements came from separately assigned specimens rather than every measurement being paired within one tendon.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Figure 1 and outcome allocation; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "in-the-research",
+      "text": "Its tissue sections were examined for fiber architecture, cellular appearance and collagen organization, with different stains providing views of general structure, collagen-related features and ground-substance components.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Figure 1 and outcome allocation; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "reading-the-evidence",
+      "text": "Immunohistochemical staining was assessed semiquantitatively from staining intensity and positive tissue area, so this readout should be distinguished from a direct measurement of every matrix molecule or of the entire tendon's load-bearing capacity.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 Histological and immunohistochemical analyses; p5 scoring methods"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "reading-the-evidence",
+      "text": "The mechanical analysis measured how the allocated specimens responded to tensile loading, a different endpoint from collagen staining or microscopic alignment within the repair region.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 Histological and immunohistochemical analyses; p5 scoring methods"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sectionId": "reading-the-evidence",
+      "text": "The cultured-cell authors explicitly note that other cell types interact during living tendon repair, reinforcing why molecular observations in fibroblasts alone cannot establish restoration of the complete extracellular environment after a human injury.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "in-the-research",
+      "text": "The collagen trial used prepared beverages consumed after an overnight fast, with the different study drinks given on separate visits to the same healthy participants under the crossover design.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "in-the-research",
+      "text": "Participants recorded diet and physical activity before the initial trial visit so those conditions could be standardized before subsequent visits, making the observed response part of a controlled ingestion experiment rather than unrestricted everyday use.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "in-the-research",
+      "text": "The tested products differed in processing and were described specifically in the methods, so an oral collagen result remains linked to the ingredients and preparation actually consumed rather than to every product sold under the same broad label.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "in-the-research",
+      "text": "The investigators obtained blood before and after beverage ingestion at planned sampling points and analyzed plasma metabolites, allowing them to examine a changing circulating amino-acid profile under the study conditions.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol; p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "reading-the-evidence",
+      "text": "Those plasma measurements do not directly show that intact ingested collagen reaches a tendon or that the body has incorporated the measured amino acids into newly repaired joint tissue.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol; p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "reading-the-evidence",
+      "text": "The processing-related absorption findings differed between amino-acid measures, so the reported comparison should not be compressed into a claim that every component of every oral collagen preparation has improved uptake.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "oral",
+      "sectionId": "reading-the-evidence",
+      "text": "The discussion considers possible tissue implications using other research, while this experiment does not directly test clinical joint-pain relief or healing in people with musculoskeletal disease after consuming the study beverages.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "in-the-research",
+      "text": "The eye-drop trial describes a double-masked comparison of the specified ophthalmic preparation with placebo, and the paper identifies a contract research organization as managing the study in a blinded manner.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p1 title and Abstract; p11 Materials and Methods; p14 Conflicts of Interest"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "in-the-research",
+      "text": "The statistical methods state that analysis occurred after study completion and after the database was locked and released for unmasking, providing a reported timeline that is more specific than the double-masked label alone.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "in-the-research",
+      "text": "The trial distinguished corneal-healing assessment from participant-reported ocular discomfort and other safety observations, so the masking description should be read alongside the specific outcomes and how each was collected.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p12 Study design and safety outcomes"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "in-the-research",
+      "text": "The rat tendon study specifies that a pathologist was unaware of group allocation and that mechanical testing used coded specimens, while stating that blinding was not feasible during surgery or daily treatment administration.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Histopathological evaluation and assessor blinding"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "reading-the-evidence",
+      "text": "The eye-drop authors identify recruitment difficulties, early termination and baseline differences as study limitations, illustrating that a masked design does not remove separate questions about sample size or comparability of the treatment groups.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Subject demographics"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper describes a primary endpoint analysis and separate sensitivity and alternative analyses, so the masking arrangement does not make those different statistical questions interchangeable or turn every analysis into the primary comparison.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses; p14 sensitivity and alternative analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "blinding",
+      "sectionId": "reading-the-evidence",
+      "text": "Ocular-discomfort information was supplied by participants during office visits, whereas corneal healing used an examination-based outcome, preserving the distinction between subjective reports and the separately specified clinical assessment within this masked trial.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Study design"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "in-the-research",
+      "text": "The BPC157 experiments collected plasma at specified times after intravenous or intramuscular administration and analyzed parent drug with liquid chromatography and tandem mass spectrometry under defined animal-study conditions.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "in-the-research",
+      "text": "Rat and dog experiments were described separately and included initial and repeated-administration profiles, keeping each concentration curve tied to its species, route and treatment phase rather than merging them into one general exposure pattern.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "in-the-research",
+      "text": "The labeled-material experiments used a separate radioactivity measurement and collected tissue and excretion samples, expanding the disposition question beyond parent-drug concentration in plasma without making those analytical readouts identical.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.5; p15 Metabolism and Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "in-the-research",
+      "text": "Metabolite profiling used chromatographic separation with radionuclide detection and molecular-weight comparisons, while the parent-drug pharmacokinetic tables summarized concentration profiles, so different methods addressed different chemical questions.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.5; p15 Metabolism and Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors did not analyze metabolites inside target tissues, which limits an inference that a detected tissue radioactive signal identifies the intact parent peptide or a particular active breakdown product.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "reading-the-evidence",
+      "text": "The human CJC-1295 trials also separated plasma drug concentrations from circulating hormonal measurements, demonstrating that an administered analogue's concentration profile and a measured endocrine response are distinct parts of the investigation.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p3 Results"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sectionId": "reading-the-evidence",
+      "text": "The BPC157 report presents these preclinical observations as information for further development and clinical research, rather than a completed demonstration of human healing, a validated consumer preparation or an established treatment schedule.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion and conclusion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "in-the-research",
+      "text": "The parent-peptide half-life estimates summarize concentration measurements obtained in the animal plasma experiments, so they should retain the species and administration route stated beside the relevant pharmacokinetic table.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 and p6 parent-drug pharmacokinetic tables; p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "in-the-research",
+      "text": "The initial and repeated-administration experiments describe different sampling circumstances, making the reported decay parameter part of a defined concentration profile rather than a universal time that applies to every preparation or treatment setting.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 and p6 parent-drug pharmacokinetic tables; p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "in-the-research",
+      "text": "The radiolabel could persist within smaller breakdown products after the parent peptide changed, so a half-life calculated from total radioactivity should not be substituted for the disappearance of chemically unchanged BPC157.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.5 and p15 Metabolism"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "in-the-research",
+      "text": "The paper separates metabolite investigation from parent-drug analysis and notes the absence of target-tissue metabolite measurements, leaving the identity and activity of material in those tissues incompletely resolved.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.5 and p15 Metabolism"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "reading-the-evidence",
+      "text": "The CJC-1295 study estimated disappearance of its administered analogue in healthy adults and separately described growth-hormone and insulin-like-growth-factor responses, preserving a distinction between the drug's plasma decline and the measured hormonal effects.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p3 Plasma CJC-1295 concentrations; p6 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors discuss the analogue's albumin-binding design alongside its plasma profile, but this preparation-specific observation does not establish the same persistence for a different peptide or a differently formulated product.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p3 Plasma CJC-1295 concentrations; p6 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "half-life",
+      "sectionId": "reading-the-evidence",
+      "text": "The report states that appropriate therapeutic use requires further efficacy and safety studies, so a measured half-life alone should not be converted into a clinical dosing recommendation or a promise of benefit for an injured patient.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "in-the-research",
+      "text": "The purchased-product investigation used liquid chromatography and mass spectrometry to quantify active ingredient, while examining packaging and microbiological quality separately, so identifying the drug did not answer every question about the received material.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "in-the-research",
+      "text": "The investigators reported intended-drug content separately from analytical purity and found discrepancies between test results and product representations, preserving a distinction between how much drug was present and what else the test detected.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "in-the-research",
+      "text": "The miniprotein manufacturing study used different methods for protein concentration, molecular weight and purity, with a separate endotoxin assay rather than treating a protein-purity result as a substitute for contamination testing.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p5 Sections 2.5.4 and 2.6"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "in-the-research",
+      "text": "That manufacturing work describes a specified recombinant antiviral miniprotein and a controlled purification process, and its analytical results do not independently validate the composition of unrelated semaglutide products purchased online.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p5 Sections 2.5.4 and 2.6"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "reading-the-evidence",
+      "text": "The quality record lists identity, purity, residual manufacturing material, endotoxin and bioburden as separate attributes, showing why a favorable result in one assay should not be restated as proof that every quality characteristic was assessed.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p24 Table 13 quality and stability attributes"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "reading-the-evidence",
+      "text": "The online investigation had received-product limitations and excluded higher-priced offerings, so its findings should remain attached to the samples actually tested rather than serve as a prevalence estimate for every marketed semaglutide preparation.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Results and Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "purity",
+      "sectionId": "reading-the-evidence",
+      "text": "The chemical tests and reported microbiological findings describe properties of purchased material, and they do not constitute a clinical trial determining the benefits or adverse effects experienced by individual users of those products.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Results and Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "in-the-research",
+      "text": "The tirzepatide paper examines a dual GIP and GLP-1 receptor agonist, while its additional measurements concern lipoprotein-related biomarkers in available stored samples from the clinical trial rather than direct receptor activation in each participant's tissues.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "in-the-research",
+      "text": "The introduction cites laboratory and earlier human research to explain possible receptor-related pathways, and those background observations should remain distinct from the new fasting-sample analysis presented in this article.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "in-the-research",
+      "text": "The investigators measured apolipoproteins and lipoprotein particle characteristics and calculated a lipoprotein-related insulin-resistance score, which are laboratory endpoints rather than direct measurements of cardiovascular events.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "in-the-research",
+      "text": "The analysis population excluded observations after study-drug discontinuation or rescue-medication initiation, so its biomarker findings retain those stated selection boundaries rather than representing every subsequent outcome of every randomized participant.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors distinguish circulating enzyme mass from activity at tissue surfaces and describe why static fasting measurements cannot fully reveal the mechanism responsible for the observed lipid changes.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "reading-the-evidence",
+      "text": "They identify the stored-sample work as a post hoc analysis and call for kinetic studies to investigate lipid handling, leaving mechanistic explanations as questions for further research rather than established consequences of the agonist label.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sectionId": "reading-the-evidence",
+      "text": "The conclusion points to a planned cardiovascular outcomes study for definitive clinical-benefit evidence, so receptor activity and the biomarker observations in this paper should not be equated with proof that treatment prevented cardiovascular disease events.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p8 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "newScientificNumbers": 0,
+  "scientificApproval": false,
+  "humanApproval": false
+}
