@@ -1,0 +1,86 @@
+{
+  "status": "PASS-AFTER-NEW-PACKET-COPY-NORMALIZATION",
+  "initialSealLfGuard": "FAIL, stopped before staging/commit because all four raw build logs had CR progress output.",
+  "rows": [
+    {
+      "packetFile": "BUILD-baseline.log",
+      "originalScratchFile": "baseline-build.log",
+      "rawSha256": "89fd9a01d605839ce3e551771700146d99e748ab2fd5ed34e30a0b76bfbaa02e",
+      "packetLfSha256": "d3e9f1ef1d656ba9cb4fa87f5bc904fc9142a7d9c12dce5e6bd8ae9cc01e3d43",
+      "rawCarriageReturns": 5,
+      "transformation": "CRLF and progress CR to LF; trim only diagnostic trailing spaces/tabs. Raw original remains unchanged in scratch. Remove extra blank EOF lines; preserve one terminal LF."
+    },
+    {
+      "packetFile": "BUILD-corrected-parity.log",
+      "originalScratchFile": "corrected-parity-build.log",
+      "rawSha256": "b84702382a2f23a5e18334056e719ba291d2a80245b62fff9bd08dc78e715e86",
+      "packetLfSha256": "dfb3646fd5938e51cb7e40842ceb6470f8498aed7fba4ee1ce5077f67292a80b",
+      "rawCarriageReturns": 5,
+      "transformation": "CRLF and progress CR to LF; trim only diagnostic trailing spaces/tabs. Raw original remains unchanged in scratch. Remove extra blank EOF lines; preserve one terminal LF."
+    },
+    {
+      "packetFile": "BUILD-failed-parity.log",
+      "originalScratchFile": "parity-build.log",
+      "rawSha256": "bd6c2009a591ac4fbbdc613afe10d25de960122bac6aab120491d4bdb3dc76d2",
+      "packetLfSha256": "7399718baecdfe67279d2085afec93ce59b9b03ba7e8c4009fdcf4e3c1ea0abc",
+      "rawCarriageReturns": 5,
+      "transformation": "CRLF and progress CR to LF; trim only diagnostic trailing spaces/tabs. Raw original remains unchanged in scratch. Remove extra blank EOF lines; preserve one terminal LF."
+    },
+    {
+      "packetFile": "BUILD-final.log",
+      "originalScratchFile": "final-build.log",
+      "rawSha256": "84683d206ffc5dc5fcbcafb072897f92443663d4070138995d4b0421aa8d5d01",
+      "packetLfSha256": "5dbf8864fae365985b62e9e21f13a4074c95b5e5d22834c677e2a67a213d8365",
+      "rawCarriageReturns": 5,
+      "transformation": "CRLF and progress CR to LF; trim only diagnostic trailing spaces/tabs. Raw original remains unchanged in scratch. Remove extra blank EOF lines; preserve one terminal LF."
+    }
+  ],
+  "oldPacketsAndPatchBytesUntouched": true,
+  "applicationChanged": false,
+  "recordedAt": "2026-10-27T18:30:27.781806+02:00",
+  "stagedWhitespaceGuard": "FAIL on seven new packet files with extra blank EOF lines; stopped before commit. Corrected only new copies, with one terminal LF.",
+  "eofNormalizations": [
+    {
+      "file": "AUTHORITY-17-20.txt",
+      "beforeSha256": "f9c39c2a68c1c56e0633ad6e9b95a7bb4dc09d39689f496a605701030d874cdd",
+      "afterSha256": "0648fac5f99fa9ffa33f55d30d1c3766ef05294eb6c5c0956401c11cd4a88629",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    },
+    {
+      "file": "AUTHORITY-17-45.txt",
+      "beforeSha256": "38863fd7b28f67b19adeb0db42471987e9059c20094a182e5c19a9fc9b50133b",
+      "afterSha256": "3cb7b5cc63836a70885e5c7b76af686003e29141dfffcdcac5ec6d62734a7db2",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    },
+    {
+      "file": "AUTHORITY-18-17.txt",
+      "beforeSha256": "ca289075ac8bb5ce05d6404c572b79cabbdd228ca9dbcc9dc7501b01d0b23e9a",
+      "afterSha256": "25f5b5ee9302354e69e8c7b6193ceda9350a43c4a147eb2e30bf40c119024ecf",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    },
+    {
+      "file": "BUILD-baseline.log",
+      "beforeSha256": "b3f217906cefbe7f7539675b9381ee3774994fab405ab3e50c97a0ed0bae6d95",
+      "afterSha256": "d3e9f1ef1d656ba9cb4fa87f5bc904fc9142a7d9c12dce5e6bd8ae9cc01e3d43",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    },
+    {
+      "file": "BUILD-corrected-parity.log",
+      "beforeSha256": "f95c1ad714f3381b66114edc1eb7eaa706705e1d5611760d4cb848c13158deb1",
+      "afterSha256": "dfb3646fd5938e51cb7e40842ceb6470f8498aed7fba4ee1ce5077f67292a80b",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    },
+    {
+      "file": "BUILD-failed-parity.log",
+      "beforeSha256": "104c53d6797c5effa904603424375eb77528d1927fcdefa6189cff9b1855fcd0",
+      "afterSha256": "7399718baecdfe67279d2085afec93ce59b9b03ba7e8c4009fdcf4e3c1ea0abc",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    },
+    {
+      "file": "BUILD-final.log",
+      "beforeSha256": "91a054f3cb3462e1ed74b89b454c785ce86e8bdfdcd70d16d921145210ae2ac0",
+      "afterSha256": "5dbf8864fae365985b62e9e21f13a4074c95b5e5d22834c677e2a67a213d8365",
+      "normalization": "Only extra blank EOF lines removed; preserve one terminal LF."
+    }
+  ]
+}

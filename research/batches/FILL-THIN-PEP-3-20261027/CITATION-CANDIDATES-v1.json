@@ -1,0 +1,73 @@
+{
+  "state": "UNAPPLIED_PART_A_THREE_DEFINITION_CITATION_CANDIDATES",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "readAt": "2026-10-27T11:11:47.976427+00:00",
+  "source": {
+    "id": "cjc",
+    "rootId": "HELD_STUDY_ORIGINALS",
+    "path": "paper-68bd15da459b37ca.pdf",
+    "sha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+    "readPassages": "Original PDFp1 abbreviation definitions; p2 Pharmacokinetic analysis, actual text read",
+    "priorApprovalTransferred": false
+  },
+  "records": [
+    {
+      "slug": "tmax",
+      "target": "definition",
+      "unchangedFullText": "The time at which a drug's plasma concentration reaches its peak. This is the meaning given to Tmax in the BPC-157 pharmacokinetic tables.",
+      "supportedClause": "The time at which a drug's plasma concentration reaches its peak.",
+      "existingCitations": [
+        {
+          "source": "bpcpk",
+          "locator": "Table 2 footnote"
+        }
+      ],
+      "addCitation": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "supportBoundary": "The CJC primary paper explicitly defines this PK parameter; added source supports the general first-sentence definition only. The existing bpcpk citation remains responsible for the BPC-specific second sentence. No cross-drug outcome or exposure equivalence is claimed.",
+      "scientificApproval": false
+    },
+    {
+      "slug": "auc",
+      "target": "definition",
+      "unchangedFullText": "A summary of concentration across a span of time. In the BPC-157 paper, AUC is the area beneath the plasma concentration-versus-time curve.",
+      "supportedClause": "A summary of concentration across a span of time.",
+      "existingCitations": [
+        {
+          "source": "bpcpk",
+          "locator": "Table 1 footnote"
+        }
+      ],
+      "addCitation": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "supportBoundary": "The CJC primary paper explicitly defines this PK parameter; added source supports the general first-sentence definition only. The existing bpcpk citation remains responsible for the BPC-specific second sentence. No cross-drug outcome or exposure equivalence is claimed.",
+      "scientificApproval": false
+    },
+    {
+      "slug": "cmax",
+      "target": "definition",
+      "unchangedFullText": "The peak measured concentration of a drug in plasma. The BPC-157 paper labels this quantity Cmax.",
+      "supportedClause": "The peak measured concentration of a drug in plasma.",
+      "existingCitations": [
+        {
+          "source": "bpcpk",
+          "locator": "Table 2 footnote"
+        }
+      ],
+      "addCitation": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "supportBoundary": "The CJC primary paper explicitly defines this PK parameter; added source supports the general first-sentence definition only. The existing bpcpk citation remains responsible for the BPC-specific second sentence. No cross-drug outcome or exposure equivalence is claimed.",
+      "scientificApproval": false
+    }
+  ],
+  "notAdded": "No generic or unrelated citation added to study-specific results simply to change the citation count"
+}

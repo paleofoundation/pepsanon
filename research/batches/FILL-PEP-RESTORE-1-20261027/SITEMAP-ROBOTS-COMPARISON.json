@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "Corrected parity to final response bytes measured exact. Accepted-base source files and all their data dependencies are separately frozen exact; no measured accepted-base XML response is claimed.",
+  "responseBindings": [
+    {
+      "path": "/sitemap.xml",
+      "sha256": "b0d5a543d3a38daf2ecdcac5c04dbb4cc627ac366837f47645bdc5467124f0b3"
+    },
+    {
+      "path": "/robots.txt",
+      "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0"
+    }
+  ],
+  "rankingUnchanged": true,
+  "bareBeforeBuyZeroMatchingRowsOrReferences": true,
+  "distinctGuideUntouched": true,
+  "installNoindexProposalOnly": true
+}

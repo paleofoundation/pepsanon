@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "sourceId": "gip",
+      "rootId": "PRIMARY_PACKET",
+      "path": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "doi": "10.1111/dom.14174",
+      "sha256": "c5ab3c2bdb380d60d739a01ef78badafe2e08e549e6699fbebe01636736861ad",
+      "bytes": 868671,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY",
+        "manifestTopic": "tirzepatide"
+      },
+      "readPassages": "PDFp1 Aim, p2 Introduction/Participants/Study procedures, p3 Statistical analyses, p7 Discussion and limitations, p8 Conclusions",
+      "visuallyRead": [
+        "PDFp2 printed2452",
+        "PDFp7 printed2457"
+      ],
+      "scope": "Dual tirzepatide biomarker analysis, not standalone GIP outcomes or mechanistic proof",
+      "scientificApproval": false
+    },
+    {
+      "sourceId": "step",
+      "sourceReading": "SOURCE-READING-v1.json",
+      "reusedOriginalSha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913",
+      "scope": "Same inspected extension methods and limitations, not new efficacy/safety numbers"
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "checkedAt": "2026-10-27T10:48:32.485Z",
+  "state": "PASS_BOUNDED_FINAL_MOBILE_V4",
+  "candidateSha256": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5",
+  "glossarySha256": "0db124cf0fe738650ba5b99815951c161098567200cf7c351fc2d275cbd1583a",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "results": [
+    {
+      "slug": "retrospective-study",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "text": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain"
+        },
+        {
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+          "text": "Read the paper (PDF)"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Abstract: Methods",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Abstract: Methods"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Methods",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Methods"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 treatment sequence; p4 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 treatment sequence; p4 Discussion"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Methods and Discussion",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Methods and Discussion"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 treatment sequence; p4 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 treatment sequence; p4 Discussion"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p1 Abstract Methods",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p1 Abstract Methods"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p1 Clinical Implications; p4-5 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/retrospective-study#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p1 Clinical Implications; p4-5 Discussion"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nRetrospective study\n\nREADING STUDIES\n\nRetrospective study\n\nAlso found as: retrospective · retrospective chart review\n\nIn plain language\n\nA study that looks back at events or treatment that have already occurred. The knee-pain paper describes a retrospective chart review followed by patient contact.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nUsed in our guides\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe researchers identified patients who had received injections and asked about their knee pain afterward. Follow-up timing varied between patients.[1]\n\nThe knee report assembled records from an existing clinical practice after injections had already been given, so the research began with previously treated patients rather than a newly assigned trial population.[1]\n\nThe authors excluded a person who could not be reached for follow-up, which makes the reported observations dependent on the patients whose later accounts were available to the investigators.[1]\n\nFollow-up callers asked patients to rate their pain before and after treatment and to describe mobility, exercise tolerance, stair climbing and sleep, rather than collecting a uniform set of objective performance tests.[1]\n\nThe report describes using a peptide combination initially and later trying BPC157 alone, a clinical sequence that differs from randomly assigning comparable patients to concurrent treatment groups.[1]\n\nReading the evidence\n\nThis design differs from assigning treatment prospectively and following a predefined control group. The paper's symptom reports do not isolate treatment effects from all other possible reasons for change.[1]\n\nPatients did not all have the same underlying knee condition, and the discussion acknowledges that diagnoses were not established with the same imaging and other investigations for every participant.[1]\n\nThe abstract states that no specific tools measured function, quality of life, stiffness or activities of daily living, identifying outcome gaps that remain despite the availability of later patient accounts.[1]\n\nA request for future imaging and treatment comparisons is a research recommendation within this paper, rather than evidence that the observed symptom changes already demonstrate structural repair or a treatment advantage.[1]\n\nUsed in our guides\n\nContinue reading where this term appears.\n\nBPC-157\nRead the term in context\nRelated terms\nCase series\nReading studies\nControl group\nReading studies\nEndpoint\nReading studies\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nIntra-Articular Injection of BPC 157 for Multiple Types of Knee Pain\nPrimary research · Human retrospective case series · 2021\n\nSource locations: Abstract: Methods; Methods; PDF p3 Retrospective chart review and follow-up questions; PDF p3 treatment sequence; p4 Discussion; Methods and Discussion; PDF p1 Abstract Methods; PDF p1 Clinical Implications; p4-5 Discussion.\n\nRead the paper (PDF)\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Retrospective study: definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "tmax",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+          "text": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs"
+        },
+        {
+          "href": "https://doi.org/10.3389/fphar.2022.1026182",
+          "text": "10.3389/fphar.2022.1026182"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 2 footnote",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 2 footnote"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Tables 2, 3, 5 and 6",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Tables 2, 3, 5 and 6"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Tables 1-3; p6 Tables 4-6",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Tables 1-3; p6 Tables 4-6"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Tables 1-3; p6 Tables 4-6",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Tables 1-3; p6 Tables 4-6"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Abstract; Results 2.1-2.2",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Abstract; Results 2.1-2.2"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 Table 9 discussion; p8 Table 9",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 Table 9 discussion; p8 Table 9"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5",
+          "href": "http://127.0.0.1:8794/glossary/tmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nTime to peak concentration (Tmax)\n\nDRUG BEHAVIOR & DELIVERY\n\nTime to peak concentration (Tmax)\n\nAlso found as: Tmax · time to peak concentration\n\nIn plain language\n\nThe time at which a drug's plasma concentration reaches its peak. This is the meaning given to Tmax in the BPC-157 pharmacokinetic tables.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe paper reports Tmax for the studied intramuscular administrations alongside Cmax and AUC. It locates the concentration peak within the sampling period.[1]\n\nThe rat and dog tables place the timing of the concentration peak alongside the size of that peak and the exposure accumulated over time, keeping these pharmacokinetic descriptions as separate quantities.[1]\n\nThe study presents separate tables for intravenous and intramuscular administration and for different animal species, so the meaning of a reported peak time remains attached to the route and experimental group.[1]\n\nBlood was collected at scheduled times after administration and the plasma was analyzed for BPC157, making the timing estimate part of a sampled concentration profile rather than continuous observation inside the animal.[1]\n\nThe investigators also sampled animals during repeated administration experiments, which should be distinguished from the profiles obtained after an initial administration when interpreting a table or plotted concentration curve.[1]\n\nReading the evidence\n\nThis is the time to a concentration peak, not the time to clinical improvement. The experiment measured drug exposure and disposition in rats and dogs.[1]\n\nThe radioactive tracer experiment reports a peak for total radioactivity as well as the separate parent-drug experiments, so a peak in labeled material should not automatically be identified as a peak of unchanged BPC157.[1]\n\nThe paper distinguishes parent-drug concentration from radioactive material that can include breakdown products, an analytical distinction that matters before comparing the timing of peaks across its different experiments.[1]\n\nThese peak-time observations describe the disposition of the experimental preparations in rats and dogs, and the study does not measure the time at which an injured human tendon or joint improves.[1]\n\nRelated terms\nPeak concentration (Cmax)\nDrug behavior & delivery\nAbsorption\nDrug behavior & delivery\nPharmacokinetics\nDrug behavior & delivery\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nPharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs\nPrimary research · Rats, dogs and laboratory samples · 2022\nDOI: 10.3389/fphar.2022.1026182\n\nSource locations: Table 2 footnote; Tables 2, 3, 5 and 6; PDF p4 Tables 1-3; p6 Tables 4-6; PDF p14 Methods 4.3 and 4.4; Abstract; Results 2.1-2.2; PDF p6 Table 9 discussion; p8 Table 9; PDF p13 Discussion; p14 Methods 4.3-4.5.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Time to peak concentration (Tmax): definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "histology",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://jointdrs.org/full-text/1851",
+          "text": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study"
+        },
+        {
+          "href": "https://doi.org/10.52312/jdrs.2026.2951",
+          "text": "10.52312/jdrs.2026.2951"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods: Histological evaluation",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods: Histological evaluation"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2 Methods; p3 Figure 1; p4 histological analysis",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2 Methods; p3 Figure 1; p4 histological analysis"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2 Methods; p3 Figure 1; p4 histological analysis",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2 Methods; p3 Figure 1; p4 histological analysis"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2 Methods; p3 Figure 1; p4 histological analysis",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2 Methods; p3 Figure 1; p4 histological analysis"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 histological scoring; p13 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 histological scoring; p13 Discussion"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods: Study design and biomechanical testing",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods: Study design and biomechanical testing"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 histological scoring; p13 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 histological scoring; p13 Discussion"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p3 assessor blinding; p14 limitations",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p3 assessor blinding; p14 limitations"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p3 assessor blinding; p14 limitations",
+          "href": "http://127.0.0.1:8794/glossary/histology#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p3 assessor blinding; p14 limitations"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nHistology\n\nREADING STUDIES\n\nHistology\n\nAlso found as: histological · histopathological · histopathology\n\nIn plain language\n\nThe microscopic study of tissue structure. In the rat Achilles paper, histological evaluation examines stained sections of healing tendons.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe authors used staining and scoring methods to assess features of the repaired tissue. They also assessed collagen expression with immunohistochemical methods.[1]\n\nThe tendon study examines an experimentally ruptured and surgically repaired Achilles tendon in rats, giving the tissue images a defined injury model rather than treating them as observations of untreated human tendon disease.[1]\n\nTendons assigned to microscopy were processed separately from those assigned to mechanical testing, so the stained sections and the measured breaking loads do not represent repeated measurements on the same specimen.[1]\n\nLongitudinal sections allowed assessment of fiber architecture, cell shape and collagen organization across the repair region, while different stains emphasized different features of the tissue being examined.[1]\n\nThe scoring systems considered characteristics such as collagen arrangement, cellular appearance, vascularity and ground substance, making a histological score a summary of specified tissue features rather than an unrestricted measure of recovery.[1]\n\nReading the evidence\n\nThe same paper measured load to failure separately. Its microscopic and mechanical assessments used different tendon samples, so a histological score should not be relabeled as a measurement of tendon strength.[1]\n\nThe authors caution that differences seen with polarized staining may reflect collagen fiber alignment and organization rather than greater collagen production, preserving the distinction between tissue appearance and a claim about synthesis.[1]\n\nA pathologist assessed coded tissue without knowing its treatment assignment, but the paper also states that surgery and daily treatment could not be blinded and that agreement between multiple observers was not assessed.[1]\n\nThe authors identify the assessment period, healthy young rat model and absence of functional testing as limits, so microscopic organization at that stage does not establish later maturation or recovery of human activity.[1]\n\nRelated terms\nExtracellular matrix\nMechanisms & hormones\nBiomechanical testing\nReading studies\nEndpoint\nReading studies\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nEffects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study\nPrimary research · Rat tendon repair · 2026\nDOI: 10.52312/jdrs.2026.2951\n\nSource locations: Materials and methods: Histological evaluation; Materials and methods; PDF p2 Methods; p3 Figure 1; p4 histological analysis; PDF p4 histological scoring; p13 Discussion; Materials and methods: Study design and biomechanical testing; PDF p3 assessor blinding; p14 limitations.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Histology: definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "auc",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+          "text": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs"
+        },
+        {
+          "href": "https://doi.org/10.3389/fphar.2022.1026182",
+          "text": "10.3389/fphar.2022.1026182"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 1 footnote",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 1 footnote"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 1 footnote; Pharmacokinetic analysis",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 1 footnote; Pharmacokinetic analysis"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 1 footnote; p6 Table 4",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 1 footnote; p6 Table 4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 1 footnote; p6 Table 4",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 1 footnote; p6 Table 4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2 footnote; p6 Table 5 footnote",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2 footnote; p6 Table 5 footnote"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2 footnote; p6 Table 5 footnote",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2 footnote; p6 Table 5 footnote"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Tables 1-6",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Tables 1-6"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p2 Results 2.1; p4 Results 2.2; p14 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p2 Results 2.1; p4 Results 2.2; p14 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/auc#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nArea under the curve (AUC)\n\nDRUG BEHAVIOR & DELIVERY\n\nArea under the curve (AUC)\n\nAlso found as: AUC · area under the curve · area under the concentration-time curve\n\nIn plain language\n\nA summary of concentration across a span of time. In the BPC-157 paper, AUC is the area beneath the plasma concentration-versus-time curve.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe paper distinguishes AUC up to the last observation from AUC extrapolated to infinity. These refer to different time limits for the exposure estimate.[1]\n\nThe exposure tables distinguish the area accumulated through the final observation from an area extrapolated beyond the observed samples, making the stated time boundary part of the interpretation of an AUC value.[1]\n\nThe same exposure summary is reported in separate rat and dog experiments and after different administration routes, so the species, route and sampling design belong with the reported estimate.[1]\n\nThe authors use dose-adjusted exposure after intramuscular administration and an intravenous reference to estimate bioavailability, illustrating a specific comparison rather than making an AUC value itself a percentage absorbed.[1]\n\nThe tables report peak concentration beside accumulated exposure because a concentration maximum and the area across a concentration profile describe different aspects of the measurements collected in the experiment.[1]\n\nReading the evidence\n\nAUC and Cmax answer different questions: the first summarizes exposure across time, while the second identifies the peak concentration. Both appear in the study's pharmacokinetic tables.[1]\n\nThe study examines how exposure relates to the administered amount within its tested animal experiments and also describes repeated administration separately, without turning those relationships into a clinical treatment schedule.[1]\n\nExposure calculated from total radioactivity includes labeled material remaining after peptide breakdown, and the paper separates that signal from the plasma profile of unchanged parent BPC157.[1]\n\nThe study did not analyze metabolites within the target tissues, so its exposure summaries cannot identify how much unchanged peptide reached an injured human tendon or establish a healing effect there.[1]\n\nRelated terms\nPeak concentration (Cmax)\nDrug behavior & delivery\nTime to peak concentration (Tmax)\nDrug behavior & delivery\nBioavailability\nDrug behavior & delivery\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nPharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs\nPrimary research · Rats, dogs and laboratory samples · 2022\nDOI: 10.3389/fphar.2022.1026182\n\nSource locations: Table 1 footnote; Table 1 footnote; Pharmacokinetic analysis; PDF p4 Table 1 footnote; p6 Table 4; PDF p4 Table 2 footnote; p6 Table 5 footnote; Tables 1-6; PDF p2 Results 2.1; p4 Results 2.2; p14 Methods 4.3 and 4.4; PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Area under the curve (AUC): definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "absorption",
+      "body": 390,
+      "dashes": 1,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+          "text": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial"
+        },
+        {
+          "href": "https://doi.org/10.3390/nu11051064",
+          "text": "10.3390/nu11051064"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; Abstract and Introduction",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; Abstract and Introduction"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; Materials and Methods",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; Materials and Methods"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p2 Subjects; p3 Design and Experimental Protocol",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p2 Subjects; p3 Design and Experimental Protocol"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p2 Subjects; p3 Design and Experimental Protocol",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p2 Subjects; p3 Design and Experimental Protocol"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p2 Subjects; p3 Design and Experimental Protocol",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p2 Subjects; p3 Design and Experimental Protocol"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p4 Blood Samples and NMR Spectroscopy; p9 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p4 Blood Samples and NMR Spectroscopy; p9 Discussion"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; Abstract; Analytical Methods; Discussion",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; Abstract; Analytical Methods; Discussion"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p9 Discussion; p10 Conclusions",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p9 Discussion; p10 Conclusions"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p9 Discussion; p10 Conclusions",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p9 Discussion; p10 Conclusions"
+        },
+        {
+          "aria": "Reference 1: Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p9 Discussion; p10 Conclusions",
+          "href": "http://127.0.0.1:8794/glossary/absorption#ref-collagen",
+          "title": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial; PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nAbsorption\n\nDRUG BEHAVIOR & DELIVERY\n\nAbsorption\n\nAlso found as: absorbed\n\nIn plain language\n\nThe process by which material from an administered preparation enters the body. The collagen trial examines the appearance of amino acids in blood after ingestion.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nUsed in our guides\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nResearchers took blood samples before and after participants consumed different collagen preparations. They compared the resulting amino-acid concentration profiles.[1]\n\nThe collagen experiment studied healthy men in an acute crossover design, with the same participants attending separate experimental visits rather than following patients through a course of treatment for an injury.[1]\n\nParticipants consumed an enzymatically hydrolyzed collagen product, a non-enzymatically hydrolyzed product and a water placebo on separate visits, allowing the investigators to compare the subsequent blood profiles under the study conditions.[1]\n\nThe protocol standardized preparation for the visits and collected blood before and after beverage consumption, linking the absorption observations to those particular products and the controlled experimental setting.[1]\n\nThe laboratory analysis quantified amino acids in plasma, so the measured appearance of collagen components in the circulation is distinct from detecting an entire ingested collagen protein or proving that it entered damaged tissue.[1]\n\nReading the evidence\n\nIn that trial, the measured substances were circulating amino acids. This does not mean that the entire ingested collagen protein entered the blood unchanged.[1]\n\nThe investigators reported a different absorption pattern for glycine, proline and hydroxyproline after enzymatic processing, but did not find the same processing advantage across all of the amino acids they examined.[1]\n\nTotal amino acids, essential amino acids and branched chain amino acids did not distinguish the collagen products in the same way as those particular abundant collagen components, limiting a broad claim that processing improved every absorption measure.[1]\n\nThe study discusses possible tissue implications in relation to other research, while its own experiment measures the post-meal blood response rather than directly demonstrating tendon healing, cartilage regeneration or relief of joint pain.[1]\n\nUsed in our guides\n\nContinue reading where this term appears.\n\nTirzepatide\nRead the term in context\nBPC-157\nRead the term in context\nCollagen peptides\nRead the term in context\nRelated terms\nBioavailability\nDrug behavior & delivery\nOral\nDrug behavior & delivery\nPharmacokinetics\nDrug behavior & delivery\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nEnzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate—A Randomized Controlled Trial\nPrimary research · Human crossover trial · 2019\nDOI: 10.3390/nu11051064\n\nSource locations: Abstract and Introduction; Materials and Methods; PDF p2 Subjects; p3 Design and Experimental Protocol; PDF p4 Blood Samples and NMR Spectroscopy; p9 Discussion; Abstract; Analytical Methods; Discussion; PDF p9 Discussion; p10 Conclusions.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Absorption: definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "fibroblast",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066",
+          "text": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts"
+        },
+        {
+          "href": "https://doi.org/10.3390/molecules191119066",
+          "text": "10.3390/molecules191119066"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Introduction",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Introduction"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Abstract and Experimental Section",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Abstract and Experimental Section"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Results and Experimental Section",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Results and Experimental Section"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Figure 3; p9 MTT assay",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Figure 3; p9 MTT assay"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/fibroblast#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nFibroblast\n\nMECHANISMS & HORMONES\n\nFibroblast\n\nAlso found as: fibroblasts · tendon fibroblasts\n\nIn plain language\n\nA connective-tissue cell involved in producing extracellular matrix. The tendon paper describes fibroblasts making collagen and other matrix components during repair.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nUsed in our guides\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe experiment isolated tendon fibroblasts from rats, cultured them and studied their responses to BPC-157 and growth hormone. Receptor expression, proliferation and signaling were measured separately.[1]\n\nThe investigators obtained Achilles tendon tissue from rats and grew cells from the tissue fragments in culture, so the fibroblasts in this experiment were studied outside an intact injured animal or human participant.[1]\n\nThe cultured cells were maintained in laboratory medium and exposed to BPC157 under specified incubation conditions, an experimental preparation that differs from measuring what reaches a tendon after administration to a person.[1]\n\nControl cultures and BPC157-treated cultures were examined at defined stages of incubation, allowing the authors to investigate cellular changes within that culture system rather than treating a clinical symptom report as a cell measurement.[1]\n\nThe paper describes a receptor-expression clue from earlier screening work and then examines growth hormone receptor RNA and protein in the current experiments, distinguishing a proposed cellular explanation from direct evidence of tissue healing.[1]\n\nReading the evidence\n\nCell proliferation means the cells are increasing in number. In this study, that cellular readout is not a direct test of the mechanical strength of a healed tendon.[1]\n\nThe authors assessed viable cells with a laboratory assay and also examined a proliferation-associated marker, keeping these cellular readouts separate from a mechanical test of whether a repaired tendon can withstand loading.[1]\n\nGrowth hormone was added after BPC157 pretreatment in the response experiments, so the observed cell behavior relates to that sequence of exposures rather than showing that BPC157 itself is growth hormone.[1]\n\nThe authors identify the in vitro design as a limitation and call for further work to connect the cellular findings with tendon healing, leaving clinical effectiveness and an appropriate human treatment regimen unestablished by these cultures.[1]\n\nUsed in our guides\n\nContinue reading where this term appears.\n\nBPC-157\nRead the term in context\nRelated terms\nExtracellular matrix\nMechanisms & hormones\nCollagen\nPeptide basics\nIn vitro\nReading studies\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nPentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts\nPrimary research · Rat tendon cells · 2014\nDOI: 10.3390/molecules191119066\n\nSource locations: Introduction; Abstract and Experimental Section; PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4; Results and Experimental Section; PDF p3 Results 2.2; p5 Figure 3; p9 MTT assay; PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Fibroblast: definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "cmax",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+          "text": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs"
+        },
+        {
+          "href": "https://doi.org/10.3389/fphar.2022.1026182",
+          "text": "10.3389/fphar.2022.1026182"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 2 footnote",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Table 2 footnote"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Results 2.1-2.2; Pharmacokinetic study methods",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Results 2.1-2.2; Pharmacokinetic study methods"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2; p6 Table 5",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2; p6 Table 5"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2; p6 Table 5",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p4 Table 2; p6 Table 5"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p14 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Study objective; Results 2.1-2.2",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Study objective; Results 2.1-2.2"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 radioactivity comparison; p8 Table 9",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p6 radioactivity comparison; p8 Table 9"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5"
+        },
+        {
+          "aria": "Reference 1: Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5",
+          "href": "http://127.0.0.1:8794/glossary/cmax#ref-bpcpk",
+          "title": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nPeak concentration (Cmax)\n\nDRUG BEHAVIOR & DELIVERY\n\nPeak concentration (Cmax)\n\nAlso found as: Cmax · peak concentration · maximum concentration\n\nIn plain language\n\nThe peak measured concentration of a drug in plasma. The BPC-157 paper labels this quantity Cmax.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nAfter administration, the researchers sampled plasma over time and reported the peak concentration alongside the time at which it occurred, Tmax.[1]\n\nThe peak is reported together with the time at which it occurs and the area accumulated across the profile, allowing readers to distinguish the height, timing and overall extent of exposure in the animal experiment.[1]\n\nThe rat and dog results are organized separately and include different experimental administrations, so a peak concentration should be read with the species and route that produced the sampled plasma profile.[1]\n\nThe parent peptide was quantified in plasma using a mass spectrometry method after scheduled blood sampling, tying the reported peak to a specified analyte and the measurements obtained in that experiment.[1]\n\nThe investigators examined both initial and repeated administration profiles, which means that a peak reported for a repeated exposure should not silently be substituted for one from an initial exposure.[1]\n\nReading the evidence\n\nCmax is a concentration measurement. The BPC-157 experiment used it to characterize drug exposure in animals, rather than as a direct measurement of wound healing.[1]\n\nA maximum based on total radioactivity in the tracer experiment describes labeled material rather than only unchanged BPC157, and the paper explicitly compares those tracer results with its parent-drug measurements.[1]\n\nThe analysis of breakdown products and the lack of metabolite measurements within target tissues limit what a circulating peak can reveal about the identity of material present at a proposed site of action.[1]\n\nThe experiment characterizes drug disposition in animals and does not pair a particular plasma peak with a measured improvement in human wound healing, pain or physical function.[1]\n\nRelated terms\nArea under the curve (AUC)\nDrug behavior & delivery\nTime to peak concentration (Tmax)\nDrug behavior & delivery\nPharmacokinetics\nDrug behavior & delivery\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nPharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs\nPrimary research · Rats, dogs and laboratory samples · 2022\nDOI: 10.3389/fphar.2022.1026182\n\nSource locations: Table 2 footnote; Results 2.1-2.2; Pharmacokinetic study methods; PDF p4 Table 2; p6 Table 5; PDF p14 Methods 4.3 and 4.4; Study objective; Results 2.1-2.2; PDF p6 radioactivity comparison; p8 Table 9; PDF p13 Discussion; p14 Methods 4.3-4.5.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Peak concentration (Cmax): definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "receptor",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066",
+          "text": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts"
+        },
+        {
+          "href": "https://doi.org/10.3390/molecules191119066",
+          "text": "10.3390/molecules191119066"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Introduction",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Introduction"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Results",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Results"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p3 Results 2.2; p5 Results 2.3"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Abstract; Results; Experimental Section",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Abstract; Results; Experimental Section"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p5 Results 2.3; p6 Figure 4",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p5 Results 2.3; p6 Figure 4"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Discussion; p8 Methods 4.1-4.4",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Discussion; p8 Methods 4.1-4.4"
+        },
+        {
+          "aria": "Reference 1: Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Discussion; p8 Methods 4.1-4.4",
+          "href": "http://127.0.0.1:8794/glossary/receptor#ref-fibro",
+          "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; PDF p7 Discussion; p8 Methods 4.1-4.4"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nReceptor\n\nMECHANISMS & HORMONES\n\nReceptor\n\nAlso found as: receptors\n\nIn plain language\n\nA molecular target through which a signal can act on a cell. The tendon-cell paper describes growth hormone binding to its receptor on the cell membrane and activating intracellular signaling.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nUsed in our guides\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe investigators separately measured receptor expression and the response to added growth hormone. They assessed receptor RNA and protein as well as cell proliferation and JAK2 pathway activation.[1]\n\nThe tendon-cell experiment assessed growth hormone receptor RNA and protein with different laboratory methods, so an expression result identifies a change in the measured receptor material rather than a measurement of circulating growth hormone.[1]\n\nThe investigators exposed cultured rat tendon fibroblasts to BPC157 before assessing receptor expression, retaining the cell type and experimental preparation as part of what the reported response describes.[1]\n\nIn the response experiments, growth hormone was added to cells that had already received BPC157 pretreatment, separating the preparation associated with altered expression from the hormone used to test the subsequent response.[1]\n\nThe authors examined downstream signaling after hormone addition as well as receptor expression, which distinguishes the amount of a measured receptor from a separate observation about the signaling pathway it can engage.[1]\n\nReading the evidence\n\nMore receptor expression and a downstream cellular response are distinct observations. In this paper they come from cultured rat tendon cells; they are not direct measurements of injury healing in human participants.[1]\n\nThe signaling analysis distinguished activated pathway protein from the total amount of that protein, illustrating why a change in activation should not be relabeled as an increase in every component of the pathway.[1]\n\nThese observations came from cells maintained in culture and analyzed after controlled exposures, rather than receptor measurements from a human tendon during a randomized clinical trial of injury treatment.[1]\n\nThe paper treats the cellular findings as a possible explanation requiring further investigation, so receptor expression and signaling do not by themselves establish that a preparation improves tendon strength or clinical recovery.[1]\n\nUsed in our guides\n\nContinue reading where this term appears.\n\nBPC-157\nRead the term in context\nRelated terms\nReceptor agonist\nMechanisms & hormones\nGrowth hormone\nMechanisms & hormones\nPharmacodynamics\nDrug behavior & delivery\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nPentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts\nPrimary research · Rat tendon cells · 2014\nDOI: 10.3390/molecules191119066\n\nSource locations: Introduction; Results; PDF p3 Results 2.1; p8 Methods 4.3 and 4.4; PDF p3 Results 2.2; p5 Results 2.3; Abstract; Results; Experimental Section; PDF p5 Results 2.3; p6 Figure 4; PDF p7 Discussion; p8 Methods 4.1-4.4.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Receptor: definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "text": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain"
+        },
+        {
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+          "text": "Read the paper (PDF)"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Methods",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Methods"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Abstract: Methods",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Abstract: Methods"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 Retrospective chart review and follow-up questions"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Clinical Implications",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; Clinical Implications"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p1 Abstract Methods; p3 follow-up and exclusion",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p1 Abstract Methods; p3 follow-up and exclusion"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 chart review; p4 Discussion; p5 future structural studies",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 chart review; p4 Discussion; p5 future structural studies"
+        },
+        {
+          "aria": "Reference 1: Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 chart review; p4 Discussion; p5 future structural studies",
+          "href": "http://127.0.0.1:8794/glossary/patient-reported-outcome#ref-knee",
+          "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain; PDF p3 chart review; p4 Discussion; p5 future structural studies"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nPatient-reported outcome\n\nREADING STUDIES\n\nPatient-reported outcome\n\nAlso found as: patient-reported · patient reported · subjective symptoms\n\nIn plain language\n\nAn outcome reported by the participant, such as their experience of pain. The knee study asked treated patients about their knee symptoms.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nUsed in our guides\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThe authors collected retrospective reports of symptom change. They stated that no specific tools were used to assess function, quality of life, stiffness or activities of daily living.[1]\n\nThe knee study obtained later accounts through telephone follow-up conducted by a volunteer, so the symptom descriptions came from patients recalling their experience rather than from an observer examining the joint at that visit.[1]\n\nPatients were asked to describe pain before and after the injection as well as mobility, tolerance for exercise, stair climbing and sleep, giving the report several different kinds of perceived change.[1]\n\nThe callers also asked about adverse events and allowed patients to comment on their treatment, collecting personal accounts without turning those accounts into a systematic laboratory assessment of safety.[1]\n\nThe authors explicitly state that the measurements were subjective and that no objective testing verified the reported improvements, keeping the patients' experiences distinct from a directly measured physical performance outcome.[1]\n\nReading the evidence\n\nThese reports describe patients' experiences. The paper calls for future imaging, so reported pain relief should not be rewritten as an imaging-confirmed finding of structural healing.[1]\n\nFollow-up timing varied and a patient who could not be reached was excluded, so the available accounts do not represent a uniform observation period or information from every person initially identified.[1]\n\nImaging was available for some patients before treatment, but the paper calls for future investigations of structural change rather than presenting serial imaging as confirmation of the reported symptom improvements.[1]\n\nThe observations arose from an uncontrolled retrospective practice report involving different knee problems, so subjective improvement does not by itself establish how treatment compares with another intervention or with the course without treatment.[1]\n\nUsed in our guides\n\nContinue reading where this term appears.\n\nBPC-157\nRead the term in context\nGHK-Cu\nRead the term in context\nRelated terms\nEndpoint\nReading studies\nCase series\nReading studies\nBiomechanical testing\nReading studies\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nIntra-Articular Injection of BPC 157 for Multiple Types of Knee Pain\nPrimary research · Human retrospective case series · 2021\n\nSource locations: Methods; Abstract: Methods; PDF p3 Retrospective chart review and follow-up questions; Clinical Implications; PDF p1 Abstract Methods; p3 follow-up and exclusion; PDF p3 chart review; p4 Discussion; p5 future structural studies.\n\nRead the paper (PDF)\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Patient-reported outcome: definition and research context | Peptides Anonymous",
+      "width": 390
+    },
+    {
+      "slug": "biomechanical-testing",
+      "body": 390,
+      "dashes": 0,
+      "disclaimer": true,
+      "doc": 390,
+      "originals": [
+        {
+          "href": "https://jointdrs.org/full-text/1851",
+          "text": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study"
+        },
+        {
+          "href": "https://doi.org/10.52312/jdrs.2026.2951",
+          "text": "10.52312/jdrs.2026.2951"
+        }
+      ],
+      "refs": [
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods: Biomechanical testing",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods: Biomechanical testing"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 Biomechanical analysis methods",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 Biomechanical analysis methods"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 Biomechanical analysis methods",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p4 Biomechanical analysis methods"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2-3 study allocation; p4 surgical procedure",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p2-3 study allocation; p4 surgical procedure"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p5 Results Biomechanical analysis; p13 Discussion",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p5 Results Biomechanical analysis; p13 Discussion"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods; Discussion",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; Materials and methods; Discussion"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p14 Discussion limitations",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p14 Discussion limitations"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p14 Discussion limitations",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p14 Discussion limitations"
+        },
+        {
+          "aria": "Reference 1: Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p14 Discussion limitations",
+          "href": "http://127.0.0.1:8794/glossary/biomechanical-testing#ref-tendon",
+          "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study; PDF p14 Discussion limitations"
+        }
+      ],
+      "text": "Home\n/\nGlossary\n/\nBiomechanical testing\n\nREADING STUDIES\n\nBiomechanical testing\n\nAlso found as: biomechanical · biomechanics · maximum load to failure · load to failure\n\nIn plain language\n\nTesting a biological tissue's mechanical behavior. The Achilles repair paper measures the maximum load a repaired rat tendon withstands before failure.[1]\n\nSource check: 2026-10-04 · Editorial method\n\nOn this page\nHow the research uses this term\nReading the evidence\nUsed in our guides\nRelated terms\nReferences\nBrowse all 54 terms\nHow the research uses this term\n\nThis endpoint is different from looking at tissue under a microscope. The study used mechanical testing and histological evaluation as separate assessments of the repaired tendons.[1]\n\nThe investigators tested excised Achilles tendon specimens with their attachments using a tensile testing device, recording the greatest load reached before failure within that laboratory arrangement rather than measuring pain during walking.[1]\n\nSpecimens allocated to mechanical testing were stored before assessment and coded for blinded testing, while a different set of tendons was processed for microscopy and tissue staining.[1]\n\nThe tested tendons came from a standardized rat rupture and surgical repair model, which defines the injury and repair conditions associated with the observed loads and limits direct comparison with other injury models.[1]\n\nThe study did not find a significant increase in maximum load to failure for BPC157 compared with controls despite some histological changes, illustrating why microscopic observations should not be substituted for a mechanical endpoint.[1]\n\nReading the evidence\n\nThe experimental model involved surgically injured and repaired rat Achilles tendons. The measured load describes those specimens, rather than a patient's pain, mobility or return to sport.[1]\n\nThe authors did not measure tendon cross-sectional area, which prevented calculation of stress-based mechanical properties and limits what the reported load alone says about the material properties of the repaired tissue.[1]\n\nThe paper also identifies missing stiffness, energy-to-failure and failure-mode analyses, so the reported maximum load does not cover every aspect of how a tendon behaves under mechanical loading.[1]\n\nFunctional activity was not assessed and the work used healthy young rats at a defined repair stage, leaving return to human sport, later maturation and performance in patients with other illnesses outside these measurements.[1]\n\nUsed in our guides\n\nContinue reading where this term appears.\n\nBPC-157\nRead the term in context\nRelated terms\nHistology\nReading studies\nEndpoint\nReading studies\nPreclinical\nReading studies\nReferences\n\nDefinitions and explanations are paraphrased. The source locations below identify the supporting passages and methods.\n\nEffects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study\nPrimary research · Rat tendon repair · 2026\nDOI: 10.52312/jdrs.2026.2951\n\nSource locations: Materials and methods: Biomechanical testing; Materials and methods; PDF p4 Biomechanical analysis methods; PDF p2-3 study allocation; p4 surgical procedure; PDF p5 Results Biomechanical analysis; p13 Discussion; Materials and methods; Discussion; PDF p14 Discussion limitations.\n\nSource packet file\n\nSelected-source educational glossary. This AI-assisted content has not undergone independent clinical peer review. Medical Disclaimer.",
+      "title": "Biomechanical testing: definition and research context | Peptides Anonymous",
+      "width": 390
+    }
+  ],
+  "console": [],
+  "consoleLimit": 15,
+  "visual": "Biomechanical-testing final screenshot inspected: readable mobile header and in-page navigation, no horizontal overflow.",
+  "qualification": "Absorption retains one inherited em dash in verbatim collagen reference title and corresponding inherited-title tooltip/aria surfaces under ELON12:42 narrow ruling; no new sentence/locator/label dash. All ten remain flagged for citation counts by unchanged analyzer. Scientific/human/grade/release pending."
+}

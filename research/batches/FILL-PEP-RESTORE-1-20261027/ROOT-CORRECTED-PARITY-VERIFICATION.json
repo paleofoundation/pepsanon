@@ -1,0 +1,148 @@
+{
+  "created_at": "2026-10-27T18:22:34.299821+02:00",
+  "decision": "PASS_CORRECTED_PARITY_AND_ROOT_MOBILE_BEFORE_FILL",
+  "correction_commit": "f53bef6d8776cd0518403e872ce576ef9f49a107",
+  "previous_failed_commit_preserved": true,
+  "root_independent_raw_capture_parity": [
+    {
+      "id": "paper-29343d5dff2c8e1b",
+      "all_article_text_and_link_tuples_equal_live": true,
+      "metadata_equal": true,
+      "article_link_count": 14
+    },
+    {
+      "id": "paper-37c4f0f55f696512",
+      "all_article_text_and_link_tuples_equal_live": true,
+      "metadata_equal": true,
+      "article_link_count": 13
+    },
+    {
+      "id": "paper-84d99218fb837c75",
+      "all_article_text_and_link_tuples_equal_live": true,
+      "metadata_equal": true,
+      "article_link_count": 17
+    },
+    {
+      "id": "paper-baf28ca7c2d11c45",
+      "all_article_text_and_link_tuples_equal_live": true,
+      "metadata_equal": true,
+      "article_link_count": 17
+    },
+    {
+      "id": "paper-d1c144a22938229c",
+      "all_article_text_and_link_tuples_equal_live": true,
+      "metadata_equal": true,
+      "article_link_count": 13
+    }
+  ],
+  "unselected_main_DOM_status_analyzer_values_unchanged": 136,
+  "raw_whole_document_parity_claim": false,
+  "root_mobile_observations": [
+    {
+      "draft": true,
+      "h1": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+      "headerSourcePairs": [
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+          "label": "Original paper "
+        },
+        {
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+          "label": "Source PDF "
+        }
+      ],
+      "loginGate": true,
+      "newFillHeading": false,
+      "path": "/research/paper-37c4f0f55f696512",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "draft": true,
+      "h1": "Effect of BPC-157 on Symptoms in Patients with Interstitial Cystitis: A Pilot Study",
+      "headerSourcePairs": [
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+          "label": "Original paper "
+        },
+        {
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf",
+          "label": "Source PDF "
+        }
+      ],
+      "loginGate": true,
+      "newFillHeading": false,
+      "path": "/research/paper-d1c144a22938229c",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "draft": true,
+      "h1": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+      "headerSourcePairs": [
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+          "label": "Original paper "
+        },
+        {
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf",
+          "label": "Source PDF "
+        }
+      ],
+      "loginGate": true,
+      "newFillHeading": false,
+      "path": "/research/paper-29343d5dff2c8e1b",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "draft": true,
+      "h1": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
+      "headerSourcePairs": [
+        {
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066",
+          "label": "Original paper "
+        },
+        {
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf",
+          "label": "Source PDF "
+        }
+      ],
+      "loginGate": true,
+      "newFillHeading": false,
+      "path": "/research/paper-84d99218fb837c75",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "draft": true,
+      "h1": "Effects of BPC-157 and TB-500 on Achilles tendon healing",
+      "headerSourcePairs": [
+        {
+          "href": "https://jointdrs.org/full-text/1851",
+          "label": "Original paper "
+        },
+        {
+          "href": "https://jointdrs.org/full-text-pdf/1851",
+          "label": "Source PDF "
+        }
+      ],
+      "loginGate": true,
+      "newFillHeading": false,
+      "path": "/research/paper-baf28ca7c2d11c45",
+      "scrollWidth": 390,
+      "width": 390
+    }
+  ],
+  "root_visual_checks": [
+    "Desktop knee1440x1000",
+    "Mobile tendon390x844 header/draft/previewparagraphs and locators, no clipping"
+  ],
+  "root_browser_console_errors_warnings": [],
+  "viewport_reset": true,
+  "root_owned_tab32_closed": true,
+  "verification_runtime": "First attempt bundled/defaultPython lackedbs4 withoutPYTHONPATH; rerunusingexistingwork/fill-audit-2/deps, no installs. FailedattemptnotcountedPASS.",
+  "prior_failure_retained": "First parity27d575a3 wrong sourceheader links; no push then. Corrected ordinary followup granted18:17. OldrenderV1 withdrawn/unapplied.",
+  "next_authorized_scope": "Apply exact V2render98655c86 only:35rootreviewedparagraphs, actualPDFURLs, same2paths. Then build/preservation/rendered35/mobile/rootfinalbeforethirdcommit/push.",
+  "scientific_clinical_release_approval": false
+}

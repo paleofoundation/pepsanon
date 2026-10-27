@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETE",
+  "workers": 4,
+  "delaySecondsPerWorker": 0.25,
+  "robots": "fail-closed checked before every URL and redirect",
+  "analyzerSha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+  "analysisOrigin": "Local raw HTML analyzed with its intended public URL; response URL rebased only for canonical comparison. Not live verification.",
+  "requests": 2,
+  "pages": 1,
+  "sourceHtml": "Unmodified response bytes"
+}

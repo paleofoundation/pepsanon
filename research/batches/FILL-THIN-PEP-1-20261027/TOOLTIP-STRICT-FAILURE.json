@@ -1,0 +1,12 @@
+{
+  "state": "FAILED_STRICT_TITLE_ATTRIBUTE_CHECK",
+  "location": "app/glossary/[slug]/page.tsx",
+  "literal": "source.title em-dash locator separator",
+  "baselineState": "Inherited unchanged renderer inserts separator in every citation tooltip",
+  "selectedVisibleMainText": "PASS zero em/en after two bounded data punctuation fixes",
+  "sourceAndLocatorData": "No new em/en; inherited selected locator repaired within existing object",
+  "sharedChange": "UNAPPLIED pending exact Elon GATE",
+  "proposedPatchSha256": "6f674112a6faba815d3c64c9d670d6f801514cd654fe79bf6b9607a31549f07c",
+  "proposedChange": "One literal em dash replaced by semicolon; no other code/route/source/logic alteration",
+  "globalZeroDashClaim": false
+}

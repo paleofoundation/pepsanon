@@ -1,0 +1,313 @@
+{
+  "created_at": "2026-10-27T18:27:59.684799+02:00",
+  "decision": "PASS_EXACT_35_FILLED_RENDERED_PARAGRAPHS_ROOT_UI_AND_PRESERVATION",
+  "candidate_sha256": "727ec4ef313b1dc6f4d11acf59d4b00738ea5c524af893f2e9b5e4e2f0aab976",
+  "paragraph_text_URL_locator_checks": 35,
+  "independent_five_inherited_article_text_and_all_link_tuples_equal_raw_live_after_removing_only_new_context": true,
+  "unselected_mainDOM_status_analyzer_values_unchanged": 136,
+  "baseline_git_files": 1148,
+  "baseline_files_byte_unchanged_except_granted_Shell": 1147,
+  "root_mobile_observations": [
+    {
+      "contextCount": 1,
+      "draft": true,
+      "loginGate": true,
+      "paragraphs": [
+        {
+          "citeText": "Source: PDF p2 Methods, Study Design; p3 Retrospective chart review and follow-up questions",
+          "fullText": "The investigators looked back through clinic charts and then contacted treated patients. This describes experience after a procedure rather than an experiment that assigned comparable patients to treatment and control groups. The reported improvement therefore cannot isolate the effect of the peptide from other explanations for a change in pain. Source: PDF p2 Methods, Study Design; p3 Retrospective chart review and follow-up questions",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=2",
+          "id": "paper-37c4f0f55f696512-P01",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Retrospective chart review and follow-up questions; p4 Discussion",
+          "fullText": "The patients had different suspected causes of knee pain, and imaging was not available for everyone. The discussion identifies this variation as a limitation. Results from that mixed clinical group should not be treated as a diagnosis-specific estimate for a confirmed meniscal tear, arthritis, or another particular knee condition. Source: PDF p3 Retrospective chart review and follow-up questions; p4 Discussion",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=3",
+          "id": "paper-37c4f0f55f696512-P02",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Retrospective chart review and follow-up questions",
+          "fullText": "Follow-up relied on telephone reports about pain, mobility, exercise tolerance, climbing stairs, sleep, and adverse events. The paper explicitly says that measurements were subjective and that objective testing did not verify the improvements. These are reports of patient experience, rather than demonstrated changes in tissue structure or measured physical performance. Source: PDF p3 Retrospective chart review and follow-up questions",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=3",
+          "id": "paper-37c4f0f55f696512-P03",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Inclusion Criteria; p3 Procedure and Results",
+          "fullText": "The clinic initially used BPC-157 with thymosin beta-4 and later used BPC-157 alone. The change was described as a clinical decision after observing improvement, rather than randomized allocation between the preparations. Their results cannot establish that either preparation is superior or that adding another peptide provides an additional benefit. Source: PDF p2 Inclusion Criteria; p3 Procedure and Results",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=2",
+          "id": "paper-37c4f0f55f696512-P04",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Retrospective chart review and follow-up questions; p5 Discussion and Conclusion",
+          "fullText": "Some patients had imaging before treatment, but the reported follow-up did not establish repair with post-treatment imaging. The authors call for future studies of structural changes. Relief of symptoms in this series should therefore be kept separate from a claim that cartilage, a meniscus, or a ligament was repaired. Source: PDF p3 Retrospective chart review and follow-up questions; p5 Discussion and Conclusion",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=3",
+          "id": "paper-37c4f0f55f696512-P05",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Retrospective chart review and follow-up questions; p5 Discussion",
+          "fullText": "Patients were asked about adverse events during follow-up, and the discussion reports that none were noted. That reporting method describes what was recalled and recorded in this series. It does not establish a comprehensive safety profile, especially for outcomes that require systematic surveillance or a longer observation period. Source: PDF p3 Retrospective chart review and follow-up questions; p5 Discussion",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=3",
+          "id": "paper-37c4f0f55f696512-P06",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p4 Discussion; p5 Discussion",
+          "fullText": "Steroid injections and platelet-rich plasma are discussed using other research, but neither was a concurrent comparison group in this study. Statements comparing those treatments with BPC-157 should not be read as results of a direct treatment comparison. The authors themselves describe comparative research as work still to be done. Source: PDF p4 Discussion; p5 Discussion",
+          "href": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=4",
+          "id": "paper-37c4f0f55f696512-P07",
+          "width": 350
+        }
+      ],
+      "path": "/research/paper-37c4f0f55f696512",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "contextCount": 1,
+      "draft": true,
+      "loginGate": true,
+      "paragraphs": [
+        {
+          "citeText": "Source: PDF p2 Methods, Study design; p3 Patients",
+          "fullText": "The methods describe a retrospective chart review at a clinic, followed by assessment of patients who had already received the procedure. Previous unsuccessful treatment with pentosan polysulfate was part of the clinical history. It did not create a randomized comparison between that medication and BPC-157 or establish that the new procedure caused the subsequent improvement. Source: PDF p2 Methods, Study design; p3 Patients",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=2",
+          "id": "paper-d1c144a22938229c-P01",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Methods; p3 Table 1 and Results",
+          "fullText": "The Global Response Assessment asked patients about perceived treatment effectiveness. The report describes follow-up timing in its methods and results in different ways, so the timing of the reported response remains a review question. A favorable questionnaire category should not be substituted for a controlled estimate of treatment benefit. Source: PDF p2 Methods; p3 Table 1 and Results",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=2",
+          "id": "paper-d1c144a22938229c-P02",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Procedure",
+          "fullText": "The treatment was delivered through an endoscopic procedure into the bladder wall. That preparation and route are central to what was observed. Findings from this clinic series do not establish an effect for oral products, injections elsewhere in the body, or products whose identity and preparation have not been matched to the study. Source: PDF p3 Procedure",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=3",
+          "id": "paper-d1c144a22938229c-P03",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Figure 1; p4 Figure 2; p5 Limitations",
+          "fullText": "Cystoscopic photographs illustrate the appearance of the bladder before and after treatment. The limitations state that biopsies before and after treatment were not performed. The photographs should not be treated as a complete histological assessment or as direct measurements of the cellular pathways discussed elsewhere in the article. Source: PDF p3 Figure 1; p4 Figure 2; p5 Limitations",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=3",
+          "id": "paper-d1c144a22938229c-P04",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Inclusion criteria, Exclusion criteria and Patients",
+          "fullText": "The study excluded people with signs of infection or a bladder tumor, as well as pregnancy and younger patients. Its treated population therefore represents a selected clinical setting. The findings should not be generalized to those excluded groups or to every cause of urinary symptoms without additional evidence. Source: PDF p3 Inclusion criteria, Exclusion criteria and Patients",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=3",
+          "id": "paper-d1c144a22938229c-P05",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Results; p5 Limitations",
+          "fullText": "The results describe symptoms and post-procedure complications that were not reported, including fever, rash and acute cystitis. These observations are bounded by the recorded patients and follow-up. The authors also acknowledge the absence of a sham control group, which limits interpretation of both subjective improvement and the procedure experience. Source: PDF p3 Results; p5 Limitations",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=3",
+          "id": "paper-d1c144a22938229c-P06",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Methods; p3 Procedure and Results; p4 Discussion; p5 Limitations",
+          "fullText": "Much of the mechanistic discussion draws on earlier animal and laboratory work. Those proposed pathways were not directly measured in the patients through the methods described here. The clinical observations and the cited biological explanations are different kinds of evidence, and the latter do not resolve the limitations of the uncontrolled design. Source: PDF p2 Methods; p3 Procedure and Results; p4 Discussion; p5 Limitations",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf#page=2",
+          "id": "paper-d1c144a22938229c-P07",
+          "width": 350
+        }
+      ],
+      "path": "/research/paper-d1c144a22938229c",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "contextCount": 1,
+      "draft": true,
+      "loginGate": true,
+      "paragraphs": [
+        {
+          "citeText": "Source: PDF p1 Abstract; p2 Methods, Inclusion Criteria, Exclusion Criteria and Patients",
+          "fullText": "The participants were recruited at a private clinic and had previously received intravenous BPC-157. The methods also describe health-related exclusions. This is a selected observation in previously exposed adults, rather than evidence about first exposure, every patient group, or the safety of repeated use in an unselected population. Source: PDF p1 Abstract; p2 Methods, Inclusion Criteria, Exclusion Criteria and Patients",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=1",
+          "id": "paper-29343d5dff2c8e1b-P01",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Patients, Procedure and Materials",
+          "fullText": "The investigators measured vital signs and selected blood tests and asked about symptoms around the infusions. The participants did not have an acute musculoskeletal injury in this study. These measurements address the reported short-term observation; they do not test whether the peptide improves pain, repairs an injury, or replaces another treatment. Source: PDF p2 Patients, Procedure and Materials",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=2",
+          "id": "paper-29343d5dff2c8e1b-P02",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Procedure; p3 Tables 1 and 2",
+          "fullText": "There was no saline-only or untreated comparison group in the described procedure. The participants received the peptide with saline and were measured repeatedly over time. Without a concurrent comparison, changes in a laboratory value cannot be uniquely attributed to the peptide or distinguished from other influences on that measurement. Source: PDF p2 Procedure; p3 Tables 1 and 2",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=2",
+          "id": "paper-29343d5dff2c8e1b-P03",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Tables 1 and 2",
+          "fullText": "The individual laboratory tables contain changing measurements rather than an entirely unchanged set of values. They also record a platelet sample cancelled because of clumping. The tables should be read as the observations available for these participants, with that missing measurement retained, rather than as complete proof that every tested system was unaffected. Source: PDF p3 Tables 1 and 2",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=3",
+          "id": "paper-29343d5dff2c8e1b-P04",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Procedure; p3 Results; p4 Limitations",
+          "fullText": "Participants were questioned about a specified list of reactions during and after the infusions. The absence of reported symptoms over that observation window does not answer questions about delayed effects, uncommon reactions, or exposure over a longer period. The limitations acknowledge the brief timeframe and lack of a sham control group. Source: PDF p2 Procedure; p3 Results; p4 Limitations",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=2",
+          "id": "paper-29343d5dff2c8e1b-P05",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Procedure; inspected article PDF pp1-5",
+          "fullText": "The paper states that the compounded preparation had a certificate of analysis and independent endotoxin verification. The underlying certificate and testing reports are not reproduced in the inspected article. That statement about the study preparation should not be transferred to an online product, another batch, or another administration route. Source: PDF p2 Procedure; inspected article PDF pp1-5",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=2",
+          "id": "paper-29343d5dff2c8e1b-P06",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Discussion",
+          "fullText": "The discussion proposes dehydration as a possible explanation for a kidney-related laboratory change. The study did not experimentally test that explanation. An offered explanation for an individual measurement is different from a demonstrated cause, and it cannot establish that clinically important kidney effects have been excluded in other users. Source: PDF p3 Discussion",
+          "href": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=3",
+          "id": "paper-29343d5dff2c8e1b-P07",
+          "width": 350
+        }
+      ],
+      "path": "/research/paper-29343d5dff2c8e1b",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "contextCount": 1,
+      "draft": true,
+      "loginGate": true,
+      "paragraphs": [
+        {
+          "citeText": "Source: PDF p7 Experimental Section 4.1; p8 Primary culture and BPC 157 Treatment",
+          "fullText": "The experimental material was cultured fibroblasts obtained from rat Achilles tendons. The investigators examined those cells under laboratory conditions rather than treating people with tendon injuries. The results describe a possible cellular mechanism; they do not directly measure pain relief, recovery time, or the strength of a healed human tendon. Source: PDF p7 Experimental Section 4.1; p8 Primary culture and BPC 157 Treatment",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=7",
+          "id": "paper-84d99218fb837c75-P01",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Results 2.1; p8 Experimental Sections 4.3 and 4.4; p9 Conclusions",
+          "fullText": "Receptor expression was assessed at the RNA level using PCR and at the protein level using Western blotting. These assays address related but distinct measurements. An increase in the measured receptor signal is not itself a measurement of tendon repair, and the article presents clinical use as a future possibility. Source: PDF p3 Results 2.1; p8 Experimental Sections 4.3 and 4.4; p9 Conclusions",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=3",
+          "id": "paper-84d99218fb837c75-P02",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Results 2.2; p6 Discussion",
+          "fullText": "For the proliferation-related experiments, growth hormone was added after pretreatment with BPC-157. That sequence matters when interpreting the reported response. The authors were testing whether pretreatment altered the response to added hormone, rather than showing that the peptide alone produced the same result in an injured tendon. Source: PDF p3 Results 2.2; p6 Discussion",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=3",
+          "id": "paper-84d99218fb837c75-P03",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Results 2.2; p5 Figure 3; p9 MTT Assay",
+          "fullText": "The investigators used an MTT assay for viable-cell activity and examined expression of the proliferation-associated marker PCNA. These laboratory readouts provide complementary information about the cultured cells. They are not measurements of restored tendon function, and neither establishes how a patient would respond to a treatment. Source: PDF p3 Results 2.2; p5 Figure 3; p9 MTT Assay",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=3",
+          "id": "paper-84d99218fb837c75-P04",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p5 Results 2.3; p6 Figure 4; p7 Discussion",
+          "fullText": "The signaling experiments examined phosphorylated JAK2 after growth hormone was added to pretreated cells. The report distinguishes this activation-related signal from the total amount of JAK2. Keeping those measurements separate avoids turning a result about signaling in a cell experiment into a broader claim about increased protein throughout a tissue. Source: PDF p5 Results 2.3; p6 Figure 4; p7 Discussion",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=5",
+          "id": "paper-84d99218fb837c75-P05",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p5 Results 2.3; p6 Figure 4 caption",
+          "fullText": "The growth hormone concentration printed in the signaling-results text differs from the concentration printed in the corresponding figure caption. That reporting discrepancy remains unresolved here. The experiment should not be converted into a treatment protocol or a precise exposure claim by silently choosing whichever account appears more convenient. Source: PDF p5 Results 2.3; p6 Figure 4 caption",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=5",
+          "id": "paper-84d99218fb837c75-P06",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p7 Discussion; p9 Conclusions",
+          "fullText": "The discussion explicitly acknowledges that cultured fibroblasts do not reproduce the full environment of a healing tendon. Interactions with other cell types may matter in living tissue. The authors describe a potential mechanism, while the relevance of that mechanism to clinical treatment remains a question for further research. Source: PDF p7 Discussion; p9 Conclusions",
+          "href": "https://www.mdpi.com/1420-3049/19/11/19066/pdf#page=7",
+          "id": "paper-84d99218fb837c75-P07",
+          "width": 350
+        }
+      ],
+      "path": "/research/paper-84d99218fb837c75",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "contextCount": 1,
+      "draft": true,
+      "loginGate": true,
+      "paragraphs": [
+        {
+          "citeText": "Source: PDF p2 Materials and Methods; p3 Figure 1; p4 Surgical procedure",
+          "fullText": "The experiment used healthy young male rats with surgically transected and repaired Achilles tendons. Treatments were given by the intraperitoneal route. This model tests observations within that repair setting, rather than a nonsurgical treatment for a human tear or the clinical performance of a consumer peptide product. Source: PDF p2 Materials and Methods; p3 Figure 1; p4 Surgical procedure",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=2",
+          "id": "paper-baf28ca7c2d11c45-P01",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Materials and Methods; p3 Figure 1 and outcome allocation",
+          "fullText": "Tendons were allocated to biomechanical testing or to histological, histochemical and immunohistochemical evaluation. The animals contributing to a particular endpoint should therefore be understood through that allocation. The full treatment-group size is not the number of independent specimens available for every measurement in the paper. Source: PDF p2 Materials and Methods; p3 Figure 1 and outcome allocation",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=2",
+          "id": "paper-baf28ca7c2d11c45-P02",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p3 Histopathological evaluation and biomechanical testing; p14 Limitations",
+          "fullText": "The pathologist was blinded to group allocation, and biomechanical testing used coded specimens. The report separately states that blinding was not feasible during surgery or daily treatment administration. Those safeguards and limitations belong to different stages of the experiment; assessor blinding should not be described as blinding of the entire study. Source: PDF p3 Histopathological evaluation and biomechanical testing; p14 Limitations",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=3",
+          "id": "paper-baf28ca7c2d11c45-P03",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p14 Limitations",
+          "fullText": "The mechanical evaluation measured maximum load to failure. The limitations explain that tendon cross-sectional area was not measured and that stress-based properties could not be calculated. A load measurement should therefore not be relabeled as a complete assessment of material strength, stiffness, or the functional performance of a healed tendon. Source: PDF p14 Limitations",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=14",
+          "id": "paper-baf28ca7c2d11c45-P04",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p14 Discussion",
+          "fullText": "The authors discuss possible explanations for the lack of an additional combination effect, but molecular and pharmacokinetic analyses were not performed. Those explanations remain hypotheses rather than measured mechanisms. The combination result does not demonstrate that the peptides act through the proposed pathways or establish an optimal way to combine them. Source: PDF p14 Discussion",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=14",
+          "id": "paper-baf28ca7c2d11c45-P05",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p2 Materials and Methods; p14 Limitations and Conclusion",
+          "fullText": "Histological findings and mechanical load were different endpoints, assessed with different methods. An improvement in a selected tissue score does not establish improvement in every mechanical property. The authors call for broader biomechanical and functional measurements, so a favorable laboratory endpoint should retain its specific name and scope. Source: PDF p2 Materials and Methods; p14 Limitations and Conclusion",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=2",
+          "id": "paper-baf28ca7c2d11c45-P06",
+          "width": 350
+        },
+        {
+          "citeText": "Source: PDF p14 Limitations and Conclusion",
+          "fullText": "Assessment was limited to an early stage of repair, and functional testing and later tendon maturation were not evaluated. The discussion also identifies the healthy rat model and the absence of formal dose-response characterization as limitations. The authors describe the findings as hypothesis-generating, rather than confirmatory evidence for clinical treatment. Source: PDF p14 Limitations and Conclusion",
+          "href": "https://jointdrs.org/full-text-pdf/1851#page=14",
+          "id": "paper-baf28ca7c2d11c45-P07",
+          "width": 350
+        }
+      ],
+      "path": "/research/paper-baf28ca7c2d11c45",
+      "scrollWidth": 390,
+      "width": 390
+    }
+  ],
+  "desktop_context": "Tendon1440x1000 visually inspected;844pxparagraphs,pagewidth1440. Mobiletendon390x844 paragraph/locatorwrap inspected.",
+  "console_errors_warnings": [],
+  "root_owned_tab33_closed": true,
+  "viewport_reset": true,
+  "remaining_flags": "Knee andIV claims_with_1_citations underunchangedanalyzer officialPDFhosts; sameonepaperfamily each, no countgaming.",
+  "limits": "No scientificclinicalreleaseapproval. Seal packet/manifest and rootprecommitreview before thirdordinarycommit thenplainpushdraft."
+}

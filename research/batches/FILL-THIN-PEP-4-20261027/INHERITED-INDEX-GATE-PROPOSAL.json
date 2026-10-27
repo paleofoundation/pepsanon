@@ -1,0 +1,44 @@
+{
+  "at": "2026-10-27T12:32:52.029447+00:00",
+  "state": "INHERITED_GAP_UNAPPLIED_BASE_RESTORED",
+  "path": "lib/data/glossary-index.json",
+  "baseSha256": "18deda5e76f48f3d7d0109ce4c408fb26de1b971ca1d5a1da6b9272c193f4a03",
+  "generatedSha256": "cb1ebaf328a87e8c131e5fb9da544595d4942e9f778281555112d638fba5a56b",
+  "diff": [
+    {
+      "slug": "auc",
+      "baseSourceIds": [
+        "bpcpk"
+      ],
+      "generatedSourceIds": [
+        "bpcpk",
+        "cjc"
+      ]
+    },
+    {
+      "slug": "cmax",
+      "baseSourceIds": [
+        "bpcpk"
+      ],
+      "generatedSourceIds": [
+        "bpcpk",
+        "cjc"
+      ]
+    },
+    {
+      "slug": "tmax",
+      "baseSourceIds": [
+        "bpcpk"
+      ],
+      "generatedSourceIds": [
+        "bpcpk",
+        "cjc"
+      ]
+    }
+  ],
+  "cause": "PEP3 canonical definitions already add CJC, but accepted base index omits it for these3prior records; PEP4 changes no definition citation arrays",
+  "scopeDecision": "Do not alter3prior PEP3 records or shared index within current ten-term fill; restore exact accepted base and disclose for separate gate/ruling",
+  "unappliedPatchSha256": "05deb1890efe167046ca217f57cca0978bf613ed8093197b381f3520fc1f9984",
+  "currentImplementationNotBlocked": true,
+  "canonicalGlossaryChangedByGenerator": false
+}

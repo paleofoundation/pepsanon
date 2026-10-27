@@ -1,0 +1,306 @@
+{
+  "at": "2026-10-27T13:06:13.619854+00:00",
+  "result": "PASS_BOUNDED_EXACT63_SOURCE_LOCATED_PARAGRAPHS_NINE_TERMS",
+  "candidate": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-pep-1/checkout/research/batches/FILL-THIN-PEP-5-20261027/ADDITIONS-v3-NINE-UNAPPLIED.json",
+  "candidateSha256": "b032f582ce2434d2cb201f0ad41dcac9a45a79b06fb556202cd186afd98eac74",
+  "candidateRecords": 63,
+  "terms": [
+    "collagen",
+    "control-group",
+    "glp-1",
+    "immunogenicity",
+    "intravenous",
+    "placebo",
+    "preclinical",
+    "randomized-controlled-trial",
+    "route-of-administration"
+  ],
+  "bindings": {
+    "PLAN-v1.md": "af9471a9cadafe351b8b28f4dc5d64e3857946c2bc7f0e3cb59e7e8f2ac43401",
+    "SOURCE-INPUTS-v2.json": "9a8c8236fcf96b7c83ca177415d461975a16ee2d9497821a48b2a8f2916724dc",
+    "SOURCE-READING-v3.json": "371cd7ce19ef01b1c05a3d3705c38c4164e7b84d6c12c4c447a9902ab01f60fc",
+    "CITATION-ATTEMPT-v1.json": "4edf90fc9cc821834a561f03897c59cd314224bf07caeffffa627963ad67eb41",
+    "V2-TO-V3-PRECISION-CORRECTION.json": "ed02fc0e1cc13cf7fc71ec76f0609fc32b622a89364ce40ec0d19f12c96236ee"
+  },
+  "rootFreshOriginals": [
+    {
+      "source": "bpcpk",
+      "file": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "doi": "10.3389/fphar.2022.1026182",
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+          "topic": "bpc-157",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/bpcpk.txt",
+      "rootTextSha256": "0a68989ce31e3a15e71908ba5250032e803d2aec342163affa840b7713c1bb17"
+    },
+    {
+      "source": "cjc",
+      "file": "paper-68bd15da459b37ca.pdf",
+      "sha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+      "doi": "10.1210/jc.2005-1536",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "existingCanonicalObject": true,
+      "binding": "HELD_STUDY_ORIGINALS",
+      "rootOriginal": "/Users/kmfp/Documents/ChatGPT/Pepsanon.com/launch/study-reviews/batch-2-sources-2026-10-11/paper-68bd15da459b37ca.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/cjc.txt",
+      "rootTextSha256": "31c9010c869451f5a6545f143ad05d411787da5bbe4144a2ec57888b1c1c473e"
+    },
+    {
+      "source": "collagen",
+      "file": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "sha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88",
+      "doi": "10.3390/nu11051064",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+          "topic": "collagen",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/collagen.txt",
+      "rootTextSha256": "395d64d277e126719578057b3b2538bd99185dc3a99f2873db4474b35f185211"
+    },
+    {
+      "source": "eye",
+      "file": "0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+      "sha256": "3d36897d69374c4251d5a77f0867ba38a3810401041538edf000960c6a9dd632",
+      "doi": "10.3390/ijms24010554",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+          "topic": "tb-500",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/eye.txt",
+      "rootTextSha256": "3f6383cb8c0c95017baf517a696ff35b26caa18987661e1e9a3536f951e5e19b"
+    },
+    {
+      "source": "fibro",
+      "file": "Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+      "sha256": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+      "doi": "10.3390/molecules191119066",
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+          "topic": "bpc-157",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/fibro.txt",
+      "rootTextSha256": "d5fd010482467dac65c97a3642b2e1bfce5c4e48b7a729db8d5013fc944bfb05"
+    },
+    {
+      "source": "gip",
+      "file": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "sha256": "c5ab3c2bdb380d60d739a01ef78badafe2e08e549e6699fbebe01636736861ad",
+      "doi": "10.1111/dom.14174",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+          "topic": "tirzepatide",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/gip.txt",
+      "rootTextSha256": "9d58cda1d55fe30d7b5c43f0f98ae94e7691ee785bcf93cd1fee3c47f04d0614"
+    },
+    {
+      "source": "phase1",
+      "file": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+      "sha256": "20495706952071b174ab04bab2d4755a0055226a69a3ad9ac73e65201a78722c",
+      "doi": "10.1111/jcmm.16693",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+          "topic": "tb-500",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/phase1.txt",
+      "rootTextSha256": "7c995e8836d317406198a773233b3f06ff68f1f7698edf52f5cd38537f6912d4"
+    },
+    {
+      "source": "skin",
+      "file": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "sha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+      "doi": "10.1007/s00011-010-0238-9",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+          "topic": "ghk-cu",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/skin.txt",
+      "rootTextSha256": "f3b0f42637686ee7406a425a2131fb65dc989316e2732557262bd81c144cd207"
+    },
+    {
+      "source": "step",
+      "file": "Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "sha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913",
+      "doi": "10.1111/dom.14725",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+          "topic": "semaglutide",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/step.txt",
+      "rootTextSha256": "b6e51f4e58f8592592683bc730bf924baafd3b37cdfc8462b3b4286b0be8e98d"
+    },
+    {
+      "source": "tendon",
+      "file": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "sha256": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+      "doi": "10.52312/jdrs.2026.2951",
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+          "topic": "bpc-157",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/tendon.txt",
+      "rootTextSha256": "a22138b077394df7be8b813b941aeb0bd4289a28492099dd138741f9e60103a7"
+    }
+  ],
+  "rootSelectedPhysicalPagesRead": {
+    "bpcpk": [
+      13,
+      14,
+      15
+    ],
+    "collagen": [
+      2,
+      3,
+      4,
+      9,
+      10
+    ],
+    "eye": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "fibro": [
+      2,
+      3,
+      7
+    ],
+    "gip": [
+      2,
+      7,
+      8
+    ],
+    "phase1": [
+      2,
+      3,
+      5
+    ],
+    "skin": [
+      2,
+      3,
+      6
+    ],
+    "step": [
+      3,
+      4,
+      5,
+      9,
+      10
+    ],
+    "tendon": [
+      2,
+      3,
+      4,
+      14
+    ],
+    "cjc": "Fresh original hashbinding only this checkpoint, no newprose usesCJC; failedsource-specificcitationattempts documented, previousexactCJCreading notclaimedfreshfullread"
+  },
+  "rootVisuals": {
+    "phase1": [
+      2,
+      3,
+      5
+    ],
+    "tendon": [
+      14
+    ]
+  },
+  "revisionHistory": {
+    "v1": "729c40b4bb6d2e5cc3d17ede8ae69b4f5311c5c92a1e87c13a3d7abe9e6c0beb",
+    "v2": "743781347c3a6b02a8924a62173f01bd5593832740e335a70cb26ec0ef88e9c3",
+    "v3OnlyChange": [
+      40
+    ]
+  },
+  "bounds": [
+    "Collagen10healthyyoungmen/processedbeveragesrandomizedcrossover/water/orderandlabmasking/dietactivitystandardization/plasmaNMR. Enzymaticdifferences aminoacid-specificnotuniversalcomponentimprovement/joint-tendonrepair/painorinjuryrecovery. Discussionotheranimal/humanstudiesnotthistrialresults.",
+    "TendonratsinjuryKesslerrepair/controlvehicle/randomizedgroups/endpointsseparatelyallocatedspecimens; pathologist/codedmechanicsmaskednotprocedures/treatment. Fourweek/younghealthy/smalln/noformalapripower/nofunctionalassessment/molecularPKorcomprehensivebiomechanicaltesting. Originalp14limitationsnotp7table, v1locatorsretainedhistory/nohumanclinicaltranslation.",
+    "Fibroisolatedratcells/receptorexpressionPCRWestern/MTTPCNA andgrowthhormoneaddition notingestedcollagen/clinicaltendonrepair. Cellinteractions/invivoenvironmentnotreproduced.",
+    "BPC157specifiedpreparation/ratdogIV-IM parentLCMS samplingdistinctsinglerepeated/radiolabeledtissueandmetaboliteassays; radioactivitynotintactparent, targettissuemetabolitesuncheckedinoriginal, validationomissions/sourcefuturedevelopmentnotprovenhumanregimen/benefit.",
+    "SkinGHK-Cu/complexrearrangementexcisedcadaverstrata/diffusioncells/copperICPMS notintactpeptideinsystemiccirculation/injectionefficacy. Differentproducts/routes/assaysretained.",
+    "Phase1NL005specifiedrecombinantthymosinIV/healthy screenedADA-negative/nonallergicvolunteers/SAD-MADsalineplaceboindistinguishablebyshape/color/package/label. LCMSparentPKseparateindirectELISAscreenconfirmtitre, initiallypositiveslaternegative andauthorssystematicerrorinterpretationnotproofimmuneabsence/indefiniteuse/otherformulations/diseaseefficacy.",
+    "GIPtirzepatidedualagonism/T2Dparenttrialstoredavailablefastingbiomarkers/notsemaglutide/receptoractivityineverytissue. LPLmassnottissueactivity/posthocselection/staticmeasurementcannotresolvekinetics, plannedCVOTnotcompletedCVeventbenefitdemonstration.",
+    "STEPextensionselectedcompleters/offdrugandoffmainlifestyle/exploratorydescriptive/historicalgroupsnotcontinuingtreatment/randomizednewwithdrawalorallGLP1drugs. V3exactrecord40statesreportnotdiscussionandaddsp4explicitunrecordedlifestyleparticipation; p5analysis/p10selectedcompleterslimits kept.",
+    "EyeRGN259specificocularNKpopulation/randomizedmaskedplacebo/primarycompletePEDhealingdistinctsecondarysymptoms/safety/sensitivity/alternativeanalyses;slowrecruitmentearlytermination18vsplanned46/lesionageimbalances notdecisiveclinicalbenefit. Nohead-to-headotherthymosinproducts.",
+    "Tripeptide/oral/receptoragonist priorprose/citationsunchanged, heldlookups0newcites honestcitationthin. No crossdrug corroboration. Tenfreshhashbindings,nineselectedoriginalpassages only; no newprimarytrialorfullscientificreview/currentintegrity/release. HomepageexcludedpendingElonGATE, no automaticbiomarkerreplacement."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "newGrade": 0,
+  "releaseApproval": false
+}

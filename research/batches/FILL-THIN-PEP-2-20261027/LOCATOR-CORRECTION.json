@@ -1,0 +1,16 @@
+{
+  "time": "2026-10-27T10:47:24.894338+00:00",
+  "source": "Root source audit plus own original PDFp5 visual check",
+  "changes": [
+    {
+      "slug": "fibroblast",
+      "text": "The authors assessed viable cells with a laboratory assay and also examined a proliferation-associated marker, keeping these cellular readouts separate from a mechanical test of whether a repaired tendon can withstand loading.",
+      "before": "PDF p3 Results 2.2; p4 Figure 3; p9 MTT assay",
+      "after": "PDF p3 Results 2.2; p5 Figure 3; p9 MTT assay"
+    }
+  ],
+  "proseChanged": false,
+  "candidate": "ADDITIONS-v4.json",
+  "priorCandidate": "ADDITIONS-v3.json retained as history",
+  "scientificApproval": false
+}

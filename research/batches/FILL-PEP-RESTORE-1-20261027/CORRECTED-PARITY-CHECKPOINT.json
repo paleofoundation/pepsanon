@@ -1,0 +1,18 @@
+{
+  "status": "CORRECTED-PARITY-PASS",
+  "failedInitialParityCommit": "27d575a3ba0ce38a3a1700ef0c407daf80345a94",
+  "ordinaryCorrectionCommit": "f53bef6d8776cd0518403e872ce576ef9f49a107",
+  "correctedPreviewSha256": "b505b86484ff61d7fec85ce2702c33a7b5884fbb5421908c8c22718a349835f9",
+  "serverSha256": "488f69e07fd43eca9085e5b989a114565992fa04bb44c59624e63432e44ade77",
+  "exactLiveHeaderLinkPairs": 10,
+  "exactLiveArticles": 5,
+  "outsideHistoricalMainDomAndAnalysisExact": 136,
+  "priorPacketFilesExact": 409,
+  "baseTrackedFilesExactExceptExactShellPredicate": 1147,
+  "fullReviewPayloadRestored": false,
+  "fillApplied": false,
+  "rootMobile": "pending",
+  "scientificApproval": false,
+  "release": false,
+  "recordedAt": "2026-10-27T18:20:13.482750+02:00"
+}

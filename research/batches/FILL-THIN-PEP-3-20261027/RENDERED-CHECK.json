@@ -1,0 +1,892 @@
+{
+  "status": "PASS",
+  "preservedInitialEightArticles": [
+    {
+      "slug": "amino-acid",
+      "articleHtmlSha256": "44d1f570748146fc1f3f20f76235c8addd3fa2ae4013061f4c7af5c4cc188a50"
+    },
+    {
+      "slug": "baseline",
+      "articleHtmlSha256": "3f157b1dc1911535d9f41f70c24241f5323d094b61460b942c824cde7bd5c76a"
+    },
+    {
+      "slug": "bioavailability",
+      "articleHtmlSha256": "c2b0412c512ab0a8b69a4f150cf896b4850dd27e080dcbae9db1c42fba1f3cbf"
+    },
+    {
+      "slug": "case-series",
+      "articleHtmlSha256": "3d68f50c774ee979a588513f9a1842ae42094940929bcbeebdaf3b1e2c9bbc56"
+    },
+    {
+      "slug": "endotoxin",
+      "articleHtmlSha256": "06d6be5bec055aeeab41d565111e08873b9213b2e62a65cdaf09779689c3f977"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "articleHtmlSha256": "8324762ac9971024ee921929ace6315843311d2f200059dcfddf77f815f871d9"
+    },
+    {
+      "slug": "metabolism",
+      "articleHtmlSha256": "6ae2000c07859710cbfa30263819abfb4fa29b26b38aafe75fed9f551b82b992"
+    },
+    {
+      "slug": "topical",
+      "articleHtmlSha256": "b174fab72f9023f0116b61ffa6ef745b2cc834c73ab2cc61f980fab9c27dc67d"
+    }
+  ],
+  "rows": [
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/pharmacodynamics",
+      "beforeWords": 457,
+      "afterWords": 457,
+      "deltaWords": 0,
+      "beforeCitations": 6,
+      "afterCitations": 6,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "74111a75602d04c161fbe886eb72bff9c50f80281e67c85701ed08b12eb56952",
+      "afterHtmlSha256": "aca265e714a2ba88a7122488a2f5a60f529633c8cee8d79fe6e014953bf87c66"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/growth-hormone-secretagogue",
+      "beforeWords": 470,
+      "afterWords": 470,
+      "deltaWords": 0,
+      "beforeCitations": 6,
+      "afterCitations": 6,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "38d2e5b3096c2aca062e8ab00bf319ba8fb3a80ce33238a07ec67d3f263194a5",
+      "afterHtmlSha256": "dcf2aede53920466aa5c2aee1451cc0a268ba28b1019e53b9ae6bcccbbc61a01"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/sterility",
+      "beforeWords": 368,
+      "afterWords": 368,
+      "deltaWords": 0,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "words<400;claims_with_2_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "30bf646d42f932ac8de0f899af45a739672ddb1909e4769a1cc0bee84bb658e0",
+      "afterHtmlSha256": "f8ba9d534a27bdac25beb08934a83ba4ace4fa2e110f658249e16a061830c916"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/igf-1",
+      "beforeWords": 429,
+      "afterWords": 429,
+      "deltaWords": 0,
+      "beforeCitations": 4,
+      "afterCitations": 4,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "5f380f8bd9082785624dbb08d2db996211b26bba9c76404df14a9b614cb54905",
+      "afterHtmlSha256": "a71415d910dbd13e5a516ad959a49aec0726d850484f06545c27ea5c0f7186b1"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/in-vivo",
+      "beforeWords": 428,
+      "afterWords": 428,
+      "deltaWords": 0,
+      "beforeCitations": 4,
+      "afterCitations": 4,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "16e9f8e9777ac8c7ad1d72aa4eea763e0d036fa7359da9b7533515e77a7a4a03",
+      "afterHtmlSha256": "bbd0aa1886db17fc7c84a7f3cb73526cd4de04dc699ce55cdf5b5757462cbb6b"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/in-vitro",
+      "beforeWords": 447,
+      "afterWords": 447,
+      "deltaWords": 0,
+      "beforeCitations": 4,
+      "afterCitations": 4,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "4f8d114ae77324e858b8bfed5a25939ded9c82d3d7ba027b44dfed79ffdc3982",
+      "afterHtmlSha256": "b5ae9d0884be06a8c59fa6ef1d1d148fe36342cba5bb84985c8a6f379df008d2"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/ghrh",
+      "beforeWords": 421,
+      "afterWords": 421,
+      "deltaWords": 0,
+      "beforeCitations": 4,
+      "afterCitations": 4,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "1849f4c956b85ef21ebe06a0247a3badcc2f762bac1871ddeb5a9d96d74107c8",
+      "afterHtmlSha256": "85bbf76d15c661748be143db5feff2578fa5351764b102f9f9a92f8f4b64cd90"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/pentadecapeptide",
+      "beforeWords": 443,
+      "afterWords": 443,
+      "deltaWords": 0,
+      "beforeCitations": 4,
+      "afterCitations": 4,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "ce6569b4d2be994ff054feb5df3f1092aa7ced9ac9fb8ab1635ca851155b8713",
+      "afterHtmlSha256": "d3b1b8d64234e32f894aabf958412c27fc178bd57c44731857549ee3fc5743d6"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/intramuscular",
+      "beforeWords": 452,
+      "afterWords": 452,
+      "deltaWords": 0,
+      "beforeCitations": 3,
+      "afterCitations": 3,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "597795adbdd4bda2122e7308162eef638fbd8fb80afbe27c10501179cd45acab",
+      "afterHtmlSha256": "f6a77ca902a2583a86c2fccb35ca2ae0e6b4b02cb0a9669e4c6d9c9ccb09b870"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/intra-articular",
+      "beforeWords": 468,
+      "afterWords": 468,
+      "deltaWords": 0,
+      "beforeCitations": 3,
+      "afterCitations": 3,
+      "beforeThin": "no",
+      "afterThin": "no",
+      "beforeFlags": "",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "65a2ce4593b76d8580f80b5f6360a12583481154ecb51c53e7070282d529f05e",
+      "afterHtmlSha256": "1cefbd6a259703a1dd1fbf155791fe095eb23007982edf25230ff1f06771f075"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "beforeWords": 415,
+      "afterWords": 415,
+      "deltaWords": 0,
+      "beforeCitations": 1,
+      "afterCitations": 1,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "afterFlags": "claims_with_1_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "690eaebdcf96c6aa68589adbccc6ee2e595015d97d1acf70541bc83acbfbed99",
+      "afterHtmlSha256": "35aa360d3f5d7554ab0294a1fb94ad32b0f50ea31ce38b846546889f7604727e"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/tmax",
+      "beforeWords": 428,
+      "afterWords": 473,
+      "deltaWords": 45,
+      "beforeCitations": 2,
+      "afterCitations": 4,
+      "beforeThin": "yes",
+      "afterThin": "no",
+      "beforeFlags": "claims_with_2_citations",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 11,
+      "beforeHtmlSha256": "69a6944f9ebe2992234bd29f1785b0b566b618ebf20856c60376d2e9ca74c17b",
+      "afterHtmlSha256": "ed8b3e48fdcbd19aa252ad6249bab75da463d405db02f1427ce7aba22075c0e1"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/histology",
+      "beforeWords": 427,
+      "afterWords": 427,
+      "deltaWords": 0,
+      "beforeCitations": 1,
+      "afterCitations": 1,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "afterFlags": "claims_with_1_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "b9327ad49f0f6282c43cdd31fd8d34ddc37a358a31f09d5088e751042a7c6bf0",
+      "afterHtmlSha256": "4a2148438c2b34272917fe8d39ed983e0392c9b669b458bae40437369ea872f3"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/auc",
+      "beforeWords": 433,
+      "afterWords": 478,
+      "deltaWords": 45,
+      "beforeCitations": 2,
+      "afterCitations": 4,
+      "beforeThin": "yes",
+      "afterThin": "no",
+      "beforeFlags": "claims_with_2_citations",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 11,
+      "beforeHtmlSha256": "69eff73c96a944eb640d1a383e7ac0b907b507ba16e4a0716e2fb025b26214df",
+      "afterHtmlSha256": "ade91b143e2c7a2d2c85b199d832a5a75901d0f3dd78ca18991b63d040f1c0a2"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/absorption",
+      "beforeWords": 440,
+      "afterWords": 440,
+      "deltaWords": 0,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "f5b1e35b8aa0b3342af4415c38b31b2d7d621ef05c2e9e05c3d5c6ee164f1e4e",
+      "afterHtmlSha256": "6bd80a5aab4c85b53c753b8b5259a6396605118b04080b8f65d0a991a8a388bc"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "beforeWords": 466,
+      "afterWords": 466,
+      "deltaWords": 0,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "487a0e318a95fe69ab7564eb01473e354a6c0582fde2e5573d276be08a47cf4e",
+      "afterHtmlSha256": "136d03412ea87bac3738ed18a3b467d3507e0d408a9cca29cb9dc678ba5d7694"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/cmax",
+      "beforeWords": 435,
+      "afterWords": 480,
+      "deltaWords": 45,
+      "beforeCitations": 2,
+      "afterCitations": 4,
+      "beforeThin": "yes",
+      "afterThin": "no",
+      "beforeFlags": "claims_with_2_citations",
+      "afterFlags": "",
+      "newSentences": 0,
+      "citationTargets": 11,
+      "beforeHtmlSha256": "6b3967ffd235d5e6068e310e3b08092951c755a5ee58432a07fe5b6afb2e99c1",
+      "afterHtmlSha256": "dfbcddeae85429ed5411c03752e49d2b520b8c55cf1f7484a18b40bb8d5bcc37"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/receptor",
+      "beforeWords": 448,
+      "afterWords": 448,
+      "deltaWords": 0,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "52ca51825f9c2e4c38cf2a74a3196fa667c133941672c7929cac56e6d6224dc8",
+      "afterHtmlSha256": "2afedbdea9f9e9c8620ea710c9a9a9afa44c10f598f5c9d5ca19037a8faf3350"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "beforeWords": 436,
+      "afterWords": 436,
+      "deltaWords": 0,
+      "beforeCitations": 1,
+      "afterCitations": 1,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "afterFlags": "claims_with_1_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "53c3e2be3c9f7017bc54f3f6d829b8b719151445d0efc47188beb97c1914e132",
+      "afterHtmlSha256": "efd35ff4514777f32627cf4903a3c0cdf497e79414059252b7f910ad10d99d95"
+    },
+    {
+      "part": "A",
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "beforeWords": 437,
+      "afterWords": 437,
+      "deltaWords": 0,
+      "beforeCitations": 1,
+      "afterCitations": 1,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "afterFlags": "claims_with_1_citations",
+      "newSentences": 0,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "9a6f2ecbad40e07b49f79f833d565aaa429bdc95319563b4a7c89ba405c50572",
+      "afterHtmlSha256": "90d7ce600e8c27465ca933dc9075e7611cb1202d68dcb856cac044eac497a9cf"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/baseline",
+      "beforeWords": 190,
+      "afterWords": 436,
+      "deltaWords": 246,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "04c62213d4612d77cae312a23b377faf2718448478dbf55b6e48ea932d00d8e0",
+      "afterHtmlSha256": "d226864b4354760752c439e8929ffa6ff51cc5dbd8948a61aa0b870a2ee3ac83"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/bioavailability",
+      "beforeWords": 190,
+      "afterWords": 451,
+      "deltaWords": 261,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "ecc08d049409cf3196246c9d42a0e1825a19d59ce50f362aae9119a6100ca8e1",
+      "afterHtmlSha256": "990c85f04c6643ccdd645eb1ca97ca8f3ebe5f9480fb380856eec3a2a000837e"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/endotoxin",
+      "beforeWords": 187,
+      "afterWords": 432,
+      "deltaWords": 245,
+      "beforeCitations": 4,
+      "afterCitations": 4,
+      "beforeThin": "yes",
+      "afterThin": "no",
+      "beforeFlags": "words<400",
+      "afterFlags": "",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "1546b7ca84a2e46a7e7bbf05406f6135fb3715a7cf351306273192178d01ad2a",
+      "afterHtmlSha256": "b33b9b3ede6a496a3ece70af53483ed2c4d88ab357af1dc68a7f7119c20affa5"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/case-series",
+      "beforeWords": 191,
+      "afterWords": 436,
+      "deltaWords": 245,
+      "beforeCitations": 1,
+      "afterCitations": 1,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_1_citations",
+      "afterFlags": "claims_with_1_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "6b775ddde3c86eaf81e838472e133a77f26faedd1171822d30dfa6567e3ad552",
+      "afterHtmlSha256": "c327a7c9e379ad5dc71240c45b85b079a01b060fba84866e2af538b7b911aa7d"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/metabolism",
+      "beforeWords": 191,
+      "afterWords": 434,
+      "deltaWords": 243,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "c456dd45b8e21455dfa5c1ccb1db36272e7fa044d9c83916f2ee243fcb46ea3c",
+      "afterHtmlSha256": "9868a76ab250acf41d6b2f3367362fbfa94ebf3e5253eb5a956a65cae3e7d69a"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "beforeWords": 193,
+      "afterWords": 434,
+      "deltaWords": 241,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "071f803874f7ef258332726e6699449f14ac2c3a90b5f70be6d05f516ce4dfb2",
+      "afterHtmlSha256": "5b4add5a953d61a43a8a5841321a9766374653f061b481e6b6bccf99c1e78105"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/topical",
+      "beforeWords": 193,
+      "afterWords": 436,
+      "deltaWords": 243,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "e03cd882dece95a59364cab279914047cfadb6154c1a7291f036604497b9aa32",
+      "afterHtmlSha256": "5468c1dfa3483eb8727f2c0e3848c7a4bd0885bad352c67848640adc42bceb6a"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "beforeWords": 196,
+      "afterWords": 437,
+      "deltaWords": 241,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "76a23e212c9b62dab60abff63a0f74eb15aaa623a05d97480786226c841f065e",
+      "afterHtmlSha256": "c7ea0e4f6b64951f64f21b34d4673e24bf120065658a6e37c33a28e99b97b5b2"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/treatment-withdrawal",
+      "beforeWords": 197,
+      "afterWords": 432,
+      "deltaWords": 235,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "29e23a06c7aa45dadf1f8cc7d7b9643c7f23cc7f61740d9f6ddfe41238940fb3",
+      "afterHtmlSha256": "7258c057454062a78dbca5129dac54166c535ead1a72e82fe55e45502198f64b"
+    },
+    {
+      "part": "B",
+      "url": "https://pepsanon.com/glossary/gip",
+      "beforeWords": 198,
+      "afterWords": 440,
+      "deltaWords": 242,
+      "beforeCitations": 2,
+      "afterCitations": 2,
+      "beforeThin": "yes",
+      "afterThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "afterFlags": "claims_with_2_citations",
+      "newSentences": 7,
+      "citationTargets": 10,
+      "beforeHtmlSha256": "e0c23931065c055bb0771405cf27779455519690220965bf7ee28eecfa19da9e",
+      "afterHtmlSha256": "e3074dea919ae4a0f51ab10e3f4fe34e9aa4282794c626f7d63d65f71a56700c"
+    }
+  ],
+  "exactThreePartACitations": [
+    {
+      "slug": "tmax",
+      "source": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "boundary": "CJC supports generic first sentence only; existing BPC citation retained for second sentence"
+    },
+    {
+      "slug": "auc",
+      "source": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "boundary": "CJC supports generic first sentence only; existing BPC citation retained for second sentence"
+    },
+    {
+      "slug": "cmax",
+      "source": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "boundary": "CJC supports generic first sentence only; existing BPC citation retained for second sentence"
+    }
+  ],
+  "all20PriorRenderedProse": "exact",
+  "outsideArticlesExact": [
+    {
+      "url": "https://pepsanon.com/glossary/absorption",
+      "articleHtmlSha256": "197ceb7b87be3208f57f7a7678ef6f9ab44cf1b02061a7ab8016b8af8191e439",
+      "rawBeforeSha256": "f5b1e35b8aa0b3342af4415c38b31b2d7d621ef05c2e9e05c3d5c6ee164f1e4e",
+      "rawAfterSha256": "6bd80a5aab4c85b53c753b8b5259a6396605118b04080b8f65d0a991a8a388bc",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/adverse-event",
+      "articleHtmlSha256": "830a5a8c9531f59a77d22c39de592d214a77abe9c6c6ba1b88adac4ca957adc8",
+      "rawBeforeSha256": "cfbf312319a2650300f946129b57071793605dd3a618ddd8e7b739b2946e48b1",
+      "rawAfterSha256": "4478a1c560a9f93fd1fb17c00e945b596ce324a3962899c582b3848abb201164",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomarker",
+      "articleHtmlSha256": "248367d372fa3abf95831af9c839199adee2152c3b900f13f00017b8d530870e",
+      "rawBeforeSha256": "74a2f5aeea336862ee121c47a953470397cee4e6bdcf01be8d44c5883ada7376",
+      "rawAfterSha256": "bc195097e572838bdd08216de426da723be6ae9d69318646537ca36b9e84527e",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "articleHtmlSha256": "0ba5ef8b6411bae763e94e58036da168e0ac90618ba6b7604031b5463ec3611c",
+      "rawBeforeSha256": "9a6f2ecbad40e07b49f79f833d565aaa429bdc95319563b4a7c89ba405c50572",
+      "rawAfterSha256": "90d7ce600e8c27465ca933dc9075e7611cb1202d68dcb856cac044eac497a9cf",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/blinding",
+      "articleHtmlSha256": "1e21005a4233448b4021153511ac930fdcb56b9f80758d47d12822a2dc2ff0d6",
+      "rawBeforeSha256": "26995e6449fc59ab8f9091e3c7894fafa8b461f5055ff4beb741723fd95c0607",
+      "rawAfterSha256": "aa0010be8cc09cca30c552e8a9de76f87f67c620de027013e2e8d1bd474b12e0",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/collagen",
+      "articleHtmlSha256": "e7b72f5ee151ffa74ce6652937f3175ae33c7416eda6c086e32cb4bc8bb98e26",
+      "rawBeforeSha256": "c3945cd08a1d2b1155678e4e00b40c57b3f402c770e83c953a9cfad8c374036e",
+      "rawAfterSha256": "edcdc7ab52639b0e6f5f3f1ad483aa4118e49c74d22df0f09391eaf00d8f8a8d",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/control-group",
+      "articleHtmlSha256": "fa0bbe886e3a5501c548dfeb79919814cca23623062dbedf50ce02f4f2437f05",
+      "rawBeforeSha256": "62d199585665bdf964819cdf30696db47b40b96363af90bd58ff928ce9ce53a3",
+      "rawAfterSha256": "ed9a597c8e28ec92ccff81b8b95a7f8947533c12246f607ab9594593bd2edca2",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endpoint",
+      "articleHtmlSha256": "b1e09297c1f604e3cd3fd765a026869c6640ca1332049f7fe63be5f202ae1f22",
+      "rawBeforeSha256": "60a987154127d7ae4983756ec6425cefcca4d5430a1c79b1ac3a5338a3ef49d3",
+      "rawAfterSha256": "ce878ef2860136fa7f4a4fcf2bf3d0a2936bfcd17cc21f04fba0d66584031d65",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/extracellular-matrix",
+      "articleHtmlSha256": "4486667543ee0f04c532de9dd798f1d20ab08e6fddd9d514a676c04928cc244d",
+      "rawBeforeSha256": "f10998ca3cfadf3e3cb51c268490ea529d827f3787082ef9a25fa2cbd937b527",
+      "rawAfterSha256": "045cd71715299e7b28032cf5341baa61047d6089e8e468e40b4e49e2573af484",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "articleHtmlSha256": "76479ade7b8a743c9afd45c11bbfbf79db8de512bb036217b6fb3f709d92d41a",
+      "rawBeforeSha256": "487a0e318a95fe69ab7564eb01473e354a6c0582fde2e5573d276be08a47cf4e",
+      "rawAfterSha256": "136d03412ea87bac3738ed18a3b467d3507e0d408a9cca29cb9dc678ba5d7694",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/formulation",
+      "articleHtmlSha256": "c98a76a90495106e3de68d5e139fd6acd36599873e611d30fad5217721f0b8da",
+      "rawBeforeSha256": "feea128b45c30cceaee12921110f80576232c9713329d8eb2a8d49e7f7ebfc60",
+      "rawAfterSha256": "af7b5fea02288fd04ef8c43e5c79037f57b8a0690b4fe9175061074b8c57ced8",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/glp-1",
+      "articleHtmlSha256": "429a7b570ad54bdf93fdac7a938f1cfc59de5ddb3342ab2cba303d0314ef6800",
+      "rawBeforeSha256": "3bac570c6d6627f385194c2a13e02afe663edfa84a0f5b439545118b05de662a",
+      "rawAfterSha256": "b147b55929800e1465c40cd641d724090dbe45dd369db7baaf4e8f573342fd04",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone",
+      "articleHtmlSha256": "b554a9f7d40d3055ba088431bc7ff11b079ee3c873c13071ffa7560f100c42ed",
+      "rawBeforeSha256": "95fde9831df1eddb399a7975a5cd4662455194db3ce75afb659d7ddc4fae978b",
+      "rawAfterSha256": "3d6cf03d430057c8c09792372dac803f8f5b35b64b0ac284ab9453dcf7af72e6",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone-secretagogue",
+      "articleHtmlSha256": "492bb42dae9aaf95921d6a62fe3f9cc8e401b149fec5e497354390bddff13cbc",
+      "rawBeforeSha256": "38d2e5b3096c2aca062e8ab00bf319ba8fb3a80ce33238a07ec67d3f263194a5",
+      "rawAfterSha256": "dcf2aede53920466aa5c2aee1451cc0a268ba28b1019e53b9ae6bcccbbc61a01",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/ghrh",
+      "articleHtmlSha256": "19e1af7373c78cbda75a393452e19944dd21276b29eef0055e1e46ff8f046464",
+      "rawBeforeSha256": "1849f4c956b85ef21ebe06a0247a3badcc2f762bac1871ddeb5a9d96d74107c8",
+      "rawAfterSha256": "85bbf76d15c661748be143db5feff2578fa5351764b102f9f9a92f8f4b64cd90",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/half-life",
+      "articleHtmlSha256": "d0d8bccba880a41f31a456189fba799fe1b6c9324bbb77fc9ba39732f6786396",
+      "rawBeforeSha256": "116d5bd64e8fedfec999af5b570d9563758fb4547871ba7e8d7ae2767fcf5c3d",
+      "rawAfterSha256": "342fa27707fd9018f41979dadd046e15de04fb86830e97e16ce2a0329946baf5",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/histology",
+      "articleHtmlSha256": "4b6925b47b4c2294549e569807b25f7455c2672aa724cf085ef66e160905299c",
+      "rawBeforeSha256": "b9327ad49f0f6282c43cdd31fd8d34ddc37a358a31f09d5088e751042a7c6bf0",
+      "rawAfterSha256": "4a2148438c2b34272917fe8d39ed983e0392c9b669b458bae40437369ea872f3",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/immunogenicity",
+      "articleHtmlSha256": "cc307ceb65f108485861f0881b6d441af9a237a7b7bf1eac0e5265c5113efcd0",
+      "rawBeforeSha256": "00beaf27e8a1ed0d1fb7105e4b082b1ffcd7fd15aa7bc4d148d2111e741e08ea",
+      "rawAfterSha256": "2374c68e550fdb3b98fc355feea121cbc056547ddc99d5d84d890b13c9cb2ca7",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vitro",
+      "articleHtmlSha256": "be18df4383074a111ac651d90c9fabf5214706761870ba0d5fc30308dc762568",
+      "rawBeforeSha256": "4f8d114ae77324e858b8bfed5a25939ded9c82d3d7ba027b44dfed79ffdc3982",
+      "rawAfterSha256": "b5ae9d0884be06a8c59fa6ef1d1d148fe36342cba5bb84985c8a6f379df008d2",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vivo",
+      "articleHtmlSha256": "3a4d5f67747896feae30d063d5912e0bcb7a29d3ee21f33712fcea4d0baf8cb9",
+      "rawBeforeSha256": "16e9f8e9777ac8c7ad1d72aa4eea763e0d036fa7359da9b7533515e77a7a4a03",
+      "rawAfterSha256": "bbd0aa1886db17fc7c84a7f3cb73526cd4de04dc699ce55cdf5b5757462cbb6b",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/igf-1",
+      "articleHtmlSha256": "ed4cf1fa32772a216b90c951d2fb6d43aa71e92904f440dbc292122cd14d8289",
+      "rawBeforeSha256": "5f380f8bd9082785624dbb08d2db996211b26bba9c76404df14a9b614cb54905",
+      "rawAfterSha256": "a71415d910dbd13e5a516ad959a49aec0726d850484f06545c27ea5c0f7186b1",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intra-articular",
+      "articleHtmlSha256": "3dbf040a557fd5edf375ca31db740ddfba123f783d285705e43b6ffd3952b1ed",
+      "rawBeforeSha256": "65a2ce4593b76d8580f80b5f6360a12583481154ecb51c53e7070282d529f05e",
+      "rawAfterSha256": "1cefbd6a259703a1dd1fbf155791fe095eb23007982edf25230ff1f06771f075",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intramuscular",
+      "articleHtmlSha256": "931bc71349f9667acb4a782fb6040485898446b48d15b173b899228ea80b29d0",
+      "rawBeforeSha256": "597795adbdd4bda2122e7308162eef638fbd8fb80afbe27c10501179cd45acab",
+      "rawAfterSha256": "f6a77ca902a2583a86c2fccb35ca2ae0e6b4b02cb0a9669e4c6d9c9ccb09b870",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intravenous",
+      "articleHtmlSha256": "06bee5a115ba841fec7357f42f44b08a10e7152cdd4fc0730b998c7c102272ca",
+      "rawBeforeSha256": "5af06b12ebc100f9283a5b8bfdd344441a74fc7e96584fdb2c7ef4b77f6f81ef",
+      "rawAfterSha256": "36820e7410234b78dab6214d0cfd0a8e60277c03f81b5bb5d206c0a6d879fe46",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "articleHtmlSha256": "a67f3d2516acb97bd84e89a6aced6f91ec1a2cebc5d9ad0d9e7d949a35c940e7",
+      "rawBeforeSha256": "768015d2eb2509bffb48e3827ba643b0a3cc3e224acee6c2a9270cf1dfeccd55",
+      "rawAfterSha256": "87da81fb746b26be3c29f0b7283212549c4187ca79b8dc81203efac915bcbbd6",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "articleHtmlSha256": "0e934e223b6a2a12e1ac769d48ab51be868016997fbc1d826987a0d3c9e31038",
+      "rawBeforeSha256": "53c3e2be3c9f7017bc54f3f6d829b8b719151445d0efc47188beb97c1914e132",
+      "rawAfterSha256": "efd35ff4514777f32627cf4903a3c0cdf497e79414059252b7f910ad10d99d95",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pentadecapeptide",
+      "articleHtmlSha256": "788b9f530d78153966105427be418fc7259fa4e9602879ba1f84536f874820c2",
+      "rawBeforeSha256": "ce6569b4d2be994ff054feb5df3f1092aa7ced9ac9fb8ab1635ca851155b8713",
+      "rawAfterSha256": "d3b1b8d64234e32f894aabf958412c27fc178bd57c44731857549ee3fc5743d6",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/peptide",
+      "articleHtmlSha256": "eda3fa344d6d15b580af59d28657bf8f444652029134f9fd353633d41eb2f6fd",
+      "rawBeforeSha256": "76f9d0cce75c116bf3ffa816f960e4a29e7bb22a6eeea759e4785455e4d8a293",
+      "rawAfterSha256": "6c4a130752888557e94893a7adb38c56b5354985c0288df3184a361a0d2868de",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacodynamics",
+      "articleHtmlSha256": "65feab4508741edc3888634e674c4162efd4c6de4b68b34043da87ed3b533786",
+      "rawBeforeSha256": "74111a75602d04c161fbe886eb72bff9c50f80281e67c85701ed08b12eb56952",
+      "rawAfterSha256": "aca265e714a2ba88a7122488a2f5a60f529633c8cee8d79fe6e014953bf87c66",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacokinetics",
+      "articleHtmlSha256": "3c97196f57b0361a10fc097ff9456e08237772b646e3b43b66cc7f398018cf20",
+      "rawBeforeSha256": "cebd76b518d4e7a0b84a7489bbaa8796693d8861afb51f5c6b77fec973ebb186",
+      "rawAfterSha256": "670061170c47be71bb06c2e4e94344e708975e3a0ac535be6c3b3aaac1a72f22",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/placebo",
+      "articleHtmlSha256": "f8173cb661276497d4c8a92f5720434a537bb1b4f07480b3aa4748c4077ae9ac",
+      "rawBeforeSha256": "f01032186780638922aef15e311f8a232229d7959f1b1de32789dea62d7454df",
+      "rawAfterSha256": "3343987abd4e46aef7d238eac4e55280c9ea583d065f718479210d33f300d82b",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/preclinical",
+      "articleHtmlSha256": "30d15aee1c2ad4837d02f9a1004e503d8d44bcb68d0cca01a382bb6438afed06",
+      "rawBeforeSha256": "2a7c13877444a5db196104befff6222cfbf4291923ed93f77d32ea43c8902dcf",
+      "rawAfterSha256": "8b0959c1f5ae2a6031eabaa2abc2feed60cbc3d716de1952dc07712dbe19f85a",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/purity",
+      "articleHtmlSha256": "3d3945d9e957ba01faf04420149775f799b740988c57d2135944a3553b5bf32f",
+      "rawBeforeSha256": "f8693b643f6929c0a09180528e14f7c44f48fbf4174455a2cf992b65bbc7ffdf",
+      "rawAfterSha256": "d0f8aba41f083417b5cb53939785b50c3140da3d6401076447de656b32c43d79",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/randomized-controlled-trial",
+      "articleHtmlSha256": "0cbb1a0e4209fb750f4336fcc3190d186370a06d4151bfad9bba04f68bd71885",
+      "rawBeforeSha256": "d5d5735fbf536ee1b5afd917e60d5757d67eed04c47e12a7e9699b03c156e831",
+      "rawAfterSha256": "eca67f45daf499231ec9d79627f91704016d8d716959f5bd21e534503c1ac9a6",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor",
+      "articleHtmlSha256": "9b71492032229f532e8d0d5d86092a716911df47faef419f7d9d4bf71669a399",
+      "rawBeforeSha256": "52ca51825f9c2e4c38cf2a74a3196fa667c133941672c7929cac56e6d6224dc8",
+      "rawAfterSha256": "2afedbdea9f9e9c8620ea710c9a9a9afa44c10f598f5c9d5ca19037a8faf3350",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor-agonist",
+      "articleHtmlSha256": "35b11bb4e916c03f2d0609a1cb5d608aaecaa11168778419a2b990ae586b30f0",
+      "rawBeforeSha256": "19b1c96e143a5336e0422537ceb724696e5c1a4219a450aa8b9eb72bc6fcaf0e",
+      "rawAfterSha256": "0f303e9c28514174c576e92862d0de9c9dd85ad767329d9699447b9e85579aeb",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "articleHtmlSha256": "318db6b4dd7955f917befe69e1a69a63886744a679504254aa5e6caf87216433",
+      "rawBeforeSha256": "690eaebdcf96c6aa68589adbccc6ee2e595015d97d1acf70541bc83acbfbed99",
+      "rawAfterSha256": "35aa360d3f5d7554ab0294a1fb94ad32b0f50ea31ce38b846546889f7604727e",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/route-of-administration",
+      "articleHtmlSha256": "d537e021eb49d17a6bb6789eca46b00536b6c43eafe176733dafb147d1041cde",
+      "rawBeforeSha256": "dd910f2841f2d9f1b9835aaf2d5d0274be801e144b537cc905433df2fcabebbb",
+      "rawAfterSha256": "2168517f1c7c82846b9123c713db0f3d8980ca1837e56cb800ce3cc71be999fe",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/sterility",
+      "articleHtmlSha256": "5f34ae5ceb6acd9cdcc378782c3463bc693d07914712b8605694dd204e46df78",
+      "rawBeforeSha256": "30bf646d42f932ac8de0f899af45a739672ddb1909e4769a1cc0bee84bb658e0",
+      "rawAfterSha256": "f8ba9d534a27bdac25beb08934a83ba4ace4fa2e110f658249e16a061830c916",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/subcutaneous",
+      "articleHtmlSha256": "4e87328ff9270394e5d834718eb0b0916ed6d2e5fa99ca8cfcd454ab753c9e87",
+      "rawBeforeSha256": "eb899da1d188ea2edb35128e0cc1d71afbcfbb2f07e29337f222f49c2b1d8fcd",
+      "rawAfterSha256": "6c2b5c4449925ebb35d9547e532f0df135371bce1d7868b0ce3199e17af6be9b",
+      "rawWholeHtmlEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tripeptide",
+      "articleHtmlSha256": "b7f5d9598ef81083e9421097b4ad9f4abf7f319ab2e2dbb27dade0a9fbbc3800",
+      "rawBeforeSha256": "f5eacad31418411a6c85b0cf3bb15c90f3b27e35f02cafe41b7176ff49df43ab",
+      "rawAfterSha256": "e2cce4a7281165bb5e2a5f44a9e13ef1952633ed9eb06d03e8ee59cc31c6f348",
+      "rawWholeHtmlEqual": false
+    }
+  ],
+  "inheritedNativeTitleOpenItem": [
+    {
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "nativeTitle": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate\u2014A Randomized Controlled Trial",
+      "state": "INHERITED-PUNCTUATION OPEN; exact source object bytes unchanged; ELON12:42 narrow native-title grant inherited"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "nativeTitle": "Enzymatic Hydrolysis of a Collagen Hydrolysate Enhances Postprandial Absorption Rate\u2014A Randomized Controlled Trial",
+      "state": "INHERITED-PUNCTUATION OPEN; exact source object bytes unchanged; ELON12:42 narrow native-title grant inherited"
+    }
+  ],
+  "newSentencesVerified": 70,
+  "all54GlossaryStatus": 200,
+  "held7Status": "404 unchanged locally; no live claim",
+  "heldRoutes": [
+    "https://pepsanon.com/guides/before-you-buy",
+    "https://pepsanon.com/research/paper-37c4f0f55f696512",
+    "https://pepsanon.com/research/paper-d1c144a22938229c",
+    "https://pepsanon.com/research/paper-29343d5dff2c8e1b",
+    "https://pepsanon.com/research/paper-84d99218fb837c75",
+    "https://pepsanon.com/install",
+    "https://pepsanon.com/research/paper-baf28ca7c2d11c45"
+  ],
+  "newNonExemptEmEnDashes": 0,
+  "scientificApproval": false,
+  "humanApproval": false
+}

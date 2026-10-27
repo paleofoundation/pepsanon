@@ -1,0 +1,20 @@
+{
+  "status": "PROSPECTIVE-CANDIDATE-STRUCTURAL-PASS-ONLY",
+  "candidateSha256": "3418130eaedb2ed7d3f855a3b9449b15bc0126b8755fc6ce77b710ff7bf7168c",
+  "paragraphs": 35,
+  "fivePapers": 5,
+  "newScientificNumericalLiterals": 0,
+  "newEmEnDashes": 0,
+  "molecularIdentifiersAllowed": [
+    "BPC-157",
+    "TB-500",
+    "JAK2",
+    "thymosin beta-4"
+  ],
+  "initialCheckFailure": "Initial private regex omitted the explicitly source-named thymosin beta-4 identifier in knee P04. It failed closed. Candidate remains unchanged; exact observed molecular identifier added to parser, no result quantities allowed.",
+  "sourceFieldsBound": true,
+  "applicationApplied": false,
+  "rootSourceAudit": "pending",
+  "gates": "pending",
+  "createdAt": "2026-10-27T17:44:50.703642+02:00"
+}

@@ -1,0 +1,894 @@
+{
+  "phase": "parity",
+  "status": "PASS",
+  "fiveLiveTextLinkMetadataParity": [
+    {
+      "id": "paper-d1c144a22938229c",
+      "status": 200,
+      "restoredLiveTextSha256": "7e0439c88c9a4ee8936cb9085ff02bab0bdd09206a5a9fcf1ef2de2ae2908606",
+      "liveOriginalTextSha256": "7e0439c88c9a4ee8936cb9085ff02bab0bdd09206a5a9fcf1ef2de2ae2908606",
+      "inheritedLinks": 13,
+      "words": 174,
+      "citations": 5,
+      "thin": "yes",
+      "thinReasons": "words<400",
+      "newParagraphs": [],
+      "articleHtmlSha256": "2d748357d30643c62b15105b2221c793a3347fbe4aeb3dc3d837e002c9eff5f5"
+    },
+    {
+      "id": "paper-baf28ca7c2d11c45",
+      "status": 200,
+      "restoredLiveTextSha256": "7464a980ed835e2687fc4ca1c90062ea310d538faf4b4a5ec560a0b20df4bab6",
+      "liveOriginalTextSha256": "7464a980ed835e2687fc4ca1c90062ea310d538faf4b4a5ec560a0b20df4bab6",
+      "inheritedLinks": 17,
+      "words": 197,
+      "citations": 8,
+      "thin": "yes",
+      "thinReasons": "words<400",
+      "newParagraphs": [],
+      "articleHtmlSha256": "ed3b296e5d48a887a2a85085a47376b6ab65dc5d1643fbeab90c45dc199ac211"
+    },
+    {
+      "id": "paper-37c4f0f55f696512",
+      "status": 200,
+      "restoredLiveTextSha256": "36d2a3a072cb8e8af1bcb6070c5c9862e895c8e6b59504533b54c5e66b63d705",
+      "liveOriginalTextSha256": "36d2a3a072cb8e8af1bcb6070c5c9862e895c8e6b59504533b54c5e66b63d705",
+      "inheritedLinks": 13,
+      "words": 161,
+      "citations": 1,
+      "thin": "yes",
+      "thinReasons": "words<400;claims_with_1_citations",
+      "newParagraphs": [],
+      "articleHtmlSha256": "e5724ae78ab099fd4863d1b8479e01a6df0b64b5e44b9bed808fb00500078174"
+    },
+    {
+      "id": "paper-84d99218fb837c75",
+      "status": 200,
+      "restoredLiveTextSha256": "ac67e25387194b9c428df6faf3b2bd39c21a2dedc8d30119c053c61f9e75fe08",
+      "liveOriginalTextSha256": "ac67e25387194b9c428df6faf3b2bd39c21a2dedc8d30119c053c61f9e75fe08",
+      "inheritedLinks": 17,
+      "words": 184,
+      "citations": 9,
+      "thin": "yes",
+      "thinReasons": "words<400",
+      "newParagraphs": [],
+      "articleHtmlSha256": "93ca248a7a5ee9209a5b21e3cd5533ddc09d613428d09fac51cd0c43e79582fa"
+    },
+    {
+      "id": "paper-29343d5dff2c8e1b",
+      "status": 200,
+      "restoredLiveTextSha256": "7e61f88cbe0ae8759150d70887ccb6e1a75b8d9f8de0f7c052c1528eaeb78175",
+      "liveOriginalTextSha256": "7e61f88cbe0ae8759150d70887ccb6e1a75b8d9f8de0f7c052c1528eaeb78175",
+      "inheritedLinks": 14,
+      "words": 182,
+      "citations": 1,
+      "thin": "yes",
+      "thinReasons": "words<400;claims_with_1_citations",
+      "newParagraphs": [],
+      "articleHtmlSha256": "8ec8f2647e5e36192c60c26f750cfc34840d9a596c47c6dbba7cebd96a25d98d"
+    }
+  ],
+  "outside136MainDomAndAnalysisExact": [
+    {
+      "url": "https://pepsanon.com/research",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/before-you-buy",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/recovery",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/weight-management",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/skin",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/healthy-aging",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/semax-selank",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/quality-test-reports",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/editions",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/corrections",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/privacy",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/guides/terms",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary",
+      "status": 200,
+      "mainSha256": "cce99bd9c5536e7d56cabe14ba0dac25f0bbd3677d0bb432169d2777e06e3eb3",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/absorption",
+      "status": 200,
+      "mainSha256": "9f0d33924aca5037bc8033646633228989d2aa834c388ad4b7b56246fa782fbf",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/adverse-event",
+      "status": 200,
+      "mainSha256": "d7da59879bbf0730c476f7e522d7cdad765854d7694132144c3d598ea90566d1",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/amino-acid",
+      "status": 200,
+      "mainSha256": "c28ee5a3a22b427bb4234711460747e3ad550bc12814e4b500aef2f9de546acf",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/auc",
+      "status": 200,
+      "mainSha256": "f0cdf975ea8b3fa8769e889ee39afb3c9d5f959ff8254d8ba15b75f4b44dbccd",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/baseline",
+      "status": 200,
+      "mainSha256": "65b2828917875ae5188f7f5d26e4f009a71da0edfa0ee9dc9665a329e46e1ef2",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/bioavailability",
+      "status": 200,
+      "mainSha256": "3ba055683857781c574d55952ea1979b6dc020238a32f22c3d27f8209be7688e",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomarker",
+      "status": 200,
+      "mainSha256": "72bc06bc6f72d0b4e36d76d70ed71ece86ad6ade0afa25c16e90ab8ec8c3250a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "status": 200,
+      "mainSha256": "83964693af89a74c582cf3d3c265b1f646180126485963ace6ff3a7310bb52f7",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/blinding",
+      "status": 200,
+      "mainSha256": "c730e8d427a7b8b12dc4fdd395bf5d0c8c6d1240f294abd5d9d46041509bf7e8",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/case-series",
+      "status": 200,
+      "mainSha256": "b55a6306ec5e30793c3542a3f9ecbfc8da652e226f0602dcac6ae96d139f0c1c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/collagen",
+      "status": 200,
+      "mainSha256": "9b489dac260a630c788ce2eb23b515e19e83d4793b806304a95ff8f3fd8168db",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/control-group",
+      "status": 200,
+      "mainSha256": "517ea4e07a6c3c8693edb6d7d5624eac21c6b69d85ea8422296be3d6f72e7ff0",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endotoxin",
+      "status": 200,
+      "mainSha256": "1953ba9420b29725fda469b345b74196b5b0149d2090ffb54e9ba6dae9161390",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/endpoint",
+      "status": 200,
+      "mainSha256": "e55a5128e03afd6c7fef6ea8e01feb61c06bba43c6d2d9e853005b4e649f9300",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/extracellular-matrix",
+      "status": 200,
+      "mainSha256": "3230ef4e1117069587b2239bec735921241309700ea81a0c77588ddfca0e3f00",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "status": 200,
+      "mainSha256": "687dcf79812287fcf4f1144c18f0d55e3d99ab16af6d59172d6bfb1b8da962f7",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/formulation",
+      "status": 200,
+      "mainSha256": "7c5d0f88202d1a2156c7996aa4398a4558f901226e8b5a6e68b3d7b79533aee5",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/glp-1",
+      "status": 200,
+      "mainSha256": "e8b5613e6364b228524df910ce15d292a6ae8b9d21d61066b62951f0829ec1fe",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/gip",
+      "status": 200,
+      "mainSha256": "9168b2899e51d580b133e609db26d5ea312830aa380e7d8ca834456dd3d3e159",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone",
+      "status": 200,
+      "mainSha256": "e6426a945b1a8d224968cb9711740a190c1fd04787b5cafe3849d47ad223f542",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/growth-hormone-secretagogue",
+      "status": 200,
+      "mainSha256": "6c9f3b9e0f43e22ff6364b0dc11adf86c4cd5db52f0a5e3e1229d8e36495b93e",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/ghrh",
+      "status": 200,
+      "mainSha256": "88f331ff7ab887f5a6e443aa902d5883602a3cdc38455ed58c21cc3622c4f467",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/half-life",
+      "status": 200,
+      "mainSha256": "5f0be4e618f21f597fca9eada48daef9a2119828e324d8477a6983ccc8b5cc80",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/histology",
+      "status": 200,
+      "mainSha256": "a28999f16abd40206f32cd192fd4d6b15a30e776e35d03abcbb98bff313fdc6f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/hydrolyzed-collagen",
+      "status": 200,
+      "mainSha256": "0a61101ad5f280fa4341378cc0671bfecf2e719ab79d6124723dfad019c96765",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/immunogenicity",
+      "status": 200,
+      "mainSha256": "61387de16b7b395f2d828a2d659b58172936441bb5ea54fb33fc7a8d69f02d78",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vitro",
+      "status": 200,
+      "mainSha256": "ecd5df8362ca452f03c4eefa41e737f86c87d2c069339159f8f96ae94c277453",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/in-vivo",
+      "status": 200,
+      "mainSha256": "fe72cd3186fa9b772790676a344fc6454296a8896e800a156f9669c55ea70958",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/igf-1",
+      "status": 200,
+      "mainSha256": "23a665b838f93572926989e89f43d802b4f4e8721de326a8ee7bb440e48f64ab",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intra-articular",
+      "status": 200,
+      "mainSha256": "eba65d2af8155294c7aac04f88b358fd4cac98fd68ec57513d9b79dd2cb0100c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intramuscular",
+      "status": 200,
+      "mainSha256": "f26686d60965be4f4490a40c5e0fb48fa41b837d3912b0648930d67cc6eae4fe",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/intravenous",
+      "status": 200,
+      "mainSha256": "01d2052c2c5fc8861681223281bdefe4bba4d3cc29956206adcac4a840eda741",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/metabolism",
+      "status": 200,
+      "mainSha256": "3d5578cb7bc8bbfbe55a59b41340e57a1c942402278120b6e5d0c549d2465859",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "status": 200,
+      "mainSha256": "ec75745c01585d66ee0f6f8522595588da024a5404fecd759d049030cfd64ac6",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "status": 200,
+      "mainSha256": "350427e04a0c63c392609ba9306d2781767815e4545333ad0efe9c1b946f79f4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/cmax",
+      "status": 200,
+      "mainSha256": "57760f32bd452e8ebfd276566dadc1ed0e95a54f932a8a518d234416a36bc918",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pentadecapeptide",
+      "status": 200,
+      "mainSha256": "53d24f738640c98835a5c528933ecd60395082caa3ccfd8ba60539cf9a25f74f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/peptide",
+      "status": 200,
+      "mainSha256": "dd66bab9d4558a9f9a748e96912b0944b1cc37e57a8966814ef92e02e3bba21a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacodynamics",
+      "status": 200,
+      "mainSha256": "b206b694fac24bd7ebd994a92e6429aafa2c93c4164d81ace3206da9c1abe14a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/pharmacokinetics",
+      "status": 200,
+      "mainSha256": "02402f009ff56d28fe772e2a3e8120d04fd12bd2ea6eacf9ddf66dd4c26cc850",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/placebo",
+      "status": 200,
+      "mainSha256": "b7c622eb291be0c0a8626c7fd88ec742d409211e68a0106bb05cf03be1d68e86",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/preclinical",
+      "status": 200,
+      "mainSha256": "6c644f6f16cae5506e475750a11ca05ae45323a8d07bb2464f2370fca91a1505",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/purity",
+      "status": 200,
+      "mainSha256": "b00f94835968a9be13cb63c2a0463ec60e6ab832e5ac91636ff8e11b351a0966",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/randomized-controlled-trial",
+      "status": 200,
+      "mainSha256": "d3e710b06e9ffacc3764144e4d3191637adcdb234768dc2fa69b27e94c7d8c9a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor",
+      "status": 200,
+      "mainSha256": "37be8a0035e8de0124ccfd4aa4ab0015fe39502c137ed68d2a61e19913919c2e",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor-agonist",
+      "status": 200,
+      "mainSha256": "a6f915aeed420e4f341ae932ef3d19080d42c59c20a19b3538613fda9bd5b374",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "status": 200,
+      "mainSha256": "c159088cd5d141fec1754948db551b045263a6f7bc8f5ca20631b5ec5bf10187",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/route-of-administration",
+      "status": 200,
+      "mainSha256": "bc06772e26a5ca824007fb1b513bba553f897dc679f49271c831ebc31a715a5b",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/sterility",
+      "status": 200,
+      "mainSha256": "5a1a68ea26f57a14df69af886244f9f786a862ec8e5f17d034cdc15310368d04",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/subcutaneous",
+      "status": 200,
+      "mainSha256": "a168dd6a7fc896d243f1121b3da587161237f6633c6460f8db01e98dc28cf47c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tmax",
+      "status": 200,
+      "mainSha256": "cde79a719c09890204721b9273a5550fe5de991575e1d0c7619ddbd5b522e4a0",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/topical",
+      "status": 200,
+      "mainSha256": "964ed0da4ce6c0ed1677a3b3a48741f6ed6f925396771e4bc8df366a7aaab624",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/treatment-withdrawal",
+      "status": 200,
+      "mainSha256": "1720c66e7952d0dcc73a4c5db4e78eb2c6df90f9722dc7b54fdfe95fb47a6292",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tripeptide",
+      "status": 200,
+      "mainSha256": "066b8798fb9f1cda97699ab7653b0f5fb445cea1d59a462047be10bcd26892c5",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/",
+      "status": 200,
+      "mainSha256": "80618bcaea841041270b611f32fbcdde45ee96ac1800fe6af479c12aa29b4b24",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides",
+      "status": 200,
+      "mainSha256": "7649fc65d21503e86edf646c76b55d35a7b28ac80e6811c4050afd138de438c5",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks",
+      "status": 200,
+      "mainSha256": "12a219962aa49499304f9119cb0fe68c63cbbf370ced6cd744d73a601d345355",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/questions",
+      "status": 200,
+      "mainSha256": "2770274ce34516200727f3ac6d4ac9d7a4788f9cb4e6b002c035e0c3a24ee7a8",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/sources",
+      "status": 200,
+      "mainSha256": "c5212fd411aac993ec2e01ccf6cc2a38e8801ae5429ecb27635c678cdcb0acee",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/methodology",
+      "status": 200,
+      "mainSha256": "eacf4118bc2c8b71178888aab037f7dae0c201acbb7f23b2d67ae503083925e4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/medical-disclaimer",
+      "status": 200,
+      "mainSha256": "083310d7ee99decc8860772a8b6f4938c8d10a5add15b171f03f230e6c0cad70",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/install",
+      "status": 404,
+      "mainSha256": "4a9043016e62fff6acb4955aac0a6bce6783d9c6d96402bbe52e771bf9611ec4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/tirzepatide",
+      "status": 200,
+      "mainSha256": "04b8bb7460c7a42fc2d5d4cffd30e979a401276cf0c93e1735f50221b857df34",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/semaglutide",
+      "status": 200,
+      "mainSha256": "cf5086251739d334517f7bed54fc5b9fbd63b9f3c7c4e4a362803ec5a7472d0f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/bpc-157",
+      "status": 200,
+      "mainSha256": "aecf93ebe0ff19642340c50ce4c8b03a55f52995b498a3186762c558e95eab77",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/retatrutide",
+      "status": 200,
+      "mainSha256": "a64587a7e578778094497e58fdc8655933001f34a95cd6cecc2a3c24c3858b7f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/ghk-cu",
+      "status": 200,
+      "mainSha256": "f90e82ee6c2fde6e7cfdfc9712859d4bf3ab79b1e3f58a7d8b1fc7948b5afd46",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/tb-500",
+      "status": 200,
+      "mainSha256": "544888936011143fa35ef9259f41eda429f5624f4677b92f97a7f8598d5bf1e2",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/collagen",
+      "status": 200,
+      "mainSha256": "c4f30bc798bf6c9c3cd615b0577b4ae02cfea75b79a8781f6e56263da8cac3e6",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/tesamorelin",
+      "status": 200,
+      "mainSha256": "02eb64e5d510a516ca449a9d2692484e94c8b2b559ad3b8531a344c8e25d6cfe",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/cjc-1295",
+      "status": 200,
+      "mainSha256": "85078c6c6d73980f7367bfd89e6c4effe58807f08dfac943f72c0d1946cca781",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/ipamorelin",
+      "status": 200,
+      "mainSha256": "a845f3c1fa0787888ab6745ba2cf13b3776140349aa3c1a4f5d698bcbb179167",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/mots-c",
+      "status": 200,
+      "mainSha256": "b89572acfd2e44723acba83d3a8c1be877f729a39e98794371cc5da3badc022f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/sermorelin",
+      "status": 200,
+      "mainSha256": "39a760cf5c002896f382af7844c2718cbca8b9902e48db93173cf75567936e2f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/pt-141",
+      "status": 200,
+      "mainSha256": "7a071de663b64ea3d3e0a118886bb5e5fd685316f149a9b2df75317198529f22",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/cagrilintide",
+      "status": 200,
+      "mainSha256": "74f869c1b32cd048debcfa1ccdebaa5fe07f2a6d9f7ca96232e74a36b79c2c4c",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/ss-31",
+      "status": 200,
+      "mainSha256": "cadbb9befa75bb83deda8410370cf8221ae390a3f1fd0cc708ffb37edefe7ba8",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/kpv",
+      "status": 200,
+      "mainSha256": "4fb018ed525877a9914822f01d177ccd15f6285ed70a7609ed0a92d493273d39",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/semax",
+      "status": 200,
+      "mainSha256": "7d0d5b5b6d6def960b8557dd3255e43df5b8265c14832c415655f97c3242d01f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/selank",
+      "status": 200,
+      "mainSha256": "7ad2155e6dd68dbe69064aa30b5d2dfc967a1bce3f758abe2af71c2444d44b03",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/epitalon",
+      "status": 200,
+      "mainSha256": "4968301b6c5572fc54367e983744597c13c09489f8f861e542f1e8b39910485a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/thymosin-alpha-1",
+      "status": 200,
+      "mainSha256": "4f3080dcd44e1983dad71fdda7ce59b252c52aa7f38779573e4a5eeb1f529a41",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/aod-9604",
+      "status": 200,
+      "mainSha256": "fa73c7602feb8416a82797d26b6213676f4f079cea47cb222ea445ac66fd8994",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/melanotan-ii",
+      "status": 200,
+      "mainSha256": "7fe95b05ed17385794b6e858910fb581703fa13d09fe04fb24f43d5961d03bf8",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/dsip",
+      "status": 200,
+      "mainSha256": "aa7a704cc2c4723ea32b47652096d40ed5a0b6dffdb9a75277a41906667cc06b",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/igf-1-lr3",
+      "status": 200,
+      "mainSha256": "6e70a34ad7f098a0f63d77dc1b212db549192d971cb76f23f82e2faf0fb16fec",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/ghrp-2",
+      "status": 200,
+      "mainSha256": "0bf6f3cee1d1e25ceaf609ff32f94c80dde87dd874f96a2de04e9ea7c3a47910",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/ghrp-6",
+      "status": 200,
+      "mainSha256": "dc89603eaf504f5462525615d11907ab07b92c84bc2a278b874534548a169837",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/kisspeptin-10",
+      "status": 200,
+      "mainSha256": "ac615ba9a35f30a498b52f0f3425dc15266c37f6bd4ce5fc665d945a46ad0dcf",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/oxytocin",
+      "status": 200,
+      "mainSha256": "e5771d059a8aabb5330c25ceee81833b30841247dd3342af5ebd18754e85150b",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/ll-37",
+      "status": 200,
+      "mainSha256": "6fe2b349328332093ee282ada2a754b088d347478c3be528c4f60e1cf81f953d",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/peptides/hexarelin",
+      "status": 200,
+      "mainSha256": "1ec7cc2fddb1ee956dd5a9a770c4a390069d4899405f22c1f819e6d0a1d37e32",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/wolverine-stack",
+      "status": 200,
+      "mainSha256": "6b19281e77e9aca4fe216721c59caffe48ce6508737e3266a956a9162074f305",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/cjc-1295-ipamorelin",
+      "status": 200,
+      "mainSha256": "6e29e4a8c9924d574a09607d35e152117dd18b073a2f13efeedb584a4a066f08",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/glow-stack",
+      "status": 200,
+      "mainSha256": "2bdc9c88b393ef4894fc82728bc4294057560196e6b522ae51a6dd197a52d5c5",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/klow-stack",
+      "status": 200,
+      "mainSha256": "852f7affad24cc641d7d7502538a091adae1727994709ec98ca257c275d9ad50",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tesamorelin-ipamorelin",
+      "status": 200,
+      "mainSha256": "36256c5dd9fe6eebe53b9542c92b73cb98481f91982eb2bb58033a784a9a4cd9",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/semaglutide-cagrilintide",
+      "status": 200,
+      "mainSha256": "91d40a2a25e9dc66f931fe41dcc066b9597505e40e00b837b00125cca39a62a5",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/semax-selank",
+      "status": 200,
+      "mainSha256": "1e41643872c42d4a15b74212b08a72ce2189b6d1e6d022de0dce393abe1f9b33",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/sermorelin-ipamorelin",
+      "status": 200,
+      "mainSha256": "5b019fafc8172faf2774911b8c13946ed94a4e5f3a7892bc5abf83c1307f480f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/retatrutide-cagrilintide",
+      "status": 200,
+      "mainSha256": "513d3c032441c03fcffb98a4e803c7ea04a36a03bf13ac8374ecba0930a6113b",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/mots-c-ss-31",
+      "status": 200,
+      "mainSha256": "dd7610be6184e70f11c8423bdc3e1c3522874f7f5d6079d22ac5d9c381451b30",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/bpc-157-kpv",
+      "status": 200,
+      "mainSha256": "bb7d178194e6327fcff2f05802741c828a593cf92f46ff2edb8f7762e0a27061",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tesamorelin-cjc-1295-ipamorelin",
+      "status": 200,
+      "mainSha256": "88af0add0bbeebc59970e1f383ec380283f311a6340040e8a36a1d39ff01f4e1",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tirzepatide-cagrilintide",
+      "status": 200,
+      "mainSha256": "9f9ab7565fa6c7cdbddf86189e2d5d7e1a7c648adc883f55a14dc46570a0fa63",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tesamorelin-aod-9604",
+      "status": 200,
+      "mainSha256": "62b6bef42f914f5ca612a135f96c497aacedf12e2336a0493034dd2d231b0781",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tesamorelin-mots-c",
+      "status": 200,
+      "mainSha256": "ec63f19f39e5d08c44d1ba518afd06e9e1edcaba81ff8dcbd80b515717994313",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/aod-9604-mots-c",
+      "status": 200,
+      "mainSha256": "46da9479d769a5e424f32bb68ae988f58ce5f6dcf393f15872b5ca9acac3f42e",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/mots-c-nad",
+      "status": 200,
+      "mainSha256": "130ee08e7aed0c5392d41932637310712169e91464430d30bb64d4f977af216f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/mots-c-ss-31-nad",
+      "status": 200,
+      "mainSha256": "02594d8f0ea6ba8a693797d67b21546d198ce8bd7343a0b1151e42ccbd503451",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/bpc-157-tb-500-kpv",
+      "status": 200,
+      "mainSha256": "d32834efa8d471f1a30a76e2c86473fd5bd9b4df5c4043d8d8969d7e20c4443d",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/bpc-157-tb-500-cjc-1295-ipamorelin",
+      "status": 200,
+      "mainSha256": "5c45af3980865cce31c0698b5dcd088979976233e2422f482d58658549bddb70",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/cjc-1295-ipamorelin-ghk-cu",
+      "status": 200,
+      "mainSha256": "3b3cfe178906148dae1d81cce45e65c07344242d0b6749564fbc3335683d049b",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/ghk-cu-epitalon",
+      "status": 200,
+      "mainSha256": "134de934f0b001f701abf7da8e3b138b227a4146c370a7ff83c6d310a820cff4",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/epitalon-thymalin",
+      "status": 200,
+      "mainSha256": "3ed1ab0b7171a63dbce2baeb0a889323ebe3deae541fde058e99ce61ecee074a",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/dsip-ipamorelin",
+      "status": 200,
+      "mainSha256": "e01c0d9d2e6608659731a404d1af2feb786b2d1ad29008b88466117e5247370f",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/pt-141-oxytocin",
+      "status": 200,
+      "mainSha256": "f41a56c416dbf2d457fc3631894a0b1a6fb75a470e000e01af92a93c4f5ec633",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tirzepatide-tesamorelin",
+      "status": 200,
+      "mainSha256": "844ec4385d034a5dcd014e2ac5fc683ef5b0cb29483579962b7e16508d6ff359",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/retatrutide-mots-c",
+      "status": 200,
+      "mainSha256": "51712392be86e72d6c4ab495278c2de921cf123d4cc1160811a7554fb2ae1585",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/retatrutide-tirzepatide",
+      "status": 200,
+      "mainSha256": "feaea1712a248f762c70ae734ad453699884e54b1720df6505ed17291cef4c83",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/semaglutide-b12",
+      "status": 200,
+      "mainSha256": "5a5159bc5b9be516539d8f5cdcdf29ac89dadc73363197fe9d1514144754cd24",
+      "rawWholeDocumentEqual": false
+    },
+    {
+      "url": "https://pepsanon.com/stacks/tirzepatide-b12",
+      "status": 200,
+      "mainSha256": "09e3702ead50b9b939556acbf05a1d3aea233b26b13a496283125e08acf7f0c8",
+      "rawWholeDocumentEqual": false
+    }
+  ],
+  "all141HistoricalRoutesChecked": true,
+  "htmlNormalization": "BeautifulSoup lxml serialization for main DOM, whitespace-normalized text and explicit link/metadata tuples for live parity; no asset/chunk normalization used to assert raw-document equality.",
+  "scientificApproval": false,
+  "numericalApproval": false,
+  "release": false
+}

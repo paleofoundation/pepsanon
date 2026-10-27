@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-27T13:15:12.455592+02:00",
+  "candidate_sha256": "72670372e47290849df1bcd8f3772ee9d2645a99b905676eaa9798a741aecda5",
+  "source_sha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+  "root_physical_text_and_visual_pages": [
+    1,
+    2
+  ],
+  "status": "PASS_BOUNDED_GENERIC_DEFINITION_CITATION_SUPPORT_ONLY",
+  "slugs": [
+    "tmax",
+    "auc",
+    "cmax"
+  ],
+  "checks": [
+    "ExactCJCpaperPMID16352683/DOI10.1210/jc.2005-1536physicalp1printed799AbbreviationsCmaxpeakplasmaconcentration/Tmaxtimetopeak/AUCarea undercurveandp2printed800PKanalysisconcentrationvstimeexplicitlydefineallthree.",
+    "AddedCJCcitationssupportonlyfirstgenericdefinitionsentence;existingbpcpkcitationremainsBPCspecificsecondstatement. Noassay/drug/species/PKexposureequivalenceornewclinicalclaim.",
+    "Citationadditiononly/noexistingprose/sourceobject/renderer/analyzerchanges;finalDOMscopeandcitationcountstillrequireverification."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "released": false
+}

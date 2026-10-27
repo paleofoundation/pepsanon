@@ -1,0 +1,33 @@
+{
+  "base": "778e0fbdecd3db50ed229012d8987eb768b33a2b",
+  "branch": "codex/fill-thin-pep-2",
+  "activeCandidate": "ADDITIONS-v4.json",
+  "activeCandidateSha256": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5",
+  "appFiles": {
+    "lib/data/glossary.json": {
+      "baseSha256": "c586902146ab01dafde7efc40f154811b4def6f2664ea887303b8d0bff25e2b4",
+      "finalSha256": "0db124cf0fe738650ba5b99815951c161098567200cf7c351fc2d275cbd1583a"
+    },
+    "app/glossary/[slug]/page.tsx": {
+      "baseSha256": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab",
+      "finalSha256": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab"
+    },
+    "lib/data/glossary-index.json": {
+      "baseSha256": "18deda5e76f48f3d7d0109ce4c408fb26de1b971ca1d5a1da6b9272c193f4a03",
+      "finalSha256": "18deda5e76f48f3d7d0109ce4c408fb26de1b971ca1d5a1da6b9272c193f4a03"
+    },
+    "research/glossary/term-audit.json": {
+      "baseSha256": "c260939338fc0568b086a59238fe62d057fcb5633e6daded193a274153a115ff",
+      "finalSha256": "c260939338fc0568b086a59238fe62d057fcb5633e6daded193a274153a115ff"
+    }
+  },
+  "onlyChangedAppPath": "lib/data/glossary.json",
+  "publicAddedLines": 634,
+  "publicAddedEmEnDashes": 0,
+  "newSourceObjects": 0,
+  "newTermObjects": 0,
+  "scientificNumbersAdded": 0,
+  "wrapperExactPriorBytes": true,
+  "analyzerSha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+  "inheritedNativeTitle": "Canonical collagen source bytes unchanged; separate display-normalization OPEN under12:42 narrow ruling"
+}

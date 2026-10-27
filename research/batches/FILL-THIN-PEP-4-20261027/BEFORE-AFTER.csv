@@ -1,0 +1,11 @@
+url,beforeWords,afterWords,beforeCitations,afterCitations,beforeThin,afterThin,beforeFlags,afterFlags,newParagraphs
+https://pepsanon.com/glossary/subcutaneous,198,487,2,4,yes,no,words<400;claims_with_2_citations,,7
+https://pepsanon.com/glossary/growth-hormone,197,488,2,4,yes,no,words<400,,7
+https://pepsanon.com/glossary/tripeptide,201,445,2,2,yes,yes,words<400,claims_with_2_citations,7
+https://pepsanon.com/glossary/extracellular-matrix,198,456,3,3,yes,no,words<400,,7
+https://pepsanon.com/glossary/oral,204,459,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations,7
+https://pepsanon.com/glossary/blinding,218,549,4,5,yes,no,words<400,,7
+https://pepsanon.com/glossary/pharmacokinetics,213,499,2,4,yes,no,words<400;claims_with_2_citations,,7
+https://pepsanon.com/glossary/half-life,219,516,2,4,yes,no,words<400,,7
+https://pepsanon.com/glossary/purity,211,474,4,4,yes,no,words<400,,7
+https://pepsanon.com/glossary/receptor-agonist,223,471,2,2,yes,yes,words<400;claims_with_2_citations,claims_with_2_citations,7

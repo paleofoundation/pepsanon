@@ -1,0 +1,158 @@
+{
+  "state": "SEVEN_PART_B_ORIGINALS_SELECTED_PASSAGES_INSPECTED_ONE_UNUSED_PHASE1_LEAD",
+  "records": [
+    {
+      "sourceId": "phase1",
+      "rootId": "PRIMARY_PACKET",
+      "path": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "20495706952071b174ab04bab2d4755a0055226a69a3ad9ac73e65201a78722c",
+      "bytes": 289893,
+      "usedInPartB": false,
+      "readPassages": "Phase1 original inspected as possible citation lead but not used; explicit CJC definitions chosen instead",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "step",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913",
+      "bytes": 2163316,
+      "usedInPartB": true,
+      "readPassages": "PDFp3-5 trial/extension methods,outcomes,exploratory analysis; p9-10 discussion and selection/measurement limits",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "skin",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+      "bytes": 211106,
+      "usedInPartB": true,
+      "readPassages": "PDFp2 materials/ex vivo cadaver tissue, p3 diffusion and copper ICP-MS, p6 ligand-exchange/identity limitations",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "manufacturing",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Scalable_miniprotein_production_endotoxin_LAL_PMID42797285_PMC13610847.pdf",
+      "url": "https://doi.org/10.3390/pharmaceutics18091110",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "249ab9e5439652fe5d5d86e87eb91126122e2856d8e0cac7660a9492d12c38eb",
+      "bytes": 13630093,
+      "usedInPartB": true,
+      "readPassages": "PDFp5 sections2.5.4/2.6; p11-13 process development/formulation; p24 separate bioburden and endotoxin tests",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "bpcpk",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "bytes": 2600556,
+      "usedInPartB": true,
+      "readPassages": "PDFp4/6 PK definitions and route-specific tables,p6-10 labeled component/metabolite/excretion distinction,p13-14 target-tissue limitation and analytical methods",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "knee",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+      "bytes": 191413,
+      "usedInPartB": true,
+      "readPassages": "PDFp1 AbstractMethods/ClinicalImplications,p3 chart/subjectivephone/noobjective testing,p4-5 study limits and future comparison/imaging caveat",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "collagen",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88",
+      "bytes": 1566516,
+      "usedInPartB": true,
+      "readPassages": "PDFp2-4 healthy crossover/products/plasmaNMR,p8-10 discussion/conclusions, plasma-only design vs cited tissue work",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    },
+    {
+      "sourceId": "quality",
+      "rootId": "HELD_STUDY_ORIGINALS",
+      "path": "paper-2e8d88d44afe181b.xml",
+      "sha256": "14d9de9bc7dd84c2015b8e14696e5a3bab2d7102dd0c32b38bbaa9e9b605bae1",
+      "bytes": 29719,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "exists": true,
+      "eligibility": "Site-owned held primary XML, same hash as historical acquisition receipt; current Methods/Results/Discussion read",
+      "usedInPartB": true,
+      "readPassages": "Original XML Methods/Results/Discussion, actual current XML body read",
+      "approvalTransferred": false,
+      "inspectionBoundary": "Qualitative selected passages only, not full scientific review"
+    }
+  ],
+  "scientificApproval": false,
+  "readAt": "2026-10-27T11:18:27.503050+00:00",
+  "partASource": "CITATION-CANDIDATES-v1.json + exact ROOT-PART-A-SOURCE-AUDIT.json",
+  "partBCandidate": "PART-B-CANDIDATE-v1-UNAPPLIED.json",
+  "partBCandidateSha256": "e618e07097c75706e1cb9ce1222a00b97e1cce8effb8c46083e0f76fcab49bd0",
+  "visualPages": {
+    "step": [
+      4,
+      10
+    ],
+    "skin": [
+      2,
+      3
+    ],
+    "manufacturing": [
+      5
+    ]
+  },
+  "humanApproval": false,
+  "newScientificNumbers": 0
+}

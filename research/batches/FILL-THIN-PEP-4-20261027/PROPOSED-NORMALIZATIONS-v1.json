@@ -1,0 +1,23 @@
+{
+  "state": "UNAPPLIED_SELECTED_LOCATOR_PUNCTUATION_ONLY",
+  "records": [
+    {
+      "slug": "half-life",
+      "path": "/terms/22/definition/citations/0/locator",
+      "before": "Results 2.1\u20132.2; Tables 1\u20136",
+      "after": "Results 2.1-2.2; Tables 1-6"
+    },
+    {
+      "slug": "half-life",
+      "path": "/terms/22/sections/1/paragraphs/0/citations/0/locator",
+      "before": "Results 2.1\u20132.3; Discussion",
+      "after": "Results 2.1-2.3; Discussion"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "path": "/terms/39/sections/0/paragraphs/0/citations/0/locator",
+      "before": "Results 2.1\u20132.2 and Tables 1\u20136",
+      "after": "Results 2.1-2.2 and Tables 1-6"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "time": "2026-10-27T12:00:04.554510+02:00",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "method": "CUA IAB tab13 DOM and screenshots at local production preview8794",
+  "source_data_sha256": "c586902146ab01dafde7efc40f154811b4def6f2664ea887303b8d0bff25e2b4",
+  "renderer_sha256": "68ab1fae061bb3614e7af4d28217d36c36373eb08ef44830db67a37686efb7ab",
+  "rows": [
+    {
+      "slug": "pharmacodynamics",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 2
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 2
+    },
+    {
+      "slug": "sterility",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 0
+    },
+    {
+      "slug": "igf-1",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 2
+    },
+    {
+      "slug": "in-vivo",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 0
+    },
+    {
+      "slug": "in-vitro",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 0
+    },
+    {
+      "slug": "ghrh",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 3
+    },
+    {
+      "slug": "pentadecapeptide",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 0
+    },
+    {
+      "slug": "intramuscular",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 0
+    },
+    {
+      "slug": "intra-articular",
+      "body_width": 390,
+      "document_width": 390,
+      "main_visible_em_en_dashes": 0,
+      "citations": 10,
+      "all_reference_targets_resolve": true,
+      "all_locators_present_in_title_and_aria": true,
+      "research_and_evidence_and_reference_sections_exist": true,
+      "independent_clinical_review_pending_disclosure": true,
+      "title_em_en_dashes": 0,
+      "corrected_new_CJC_p6_printed804_locator_count": 0
+    }
+  ],
+  "visual_inspection": [
+    "Prior representative layouts retained as history",
+    "Fresh pharmacodynamics Reading the evidence section: source/marker versus clinical outcome distinction, readable390x844layout"
+  ],
+  "bounded_console_warn_error_sample": [],
+  "limits": [
+    "All10selectedpages freshly rechecked after locator/tooltip fixes;100titles/targets and9correctedCJCp6printed804locators passed.",
+    "Shared separator fix applies all existing glossary routes; only2unselected routes independently sampled here. Unselected pharmacokinetics old locator still has2endashes, unchanged per scope; no globalzero-dashes claim across54.",
+    "Emptyconsolewarn/error samplelimit15 isnotnetworkwidecertification.",
+    "Boundedtechnicalverificationnotclinical/scientific/human/releaseapproval."
+  ],
+  "status": "FRESH_FINAL_BUILD_SELECTED_TEN_MOBILE_AND_TOOLTIPS_PASS",
+  "historical_pre_correction_receipt_sha256": "365b63c2fdf7099f7da1bfb50714ecf2070eff9b41d9455c76f25fe1d66094ab",
+  "active_additions_v2_sha256": "f11d692c79a68169cb1fda218b41656ba8a63da13a733e1ceb4bb2361a3d1483",
+  "bounded_source_audit_sha256": "a31b8c0c576f705337918ac81d8f3a4be1c806e8232611fe37a1a450d54d31dc",
+  "unselected_samples": [
+    {
+      "slug": "growth-hormone",
+      "citations": 3,
+      "targets_resolve": true,
+      "body_width": 390,
+      "tooltip_example_after": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts; Introduction",
+      "main_visible_em_en_dashes": 0,
+      "titles_with_dashes": 0
+    },
+    {
+      "slug": "pharmacokinetics",
+      "citations": 3,
+      "targets_resolve": true,
+      "body_width": 390,
+      "tooltip_example_after": "Pharmacokinetics, distribution, metabolism, and excretion of body-protective compound 157, a potential drug for treating various wounds, in rats and dogs; Abstract and Introduction",
+      "inherited_locator_unchanged": "Results 2.1\u20132.2 and Tables 1\u20136",
+      "main_visible_em_en_dashes": 2,
+      "titles_with_dashes": 1,
+      "inherited_endash_characters_in_old_locator": 2
+    }
+  ],
+  "temporary_tab_closed_and_viewport_reset": true
+}

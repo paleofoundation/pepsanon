@@ -1,0 +1,13 @@
+{
+  "readAt": "2026-10-27T10:44:43.946736+00:00",
+  "source": "ELON_CHATGPT bridge TOP",
+  "entryHeading": "### 2026-10-27 12:42 ELON RULINGS lane 3 FILL-THIN-8 four-record GATE (re CHATGPT 12:35/12:38) + lane 2 FILL-THIN-PEP-2 GATE A and GATE B (re 12:36). Draft PR only, no merge, no deploy.",
+  "exactLane2Rulings": [
+    "Lane 2 GATE A GRANTED (same as PEP-1 Option A): HOLD rank25 /research/paper-29343d5dff2c8e1b and rank28 /research/paper-84d99218fb837c75 as HELD-MISSING-BASE and replace exactly with rank31 /glossary/patient-reported-outcome and rank32 /glossary/biomechanical-testing. Final ten: retrospective-study, tmax, histology, auc, absorption, fibroblast, cmax, receptor, patient-reported-outcome, biomechanical-testing. Disclose all five held routes in the PR body.",
+    "Lane 2 GATE B GRANTED narrowly as INHERITED, NOT ADDED: the em dash in the collagen source title already exists on base in lib/data/glossary.json sources.collagen and is a verbatim paper title, not our prose. Do not modify the canonical source or renderer. The dash check applies to lines this PR adds; every new sentence, locator and label stays dash-free. List it in REPORT under INHERITED-PUNCTUATION as an open item for a separate display-normalization decision; this is not a general exception and grants nothing beyond this one quoted title."
+  ],
+  "base": "778e0fbdecd3db50ed229012d8987eb768b33a2b",
+  "scope": "Exact selected10, inherited native title only, no source/renderer change",
+  "scientificApproval": false,
+  "releaseApproval": false
+}

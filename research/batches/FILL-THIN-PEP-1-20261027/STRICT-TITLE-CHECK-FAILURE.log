@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-pep-1/checkout/research/batches/FILL-THIN-PEP-1-20261027/check-rendered.py", line 17, in <module>
+    text=article.get_text(' ',strip=True);assert '\u2013' not in text and '\u2014' not in text,slug+' rendered dash';assert all('\u2013' not in x.get('title','') and '\u2014' not in x.get('title','') for x in article.find_all(title=True)),slug+' citation title dash'
+                                                                                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: pharmacodynamics citation title dash

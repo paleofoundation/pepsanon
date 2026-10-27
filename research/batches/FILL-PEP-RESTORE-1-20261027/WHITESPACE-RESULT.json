@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "allNewPacketFilesLF": true,
+  "CRLFViolations": [],
+  "stagedDiffCheckExit": 0,
+  "scope": "All staged application and own new packet files. Frozen prior packet bytes were not normalized.",
+  "sourcePatchBytesPreserved": true,
+  "checkedAt": "2026-10-27T18:30:50.540535+02:00"
+}

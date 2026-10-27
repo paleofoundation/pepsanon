@@ -1,0 +1,11 @@
+url,beforeWords,afterWords,beforeCitations,afterCitations,beforeThin,afterThin,beforeFlags,afterFlags
+https://pepsanon.com/glossary/collagen,222,495,4,4,yes,no,words<400,
+https://pepsanon.com/glossary/immunogenicity,227,486,3,3,yes,no,words<400,
+https://pepsanon.com/glossary/control-group,229,526,3,3,yes,no,words<400,
+https://pepsanon.com/glossary/route-of-administration,229,569,4,6,yes,no,words<400,
+https://pepsanon.com/glossary/preclinical,235,559,3,5,yes,no,words<400,
+https://pepsanon.com/glossary/glp-1,248,506,4,4,yes,no,words<400,
+https://pepsanon.com/glossary/intravenous,248,504,4,4,yes,no,words<400,
+https://pepsanon.com/glossary/randomized-controlled-trial,274,590,4,6,yes,no,words<400,
+https://pepsanon.com/glossary/placebo,295,630,6,8,yes,no,words<400,
+https://pepsanon.com/glossary/biomarker,202,529,2,4,yes,no,words<400;claims_with_2_citations,

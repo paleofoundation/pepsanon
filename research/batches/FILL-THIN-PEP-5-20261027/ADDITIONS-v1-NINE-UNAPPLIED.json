@@ -1,0 +1,829 @@
+{
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "phase": "UNAFFECTED_NINE_HOME_SELECTION_PENDING",
+  "records": [
+    {
+      "slug": "collagen",
+      "sectionId": "in-the-research",
+      "text": "The absorption experiment investigated processed collagen products consumed as beverages by healthy participants, with the same participants returning for different preparations under a crossover design rather than receiving a treatment for an established tendon injury.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction and study aim; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "collagen",
+      "sectionId": "in-the-research",
+      "text": "The methods distinguish enzymatically processed collagen from a preparation processed without that enzymatic step, so the comparison concerns the specified products and cannot be treated as a universal ranking of every collagen supplement.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction and study aim; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "collagen",
+      "sectionId": "in-the-research",
+      "text": "Blood collection before and after ingestion allowed the investigators to examine circulating amino-acid profiles, while the analytical procedure described in this paper did not directly image collagen deposition within a joint or tendon.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "collagen",
+      "sectionId": "in-the-research",
+      "text": "The tendon-fibroblast paper discusses collagen as part of the extracellular matrix, but its own experiments examine receptor expression and cellular responses in cultured rat cells rather than directly testing an ingested collagen product.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p2 Introduction; p3 Results 2.1 and 2.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "collagen",
+      "sectionId": "reading-the-evidence",
+      "text": "The absorption authors distinguish findings for abundant collagen-associated amino acids from other amino-acid measures, making the effect of processing dependent on the particular measurement rather than uniformly better for every measured component.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "collagen",
+      "sectionId": "reading-the-evidence",
+      "text": "The discussion refers to possible tissue and exercise implications using other studies, and those references do not turn this experiment into a direct test of cartilage repair, pain relief or improved recovery after injury.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "collagen",
+      "sectionId": "reading-the-evidence",
+      "text": "The conclusion remains an interpretation of postprandial plasma metabolite measurements after the specified beverages, so it should retain that experimental setting when read alongside claims about structural collagen in living connective tissue.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "in-the-research",
+      "text": "The thymosin trial investigated a specified recombinant preparation in healthy volunteers using intravenous administration, with separate single-administration and repeated-administration stages and placebo comparisons rather than a study of every product sold under a thymosin label.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design, Subject eligibility and Procedure"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "in-the-research",
+      "text": "The eligibility criteria excluded volunteers with positive anti-drug-antibody screening or allergy to protein preparations and biological products, making the selected starting population part of the context for interpreting later antibody findings.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design, Subject eligibility and Procedure"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "in-the-research",
+      "text": "The investigators collected blood for antibodies to the investigational preparation at screening and during follow-up, while separately collecting samples and clinical observations for pharmacokinetics and other safety assessments.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design, Subject eligibility and Procedure"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "in-the-research",
+      "text": "The analytical methods describe screening and confirmation with an indirect enzyme-linked immunosorbent assay and further assessment of positive samples for antibody titre, giving the antibody findings a specific laboratory procedure rather than only a safety label.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p3 Statistical analysis and antibody assay"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "reading-the-evidence",
+      "text": "The results report antibody-positive samples that later became negative during follow-up, so the report should not be simplified into a claim that the study never obtained a positive antibody measurement.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p5 Results 3.4 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors suggest that borderline initial signals and later titre findings could reflect systematic error, which is their interpretation of the observed testing pattern rather than proof that no immune response can occur with any preparation.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p5 Results 3.4 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "immunogenicity",
+      "sectionId": "reading-the-evidence",
+      "text": "These observations concern the tested recombinant product, screened healthy volunteers and the stated follow-up period; they do not establish an absence of immunogenicity during indefinite use or after administration of a different peptide formulation.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p5 Results 3.4 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "in-the-research",
+      "text": "The Achilles experiment randomly allocated rats to vehicle control or specified peptide-treatment groups after tendon injury, allowing comparisons within a shared injury model rather than comparing treated injured tissue with an unrelated healthy population.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p2 Study groups and randomization; p3 Figure 1 and assessor blinding"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "in-the-research",
+      "text": "The investigators assigned excised tendons to histological or mechanical assessment, so the control comparisons for those endpoints came from separately allocated specimens rather than every tissue measurement being paired within the same tendon.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p2 Study groups and randomization; p3 Figure 1 and assessor blinding"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "in-the-research",
+      "text": "The report describes masked pathological assessment and coded specimens for mechanical testing, while acknowledging that surgery and treatment administration could not be blinded, keeping the comparison design distinct from its remaining sources of bias.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 assessor blinding; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "in-the-research",
+      "text": "The collagen study used a crossover arrangement in which participants consumed the intervention beverages and a water comparator on separate visits, so the comparison was made within returning participants rather than solely between permanently separate groups.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "reading-the-evidence",
+      "text": "The investigators standardized aspects of diet and activity before visits and collected blood around beverage ingestion, attaching the water comparison to a controlled sampling procedure instead of unrestricted everyday supplement use.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol; p4 Blood Samples"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "reading-the-evidence",
+      "text": "The tendon study used microscopic and tensile-loading outcomes, which describe the repaired rat specimens and do not directly measure whether an injured person returns to sport or experiences clinically meaningful pain relief.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 Histological and biomechanical analyses; p7 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "control-group",
+      "sectionId": "reading-the-evidence",
+      "text": "The collagen comparison concerned plasma metabolites following the specified drinks, so a difference from water in that experiment remains a biochemical comparison rather than a demonstration of newly repaired human connective tissue.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "in-the-research",
+      "text": "The pharmacokinetic investigators administered the specified BPC157 preparation intravenously or intramuscularly in rats and dogs, with blood sampling linked to those administration procedures and the animals studied rather than to a consumer injection protocol.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "in-the-research",
+      "text": "The paper describes separate experimental schedules for single and repeated administration, so a route label should be read together with the preparation, sampling design and species instead of being treated as a complete description of exposure.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "in-the-research",
+      "text": "The investigators used chromatographic mass spectrometry to quantify the parent compound in plasma, a measurement that should remain separate from the radioactivity measurements used in the labeled-compound portion of the research.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4; p15 analytical methods"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "in-the-research",
+      "text": "The skin experiment placed a copper-tripeptide preparation on excised human tissue in diffusion cells, making the tissue barrier and receiving fluid part of the experiment rather than an assessment of an injected product in a living participant.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials and Tissue preparation; p3 Diffusion experiment"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "reading-the-evidence",
+      "text": "The skin analysis measured copper and discussed possible changes in copper-containing complexes, so observing transport across the prepared tissue does not by itself identify intact peptide circulating after a different route of administration.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Analytical methodology; p6 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "reading-the-evidence",
+      "text": "The recombinant thymosin study also used intravenous administration, but evaluated a different investigational preparation in healthy volunteers with its own plasma analysis and antibody testing, preserving a separate product and population boundary.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design and Procedure; p3 Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "route-of-administration",
+      "sectionId": "reading-the-evidence",
+      "text": "The BPC157 authors describe the animal and laboratory work as support for further clinical development and acknowledge analytical limitations, so route comparisons in that paper do not supply a validated human treatment schedule.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "in-the-research",
+      "text": "The pharmacokinetic work examined the specified BPC157 preparation in rats and dogs under controlled administration and sampling conditions, making species and experimental procedure part of the evidence rather than optional details around a generic peptide claim.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.2, 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "in-the-research",
+      "text": "The investigators used plasma measurements after intravenous and intramuscular administration to investigate exposure, while the repeated-administration experiments had their own sampling schedules and should remain distinct from single-administration observations.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.2, 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "in-the-research",
+      "text": "The labeled-compound experiments examined radioactivity in biological samples, while other analytical procedures quantified the parent peptide or investigated metabolites, so these measurements do not all identify the same molecular species.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.5; p15 Metabolism and Excretion methods"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "in-the-research",
+      "text": "The Achilles study used an experimentally injured rat tendon and assessed tissue architecture and mechanical behavior, a repair model with outcomes different from blood exposure measurements or a clinical assessment of pain and daily function.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p2 Study groups; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "reading-the-evidence",
+      "text": "The cultured-cell study examined receptor expression and cellular responses in rat tendon fibroblasts, and its discussion acknowledges that isolated cultures cannot reproduce all interactions among cells during repair in a living tendon.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1 and 2.2; p7 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "reading-the-evidence",
+      "text": "The pharmacokinetic authors note that target-tissue metabolites were not analyzed and identify further work as necessary, limiting an interpretation that every measured distribution signal directly establishes active peptide at a therapeutic tissue target.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "preclinical",
+      "sectionId": "reading-the-evidence",
+      "text": "The tendon authors identify limitations of the animal model and the experimental assessment period, so the findings should remain evidence about that controlled repair setting rather than proof of effective treatment for human tendon injury.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p7 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "in-the-research",
+      "text": "The semaglutide extension followed selected participants after medication and the main lifestyle intervention ended, keeping the later observations distinct from a continuing-treatment comparison and from a direct test of every drug acting at the same receptor.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design; p4 Procedures and Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "in-the-research",
+      "text": "The investigators assessed body measurements and cardiometabolic laboratory markers during follow-up, with the original treatment and placebo assignments providing historical context for the off-treatment observations.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design; p4 Procedures and Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "in-the-research",
+      "text": "The tirzepatide paper concerns combined GIP and GLP-1 receptor agonism and additional analyses of available trial samples, so its intervention should not be relabeled as semaglutide solely because the preparations share a receptor-related pathway.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Introduction, Participants and Study procedures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "in-the-research",
+      "text": "That analysis measured fasting lipoprotein-related biomarkers and used the trial population and sample availability described in its methods, rather than directly measuring receptor activity in each participant's tissues.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Introduction, Participants and Study procedures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors distinguish circulating enzyme mass from tissue-surface enzyme activity and call for kinetic studies, leaving parts of the proposed explanation for lipid changes unresolved by the stored-sample analysis alone.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations; p8 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "reading-the-evidence",
+      "text": "The semaglutide extension was exploratory and used descriptive analyses, while its discussion identifies selected treatment completers and missing lifestyle-adherence information as limitations relevant to interpreting the follow-up measurements.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p5 Statistical analysis; p10 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "glp-1",
+      "sectionId": "reading-the-evidence",
+      "text": "The tirzepatide authors point to a planned cardiovascular outcomes study for definitive clinical-benefit evidence, so the biomarker findings in this paper should not be restated as a completed demonstration that cardiovascular events were prevented.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p8 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "in-the-research",
+      "text": "The BPC157 study used intravenous administration as part of animal pharmacokinetic experiments alongside intramuscular administration, with preparation and sampling procedures described separately for rats and dogs rather than as instructions for human injection.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "in-the-research",
+      "text": "The blood samples were processed for plasma analysis and quantified with chromatographic mass spectrometry, allowing exposure to the parent compound to be studied under the specified experimental conditions.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "in-the-research",
+      "text": "The radioactive-label experiments used a separate analytical approach for distribution and elimination, so a radioactivity signal from that portion of the research should not be equated automatically with intact peptide measured after intravenous administration.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.5; p15 Metabolism and Excretion methods"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "in-the-research",
+      "text": "The thymosin trial investigated intravenous delivery of a specified recombinant preparation in screened healthy volunteers, comparing the investigational product with saline placebo in separate single-administration and repeated-administration stages.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design and Procedure"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "reading-the-evidence",
+      "text": "The thymosin investigators analyzed plasma pharmacokinetics and antibody samples using different laboratory methods, distinguishing measured drug exposure from an assessment of antibodies to the administered product.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p3 Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "reading-the-evidence",
+      "text": "The antibody results included initially positive samples that later became negative, with the authors discussing borderline signals and possible systematic error rather than establishing that every intravenously delivered peptide is non-immunogenic.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p5 Results 3.4 and Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "intravenous",
+      "sectionId": "reading-the-evidence",
+      "text": "The BPC157 paper presents preclinical findings and identifies further development questions, so its intravenous comparison cannot supply clinical efficacy evidence or a human treatment schedule for the studied compound.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "in-the-research",
+      "text": "The ophthalmic trial compared the specified RGN-259 preparation with placebo in participants with neurotrophic keratopathy, attaching the randomized design to a defined disease population and ocular formulation rather than to thymosin products in general.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Materials and Methods; p12 Subject demographics and Study design"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "in-the-research",
+      "text": "The study identified corneal healing as its primary outcome and separately described ocular symptoms and safety assessments, so assigning participants to groups did not make every measured result a primary endpoint.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Materials and Methods; p12 Subject demographics and Study design"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "in-the-research",
+      "text": "The authors report slow recruitment and early termination and discuss baseline differences, limitations that remain relevant even though the comparison used a randomized and masked design.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Subject demographics"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "in-the-research",
+      "text": "The statistical methods distinguish the primary comparison from sensitivity and alternative analyses and state that analysis followed database locking and release for unmasking, giving the reported procedures more detail than the trial label alone.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses; p14 alternative and sensitivity analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "reading-the-evidence",
+      "text": "The collagen study used randomized beverage order in a crossover design, with returning participants receiving different preparations on separate visits rather than remaining in a permanently assigned parallel treatment group.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "reading-the-evidence",
+      "text": "The collagen investigators standardized aspects of diet and activity before visits and sampled blood around ingestion, so its randomized comparison still concerns the stated laboratory outcomes under that controlled protocol.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol; p4 Blood Samples"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sectionId": "reading-the-evidence",
+      "text": "The eye trial's primary healing result and exploratory observations should retain their stated analysis roles, while the authors' recruitment and sample limitations prevent the randomized label from guaranteeing a decisive estimate of clinical benefit.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Study design"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "in-the-research",
+      "text": "The thymosin trial used saline placebo and described the comparison preparation as indistinguishable from the investigational product in appearance, packaging and labeling, tying the masking arrangement to a specific intravenous product comparison.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Procedure and investigational products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "in-the-research",
+      "text": "The ophthalmic trial compared its eye-drop preparation with placebo and measured corneal healing separately from ocular symptoms and safety observations, so the comparator should be read alongside each specified outcome rather than a single general effectiveness label.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p12 Study design and safety outcome measures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "in-the-research",
+      "text": "The collagen absorption study used water as its placebo beverage and gave the preparations on separate visits in randomized order, defining a comparison for that ingestion experiment rather than an injected or ophthalmic treatment.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "in-the-research",
+      "text": "The report describes participant and laboratory masking arrangements around the beverage codes, while keeping the study preparations and their processing characteristics explicit in the methods.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "reading-the-evidence",
+      "text": "The collagen experiment measured circulating metabolites after the study drinks, so its water comparison does not directly test whether a participant's tendon or cartilage has healed or whether pain from an injury has improved.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "reading-the-evidence",
+      "text": "The eye-drop authors identify early termination and baseline differences as limitations, illustrating why having a placebo group does not remove separate questions about recruitment, comparability or the precision of a treatment comparison.",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Subject demographics"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820614/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "placebo",
+      "sectionId": "reading-the-evidence",
+      "text": "The thymosin placebo comparison concerned screened healthy volunteers and the investigational preparation's early safety assessment, and cannot establish effectiveness in patients with a disease or the safety of an unrelated marketed peptide.",
+      "citations": [
+        {
+          "source": "phase1",
+          "locator": "PDF p2 Trial design and Subject eligibility; p3 Safety and tolerability"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "numericalApproval": false,
+  "releaseApproval": false
+}

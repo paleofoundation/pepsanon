@@ -1,0 +1,44 @@
+{
+  "homeHeldState": "HELD-COMPONENT-SCOPE",
+  "homeMainByteIdentical": true,
+  "homeMainSha256": "80618bcaea841041270b611f32fbcdde45ee96ac1800fe6af479c12aa29b4b24",
+  "noAttributeOrContentNormalization": true,
+  "nineV3ArticlesExact": [
+    {
+      "slug": "collagen",
+      "articleHtmlSha256": "ef99bf53c88889729c2fb6a583a89e93f88f6afec1de25f61f4168f09111df9f"
+    },
+    {
+      "slug": "immunogenicity",
+      "articleHtmlSha256": "b9d2257776f5f40a1f66826c77ad00f76fb077986aa388d3ddea2f40b560d868"
+    },
+    {
+      "slug": "control-group",
+      "articleHtmlSha256": "74e550ae6886c3b69206360ea2ad23cfda215ed437255cc48215a492ba4905bd"
+    },
+    {
+      "slug": "route-of-administration",
+      "articleHtmlSha256": "4ddba98275bff51bbc5375528571f28cad68bf577b5bc1a514bb3a9d16176cd9"
+    },
+    {
+      "slug": "preclinical",
+      "articleHtmlSha256": "2ac07c143a2042876bf08fdc3885e87fafe2b6127e8d9675697a14824ce3475a"
+    },
+    {
+      "slug": "glp-1",
+      "articleHtmlSha256": "44833a53a854bedfa46c9e609d94db5f7594707c6a964beb526f8bf796d15b02"
+    },
+    {
+      "slug": "intravenous",
+      "articleHtmlSha256": "70d2d15316efbdf087fc65c694d36bea9a9c8cf48ae8b3a78253a42697c4180c"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "articleHtmlSha256": "15cd2369066b2185e302150032e377d6717af778f4032b4a3b1ecc90761711d6"
+    },
+    {
+      "slug": "placebo",
+      "articleHtmlSha256": "1cd4e183ad83d81ced86f93143346e3f379528eaf637b0e2f36a0c6d64196ce9"
+    }
+  ]
+}

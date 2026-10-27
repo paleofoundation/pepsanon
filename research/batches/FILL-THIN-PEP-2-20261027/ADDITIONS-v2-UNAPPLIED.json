@@ -1,0 +1,737 @@
+{
+  "state": "UNAPPLIED_EIGHT_EXISTING_TERMS_SOURCE_LOCATED_PENDING_GATES_AND_REVIEW",
+  "createdAt": "2026-10-27T10:39:24.912202+00:00",
+  "base": "778e0fbdecd3db50ed229012d8987eb768b33a2b",
+  "records": [
+    {
+      "slug": "retrospective-study",
+      "sectionId": "in-the-research",
+      "text": "The knee report assembled records from an existing clinical practice after injections had already been given, so the research began with previously treated patients rather than a newly assigned trial population.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 Retrospective chart review and follow-up questions"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "retrospective-study",
+      "sectionId": "in-the-research",
+      "text": "The authors excluded a person who could not be reached for follow-up, which makes the reported observations dependent on the patients whose later accounts were available to the investigators.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 Retrospective chart review and follow-up questions"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "retrospective-study",
+      "sectionId": "in-the-research",
+      "text": "Follow-up callers asked patients to rate their pain before and after treatment and to describe mobility, exercise tolerance, stair climbing and sleep, rather than collecting a uniform set of objective performance tests.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 Retrospective chart review and follow-up questions"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "retrospective-study",
+      "sectionId": "in-the-research",
+      "text": "The report describes using a peptide combination initially and later trying BPC157 alone, a clinical sequence that differs from randomly assigning comparable patients to concurrent treatment groups.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 treatment sequence; p4 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "retrospective-study",
+      "sectionId": "reading-the-evidence",
+      "text": "Patients did not all have the same underlying knee condition, and the discussion acknowledges that diagnoses were not established with the same imaging and other investigations for every participant.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 treatment sequence; p4 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "retrospective-study",
+      "sectionId": "reading-the-evidence",
+      "text": "The abstract states that no specific tools measured function, quality of life, stiffness or activities of daily living, identifying outcome gaps that remain despite the availability of later patient accounts.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "retrospective-study",
+      "sectionId": "reading-the-evidence",
+      "text": "A request for future imaging and treatment comparisons is a research recommendation within this paper, rather than evidence that the observed symptom changes already demonstrate structural repair or a treatment advantage.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Clinical Implications; p4-5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "in-the-research",
+      "text": "The rat and dog tables place the timing of the concentration peak alongside the size of that peak and the exposure accumulated over time, keeping these pharmacokinetic descriptions as separate quantities.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Tables 1-3; p6 Tables 4-6"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "in-the-research",
+      "text": "The study presents separate tables for intravenous and intramuscular administration and for different animal species, so the meaning of a reported peak time remains attached to the route and experimental group.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Tables 1-3; p6 Tables 4-6"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "in-the-research",
+      "text": "Blood was collected at scheduled times after administration and the plasma was analyzed for BPC157, making the timing estimate part of a sampled concentration profile rather than continuous observation inside the animal.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "in-the-research",
+      "text": "The investigators also sampled animals during repeated administration experiments, which should be distinguished from the profiles obtained after an initial administration when interpreting a table or plotted concentration curve.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "reading-the-evidence",
+      "text": "The radioactive tracer experiment reports a peak for total radioactivity as well as the separate parent-drug experiments, so a peak in labeled material should not automatically be identified as a peak of unchanged BPC157.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 Table 9 discussion; p8 Table 9"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper distinguishes parent-drug concentration from radioactive material that can include breakdown products, an analytical distinction that matters before comparing the timing of peaks across its different experiments.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "tmax",
+      "sectionId": "reading-the-evidence",
+      "text": "These peak-time observations describe the disposition of the experimental preparations in rats and dogs, and the study does not measure the time at which an injured human tendon or joint improves.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "in-the-research",
+      "text": "The tendon study examines an experimentally ruptured and surgically repaired Achilles tendon in rats, giving the tissue images a defined injury model rather than treating them as observations of untreated human tendon disease.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p2 Methods; p3 Figure 1; p4 histological analysis"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "in-the-research",
+      "text": "Tendons assigned to microscopy were processed separately from those assigned to mechanical testing, so the stained sections and the measured breaking loads do not represent repeated measurements on the same specimen.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p2 Methods; p3 Figure 1; p4 histological analysis"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "in-the-research",
+      "text": "Longitudinal sections allowed assessment of fiber architecture, cell shape and collagen organization across the repair region, while different stains emphasized different features of the tissue being examined.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p2 Methods; p3 Figure 1; p4 histological analysis"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "in-the-research",
+      "text": "The scoring systems considered characteristics such as collagen arrangement, cellular appearance, vascularity and ground substance, making a histological score a summary of specified tissue features rather than an unrestricted measure of recovery.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 histological scoring; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors caution that differences seen with polarized staining may reflect collagen fiber alignment and organization rather than greater collagen production, preserving the distinction between tissue appearance and a claim about synthesis.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 histological scoring; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "reading-the-evidence",
+      "text": "A pathologist assessed coded tissue without knowing its treatment assignment, but the paper also states that surgery and daily treatment could not be blinded and that agreement between multiple observers was not assessed.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 assessor blinding; p14 limitations"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "histology",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors identify the assessment period, healthy young rat model and absence of functional testing as limits, so microscopic organization at that stage does not establish later maturation or recovery of human activity.",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 assessor blinding; p14 limitations"
+        }
+      ],
+      "sourceUrl": "https://jointdrs.org/full-text/1851",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "in-the-research",
+      "text": "The exposure tables distinguish the area accumulated through the final observation from an area extrapolated beyond the observed samples, making the stated time boundary part of the interpretation of an AUC value.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 1 footnote; p6 Table 4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "in-the-research",
+      "text": "The same exposure summary is reported in separate rat and dog experiments and after different administration routes, so the species, route and sampling design belong with the reported estimate.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 1 footnote; p6 Table 4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "in-the-research",
+      "text": "The authors use dose-adjusted exposure after intramuscular administration and an intravenous reference to estimate bioavailability, illustrating a specific comparison rather than making an AUC value itself a percentage absorbed.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 2 footnote; p6 Table 5 footnote"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "in-the-research",
+      "text": "The tables report peak concentration beside accumulated exposure because a concentration maximum and the area across a concentration profile describe different aspects of the measurements collected in the experiment.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 2 footnote; p6 Table 5 footnote"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "reading-the-evidence",
+      "text": "The study examines how exposure relates to the administered amount within its tested animal experiments and also describes repeated administration separately, without turning those relationships into a clinical treatment schedule.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p2 Results 2.1; p4 Results 2.2; p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "reading-the-evidence",
+      "text": "Exposure calculated from total radioactivity includes labeled material remaining after peptide breakdown, and the paper separates that signal from the plasma profile of unchanged parent BPC157.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "auc",
+      "sectionId": "reading-the-evidence",
+      "text": "The study did not analyze metabolites within the target tissues, so its exposure summaries cannot identify how much unchanged peptide reached an injured human tendon or establish a healing effect there.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 total radioactivity comparison; p8 Table 9; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "in-the-research",
+      "text": "The collagen experiment studied healthy men in an acute crossover design, with the same participants attending separate experimental visits rather than following patients through a course of treatment for an injury.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Subjects; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "in-the-research",
+      "text": "Participants consumed an enzymatically hydrolyzed collagen product, a non-enzymatically hydrolyzed product and a water placebo on separate visits, allowing the investigators to compare the subsequent blood profiles under the study conditions.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Subjects; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "in-the-research",
+      "text": "The protocol standardized preparation for the visits and collected blood before and after beverage consumption, linking the absorption observations to those particular products and the controlled experimental setting.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Subjects; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "in-the-research",
+      "text": "The laboratory analysis quantified amino acids in plasma, so the measured appearance of collagen components in the circulation is distinct from detecting an entire ingested collagen protein or proving that it entered damaged tissue.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy; p9 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "reading-the-evidence",
+      "text": "The investigators reported a different absorption pattern for glycine, proline and hydroxyproline after enzymatic processing, but did not find the same processing advantage across all of the amino acids they examined.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "reading-the-evidence",
+      "text": "Total amino acids, essential amino acids and branched chain amino acids did not distinguish the collagen products in the same way as those particular abundant collagen components, limiting a broad claim that processing improved every absorption measure.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "absorption",
+      "sectionId": "reading-the-evidence",
+      "text": "The study discusses possible tissue implications in relation to other research, while its own experiment measures the post-meal blood response rather than directly demonstrating tendon healing, cartilage regeneration or relief of joint pain.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "in-the-research",
+      "text": "The investigators obtained Achilles tendon tissue from rats and grew cells from the tissue fragments in culture, so the fibroblasts in this experiment were studied outside an intact injured animal or human participant.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "in-the-research",
+      "text": "The cultured cells were maintained in laboratory medium and exposed to BPC157 under specified incubation conditions, an experimental preparation that differs from measuring what reaches a tendon after administration to a person.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "in-the-research",
+      "text": "Control cultures and BPC157-treated cultures were examined at defined stages of incubation, allowing the authors to investigate cellular changes within that culture system rather than treating a clinical symptom report as a cell measurement.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Methods 4.1; p8 Methods 4.1 and 4.2"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "in-the-research",
+      "text": "The paper describes a receptor-expression clue from earlier screening work and then examines growth hormone receptor RNA and protein in the current experiments, distinguishing a proposed cellular explanation from direct evidence of tissue healing.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1; p8 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors assessed viable cells with a laboratory assay and also examined a proliferation-associated marker, keeping these cellular readouts separate from a mechanical test of whether a repaired tendon can withstand loading.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p4 Figure 3; p9 MTT assay"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "reading-the-evidence",
+      "text": "Growth hormone was added after BPC157 pretreatment in the response experiments, so the observed cell behavior relates to that sequence of exposures rather than showing that BPC157 itself is growth hormone.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "fibroblast",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors identify the in vitro design as a limitation and call for further work to connect the cellular findings with tendon healing, leaving clinical effectiveness and an appropriate human treatment regimen unestablished by these cultures.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "in-the-research",
+      "text": "The peak is reported together with the time at which it occurs and the area accumulated across the profile, allowing readers to distinguish the height, timing and overall extent of exposure in the animal experiment.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 2; p6 Table 5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "in-the-research",
+      "text": "The rat and dog results are organized separately and include different experimental administrations, so a peak concentration should be read with the species and route that produced the sampled plasma profile.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 2; p6 Table 5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "in-the-research",
+      "text": "The parent peptide was quantified in plasma using a mass spectrometry method after scheduled blood sampling, tying the reported peak to a specified analyte and the measurements obtained in that experiment.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "in-the-research",
+      "text": "The investigators examined both initial and repeated administration profiles, which means that a peak reported for a repeated exposure should not silently be substituted for one from an initial exposure.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "reading-the-evidence",
+      "text": "A maximum based on total radioactivity in the tracer experiment describes labeled material rather than only unchanged BPC157, and the paper explicitly compares those tracer results with its parent-drug measurements.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 radioactivity comparison; p8 Table 9"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "reading-the-evidence",
+      "text": "The analysis of breakdown products and the lack of metabolite measurements within target tissues limit what a circulating peak can reveal about the identity of material present at a proposed site of action.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "cmax",
+      "sectionId": "reading-the-evidence",
+      "text": "The experiment characterizes drug disposition in animals and does not pair a particular plasma peak with a measured improvement in human wound healing, pain or physical function.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "in-the-research",
+      "text": "The tendon-cell experiment assessed growth hormone receptor RNA and protein with different laboratory methods, so an expression result identifies a change in the measured receptor material rather than a measurement of circulating growth hormone.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1; p8 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "in-the-research",
+      "text": "The investigators exposed cultured rat tendon fibroblasts to BPC157 before assessing receptor expression, retaining the cell type and experimental preparation as part of what the reported response describes.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1; p8 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "in-the-research",
+      "text": "In the response experiments, growth hormone was added to cells that had already received BPC157 pretreatment, separating the preparation associated with altered expression from the hormone used to test the subsequent response.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p5 Results 2.3"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "in-the-research",
+      "text": "The authors examined downstream signaling after hormone addition as well as receptor expression, which distinguishes the amount of a measured receptor from a separate observation about the signaling pathway it can engage.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p5 Results 2.3"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "reading-the-evidence",
+      "text": "The signaling analysis distinguished activated pathway protein from the total amount of that protein, illustrating why a change in activation should not be relabeled as an increase in every component of the pathway.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p5 Results 2.3; p6 Figure 4"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "reading-the-evidence",
+      "text": "These observations came from cells maintained in culture and analyzed after controlled exposures, rather than receptor measurements from a human tendon during a randomized clinical trial of injury treatment.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Discussion; p8 Methods 4.1-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "receptor",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper treats the cellular findings as a possible explanation requiring further investigation, so receptor expression and signaling do not by themselves establish that a preparation improves tendon strength or clinical recovery.",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Discussion; p8 Methods 4.1-4.4"
+        }
+      ],
+      "sourceUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "reviewState": "AI_SELECTED_ORIGINAL_PASSAGE_CHECK_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "scientificApproval": false,
+  "humanApproval": false
+}

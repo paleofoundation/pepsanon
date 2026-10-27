@@ -1,0 +1,189 @@
+{
+  "time": "2026-10-27T11:13:57.010225+00:00",
+  "scope": "All20prior URLs, existing prose only",
+  "reviewBoundary": "Bounded held-corpus search/actual inspected passages, not proof that no supporting literature exists elsewhere",
+  "records": [
+    {
+      "slug": "pharmacodynamics",
+      "url": "https://pepsanon.com/glossary/pharmacodynamics",
+      "beforeWords": 457,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "url": "https://pepsanon.com/glossary/growth-hormone-secretagogue",
+      "beforeWords": 470,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "sterility",
+      "url": "https://pepsanon.com/glossary/sterility",
+      "beforeWords": 368,
+      "beforeThin": "yes",
+      "beforeFlags": "words<400;claims_with_2_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "Existing prose concerns the selected semaglutide product experiment. Miniprotein manufacturing assays do not independently corroborate those results; no second explicit sterility definition established in bounded source checks. Leave source-specific statements and word/citation flags unchanged."
+    },
+    {
+      "slug": "igf-1",
+      "url": "https://pepsanon.com/glossary/igf-1",
+      "beforeWords": 429,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "in-vivo",
+      "url": "https://pepsanon.com/glossary/in-vivo",
+      "beforeWords": 428,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "in-vitro",
+      "url": "https://pepsanon.com/glossary/in-vitro",
+      "beforeWords": 447,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "ghrh",
+      "url": "https://pepsanon.com/glossary/ghrh",
+      "beforeWords": 421,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "pentadecapeptide",
+      "url": "https://pepsanon.com/glossary/pentadecapeptide",
+      "beforeWords": 443,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "intramuscular",
+      "url": "https://pepsanon.com/glossary/intramuscular",
+      "beforeWords": 452,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "intra-articular",
+      "url": "https://pepsanon.com/glossary/intra-articular",
+      "beforeWords": 468,
+      "beforeThin": "no",
+      "beforeFlags": "",
+      "state": "UNCHANGED_ALREADY_NOT_THIN",
+      "reason": "Already clears unchanged audit; no additional citation needed or added merely to inflate count."
+    },
+    {
+      "slug": "retrospective-study",
+      "url": "https://pepsanon.com/glossary/retrospective-study",
+      "beforeWords": 415,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "The detailed statements describe the one held knee retrospective report. Other randomized or animal studies do not corroborate those same patients, sequence or follow-up; no additional exact held definition source established."
+    },
+    {
+      "slug": "tmax",
+      "url": "https://pepsanon.com/glossary/tmax",
+      "beforeWords": 428,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "state": "UNAPPLIED_EXPLICIT_GENERIC_DEFINITION_SUPPORT",
+      "reason": "CJC original explicitly defines the existing first-sentence PK term. Original BPC citation retains study-specific second sentence; no prose change."
+    },
+    {
+      "slug": "histology",
+      "url": "https://pepsanon.com/glossary/histology",
+      "beforeWords": 427,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "Existing statements concern the specific rat repair study and its separate specimen allocations, scoring and limitations. Cultured-cell or permeation studies do not corroborate those histological methods/results."
+    },
+    {
+      "slug": "auc",
+      "url": "https://pepsanon.com/glossary/auc",
+      "beforeWords": 433,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "state": "UNAPPLIED_EXPLICIT_GENERIC_DEFINITION_SUPPORT",
+      "reason": "CJC original explicitly defines the existing first-sentence PK term. Original BPC citation retains study-specific second sentence; no prose change."
+    },
+    {
+      "slug": "absorption",
+      "url": "https://pepsanon.com/glossary/absorption",
+      "beforeWords": 440,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "Existing observations are the specified healthy-men collagen trial and its amino-acid analysis. Animal parent-drug PK or ex vivo copper penetration cannot be cited as corroboration of that trial."
+    },
+    {
+      "slug": "fibroblast",
+      "url": "https://pepsanon.com/glossary/fibroblast",
+      "beforeWords": 466,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "Existing culture, expression, MTT/PCNA and treatment-sequence statements are specific to the rat-cell paper. The other tendon paper assesses a different intact-animal experiment; related introductory background is not sufficient corroboration."
+    },
+    {
+      "slug": "cmax",
+      "url": "https://pepsanon.com/glossary/cmax",
+      "beforeWords": 435,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "state": "UNAPPLIED_EXPLICIT_GENERIC_DEFINITION_SUPPORT",
+      "reason": "CJC original explicitly defines the existing first-sentence PK term. Original BPC citation retains study-specific second sentence; no prose change."
+    },
+    {
+      "slug": "receptor",
+      "url": "https://pepsanon.com/glossary/receptor",
+      "beforeWords": 448,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_2_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "The current detailed statements concern receptor expression/signaling in the specific rat cultures. Human hormone pharmacology and unrelated receptor agonists cannot substantiate those same cellular assays; no second explicit matching generic definition established."
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "url": "https://pepsanon.com/glossary/patient-reported-outcome",
+      "beforeWords": 436,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "The current reports, subjective survey methods and absence of objective verification belong to the single held knee case report. Other patient populations do not corroborate those reports."
+    },
+    {
+      "slug": "biomechanical-testing",
+      "url": "https://pepsanon.com/glossary/biomechanical-testing",
+      "beforeWords": 437,
+      "beforeThin": "yes",
+      "beforeFlags": "claims_with_1_citations",
+      "state": "NO_GENUINE_ADDITIONAL_SOURCE_DEMONSTRATED",
+      "reason": "The measured endpoint, surgical model, specimen allocation and absent mechanical analyses belong to the particular rat repair paper. Cell counts and subjective knee reports are not substitute corroboration."
+    }
+  ],
+  "candidateFile": "CITATION-CANDIDATES-v1.json",
+  "scientificApproval": false
+}

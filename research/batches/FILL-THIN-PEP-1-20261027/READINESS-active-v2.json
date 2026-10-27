@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-10-27T09:47:07.155321+00:00",
+  "state": "APPLIED_SOURCE_LOCATED_DRAFT_TECHNICAL_VERIFICATION_PENDING_FINAL_BROWSER",
+  "authority": "Elon11:26 order and11:37 exact OptionA plus root scoped punctuation check",
+  "planSha256": "1e0c8df9eaa5b7cfa72b33ce5d5f423ee9a16631c1b0524628503d3bc57c944d",
+  "selectionSha256": "c3b22a24b65339da617843869019dd8c0150d314fd9dcaaa755a5059f059cd4c",
+  "sourceInputsSha256": "0436c218e4b22b757efb86c8f6eecd8ae97a23a2e8fe4300ccfdf7bda365135f",
+  "sourceReadingSha256": "fec5dbc3b02ad0ee2d47263deef46e91eb2e1a191d4d3d1a015c078f083f3c90",
+  "candidateSha256": "f4ff8fe36355e5d98c5719812a3f7262ffa4fb4fa662f81834ff4862d60f1f89",
+  "candidateParagraphs": 70,
+  "canonicalSourceAdditions": 0,
+  "canonicalTermAdditions": 0,
+  "sourceIntegrity": "CJC PDF and quality XML current hashes match held historical acquisition receipts; BPC/knee PDFs obtained PRIMARY entries; no prior approval transferred",
+  "ipaOriginal": "Missing in bounded lookup; no new ipa-dependent claim",
+  "newScientificNumbers": 0,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false,
+  "policy": "Corrections and terms not edited",
+  "missingRoutes": "All3 HELD-MISSING-BASE; no restoration",
+  "activePlan": "PLAN-active-v2.md",
+  "punctuationOnlyChanges": [
+    "ghrh.name",
+    "intramuscular original Results2.1-2.2 locator"
+  ],
+  "generatedProjectionFiles": [
+    "lib/data/glossary-index.json",
+    "research/glossary/term-audit.json"
+  ]
+}

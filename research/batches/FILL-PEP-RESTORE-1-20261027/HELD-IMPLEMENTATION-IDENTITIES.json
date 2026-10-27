@@ -1,0 +1,12 @@
+{
+  "purpose": "Read-only implementation comparison. No protected full-review data copied. Public parity comes from live anonymous GET captures.",
+  "files": {
+    "AGENTS.md": "10cbf9583bbaed1b2a7d421b71775e2d4bf4b6a7bf012040d8dd46b4be6a8406",
+    "docs/canonical-research.md": "e55b1857a468de53125a35fe20532e4998795fe95747750ae37e72f934c7b2a3",
+    "lib/data/guide-contract.json": "c54b7313ff0a7ecf483f51ebab560be71ece4139f8abef7d57c78e6203a0ba2c",
+    "app/research/[id]/page.tsx": "a48cdbc783c96c583b754b4110f031463bf2095dfc39d760c85cd4eaf5275ac0",
+    "components/peptide/shell.tsx": "0bdb34811104002711f8f287c27b5b4a32932d819f6f15d7719a989be447d0f1",
+    "app/study-reviews.css": "2c53e89275c97c31ac291ff2572c017e9b8c5bbc46c0f4d659d03480ac82ffe2"
+  },
+  "oneMatchRuleMaintenance": "Held source AGENTS requests reusable-rule maintenance. No change to reusable requirements is introduced; project-specific restore order retained in own packet. No out-of-scope installed-skill/project rule sync performed."
+}

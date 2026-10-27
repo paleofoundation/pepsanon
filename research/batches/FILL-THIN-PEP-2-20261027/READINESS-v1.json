@@ -1,0 +1,18 @@
+{
+  "time": "2026-10-27T10:41:09.203028+00:00",
+  "state": "EIGHT_TERM_CANDIDATE_READY_AWAITING_SELECTION_AND_NATIVE_TITLE_GATES",
+  "base": "778e0fbdecd3db50ed229012d8987eb768b33a2b",
+  "activeUnappliedCandidate": "ADDITIONS-v2-UNAPPLIED.json",
+  "candidateSha256": "05d8ad81d4cd7b0a79056bac38fd12f93b9170d37312fcad63ed226d37bba3f9",
+  "sourceReading": "SOURCE-READING-v1.json",
+  "originalFiles": 5,
+  "newScientificNumbers": 0,
+  "newCanonicalSources": 0,
+  "newCanonicalTerms": 0,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false,
+  "baselineCapture": "Fresh local59pages54glossary+5held404s,60GETs including robots",
+  "sourceHashConsistency": "Five current hashes recorded; all obtained PRIMARY; no prior PASS transferred",
+  "priorBatch": "59files and prior10terms frozen; sterility not revisited"
+}

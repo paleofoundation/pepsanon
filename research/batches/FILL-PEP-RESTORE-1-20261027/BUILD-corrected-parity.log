@@ -1,0 +1,69 @@
+
+> site-creator-vinext-starter@0.1.0 build
+> node scripts/run-framework.mjs build
+
+
+  vinext build  (Vite 8.0.13)
+
+[1/5] analyze client references...
+[2K
+transforming...✓ 439 modules transformed.
+rendering chunks...
+✓ built in 911ms
+[2/5] analyze server references...
+[2K
+transforming...✓ 293 modules transformed.
+rendering chunks...
+✓ built in 369ms
+[3/5] build rsc environment...
+[2K
+transforming...✓ 436 modules transformed.
+rendering chunks...
+computing gzip size...
+✓ built in 741ms
+[4/5] build client environment...
+[2K
+transforming...✓ 2096 modules transformed.
+rendering chunks...
+computing gzip size...
+✓ built in 1.20s
+[5/5] build ssr environment...
+[2K
+transforming...✓ 298 modules transformed.
+rendering chunks...
+computing gzip size...
+✓ built in 458ms
+[0m
+  Route (app)
+  ┌ ? /
+  ├ λ /api/account
+  ├ λ /api/favorites
+  ├ λ /api/profile
+  ├ ? /glossary
+  ├ ƒ /glossary/:slug
+  ├ ƒ /login
+  ├ ? /medical-disclaimer
+  ├ ? /methodology
+  ├ ? /peptides
+  ├ ƒ /peptides/:slug
+  ├ ƒ /profile
+  ├ ? /questions
+  ├ ? /research/paper-29343d5dff2c8e1b
+  ├ ? /research/paper-37c4f0f55f696512
+  ├ ? /research/paper-84d99218fb837c75
+  ├ ? /research/paper-baf28ca7c2d11c45
+  ├ ? /research/paper-d1c144a22938229c
+  ├ λ /robots.txt
+  ├ ? /search
+  ├ λ /sitemap.xml
+  ├ ? /sources
+  ├ ? /stacks
+  └ ƒ /stacks/:slug
+
+  λ API  ƒ Dynamic  ? Unknown
+
+  ? Some routes could not be classified. vinext currently uses static analysis
+    and cannot detect dynamic API usage (headers(), cookies(), etc.) at build time.
+    Automatic classification will be improved in a future release.
+
+  Build complete. Run `vinext start` to start the production server.

@@ -1,0 +1,42 @@
+{
+  "created_at": "2026-10-27T18:18:48.074294+02:00",
+  "decision": "PASS_EXACT_TEN_URL_FIELDS_RAW_CAPTURE_LABEL_BINDING_NOT_YET_DOM_PARITY",
+  "head": "f53bef6d8776cd0518403e872ce576ef9f49a107",
+  "parent": "27d575a3ba0ce38a3a1700ef0c407daf80345a94",
+  "failed_commit_preserved": true,
+  "only_changed_path": "lib/data/restored-research-previews.json",
+  "other_record_fields_unchanged": true,
+  "rows": [
+    {
+      "id": "paper-29343d5dff2c8e1b",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+      "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf",
+      "raw_capture_sha256": "c738499ca74f93def3b7ca8bbee0585ad2186105544adb7c4b2b5b207b99f7c4"
+    },
+    {
+      "id": "paper-37c4f0f55f696512",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "pdfUrl": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+      "raw_capture_sha256": "8790794ae6ad09b0575be9beaffcd8c65467f7d27304e01c745dd3b3122d7b78"
+    },
+    {
+      "id": "paper-84d99218fb837c75",
+      "originalUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "pdfUrl": "https://www.mdpi.com/1420-3049/19/11/19066/pdf",
+      "raw_capture_sha256": "7804d42603a618882bd95571f4e651596c80765f79abb976b855952dfa9611b8"
+    },
+    {
+      "id": "paper-baf28ca7c2d11c45",
+      "originalUrl": "https://jointdrs.org/full-text/1851",
+      "pdfUrl": "https://jointdrs.org/full-text-pdf/1851",
+      "raw_capture_sha256": "2f625a5cc8c9124633a9d076e2eab516688ce026d333bc2b12fd2982029a57a9"
+    },
+    {
+      "id": "paper-d1c144a22938229c",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+      "pdfUrl": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf",
+      "raw_capture_sha256": "63cd31fc21c0516bd7fe003b2d53454c0e267a1c8f53bb5b05f9b2b69c214b62"
+    }
+  ],
+  "limits": "Corrected JSON/commit only. Corrected rendered five-page link/text/metadata verifier and DOM/mobile parity must pass before fill."
+}

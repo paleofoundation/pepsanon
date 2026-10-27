@@ -1,0 +1,121 @@
+{
+  "at": "2026-10-27T13:18:30.242541+02:00",
+  "status": "PASS_BOUNDED_EIGHT_TERM_56_ADDITIONS_AND_ONE_NARROWING_SOURCE_FIDELITY_ONLY",
+  "candidate_sha256": "e618e07097c75706e1cb9ce1222a00b97e1cce8effb8c46083e0f76fcab49bd0",
+  "source_inputs_v2_sha256": "3c0fe9b63e7403ccf26a4eef4b027d5387e62625f6ca3a33473d3f938ac8a294",
+  "sources": [
+    {
+      "id": "step",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "sha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913"
+    },
+    {
+      "id": "skin",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "sha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6"
+    },
+    {
+      "id": "manufacturing",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Scalable_miniprotein_production_endotoxin_LAL_PMID42797285_PMC13610847.pdf",
+      "sha256": "249ab9e5439652fe5d5d86e87eb91126122e2856d8e0cac7660a9492d12c38eb"
+    },
+    {
+      "id": "bpcpk",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019"
+    },
+    {
+      "id": "knee",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf",
+      "sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f"
+    },
+    {
+      "id": "collagen",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "sha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88"
+    },
+    {
+      "id": "quality",
+      "path": "/Users/kmfp/Documents/ChatGPT/Pepsanon.com/launch/study-reviews/batch-2-sources-2026-10-11/paper-2e8d88d44afe181b.xml",
+      "sha256": "14d9de9bc7dd84c2015b8e14696e5a3bab2d7102dd0c32b38bbaa9e9b605bae1"
+    }
+  ],
+  "root_selected_text_pages_this_turn": {
+    "step": [
+      3,
+      4,
+      5,
+      9,
+      10
+    ],
+    "skin": [
+      2,
+      3,
+      6
+    ],
+    "manufacturing": [
+      1,
+      5,
+      11,
+      12,
+      13,
+      24
+    ],
+    "collagen": [
+      3,
+      4,
+      9,
+      10
+    ],
+    "knee": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "bpcpk": [
+      4,
+      6,
+      13,
+      14
+    ]
+  },
+  "prior_reading_reused_with_fresh_original_hash": [
+    "bpcpk full16pages priorPEP1/2",
+    "collagen full13pages priorPEP2",
+    "knee full7pages priorPEP1/2"
+  ],
+  "root_visual_pages_this_turn": {
+    "step": [
+      4
+    ],
+    "skin": [
+      3
+    ],
+    "manufacturing": [
+      5,
+      24
+    ],
+    "collagen": [
+      3
+    ]
+  },
+  "quality_XML_current_body_read": true,
+  "checks": [
+    "All56newparagraphslinkedtocandidateexacttexts/physicalpageandheldURL;noinventednumericclaims/publicem/en. Selected8onlyreplacement2selectionheldpendingElon.",
+    "BaselineSTEPextensionstartingvisit/baselinevstreatmentenddifferentobjectives;selectedcompleters/sites+consent/observedonsiteonly/noimputation/noformalconfirmatorytest. Lifestyleinterventionalsostopped/notisolateddrugwithdrawalorhumanadvice.",
+    "BPCPKdoseadjustedIMIVFaformula/p4Table2p6Table5;parentLCMSMSrats/dogsseparatefromtotalradioactivityandmetabolites. Nooral/humanPKequivalence,tendonretentionorhealingendpoint;target-tissuemetabolitesnotanalyzed.",
+    "EndotoxinqualityXMLactualreceivedsmallonlinesample/oneendotoxinpositive/noviablemicrobesnotsterilitysafety/allmarketprevalence. Chemicalidentity/purity/contentdistinct. Manufacturingp5LALversusproteinassays/p24separatebioburdenandendotoxin;controlledspecifiedSARSCoV2miniproteinprocessnotretailvialverification.",
+    "Kneecasesactualretrospectivechart/phone/heterogeneousdiagnoses/partialpreMRI/variablefollowup/sequentialcombinedthenalone/uncontrolled. Subjectivepainfunctionandnoobjectiveverificationp3;futureMRI/compareinterventionsnotdemonstratedstructuralrepair/superiority.",
+    "Amino/collagenacutehealthyadultcrossover/NC-EHC-water/NMRplasmaAAsnotintactcollagen/tendonsynthesis/clinicalbenefit. GlycineprolinehydroxyprolineprocessingpatternsnotallAAs. Inheritedfutureworkattributionnarrowingtoactualplasmaendpointappropriate;noauthorrequestinvented.",
+    "Topicalcadaverexcisedhumancompartments/exvivodiffusion/receivingfluidvstissueretention/ICP-MSelementalCu:notintactGHKCuidentification/systemicinjectionsafety/clinicalefficacy. Ligandexchangeandstoichiometricpuritylimitsretained."
+  ],
+  "limits": [
+    "Boundedsourcefidelity,notfullscientificappraisal/human/releaseapproval.",
+    "Finaldiff/wordandcitationflags/61routepreservation/mobilebrowser/immutablepacketstillpending.",
+    "PartBtwoexactsubstitutionsstillgated;sourceauditdoesnotgrantselectionornewroute/renderer/sourcechanges."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "released": false
+}
