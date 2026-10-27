@@ -1,0 +1,147 @@
+{
+  "at": "2026-10-27T13:27:18.318170+02:00",
+  "status": "PASS_PARTIAL_EIGHT_PLUS_THREE_CITATIONS_MOBILE_SOURCE_RENDERING",
+  "data_sha256": "a3d4c51141849d6c2f969c0bb26d72bc170871edc91fb19f06e0e6ca3173420e",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "part_b_candidate_sha256": "e618e07097c75706e1cb9ce1222a00b97e1cce8effb8c46083e0f76fcab49bd0",
+  "checks": [
+    {
+      "slug": "baseline",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "d76073759e7261d8b297e9fa281a28677da0b683cefa0b2c0ef0d0eb5dcc406c",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "bioavailability",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "b844fd2b0b38bdc170c668e8f455f31c74345653c798e7b0edbb599adeb4aa62",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "endotoxin",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "9fb5d70ff7c5a4c01870b273b5b9ddc0e524082d59b1a88dcd56f505a9897a89",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "case-series",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "fa372b830ece846952ad2d2f8648c66f9788cdd70267014933bb8cebff6c00f7",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "metabolism",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "86346719591db547761e208025f8a328cc3457cb7e3eab9d30507a1ec2baaeda",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "amino-acid",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 8,
+      "exact_text_source_locator_digest": "086d6d92cfd3a6415b4c48b95a51e68220bb125fdf37400d4e9b2b85521cc098",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 1,
+      "dash_scope": "inherited native collagen title only",
+      "disclaimer": true
+    },
+    {
+      "slug": "topical",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "9701cba3c0909ff2a8710ea6d43715525aaf21eccfe19cab6e6569290620f81e",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "5de2f314722153ab7bc67c622bb205b80595d7d6c18b248d11ec1959fff43f1f",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 1,
+      "dash_scope": "inherited native collagen title only",
+      "disclaimer": true
+    }
+  ],
+  "part_a_three_definitions_cjc_ref_and_exact_locator_visible": [
+    "tmax",
+    "auc",
+    "cmax"
+  ],
+  "new_paragraphs_verified": 56,
+  "legacy_narrowing_verified": 1,
+  "prior_packet_files_byte_identical": 115,
+  "raw_16_sources_byte_identical": true,
+  "prior20_prose_exact": true,
+  "all43_outside8plus3_json_objects_exact": true,
+  "renderer_index_audit_exact": true,
+  "visual": "Topical header and source-linked added paragraphs inspected at390x844; wrapping readable/no horizontaloverflow.",
+  "console_last15_warn_error": [],
+  "console_limit": "Bounded captured sample, not comprehensive network clearance.",
+  "initial_checker_correction": "Initial PDF-only locator detector missed three OriginalXML endotoxin rows; corrected detector only; no app change.",
+  "viewport_reset_and_temporary_tab_closed": true,
+  "limitations": "Only8authorizedPartBpages+3PartAcitations;2replacementpagesnotgranted/applied,notfinished10/PR/release/scientificacceptance."
+}

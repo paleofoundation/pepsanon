@@ -1,0 +1,193 @@
+{
+  "state": "UNAPPLIED_EXACT_TWO_REPLACEMENTS_SOURCE_LOCATED_PENDING_ROOT_FIDELITY",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "createdAt": "2026-10-27T11:29:29.758161+00:00",
+  "authority": "ELON13:28 exact Option A grant",
+  "records": [
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "in-the-research",
+      "text": "The extension began after participants completed the main trial and both the study medication and structured lifestyle intervention ended, so its off-treatment observations follow the removal of that combined support.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "in-the-research",
+      "text": "The investigators followed a selected group of trial completers who consented to the extension, making this a continuation of observation rather than a new randomized comparison of different ways to stop treatment.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "in-the-research",
+      "text": "The protocol did not supply an active study intervention during the extension, while use of other weight-management medication was recorded and participation in lifestyle efforts was not recorded.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "in-the-research",
+      "text": "The report separates changes during the original treatment period from changes after treatment cessation, which keeps the reference visit for an off-treatment observation distinct from the original pretreatment baseline.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p4 Outcomes; p5 Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "reading-the-evidence",
+      "text": "Extension analyses used observed measurements and were exploratory and descriptive, without a new confirmatory comparison establishing which component of the discontinued support accounted for a subsequent change.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p4 Outcomes; p5 Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors state that adverse events were not systematically collected during the extension, so this follow-up should not be presented as a complete prospective account of symptoms or safety after stopping treatment.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p10 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sectionId": "reading-the-evidence",
+      "text": "Selection of participants and sites, together with the end of lifestyle support, limits a simple attribution of every later observation to withdrawal of the medicine alone rather than the wider study circumstances.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p10 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "in-the-research",
+      "text": "The paper studies tirzepatide, which acts at both GIP and GLP-1 receptors, and examines additional lipid-related biomarkers in stored samples from a clinical trial rather than administering GIP alone.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "in-the-research",
+      "text": "Its introduction uses earlier laboratory and human research to discuss possible GIP-related lipid mechanisms, while the observations newly reported in this article concern the trial participants and their circulating biomarkers.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "in-the-research",
+      "text": "The investigators used fasting samples to measure apolipoproteins and lipoprotein particle characteristics, keeping those laboratory endpoints distinct from directly observing cardiovascular events or measuring lipid movement through individual tissues.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "in-the-research",
+      "text": "The analysis excluded data obtained after study-drug discontinuation or initiation of rescue medication, so its reported biomarker profiles retain that particular analysis-population boundary rather than representing every later experience of every randomized participant.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors distinguish measured circulating lipoprotein-lipase mass from enzyme activity at its sites of action and discuss why the blood measurement does not directly reveal the relevant tissue-level activity.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "reading-the-evidence",
+      "text": "They describe the additional stored-sample analysis as post hoc and note that static fasting measurements remain descriptive rather than revealing the underlying mechanism, with further kinetic research needed to investigate lipid handling.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "gip",
+      "sectionId": "reading-the-evidence",
+      "text": "The conclusion identifies a cardiovascular outcomes study as future work to establish potential cardiovascular benefit, preserving the distinction between this biomarker analysis and direct evidence that treatment prevents clinical events.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p8 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "newScientificNumbers": 0,
+  "scientificApproval": false,
+  "humanApproval": false
+}

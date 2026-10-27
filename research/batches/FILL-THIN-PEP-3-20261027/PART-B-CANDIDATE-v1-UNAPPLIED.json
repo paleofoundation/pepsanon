@@ -1,0 +1,764 @@
+{
+  "state": "UNAPPLIED_EIGHT_TERM_PART_B_SOURCE_LOCATED_PENDING_EXACT_SELECTION",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "createdAt": "2026-10-27T11:16:05.292146+00:00",
+  "records": [
+    {
+      "slug": "baseline",
+      "sectionId": "in-the-research",
+      "text": "The semaglutide extension distinguishes measurements taken before the original randomized treatment from measurements made when that treatment ended, so the chosen reference point changes what a later comparison describes.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3-4 Trial design and participants; p4 Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "baseline",
+      "sectionId": "in-the-research",
+      "text": "Participants in the extension had completed the main treatment period and consented to further observation, making their original baseline characteristics distinct from the eligibility conditions used to enter the extension.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3-4 Trial design and participants; p4 Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "baseline",
+      "sectionId": "in-the-research",
+      "text": "The report presents baseline characteristics for the extension analysis set alongside the main trial population, allowing readers to see which group a starting measurement describes rather than assuming that every analysis includes all original participants.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3-4 Trial design and participants; p4 Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "baseline",
+      "sectionId": "in-the-research",
+      "text": "Weight change during the treatment period and change during the off-treatment period use different endpoints, so a change after withdrawal should retain the starting visit specified for that particular comparison.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3-4 Trial design and participants; p4 Outcomes"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "baseline",
+      "sectionId": "reading-the-evidence",
+      "text": "The extension collected body measurements and laboratory observations at scheduled visits and analyzed observed data descriptively, with all extension analyses identified as exploratory rather than a new confirmatory treatment comparison.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p4 Procedures and Outcomes; p5 Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "baseline",
+      "sectionId": "reading-the-evidence",
+      "text": "Telephone observations were not included in the reported analyses, which means that the plotted changes reflect the measurements accepted under the study procedures rather than every account of weight obtained during follow-up.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p4 Procedures and Outcomes; p5 Statistical analysis"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "baseline",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors acknowledge selection of participants and study sites and the smaller extension sample, so agreement in baseline characteristics does not remove every possible limitation when comparing the extension with the original trial.",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p10 Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "in-the-research",
+      "text": "The animal study estimates absolute bioavailability using exposure after intramuscular administration relative to an intravenous reference, with each route's administered amount included in the calculation rather than comparing the raw exposure values alone.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 2 footnote; p6 Table 5 footnote"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "in-the-research",
+      "text": "The exposure measure used for that calculation is the area under the plasma concentration profile, which describes circulating drug over the sampled interval rather than the amount physically retained in an injured tendon.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 Table 2 footnote; p6 Table 5 footnote"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "in-the-research",
+      "text": "Rat and dog experiments are reported separately, and the investigators measured parent BPC157 in plasma with a defined analytical method after the experimental administrations used in those species.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4; p4 and p6 PK tables"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "in-the-research",
+      "text": "The study includes single and repeated intramuscular experiments, but those experimental profiles do not establish the exposure produced by an oral product or by an untested preparation in a human participant.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4; p4 and p6 PK tables"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "reading-the-evidence",
+      "text": "The radioactive tracer experiments followed labeled material that could remain after the parent peptide had broken down, so persistence of that signal should not be relabeled as sustained availability of unchanged BPC157.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 radioactivity comparison; p8 Table 9; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper separately examines parent drug and breakdown products and notes that metabolites were not analyzed within target tissues, limiting a direct inference about the identity of material available at a proposed site of action.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 radioactivity comparison; p8 Table 9; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "bioavailability",
+      "sectionId": "reading-the-evidence",
+      "text": "These experiments characterize disposition under specified preclinical conditions and do not link a bioavailability estimate to a measured improvement in human healing, pain or physical function.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p2 study objective; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "in-the-research",
+      "text": "The purchased-product investigation evaluated microbiological contamination and chemical composition separately, and its endotoxin finding remained relevant even though viable microorganisms were not detected in the tested material.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "in-the-research",
+      "text": "Detecting the intended drug by chemical analysis did not settle the other product-quality questions in that investigation, because active content, purity and microbiological measurements addressed different properties of the received samples.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Methods and Results"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "in-the-research",
+      "text": "The miniprotein manufacturing paper used a kinetic chromogenic LAL assay for endotoxin, while other analytical methods assessed protein concentration, molecular weight and purity, preserving the distinction between these quality measurements.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p5 Sections 2.5.4 and 2.6"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "in-the-research",
+      "text": "Its process included dedicated endotoxin-removal operations as well as protein purification, so a successful protein-separation result should not be treated as a substitute for measuring the endotoxin burden.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p5 Sections 2.5.4 and 2.6"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "reading-the-evidence",
+      "text": "The manufacturing work concerns a specified recombinant antiviral miniprotein and its controlled production process, rather than laboratory verification of every commercial peptide vial or every product advertised under a similar category.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p11-12 process development; p13 formulation; p24 Table 13"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "reading-the-evidence",
+      "text": "Bioburden and endotoxin appear as separate quality assessments in the manufacturing record, which keeps a measurement of viable contamination distinct from the endotoxin result without equating either with overall clinical safety.",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p11-12 process development; p13 formulation; p24 Table 13"
+        }
+      ],
+      "sourceUrl": "https://doi.org/10.3390/pharmaceutics18091110",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "endotoxin",
+      "sectionId": "reading-the-evidence",
+      "text": "The online-product authors identify the limited received sample and excluded higher-priced offerings as constraints, so their observations cannot supply a contamination prevalence estimate for all semaglutide products or predict an individual patient's response.",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Discussion limitations"
+        }
+      ],
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "in-the-research",
+      "text": "The knee report assembled patients who had already received treatment in a clinical practice and later contacted them about symptoms, rather than assigning a newly recruited population to randomized comparison groups.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p3 retrospective chart review"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "in-the-research",
+      "text": "The cases included different causes of knee pain, and imaging was available before treatment for only some patients, so the observations do not describe a uniformly confirmed diagnosis shared by the entire reported group.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p3 retrospective chart review"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "in-the-research",
+      "text": "Follow-up relied on the patients who could be contacted and included variable times since treatment, making the available case descriptions different from a common scheduled outcome assessment for every initially identified patient.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Abstract Methods; p3 retrospective chart review"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "in-the-research",
+      "text": "The report describes an initial use of combined peptides followed by use of BPC157 alone, a treatment sequence that does not create randomized, otherwise equivalent groups for comparing the preparations.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 treatment sequence and follow-up questions"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "reading-the-evidence",
+      "text": "Patients described pain, mobility, exercise tolerance, stair climbing and sleep, but the authors state that these observations were subjective and were not verified with objective testing of the reported improvement.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p3 treatment sequence and follow-up questions"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper recommends further imaging and treatment comparisons, indicating that its symptom descriptions do not themselves establish structural repair or an advantage over the other interventions discussed by the authors.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Clinical Implications; p4-5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "case-series",
+      "sectionId": "reading-the-evidence",
+      "text": "A descriptive group of treated patients can identify experiences worth studying further, while this report's design leaves clinical effectiveness and the contribution of alternative explanations unresolved by a controlled comparison.",
+      "citations": [
+        {
+          "source": "knee",
+          "locator": "PDF p1 Clinical Implications; p4-5 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "in-the-research",
+      "text": "The investigators examined radioactive components after labeled BPC157 administration and distinguished the parent peptide from smaller products associated with its breakdown, rather than treating every detected label as unchanged drug.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 Results 2.3; p8 metabolite analysis"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "in-the-research",
+      "text": "The study used analytical separation and molecular-weight comparisons to investigate those products, making their identities a separate analytical question from the total amount of radioactivity collected in a sample.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 Results 2.3; p8 metabolite analysis"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "in-the-research",
+      "text": "The paper describes degradation towards smaller peptide fragments and an amino-acid product, while the radioactive signal can also enter ordinary amino-acid metabolism after the original peptide structure has changed.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p6 Results 2.3; p8 metabolite analysis"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "in-the-research",
+      "text": "Plasma, urine and fecal analyses addressed different aspects of the labeled material's fate, so material excreted from the animal should be distinguished from an observation that intact peptide remains available in circulating plasma.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p8-10 metabolite and excretion results; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors did not conduct metabolite analysis within target tissues, leaving the chemical identity of the material present in those tissues less directly established than its measured radioactive signal.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p8-10 metabolite and excretion results; p13 Discussion"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "reading-the-evidence",
+      "text": "Parent-drug pharmacokinetics and total-radioactivity measurements used different analytical readouts, which explains why persistence of a label cannot simply be interpreted as a longer duration of action of unchanged BPC157.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "metabolism",
+      "sectionId": "reading-the-evidence",
+      "text": "The experiments were conducted in preclinical preparations and animals, and the metabolic observations do not by themselves establish a safe human dosing schedule or prove that breakdown products have a clinical healing effect.",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.3-4.5"
+        }
+      ],
+      "sourceUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "in-the-research",
+      "text": "The collagen study considers amino acids as components supplied by the tested protein preparations and examines their appearance in blood after ingestion, rather than directly tracking the repair of a joint or tendon.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "in-the-research",
+      "text": "Healthy participants consumed specified collagen products or a water placebo during separate study visits, keeping the observed amino-acid profiles attached to those preparations and the trial's experimental conditions.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction; p3 Design and Experimental Protocol"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "in-the-research",
+      "text": "Plasma samples were analyzed with a spectroscopy method to quantify circulating metabolites, so an amino-acid measurement should be distinguished from a direct measurement of intact collagen or newly synthesized tendon tissue.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "in-the-research",
+      "text": "The blood sampling followed beverage consumption at planned time points, allowing the authors to examine changing concentrations rather than inferring that every component appeared in the circulation in the same pattern.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "reading-the-evidence",
+      "text": "The reported processing-related advantage concerned glycine, proline and hydroxyproline, while the analysis did not show the same difference for every amino acid or for every grouped amino-acid measure.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors discuss tissue-related findings from other research alongside their own plasma observations, and those cited studies should not be relabeled as additional outcomes measured in this absorption experiment.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "amino-acid",
+      "sectionId": "reading-the-evidence",
+      "text": "The trial's interpretation remains specific to the products, participants and blood analytes studied, without establishing that an increase in a circulating amino acid demonstrates a clinical benefit for a musculoskeletal condition.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "in-the-research",
+      "text": "The copper penetration experiment placed the preparation on excised human skin compartments, using tissue obtained from donors rather than administering the material by injection to living study participants.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials, Experimental design and Tissue preparation"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "in-the-research",
+      "text": "The investigators examined isolated surface layers and split-thickness skin separately, so the observed penetration depends on which barrier preparation was used rather than representing a single measurement across every type of skin tissue.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials, Experimental design and Tissue preparation"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "in-the-research",
+      "text": "The diffusion system collected receiving fluid while also measuring material retained within the tissue, distinguishing passage through a preparation from the amount deposited in the skin itself.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Diffusion experiment and Analytical methodology"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "in-the-research",
+      "text": "The reported analytical results are expressed in terms of copper, which means that the measurement identifies the element without by itself demonstrating that every detected copper species remains attached to its original peptide ligand.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Diffusion experiment and Analytical methodology"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "reading-the-evidence",
+      "text": "The paper discusses possible ligand exchange and chemical rearrangement during penetration, and it did not establish the complete molecular identity of all copper-containing material that crossed or remained within the tissue.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "reading-the-evidence",
+      "text": "The authors describe possible transdermal applications as a direction for development, while the experiment itself does not compare symptom relief, clinical anti-inflammatory effectiveness or safety of systemic injection regimens.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "topical",
+      "sectionId": "reading-the-evidence",
+      "text": "The ex vivo design therefore supports a bounded skin-penetration question under its laboratory conditions, without making a topical product, an injection preparation and an oral copper product interchangeable forms of clinical evidence.",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "in-the-research",
+      "text": "The trial compares specified collagen-containing preparations that differ in enzymatic processing, so the experimental comparison should not be simplified into a universal comparison of every hydrolysate against intact unprocessed collagen.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction; p3 Design, Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "in-the-research",
+      "text": "The product descriptions and controlled study visits identify the materials actually consumed, preserving a link between the preparation studied and the circulating amino-acid response observed after ingestion.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction; p3 Design, Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "in-the-research",
+      "text": "The same participants consumed the different study beverages on separate visits under standardized conditions, allowing the comparison to address the tested processing difference within that crossover design.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p2 Introduction; p3 Design, Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "in-the-research",
+      "text": "The analytical endpoint was the post-meal plasma metabolite profile, which is an absorption-related measurement rather than a direct test of whether a collagen product repairs tendon, cartilage or muscle.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "reading-the-evidence",
+      "text": "The enzymatically processed product had a different response for certain abundant collagen amino acids, but other amino-acid measures did not show the same advantage, limiting a blanket claim that processing improved every absorption outcome.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "reading-the-evidence",
+      "text": "The discussion considers proposed tissue benefits using other research, while the trial's own measurements remain circulating amino acids and related observations rather than imaging-confirmed repair or a clinical joint-pain outcome.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "sectionId": "reading-the-evidence",
+      "text": "These results do not establish that products with different ingredients, preparation methods or use conditions reproduce the same plasma profile or have the same clinical effects as the materials tested in this trial.",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "reviewState": "SOURCE_LOCATED_QUALITATIVE_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "proposedLegacyCorrections": [
+    {
+      "slug": "amino-acid",
+      "sectionId": "reading-the-evidence",
+      "paragraphIndex": 0,
+      "before": {
+        "text": "An increase in blood amino acids is the measured result in this experiment. The authors call for further work connecting these absorption findings with collagen synthesis and effects in people with musculoskeletal conditions.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "Discussion and Conclusions"
+          }
+        ]
+      },
+      "after": {
+        "text": "The experiment measured circulating amino acids after ingestion, while the discussion considers tissue implications using other research; it does not directly test collagen synthesis or clinical outcomes in people with musculoskeletal conditions.",
+        "citations": [
+          {
+            "source": "collagen",
+            "locator": "PDF p3-4 Methods; p8-10 Discussion and Conclusions"
+          }
+        ]
+      },
+      "reason": "Narrow inherited explicit future-work attribution to directly inspected plasma-only methods/observations; no clinical efficacy assertion"
+    }
+  ],
+  "newScientificNumbers": 0,
+  "scientificApproval": false,
+  "humanApproval": false
+}

@@ -1,0 +1,164 @@
+{
+  "at": "2026-10-27T11:37:56.702616+00:00",
+  "status": "PASS_FINAL_TEN_MOBILE_SOURCE_RENDERING",
+  "method": "Fresh CUA DOM reads of all ten final pages. Initial eight exact paragraph/source/locator digests independently remeasured after two replacements; match prior root eight checkpoint. Two new exact seven-row candidate digests match displayed DOM.",
+  "preview": "http://127.0.0.1:8794",
+  "dataSha256": "9df6796e66ed3e737b58c8178e373877ad4cf2db8a6c772888fc2ab3c952c47e",
+  "serverSha256": "a5578d6224e8e6c9dcaf0a2daa19c184bcf71dd67e7aacdea2c44401c2ad49bc",
+  "replacementSourceAuditSha256": "01692615d0895ff1452ae4ec7c7aba3506784b87846122469873f447c6761f44",
+  "initialEightMobileReceiptSha256": "dd289cf6fdebee3c1738f238826049cf038495448c186fcf3b4136c653d8ba18",
+  "checks": [
+    {
+      "slug": "baseline",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "d76073759e7261d8b297e9fa281a28677da0b683cefa0b2c0ef0d0eb5dcc406c",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "bioavailability",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "b844fd2b0b38bdc170c668e8f455f31c74345653c798e7b0edbb599adeb4aa62",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "endotoxin",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "9fb5d70ff7c5a4c01870b273b5b9ddc0e524082d59b1a88dcd56f505a9897a89",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "case-series",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "fa372b830ece846952ad2d2f8648c66f9788cdd70267014933bb8cebff6c00f7",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "metabolism",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "86346719591db547761e208025f8a328cc3457cb7e3eab9d30507a1ec2baaeda",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "amino-acid",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 8,
+      "exact_text_source_locator_digest": "086d6d92cfd3a6415b4c48b95a51e68220bb125fdf37400d4e9b2b85521cc098",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 1,
+      "dash_scope": "inherited native collagen title only",
+      "disclaimer": true
+    },
+    {
+      "slug": "topical",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "9701cba3c0909ff2a8710ea6d43715525aaf21eccfe19cab6e6569290620f81e",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "dash_scope": "none",
+      "disclaimer": true
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "5de2f314722153ab7bc67c622bb205b80595d7d6c18b248d11ec1959fff43f1f",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 1,
+      "dash_scope": "inherited native collagen title only",
+      "disclaimer": true
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "742506500b08238c1860d16b81c13d4fd84b446246128669ab6d601423e8acfa",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "disclaimer": true
+    },
+    {
+      "slug": "gip",
+      "viewport": [
+        390,
+        844
+      ],
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "paragraphs": 7,
+      "exact_text_source_locator_digest": "334ef3857256e6652b5a2b5dd53048e5b23940c1362f106edd1c5dab2db1bc20",
+      "exact_dom_digest_matched": true,
+      "visible_dashes": 0,
+      "disclaimer": true
+    }
+  ],
+  "visual": "GIP heading and scrolled reading-evidence prose inspected at390x844: wraps within viewport, inline citations remain visible.",
+  "knownInheritedPunctuation": "Only amino-acid and hydrolyzed-collagen show one inherited collagen native-title dash each, exact13:28 authority; no new prose dash.",
+  "partA": "Prior three CJC mobile reference checks retained; runner combined render proof reports unchanged prior prose.",
+  "limitations": "Source fidelity only; no scientific, numerical, clinical, human or release approval. Local rendering only. Whole-document generated HTML equality not claimed."
+}

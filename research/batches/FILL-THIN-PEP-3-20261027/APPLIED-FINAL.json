@@ -1,0 +1,20 @@
+{
+  "time": "2026-10-27T11:37:13.836702+00:00",
+  "state": "APPLIED_EXACT_13_28_SELECTION",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "partACandidateSha256": "72670372e47290849df1bcd8f3772ee9d2645a99b905676eaa9798a741aecda5",
+  "partBCandidateSha256": "9fb11bfb71662b8df039c9c861078d7fdb7f0c799e97dba88757c7fa23f57c52",
+  "dataSha256": "9df6796e66ed3e737b58c8178e373877ad4cf2db8a6c772888fc2ab3c952c47e",
+  "sourceObjects": 16,
+  "routes": 54,
+  "newParagraphs": 70,
+  "citedParagraphsAfter": 372,
+  "partACitationAdditions": 3,
+  "legacyNarrowings": 1,
+  "prior20ProseExact": true,
+  "initialEightObjectsAndArticlesExact": true,
+  "sharedCodeExact": true,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}
