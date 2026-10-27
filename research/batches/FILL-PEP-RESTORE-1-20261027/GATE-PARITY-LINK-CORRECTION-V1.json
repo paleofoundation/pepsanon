@@ -1,0 +1,79 @@
+{
+  "status": "UNAPPLIED-PENDING-ELON-CORRECTION-GATE",
+  "failedCommit": "27d575a3ba0ce38a3a1700ef0c407daf80345a94",
+  "base": "a19ffa74acfa2e678360c4e05c8ccf74ae7e8401",
+  "error": "Capture used all hero anchors by index; breadcrumb /research was mistaken for Original paper and actual Original paper for Source PDF. The odd /research href was our extraction error, not inherited live behavior. Initial patch/candidate/root technical review/17:45 grant therefore bind an incorrect projection. The original raw live HTML remains intact and authoritative.",
+  "failureEvidence": "PARITY-LINK-CHECK-FAILURE-V1.json",
+  "correctionPatchSha256": "ca7580697024f6b741a21a75bdeaef15f5f6c3b86cd2ea8dfc5f87881b49b121",
+  "correctedParityCandidateSha256": "b505b86484ff61d7fec85ce2702c33a7b5884fbb5421908c8c22718a349835f9",
+  "exactFields": [
+    {
+      "id": "paper-29343d5dff2c8e1b",
+      "field": "originalUrl",
+      "failedV1": "/research",
+      "actualCapturedLive": "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+    },
+    {
+      "id": "paper-29343d5dff2c8e1b",
+      "field": "pdfUrl",
+      "failedV1": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+      "actualCapturedLive": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf"
+    },
+    {
+      "id": "paper-37c4f0f55f696512",
+      "field": "originalUrl",
+      "failedV1": "/research",
+      "actualCapturedLive": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
+    },
+    {
+      "id": "paper-37c4f0f55f696512",
+      "field": "pdfUrl",
+      "failedV1": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "actualCapturedLive": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf"
+    },
+    {
+      "id": "paper-84d99218fb837c75",
+      "field": "originalUrl",
+      "failedV1": "/research",
+      "actualCapturedLive": "https://www.mdpi.com/1420-3049/19/11/19066"
+    },
+    {
+      "id": "paper-84d99218fb837c75",
+      "field": "pdfUrl",
+      "failedV1": "https://www.mdpi.com/1420-3049/19/11/19066",
+      "actualCapturedLive": "https://www.mdpi.com/1420-3049/19/11/19066/pdf"
+    },
+    {
+      "id": "paper-baf28ca7c2d11c45",
+      "field": "originalUrl",
+      "failedV1": "/research",
+      "actualCapturedLive": "https://jointdrs.org/full-text/1851"
+    },
+    {
+      "id": "paper-baf28ca7c2d11c45",
+      "field": "pdfUrl",
+      "failedV1": "https://jointdrs.org/full-text/1851",
+      "actualCapturedLive": "https://jointdrs.org/full-text-pdf/1851"
+    },
+    {
+      "id": "paper-d1c144a22938229c",
+      "field": "originalUrl",
+      "failedV1": "/research",
+      "actualCapturedLive": "https://pubmed.ncbi.nlm.nih.gov/39325560/"
+    },
+    {
+      "id": "paper-d1c144a22938229c",
+      "field": "pdfUrl",
+      "failedV1": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+      "actualCapturedLive": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf"
+    }
+  ],
+  "unmodified": "Five literal routes, preview text including inherited numerical summaries, metadata, locators, renderer, CSS, Shell predicate, all old objects/packets remain unchanged by correction.",
+  "requestA": "Grant the one-file ten-field URL correction, then an ordinary follow-up parity correction commit. Preserve failed first commit; no amend, rebase, reset or rewrite. Ratify three ordinary commits (failed initial parity, corrected parity, final approved fill) instead of two, with explicit history disclosure.",
+  "fillCandidateSha256": "727ec4ef313b1dc6f4d11acf59d4b00738ea5c524af893f2e9b5e4e2f0aab976",
+  "fillRenderingPatchSha256": "98655c86bbd1b1db1c8dbf59a0b0ed6f3e42081042ce65b4279a094cd8305edb",
+  "requestB": "Supersede pending fill-rendering V1 with exact V2 two-path patch: unchanged renderer hook and 35 exact same paragraph texts/locators, corrected original-PDF source links. Only same five allowlisted paper IDs. Root must freshly bind corrected URLs/candidate; prior original source reading remains historical, no PASS transfer.",
+  "requestsBCUnchanged": "Bare /before-you-buy confirmed zero-op, distinct /guides/before-you-buy untouched and frozen ranking unchanged. /install noindex remains textual proposal only.",
+  "currentState": "No correction or fill applied; no push; parity mobile/DOM acceptance stopped. Existing first commit preserved.",
+  "createdAt": "2026-10-27T17:52:30.146560+02:00"
+}

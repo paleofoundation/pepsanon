@@ -1,0 +1,43 @@
+{
+  "checks": [
+    {
+      "name": "iv-p3",
+      "renderedPngSha256": "4b5e6b26d9aea52b725ebb47994b03195de5a74e079c37b8cd540a5f7cc09e77",
+      "method": "Original PDF physical page rendered with pdftoppm and visually inspected; original PDF is authoritative.",
+      "includedInPublicPayload": false
+    },
+    {
+      "name": "fibro-p5",
+      "renderedPngSha256": "135ffa00fd794d674e34999890abf5744188d780939e0e5c55ac3e25e31840f8",
+      "method": "Original PDF physical page rendered with pdftoppm and visually inspected; original PDF is authoritative.",
+      "includedInPublicPayload": false
+    },
+    {
+      "name": "fibro-p6",
+      "renderedPngSha256": "a2f55ef1497d3864116a8f542e399ac68e011447ff558bdd96485a0d2cd19fc6",
+      "method": "Original PDF physical page rendered with pdftoppm and visually inspected; original PDF is authoritative.",
+      "includedInPublicPayload": false
+    },
+    {
+      "name": "tendon-p3",
+      "renderedPngSha256": "bff2b91da98130d1f0eeb21fd63a5e22acc8b40435c116add39aee8f2796c2d2",
+      "method": "Original PDF physical page rendered with pdftoppm and visually inspected; original PDF is authoritative.",
+      "includedInPublicPayload": false
+    },
+    {
+      "name": "cystitis-p5",
+      "renderedPngSha256": "8b53ffafb562fa506c4399b912efd74492c55f95f22c419c23328278f8430a2e",
+      "method": "Original PDF physical page rendered with pdftoppm and visually inspected; original PDF is authoritative.",
+      "includedInPublicPayload": false
+    },
+    {
+      "name": "knee-p3",
+      "renderedPngSha256": "778a00d8ead4e35dfb392a4e390cdec3d30949931c0155188992f46cc10c9294",
+      "method": "Original PDF physical page rendered with pdftoppm and visually inspected; original PDF is authoritative.",
+      "includedInPublicPayload": false
+    }
+  ],
+  "newNumericClaims": 0,
+  "scienceApproval": false,
+  "checkedAt": "2026-10-27T17:41:12.046967+02:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "UNAPPLIED-GATE-ADDENDUM",
+  "dependsOn": "Exact PARITY V2 gate plus root bounded original-source review",
+  "candidateSha256": "3418130eaedb2ed7d3f855a3b9449b15bc0126b8755fc6ce77b710ff7bf7168c",
+  "patchSha256": "afd23604be18c73a1f394a183d09b2ace1a92f5b08b28cfb6b966c5962efda15",
+  "purpose": "Commit2 needs an explicit shared-component rendering hook to display the authorized five-page source context; exact parity-only V2 hook has no context branch. No silent widening of V2.",
+  "paths": [
+    "components/peptide/restored-research-preview.tsx",
+    "lib/data/restored-research-context.json"
+  ],
+  "existingChange": "Only newly introduced preview renderer: import a separate five-paper context array and render a bounded context section inside the existing preview. No existing base renderer changes beyond the already proposed exact-five Shell predicate.",
+  "publicData": "35 qualitative paragraphs from held originals, each source URL and physical PDF locator; no protected/full review data, no index/count/status/grade updates.",
+  "constraints": [
+    "Only the same five allowlisted route IDs",
+    "Preserve all inherited live metadata, preview text, source URLs and locators",
+    "No new result quantities or scientific approval",
+    "Unknown research paths404",
+    "Old glossary/source objects and all prior409 packetfiles exact",
+    "Root review candidate first; mobile binding before push"
+  ],
+  "requestedRuling": "Grant this exact two-path rendering delta for commit2 in addition to parity V2, contingent on source-fidelity corrections if root identifies any. If corrections change the precise candidate, retain prior candidate and issue version/hash before apply."
+}

@@ -1,0 +1,13 @@
+{
+  "status": "UNCHANGED",
+  "analyzerSha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+  "wrapperSha256": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7",
+  "workers": 4,
+  "minimumDelayPerWorkerSeconds": 0.25,
+  "robots": "fail closed before every URL/redirect",
+  "minimumWords": 400,
+  "maxThinCitations": 2,
+  "claimMinHits": 3,
+  "allowlistChanged": false,
+  "hostRecognitionLimit": "Precise asipp.org and innovisionhm.com PDF links are retained even though the unchanged citation-host recognition does not count them."
+}

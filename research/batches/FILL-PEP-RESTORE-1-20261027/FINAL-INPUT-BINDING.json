@@ -1,0 +1,14 @@
+{
+  "candidateSha256": "727ec4ef313b1dc6f4d11acf59d4b00738ea5c524af893f2e9b5e4e2f0aab976",
+  "contextDataSha256": "68875d764fef545faaa0d8d2d86aaff41973c8938280b3e25bba0586431e1cf5",
+  "previewDataSha256": "b505b86484ff61d7fec85ce2702c33a7b5884fbb5421908c8c22718a349835f9",
+  "rendererSha256": "bc833e1326546740094be9deb83457000e4c60e4481129870a34eb6ecc3f7446",
+  "serverSha256": "7e2a0e19c338a96037f95de48642fabd6e226bb1fc1139a5359cdce2a18496df",
+  "rootSourceV2Sha256": "b708f55ed7dfba615a313dd0e951875fa9dc6ff3c99878812affcd7626979b24",
+  "rootCorrectedParitySha256": "5b7483b5c25270b53718a7e69f798210b2525e2d458539ecd2d8deb59afdfaea",
+  "finalRenderedCheckSha256": "f3b1e9b0076ae1c15f31ad717fd8b4162b3e579cf633acb0df7bc7e638f117d2",
+  "base": "a19ffa74acfa2e678360c4e05c8ccf74ae7e8401",
+  "failedInitialCommit": "27d575a3ba0ce38a3a1700ef0c407daf80345a94",
+  "ordinaryCorrectionCommit": "f53bef6d8776cd0518403e872ce576ef9f49a107",
+  "release": false
+}

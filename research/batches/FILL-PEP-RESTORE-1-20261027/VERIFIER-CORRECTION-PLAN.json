@@ -1,0 +1,7 @@
+{
+  "status": "PREPARED-NOT-EXECUTED",
+  "oldVerifiersPreserved": true,
+  "change": "Only expected canonical parity and fill candidate bindings switch to corrected source URLs. Exact live text/link/metadata assertions retained; failing old projection is not accepted. New expected preview hash b505b864 requires explicit correction gate before application.",
+  "initialLinkFailureRemains": "PARITY-LINK-CHECK-FAILURE-V1.json",
+  "noOldPassTransfer": true
+}

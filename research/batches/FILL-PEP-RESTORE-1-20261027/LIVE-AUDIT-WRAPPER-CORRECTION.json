@@ -1,0 +1,5 @@
+{
+  "initialResult": "INVALID: serialized lowercase HTTP-header dictionary lost requests case-insensitive Content-Type access; analyzer skipped HTML and returned blank scores.",
+  "correctedResult": "V2 wraps exact captured headers in requests CaseInsensitiveDict; raw response HTML/status/URL and unchanged analyzer identical; no new network request or analyzer change.",
+  "initialFilePreserved": "LIVE-PREVIEW-AUDIT-V1-INVALID-HEADERS.json"
+}

@@ -1,0 +1,327 @@
+--- /dev/null
++++ b/lib/data/restored-research-previews.json
+@@ -0,0 +1,245 @@
++[
++  {
++    "id": "paper-29343d5dff2c8e1b",
++    "title": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
++    "year": "2025",
++    "metadataTitle": "What can two participants tell us about intravenous BPC-157 safety? | Peptides Anonymous",
++    "description": "Neither participant reported side effects during two infusion days and follow-up through the next day.",
++    "robots": "index, follow",
++    "canonical": "https://pepsanon.com/research/paper-29343d5dff2c8e1b",
++    "version": "2026-10-11-iv-draft-1",
++    "originalUrl": "/research",
++    "pdfUrl": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
++    "design": "Uncontrolled, two-participant safety pilot",
++    "population": "Two adults aged 58 and 68 who had previously received intravenous BPC-157",
++    "doi": null,
++    "finding": "Neither participant reported side effects during two infusion days and follow-up through the next day.",
++    "limitation": "Two previously exposed adults followed for three days cannot establish general, rare-event or long-term safety, and the study did not test injury recovery.",
++    "locators": [
++      {
++        "label": "PDF pages 1",
++        "url": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=1"
++      },
++      {
++        "label": "PDF pages 2",
++        "url": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=2"
++      },
++      {
++        "label": "PDF pages 3",
++        "url": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=3"
++      },
++      {
++        "label": "PDF pages 4",
++        "url": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=4"
++      },
++      {
++        "label": "PDF pages 5",
++        "url": "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf#page=5"
++      }
++    ],
++    "sourceLinks": [
++      {
++        "label": "pubmed.ncbi.nlm.nih.gov",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/"
++      }
++    ],
++    "liveHtmlSha256": "c738499ca74f93def3b7ca8bbee0585ad2186105544adb7c4b2b5b207b99f7c4",
++    "liveArticleTextSha256": "7e61f88cbe0ae8759150d70887ccb6e1a75b8d9f8de0f7c052c1528eaeb78175"
++  },
++  {
++    "id": "paper-37c4f0f55f696512",
++    "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
++    "year": "2021",
++    "metadataTitle": "Did the knee-pain study show that BPC-157 works? | Peptides Anonymous",
++    "description": "11 of 12 respondents receiving BPC alone reported improvement.",
++    "robots": "index, follow",
++    "canonical": "https://pepsanon.com/research/paper-37c4f0f55f696512",
++    "version": "2026-10-08-draft-1",
++    "originalUrl": "/research",
++    "pdfUrl": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
++    "design": "Retrospective uncontrolled case series",
++    "population": "People with varied knee pain; 17 treated, 16 reached",
++    "doi": null,
++    "finding": "11 of 12 respondents receiving BPC alone reported improvement.",
++    "limitation": "Without a control group, this cannot show that BPC caused relief or repaired tissue.",
++    "locators": [
++      {
++        "label": "PDF pages 2",
++        "url": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=2"
++      },
++      {
++        "label": "PDF pages 3",
++        "url": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=3"
++      },
++      {
++        "label": "PDF pages 4",
++        "url": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=4"
++      },
++      {
++        "label": "PDF pages 5",
++        "url": "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf#page=5"
++      }
++    ],
++    "sourceLinks": [
++      {
++        "label": "pubmed.ncbi.nlm.nih.gov",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/"
++      }
++    ],
++    "liveHtmlSha256": "8790794ae6ad09b0575be9beaffcd8c65467f7d27304e01c745dd3b3122d7b78",
++    "liveArticleTextSha256": "36d2a3a072cb8e8af1bcb6070c5c9862e895c8e6b59504533b54c5e66b63d705"
++  },
++  {
++    "id": "paper-84d99218fb837c75",
++    "title": "Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts",
++    "year": "2014",
++    "metadataTitle": "BPC-157 and growth-hormone receptors: a rat tendon-cell mechanism study | Peptides Anonymous",
++    "description": "BPC-157 pretreatment increased receptor expression and was followed by stronger responses to added growth hormone in cultured cells.",
++    "robots": "index, follow",
++    "canonical": "https://pepsanon.com/research/paper-84d99218fb837c75",
++    "version": "2026-10-11-full-text-draft-1",
++    "originalUrl": "/research",
++    "pdfUrl": "https://www.mdpi.com/1420-3049/19/11/19066",
++    "design": "In-vitro mechanistic experiments",
++    "population": "Rat Achilles tendon-derived fibroblasts",
++    "doi": "10.3390/molecules191119066",
++    "finding": "BPC-157 pretreatment increased receptor expression and was followed by stronger responses to added growth hormone in cultured cells.",
++    "limitation": "No human healing outcome was measured; small experimental repeats and conflicting reported hormone concentrations limit interpretation.",
++    "locators": [
++      {
++        "label": "PDF pages 2, 3",
++        "url": "https://doi.org/10.3390/molecules191119066#page=2"
++      },
++      {
++        "label": "PDF pages 4",
++        "url": "https://doi.org/10.3390/molecules191119066#page=4"
++      },
++      {
++        "label": "PDF pages 5, 6",
++        "url": "https://doi.org/10.3390/molecules191119066#page=5"
++      },
++      {
++        "label": "PDF pages 7, 8, 9",
++        "url": "https://doi.org/10.3390/molecules191119066#page=7"
++      }
++    ],
++    "sourceLinks": [
++      {
++        "label": "www.mdpi.com",
++        "url": "https://www.mdpi.com/1420-3049/19/11/19066"
++      },
++      {
++        "label": "doi.org",
++        "url": "https://doi.org/10.3390/molecules191119066"
++      },
++      {
++        "label": "pubmed.ncbi.nlm.nih.gov",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/25415472/"
++      },
++      {
++        "label": "pmc.ncbi.nlm.nih.gov",
++        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6271067/"
++      }
++    ],
++    "liveHtmlSha256": "7804d42603a618882bd95571f4e651596c80765f79abb976b855952dfa9611b8",
++    "liveArticleTextSha256": "ac67e25387194b9c428df6faf3b2bd39c21a2dedc8d30119c053c61f9e75fe08"
++  },
++  {
++    "id": "paper-baf28ca7c2d11c45",
++    "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing",
++    "year": "2026",
++    "metadataTitle": "BPC-157 plus TB-500: no added benefit demonstrated in a small rat tendon study | Peptides Anonymous",
++    "description": "The combination was not shown to outperform either single peptide. TB-500 alone had the only reported significant force-to-failure comparison against vehicle.",
++    "robots": "index, follow",
++    "canonical": "https://pepsanon.com/research/paper-baf28ca7c2d11c45",
++    "version": "2026-10-11-full-text-draft-1",
++    "originalUrl": "/research",
++    "pdfUrl": "https://jointdrs.org/full-text/1851",
++    "design": "Randomized four-group rat experiment",
++    "population": "32 male rats; four tendons per group for each endpoint",
++    "doi": "10.52312/jdrs.2026.2951",
++    "finding": "The combination was not shown to outperform either single peptide. TB-500 alone had the only reported significant force-to-failure comparison against vehicle.",
++    "limitation": "Small endpoint groups, one time point and no functional human outcome limit interpretation; a collagen result has conflicting p-values.",
++    "locators": [
++      {
++        "label": "PDF pages 2, 3, 4",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951#page=2"
++      },
++      {
++        "label": "PDF pages 5",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951#page=5"
++      },
++      {
++        "label": "PDF pages 6, 7",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951#page=6"
++      },
++      {
++        "label": "PDF pages 8, 9, 10",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951#page=8"
++      },
++      {
++        "label": "PDF pages 11, 12",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951#page=11"
++      },
++      {
++        "label": "PDF pages 13, 14",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951#page=13"
++      }
++    ],
++    "sourceLinks": [
++      {
++        "label": "jointdrs.org",
++        "url": "https://jointdrs.org/full-text/1851"
++      },
++      {
++        "label": "doi.org",
++        "url": "https://doi.org/10.52312/jdrs.2026.2951"
++      }
++    ],
++    "liveHtmlSha256": "2f625a5cc8c9124633a9d076e2eab516688ce026d333bc2b12fd2982029a57a9",
++    "liveArticleTextSha256": "7464a980ed835e2687fc4ca1c90062ea310d538faf4b4a5ec560a0b20df4bab6"
++  },
++  {
++    "id": "paper-d1c144a22938229c",
++    "title": "Effect of BPC-157 on Symptoms in Patients with Interstitial Cystitis: A Pilot Study",
++    "year": "2024",
++    "metadataTitle": "BPC-157 bladder injections: an uncontrolled twelve-woman pilot | Peptides Anonymous",
++    "description": "Ten women reported complete symptom resolution and two reported 80% improvement after a single bladder-wall procedure.",
++    "robots": "index, follow",
++    "canonical": "https://pepsanon.com/research/paper-d1c144a22938229c",
++    "version": "2026-10-11-full-text-draft-1",
++    "originalUrl": "/research",
++    "pdfUrl": "https://pubmed.ncbi.nlm.nih.gov/39325560/",
++    "design": "Retrospective uncontrolled case series",
++    "population": "12 women with interstitial cystitis after unsuccessful prior treatment",
++    "doi": null,
++    "finding": "Ten women reported complete symptom resolution and two reported 80% improvement after a single bladder-wall procedure.",
++    "limitation": "Without a control group and with unclear response timing, the study cannot determine treatment benefit or establish safety.",
++    "locators": [
++      {
++        "label": "PDF pages 2, 3",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/#page=2"
++      },
++      {
++        "label": "PDF pages 3",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/#page=3"
++      },
++      {
++        "label": "PDF pages 3, 4",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/#page=3"
++      },
++      {
++        "label": "PDF pages 5",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/#page=5"
++      }
++    ],
++    "sourceLinks": [
++      {
++        "label": "pubmed.ncbi.nlm.nih.gov",
++        "url": "https://pubmed.ncbi.nlm.nih.gov/39325560/"
++      }
++    ],
++    "liveHtmlSha256": "63cd31fc21c0516bd7fe003b2d53454c0e267a1c8f53bb5b05f9b2b69c214b62",
++    "liveArticleTextSha256": "7e0439c88c9a4ee8936cb9085ff02bab0bdd09206a5a9fcf1ef2de2ae2908606"
++  }
++]
+--- /dev/null
++++ b/components/peptide/restored-research-preview.tsx
+@@ -0,0 +1,17 @@
++import {ExternalLink,LockKeyhole} from 'lucide-react';
++import records from '@/lib/data/restored-research-previews.json';
++import {breadcrumbs} from '@/lib/seo';
++import {StructuredData} from './structured-data';
++import {RestoredPreviewContents} from './restored-preview-contents';
++import './restored-research-preview.css';
++
++export function restoredPreview(id:string){const record=records.find(row=>row.id===id);if(!record)throw new Error('Outside restored-preview allowlist');return record;}
++export function restoredPreviewMetadata(id:string){const r=restoredPreview(id);return {title:{absolute:r.metadataTitle},description:r.description,alternates:{canonical:r.canonical},robots:{index:true,follow:true}};}
++export function RestoredResearchPreview({id}:{id:string}){
++ const r=restoredPreview(id);const path=`/research/${r.id}`;
++ return <article className="study-review-page" data-study-review={r.id}>
++  <StructuredData data={breadcrumbs([{name:'Home',path:'/'},{name:'Research reviews',path:'/research'},{name:r.title,path}])}/>
++  <header className="research-hero"><div className="research-hero__wrapper"><div className="research-hero__left"><div className="research-hero__left-content"><p>A review of one research paper.</p><a href="/research#questions">Our review questions</a></div></div><div className="research-hero__center"><nav aria-label="Breadcrumb" className="review-breadcrumb"><a href="/research">Research reviews</a><span aria-hidden="true"> / </span><span>{r.year}</span></nav><h1 className="research-hero__center-title">{r.title}</h1><div className="research-hero__center-tags"><a className="research-hero__center-tag" href={r.originalUrl} target="_blank" rel="noreferrer">Original paper <ExternalLink size={16}/></a><a className="research-hero__center-tag" href={r.pdfUrl} target="_blank" rel="noreferrer">Source PDF <ExternalLink size={16}/></a><a className="research-hero__center-tag" href="#preview">Preview</a></div></div><div className="research-hero__right review-credit"><p className="section-kicker">Study review</p><p><strong>Editorial draft</strong></p><p>Prepared by AI-assisted editorial draft; independent review pending</p><p>Not independently approved.</p><p>Review version {r.version}</p><p>Paper published: {r.year}</p></div></div></header>
++  <div className="research-content"><div className="research-content__wrapper"><RestoredPreviewContents/><div className="research-content__center entry-content"><section id="preview" className="review-preview"><h2>Study at a glance</h2><dl className="research-facts"><dt>Design</dt><dd>{r.design}</dd><dt>Who or what was studied</dt><dd>{r.population}</dd>{r.doi&&<><dt>DOI</dt><dd><a href={`https://doi.org/${r.doi}`} target="_blank" rel="noreferrer">{r.doi}</a></dd></>}</dl><p>{r.finding}</p><p className="research-panel-limitation"><strong>Key limitation: </strong>{r.limitation}</p><p className="review-source-locators">Preview sources: {r.locators.map((source,index)=><span key={source.url}>{index>0?'; ':''}<a href={source.url} target="_blank" rel="noreferrer">{source.label}</a></span>)}</p><p className="review-draft-notice">This is an AI-assisted editorial draft. Unresolved questions and source checks are identified in the review; it has not received independent methodological or clinical approval.</p></section><section className="review-access"><LockKeyhole aria-hidden="true"/><h2>Log in to read the full review</h2><p>Read the methods, numerical findings, harms, limitations, and source locations with a free PepsAnon account.</p><a className="primary-action" href={`/login?returnTo=${encodeURIComponent(path)}`}>Log in to continue</a><p className="study-note">No subscription or payment is required.</p></section></div><aside className="research-content__right review-context" aria-label="Paper context"><h2>About this review</h2><p>Fifteen questions cover the study’s methods, findings, harms, reliability, and relevance.</p><p>One paper can support a specific observation without establishing treatment benefit or safety.</p><a href="/research#questions">Read the review standard</a><h3>Original sources</h3>{r.sourceLinks.map(source=><p key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.label}</a></p>)}</aside></div></div>
++ </article>;
++}
+--- /dev/null
++++ b/components/peptide/restored-preview-contents.tsx
+@@ -0,0 +1,6 @@
++'use client';
++import {useState} from 'react';
++import {ArrowLeft,ArrowRight,Menu,ChevronDown,Info} from 'lucide-react';
++import {Sheet,SheetTrigger,SheetContent,SheetHeader,SheetTitle} from '@/components/ui/sheet';
++function PreviewLink({close}:{close?:()=>void}){return <div className="post-content__list post-sidebar"><div><div className="post-content__item post-content__item--h2"><span className="post-content__title"><a className="post-content__link post-content__link--active" href="#preview" onClick={close}><Info size={19}/><span>Preview</span></a></span></div></div></div>;}
++export function RestoredPreviewContents(){const [collapsed,setCollapsed]=useState(false);const [mobile,setMobile]=useState(false);return <><aside className={`research-content__left peptide-section-sidebar${collapsed?' is-collapsed':''}`}><div className="research-content__left-menu"><button type="button" className="research-content__left-btn" aria-label={collapsed?'Expand sidebar':'Collapse sidebar'} aria-expanded={!collapsed} onClick={()=>setCollapsed(!collapsed)}>{collapsed?<ArrowRight/>:<ArrowLeft/>}</button>{!collapsed&&<nav aria-label="On this page"><PreviewLink/></nav>}</div></aside><div className="mobile-section-bar"><Sheet open={mobile} onOpenChange={setMobile}><SheetTrigger asChild><button><Menu size={17}/> Contents <ChevronDown size={15}/></button></SheetTrigger><SheetContent side="left" className="mobile-navigation" onCloseAutoFocus={e=>{const target=document.getElementById(decodeURIComponent(window.location.hash.slice(1)));if(target){e.preventDefault();requestAnimationFrame(()=>target.scrollIntoView({block:"start"}));}}}><SheetHeader><SheetTitle>Contents</SheetTitle></SheetHeader><PreviewLink close={()=>setMobile(false)}/></SheetContent></Sheet></div></>}
+--- /dev/null
++++ b/components/peptide/restored-research-preview.css
+@@ -0,0 +1,9 @@
++.study-review-page .research-hero__center-title{font-size:clamp(2rem,3.4vw,3.6rem);line-height:1.15;overflow-wrap:anywhere}
++.study-review-page .review-breadcrumb{font-size:.9rem;margin-bottom:1.5rem}.study-review-page .review-breadcrumb a{color:inherit}.study-review-page .review-credit{font-size:1rem;line-height:1.6}.study-review-page .review-credit p{margin-bottom:.65rem}
++.study-review-page .research-content__center{min-width:0}.study-review-page .review-preview{padding-bottom:1.5rem;border-bottom:1px solid var(--brand-line)}
++.study-review-page .review-access,.study-review-page .review-pending{padding:2rem;margin:2rem 0;border:1px solid var(--brand-line);background:var(--brand-ivory,#fff9e7);border-radius:6px}.study-review-page .review-access>svg{color:var(--brand-teal)}
++.study-review-page .review-access h2,.study-review-page .review-pending h2{font-size:1.75rem;line-height:1.25}.study-review-page .review-access .primary-action{display:inline-flex;margin:.25rem 0 1rem}
++.study-review-page .review-draft-notice{border-left:3px solid var(--brand-yellow,#f5c400);padding:.75rem 1rem;background:#fff9e7;font-size:1rem;line-height:1.6}
++.study-review-page .review-context h2,.study-review-page .review-context h3{font-size:1.15rem;margin:0 0 1rem}.study-review-page .review-context h3{margin-top:2rem}.study-review-page .review-context p{font-size:1rem;line-height:1.65}.study-review-page .review-context a{overflow-wrap:anywhere}
++.study-review-page .review-directory{max-width:960px;margin:0 auto;padding:3rem 2rem 5rem}.study-review-page .review-directory h1{font-size:clamp(2.5rem,4vw,4rem)}.study-review-page .review-coverage{padding:1rem 0;border-block:1px solid var(--brand-line);font-size:1rem}.study-review-page .review-filters{display:flex;gap:1rem;align-items:end;margin:2rem 0}.study-review-page .review-filters label{display:flex;flex:1;flex-direction:column;gap:.5rem;font-size:.9rem}.study-review-page .review-filters input,.study-review-page .review-filters select{min-height:44px;padding:.6rem;border:1px solid var(--brand-line);background:white;border-radius:4px;font:inherit}.study-review-page .review-directory-list .research-feed__item{padding:1.5rem 0;border-bottom:1px solid var(--brand-line)}.study-review-page .review-directory-list h2{font-size:1.35rem;line-height:1.4;margin:.25rem 0 1rem}.study-review-page .review-directory-list h2 a{color:var(--brand-teal)}.study-review-page .review-question-standard{margin-top:3rem}.study-review-page .review-question-standard li{margin:.75rem 0}
++
+--- /dev/null
++++ b/app/research/paper-29343d5dff2c8e1b/page.tsx
+@@ -0,0 +1,3 @@
++import {RestoredResearchPreview,restoredPreviewMetadata} from '@/components/peptide/restored-research-preview';
++export const metadata=restoredPreviewMetadata('paper-29343d5dff2c8e1b');
++export default function Page(){return <RestoredResearchPreview id="paper-29343d5dff2c8e1b"/>;}
+--- /dev/null
++++ b/app/research/paper-37c4f0f55f696512/page.tsx
+@@ -0,0 +1,3 @@
++import {RestoredResearchPreview,restoredPreviewMetadata} from '@/components/peptide/restored-research-preview';
++export const metadata=restoredPreviewMetadata('paper-37c4f0f55f696512');
++export default function Page(){return <RestoredResearchPreview id="paper-37c4f0f55f696512"/>;}
+--- /dev/null
++++ b/app/research/paper-84d99218fb837c75/page.tsx
+@@ -0,0 +1,3 @@
++import {RestoredResearchPreview,restoredPreviewMetadata} from '@/components/peptide/restored-research-preview';
++export const metadata=restoredPreviewMetadata('paper-84d99218fb837c75');
++export default function Page(){return <RestoredResearchPreview id="paper-84d99218fb837c75"/>;}
+--- /dev/null
++++ b/app/research/paper-baf28ca7c2d11c45/page.tsx
+@@ -0,0 +1,3 @@
++import {RestoredResearchPreview,restoredPreviewMetadata} from '@/components/peptide/restored-research-preview';
++export const metadata=restoredPreviewMetadata('paper-baf28ca7c2d11c45');
++export default function Page(){return <RestoredResearchPreview id="paper-baf28ca7c2d11c45"/>;}
+--- /dev/null
++++ b/app/research/paper-d1c144a22938229c/page.tsx
+@@ -0,0 +1,3 @@
++import {RestoredResearchPreview,restoredPreviewMetadata} from '@/components/peptide/restored-research-preview';
++export const metadata=restoredPreviewMetadata('paper-d1c144a22938229c');
++export default function Page(){return <RestoredResearchPreview id="paper-d1c144a22938229c"/>;}
+--- a/components/peptide/shell.tsx
++++ b/components/peptide/shell.tsx
+@@ -37,4 +37,4 @@
+  </aside>
+ }
+ function LibrarySidebar(){const path=usePathname();return <aside className="research-content__left library-sidebar"><div className="research-content__left-menu"><nav aria-label="Library navigation"><div className="post-content__list post-sidebar">{navigation.map(n=><div key={n.href} className="post-content__item post-content__item--h2"><span className="post-content__title"><a className={`post-content__link${path===n.href?' post-content__link--active':''}`} href={n.href}><n.icon size={19}/>{n.label}</a></span></div>)}</div><div className="library-sidebar-peptides">{peptides.map(p=><a href={`/peptides/${p.id}`} key={p.id}>{p.name}</a>)}</div></nav></div></aside>}
+-export function Shell({children}:{children:React.ReactNode}){const path=usePathname();const article=path.startsWith('/peptides/')||path.startsWith('/stacks');const glossary=path==='/glossary'||path.startsWith('/glossary/');const fullWidth=['/','/search','/profile','/login','/medical-disclaimer'].includes(path);return <><a href="#main" className="skip-link">Skip to content</a><Header/><main id="main" className="site-content">{article||glossary||fullWidth?children:<div className="research-content utility-layout"><div className="research-content__wrapper"><LibrarySidebar/><div className="research-content__center utility-content">{children}</div><ResearchRail/></div></div>}</main><Footer/></>}
++export function Shell({children}:{children:React.ReactNode}){const path=usePathname();const article=path.startsWith('/peptides/')||path.startsWith('/stacks')||["/research/paper-29343d5dff2c8e1b","/research/paper-37c4f0f55f696512","/research/paper-84d99218fb837c75","/research/paper-baf28ca7c2d11c45","/research/paper-d1c144a22938229c"].includes(path);const glossary=path==='/glossary'||path.startsWith('/glossary/');const fullWidth=['/','/search','/profile','/login','/medical-disclaimer'].includes(path);return <><a href="#main" className="skip-link">Skip to content</a><Header/><main id="main" className="site-content">{article||glossary||fullWidth?children:<div className="research-content utility-layout"><div className="research-content__wrapper"><LibrarySidebar/><div className="research-content__center utility-content">{children}</div><ResearchRail/></div></div>}</main><Footer/></>}

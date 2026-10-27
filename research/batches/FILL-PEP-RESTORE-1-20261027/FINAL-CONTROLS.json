@@ -1,0 +1,51 @@
+{
+  "phase": "final",
+  "status": "PASS",
+  "controls": [
+    {
+      "path": "/research/paper-not-authorized",
+      "status": 404,
+      "sha256": "321637eee93e3ff56938cd4593f0f749a14eeea52e32280ab83cb9e1769e1eb2",
+      "robots": "noindex"
+    },
+    {
+      "path": "/research",
+      "status": 404,
+      "sha256": "1c6636d6e0fb3c2c02285458876e6da7b653be471ad4a1bcdcbfa76901481b53",
+      "robots": "noindex"
+    },
+    {
+      "path": "/install",
+      "status": 404,
+      "sha256": "0dd6708e82cff562469b94c7a2f84db25d2598e4c0a0fc73204e4a0ada7effc1",
+      "robots": "noindex"
+    },
+    {
+      "path": "/before-you-buy",
+      "status": 404,
+      "sha256": "d4d4eab510a7c396b02b5f5a89c98a17575cbe1e4f528666acfb445c38947bf0",
+      "robots": "noindex"
+    },
+    {
+      "path": "/guides/before-you-buy",
+      "status": 404,
+      "sha256": "3d3eff320c88e1a2777917a74b86fad2e89da43ca71e16eacb616e50748e3543",
+      "robots": "noindex"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "sha256": "b0d5a543d3a38daf2ecdcac5c04dbb4cc627ac366837f47645bdc5467124f0b3",
+      "robots": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+      "robots": null
+    }
+  ],
+  "unknownResearch404": true,
+  "noAdditionalUtilityRestoration": true,
+  "noRobotsTxtDisallowSubstitution": true
+}

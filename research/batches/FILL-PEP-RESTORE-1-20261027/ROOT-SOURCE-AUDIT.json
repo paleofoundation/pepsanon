@@ -1,0 +1,158 @@
+{
+  "at": "2026-10-27T17:44:11.953869+02:00",
+  "result": "PASS_BOUNDED_SOURCE_FIDELITY_35_QUALITATIVE_PARAGRAPHS",
+  "candidateSha256": "3418130eaedb2ed7d3f855a3b9449b15bc0126b8755fc6ce77b710ff7bf7168c",
+  "boundDependencies": {
+    "FILL-CANDIDATE-V1.json": "3418130eaedb2ed7d3f855a3b9449b15bc0126b8755fc6ce77b710ff7bf7168c",
+    "SOURCE-INPUTS-V1.json": "f31c6dd93c367a325c0a5c0188a975e62dabeba0606e21152b65410d7d8fd5e5",
+    "SOURCE-READING-V1.json": "7fa019bf4eee282819a9dc0286f054755708478d447358ca40ed2f25becb28ca",
+    "GATE-ADDENDUM-FILL-RENDERING-V1.json": "453a5235eb759a8b2d1d76bd9c6485a34df52838022da77de61e40dd7003a604",
+    "UNAPPLIED-FILL-RENDERING-V1.patch": "afd23604be18c73a1f394a183d09b2ace1a92f5b08b28cfb6b966c5962efda15"
+  },
+  "sourceHashesFreshMatched": {
+    "paper-37c4f0f55f696512": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+    "paper-d1c144a22938229c": "d66c35269071c1b64b9182e2d444af574a09680006429d0c9aa7ad682a74dfe4",
+    "paper-29343d5dff2c8e1b": "8f271cdc705ce95067a1ce97a7c3e2fe7d22d3b26ec21b8f19fac861b19cae09",
+    "paper-84d99218fb837c75": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+    "paper-baf28ca7c2d11c45": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c"
+  },
+  "originalReading": {
+    "paper-37c4f0f55f696512": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "visualPages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Retrospective chartreview17treated16reached; sequentialfirst4combo then12BPCnotrandomization; varieddiagnoses/only4baselineMRI/noobjectivepostconfirmation/no validatedfunctional/QOLinstrument. Phonepain/recall/selfpaid/cosinglecenter.",
+        "11of12BPCrespondentsnot17orallhumanclinicalproof. Combination3of4 versus12differentsequentialselectionnotcomparativeefficacy. Durationtables1/12one24h yetresults11/12improvement andotherdenominatorsinDiscussion9/10,7/8; retainratherthanreconstruct.",
+        "TB4literalpaperdrugnotautomaticallyTB500; no causalcartilagerepair/steroidcomparativesuperiority or safetyinference fromnoeventsnoted."
+      ]
+    },
+    "paper-d1c144a22938229c": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visualPages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Retrospective12womensingleclinic/no sham; intravesicalinjectionsbladderwallnotoral/IVstudy; 10reportcomplete/2report80%allGRA5notallcomplete. Modified5pointmappingnotsameasquantitativeobjectivebenefit.",
+        "Methodsmostcontact4\u20136months,Results6weekscysto/questionnaire unclearresponsetiming; preserve. Onlyonebefore/aftercystopairillustrated,nocohortblindedhistology/biopsynotperformed.",
+        "Nonehadusedpentosanmorethan6monthsbeforeinjections versusseveral>5years/sourcewordingambiguous; donotreconstruct. No adverseeventsreportednotgeneralsafety/clinicalrecommendation."
+      ]
+    },
+    "paper-29343d5dff2c8e1b": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visualPages": [
+        3
+      ],
+      "notes": [
+        "Two previouslyexposedselfpaidvolunteers58/68noactiveinjury; short2infusions+day3followup/no sham/norandom/no new efficacy. Previous5mgexposure meansnotfirstusers.",
+        "ObservednoAEreporting/notunchangingalllaboratoryvalues; kidneydehydrationexplanationhypothesisnotverified, cannotdeclareexcludedorganharm. TableCK65versusDiscussion66preserved.",
+        "No rare/longtermadverseeffectpower, no healing/opioidcomparativebenefit. Fundingnone/conflictnoneasdeclared; advocacy/broaderpreclinicalregulatoryDiscussionnotindependentnewprimaryoutcomes."
+      ]
+    },
+    "paper-84d99218fb837c75": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "visualPages": [
+        4,
+        5,
+        6
+      ],
+      "notes": [
+        "RatAchillesprimaryfibroblasts; threeexperimentsdifferentrat/technicaltriplicatePCRnotclinicalN; receptorRNA/protein, MTTmetabolicactivity/PCNAgene andpJAK2signals nothealing.",
+        "GHaddedafterBPCpretreatment; GHRbinding/blockadeknockdownnotformalcausalnecessity inthispaper. TotalJAK2assertedunchangedbutnotshownFig4.",
+        "Results2.3GH1\u00b5g/mL versusFig4legend.1\u00b5g/mLunresolved; nodoseprotocolinference. No newanimalinjuryexperiment/humanoutcomes. Clinicalcost/dosereductionconclusiontheoretical."
+      ]
+    },
+    "paper-baf28ca7c2d11c45": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "visualPages": [
+        3,
+        5,
+        6,
+        10,
+        12
+      ],
+      "notes": [
+        "32healthyyoungmalerats/8assignedgroups but4eachmechanicalorhistologyendpoints; random/assessorblindcodednotoperatortreatmentblind;30daysIPafterKesslerrepairnotnonsurgicalhumanhealing.",
+        "OnlyTB500vscontrolFmaxadjusted.0406; BPC.389/comboNS notproofequivalenceornogeneralbenefit. BodyKW H7.712p.0165 notrefit.",
+        "CompositeBonar/Movinvsselectedsubscoresdifferent, noallendpointbenefit/synergy. TypeIHCNS.242;typeIIIBPCvsTBbody<.001/TableIV.009 preserved, nocausedisclosed.",
+        "Mechanisticoverlapnotmeasured/molecularPKnotperformed; norepairedmaterialstress/stiffnessfunction/longtermfollowup, nosafehumanprotocol; posthocpowernotprospectivecalculation."
+      ]
+    }
+  },
+  "freshRootTextHashes": {
+    "paper-37c4f0f55f696512": "ce6cef22419509fb7d5bf46a879d164928a2a46029adea0b5133cf66ccf44759",
+    "paper-d1c144a22938229c": "9d564425ab5496d1d750665dfefe66b91e7857efbdcc858e0fd6eee68cd20835",
+    "paper-29343d5dff2c8e1b": "995414756825911b7e7f9ccee55f817f1c63b77d441d00fcc7c6abecc13b1f5c",
+    "paper-84d99218fb837c75": "d5fd010482467dac65c97a3642b2e1bfce5c4e48b7a729db8d5013fc944bfb05",
+    "paper-baf28ca7c2d11c45": "a22138b077394df7be8b813b941aeb0bd4289a28492099dd138741f9e60103a7"
+  },
+  "sourceReadBeforeCandidateComparison": true,
+  "publicProjectionMatchesExactCandidate": true,
+  "newScientificNumericalResults": 0,
+  "limitations": [
+    "Inherited live numerical summaries/metadata/odd links restoredasparity, notapproved scientificclaims",
+    "Underlyingrawdata/clinicalprotocols/externalregulatoryclaimsnotvalidated",
+    "OriginalinternalGHdoseandcollagenPconflictsretainednotadjudicated",
+    "Repeatedsamepaperlocatorlinksarenotindependentstudies",
+    "RendererandpublicationGATEsremainseparate"
+  ],
+  "fullScientificApproval": false,
+  "clinicalApproval": false,
+  "releaseApproval": false,
+  "applicationState": "UNAPPLIED_PENDING_ELON_RENDERER_GATES",
+  "verificationNote": "First sealing attempt referenced nonexistent READING-V1 filename; corrected to actual SOURCE-READING-V1 before creating receipt; no candidate/source edits."
+}

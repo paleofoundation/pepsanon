@@ -1,0 +1,118 @@
+[
+  {
+    "path": "/research/paper-37c4f0f55f696512",
+    "status": 200,
+    "url": "https://pepsanon.com/research/paper-37c4f0f55f696512",
+    "sha256": "8790794ae6ad09b0575be9beaffcd8c65467f7d27304e01c745dd3b3122d7b78",
+    "bytes": 51704,
+    "capturedAt": "2026-10-27T15:29:10.462228+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private, no-store"
+    }
+  },
+  {
+    "path": "/research/paper-d1c144a22938229c",
+    "status": 200,
+    "url": "https://pepsanon.com/research/paper-d1c144a22938229c",
+    "sha256": "63cd31fc21c0516bd7fe003b2d53454c0e267a1c8f53bb5b05f9b2b69c214b62",
+    "bytes": 50842,
+    "capturedAt": "2026-10-27T15:29:10.865609+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private, no-store"
+    }
+  },
+  {
+    "path": "/research/paper-29343d5dff2c8e1b",
+    "status": 200,
+    "url": "https://pepsanon.com/research/paper-29343d5dff2c8e1b",
+    "sha256": "c738499ca74f93def3b7ca8bbee0585ad2186105544adb7c4b2b5b207b99f7c4",
+    "bytes": 51661,
+    "capturedAt": "2026-10-27T15:29:12.176074+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private, no-store"
+    }
+  },
+  {
+    "path": "/research/paper-84d99218fb837c75",
+    "status": 200,
+    "url": "https://pepsanon.com/research/paper-84d99218fb837c75",
+    "sha256": "7804d42603a618882bd95571f4e651596c80765f79abb976b855952dfa9611b8",
+    "bytes": 52074,
+    "capturedAt": "2026-10-27T15:29:12.750849+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private, no-store"
+    }
+  },
+  {
+    "path": "/research/paper-baf28ca7c2d11c45",
+    "status": 200,
+    "url": "https://pepsanon.com/research/paper-baf28ca7c2d11c45",
+    "sha256": "2f625a5cc8c9124633a9d076e2eab516688ce026d333bc2b12fd2982029a57a9",
+    "bytes": 52980,
+    "capturedAt": "2026-10-27T15:29:13.167828+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private, no-store"
+    }
+  },
+  {
+    "path": "/install",
+    "status": 200,
+    "url": "https://pepsanon.com/install",
+    "sha256": "76e71fdd7fb013f462499e146e06a42cfbe0a0078e97fcf40c31af6d95666439",
+    "bytes": 42353,
+    "capturedAt": "2026-10-27T15:29:13.550012+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-store, must-revalidate"
+    }
+  },
+  {
+    "path": "/before-you-buy",
+    "status": 404,
+    "url": "https://pepsanon.com/before-you-buy",
+    "sha256": "143ef5d7c515d0c0f5174963c1d0b69fa64152a11e1ffa24fafc639a9b0b982f",
+    "bytes": 33203,
+    "capturedAt": "2026-10-27T15:29:13.994959+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8"
+    }
+  },
+  {
+    "path": "/guides/before-you-buy",
+    "status": 200,
+    "url": "https://pepsanon.com/guides/before-you-buy",
+    "sha256": "13593e36c872ca8320cfb9d514f88611dd06629228393ec812184c30f1cdf292",
+    "bytes": 36457,
+    "capturedAt": "2026-10-27T15:29:14.472851+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-store, must-revalidate"
+    }
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "url": "https://pepsanon.com/sitemap.xml",
+    "sha256": "b31ed6a970e850de127cbb7c1c330302c4a77fb2708d9317617b38770d2de6f0",
+    "bytes": 13084,
+    "capturedAt": "2026-10-27T15:29:14.999817+00:00",
+    "anonymous": true,
+    "headers": {
+      "Content-Type": "application/xml; charset=utf-8",
+      "Cache-Control": "public, max-age=3600"
+    }
+  }
+]

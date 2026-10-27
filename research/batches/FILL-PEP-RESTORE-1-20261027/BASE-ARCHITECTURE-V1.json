@@ -1,0 +1,24 @@
+{
+  "base": "a19ffa74acfa2e678360c4e05c8ccf74ae7e8401",
+  "branch": "codex/fill-pep-restore-1",
+  "fiveIds": [
+    "paper-29343d5dff2c8e1b",
+    "paper-37c4f0f55f696512",
+    "paper-84d99218fb837c75",
+    "paper-baf28ca7c2d11c45",
+    "paper-d1c144a22938229c"
+  ],
+  "appResearchPresent": false,
+  "appInstallPresent": false,
+  "existingShellSha256": "e844dc06d55bcdd9db6f0bd08f98ebeb5da2dc4f14adc6ad72d8c72d19e01830",
+  "existingSitemapSha256": "86b42db714bb276eccb54a51be7bea16c479f2ebe1a3d89acb4c3d2b699c9460",
+  "rankingSha256": "f8b97c447bb4c0a191e6ab5eb11a68d5d90811077c58b1d20611d77e15d37898",
+  "bareBeforeBuyLive": 404,
+  "guideBeforeBuyLive": 200,
+  "rankingContainsBare": false,
+  "rankingContainsGuide": true,
+  "liveSitemapContainsBare": false,
+  "liveSitemapContainsGuide": true,
+  "baseCodeHasEitherPath": false,
+  "capturedAt": "2026-10-27T17:31:03.329946+02:00"
+}

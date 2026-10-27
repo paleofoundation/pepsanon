@@ -1,0 +1,233 @@
+{
+  "status": "FAIL",
+  "head": "27d575a3ba0ce38a3a1700ef0c407daf80345a94",
+  "results": [
+    {
+      "id": "paper-d1c144a22938229c",
+      "localLinks": 13,
+      "liveLinks": 13,
+      "differences": [
+        {
+          "index": 2,
+          "live": [
+            "Original paper",
+            "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Original paper",
+            "/research",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "live": [
+            "Source PDF",
+            "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11423.pdf",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Source PDF",
+            "https://pubmed.ncbi.nlm.nih.gov/39325560/",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paper-baf28ca7c2d11c45",
+      "localLinks": 17,
+      "liveLinks": 17,
+      "differences": [
+        {
+          "index": 2,
+          "live": [
+            "Original paper",
+            "https://jointdrs.org/full-text/1851",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Original paper",
+            "/research",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "live": [
+            "Source PDF",
+            "https://jointdrs.org/full-text-pdf/1851",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Source PDF",
+            "https://jointdrs.org/full-text/1851",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paper-37c4f0f55f696512",
+      "localLinks": 13,
+      "liveLinks": 13,
+      "differences": [
+        {
+          "index": 2,
+          "live": [
+            "Original paper",
+            "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Original paper",
+            "/research",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "live": [
+            "Source PDF",
+            "https://asipp.org/wp-content/uploads/Intra-Articular-Injection-of-BPC-157-for-Multiple-Types-of-Knee-Pain-2021-Alternative-Therapies-in-Health-and-Medicine.pdf",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Source PDF",
+            "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paper-84d99218fb837c75",
+      "localLinks": 17,
+      "liveLinks": 17,
+      "differences": [
+        {
+          "index": 2,
+          "live": [
+            "Original paper",
+            "https://www.mdpi.com/1420-3049/19/11/19066",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Original paper",
+            "/research",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "live": [
+            "Source PDF",
+            "https://www.mdpi.com/1420-3049/19/11/19066/pdf",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Source PDF",
+            "https://www.mdpi.com/1420-3049/19/11/19066",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paper-29343d5dff2c8e1b",
+      "localLinks": 14,
+      "liveLinks": 14,
+      "differences": [
+        {
+          "index": 2,
+          "live": [
+            "Original paper",
+            "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Original paper",
+            "/research",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "live": [
+            "Source PDF",
+            "https://innovisionhm.com/journalslibrary/athm/pdfarticles/11513.pdf",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ],
+          "local": [
+            "Source PDF",
+            "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+            "_blank",
+            [
+              "noreferrer"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "applicationChanged": false,
+  "detectedAt": "2026-10-27T17:51:13.730658+02:00"
+}

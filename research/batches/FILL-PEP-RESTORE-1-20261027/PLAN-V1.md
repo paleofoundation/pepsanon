@@ -1,0 +1,17 @@
+# FILL-PEP-RESTORE-1 prospective plan
+
+Authority: ELON bridge 2026-10-27 17:20, lane 2. Base is accepted PEP6 a19ffa74acfa2e678360c4e05c8ccf74ae7e8401. Branch codex/fill-pep-restore-1. Draft review only; receiver remains off.
+
+1. Capture the exact five anonymous public research previews, robots policy, metadata, source links and locators. Preserve the live preview findings, inherited quantities, draft status and login prompts. No full-review content or account/intake implementation is restored.
+2. Request the exact shared-layout and new bounded renderer exception before application. Five literal route files, five-record preview projection and route-confined styling; existing Shell changes only for the exact five path literals. Unknown research paths, the research directory, navigation, counts and sitemaps retain base behavior.
+3. Build and capture the accepted base across all 141 historical PepsAnon audit URLs using the unchanged analyzer, four workers and at least 0.25 seconds per worker. Freeze all 1148 base tracked files, including all 409 prior PEP packet files.
+4. After the exact gate, apply parity only, build and compare all five article text/link/metadata tuples with captured live content. All unselected reader DOMs and old data remain exact. Record and verify the first ordinary parity commit before applying source context.
+5. Independently read the five held originals, bind fresh PDF hashes, and prepare only qualitative, source-linked paragraphs. Root original-source review is required before application. The second renderer hook also requires the concrete shared-component gate addendum. Preserve all prior candidates and source holds.
+6. Add the approved context only to the same five public previews. Build and perform the final unchanged GET audit, five exact paragraph/source/locator comparisons, unknown-route checks, all outside main-subtree comparisons, source/raw-object preservation, and public punctuation/numerical checks. Root mobile evidence binds the final immutable data/server hashes before sealing.
+7. LF/CRLF and scope checks stop on failure. Final ordinary fill commit must succeed and its head must be verified before a separate plain HTTPS push. One stacked draft PR, with immutable REPORT and SHA256SUMS receipt and honest residual flags. No merge, deploy, publish, production change, credential use, alternate transport or outbound human message.
+
+Bare /before-you-buy has no matching row in the historical ranking and no reference in either the captured live sitemap or the accepted base. The distinct /guides/before-you-buy is live 200 and appears in the historical ranking and live sitemap; no deletion is inferred. /install is a noindex textual proposal only, with no route or robots modification.
+
+The precise original-PDF hosts for the knee and IV papers are outside the analyzer's existing citation-host recognition. Source fidelity takes priority over the count: preserve accurate links, keep the analyzer/allowlist unchanged, and disclose any residual citation-thin flags.
+
+No result quantity, dose recommendation, scientific grade, clinical approval or release is added. Restored live quantities are inherited parity content and have no transferred numerical approval. The held local deployed source is an implementation comparison aid; anonymous GET captures determine public parity. Full private draft answers are not evidence for scientific additions.

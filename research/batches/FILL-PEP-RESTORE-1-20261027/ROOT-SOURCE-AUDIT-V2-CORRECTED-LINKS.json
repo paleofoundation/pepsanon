@@ -1,0 +1,143 @@
+{
+  "at": "2026-10-27T17:57:16.880080+02:00",
+  "result": "PASS_BOUNDED_35_PARAGRAPHS_EXACT_V2_SOURCE_URL_REBINDING_ONLY_NOT_PARITY_ACCEPTANCE",
+  "candidateSha256": "727ec4ef313b1dc6f4d11acf59d4b00738ea5c524af893f2e9b5e4e2f0aab976",
+  "parityCandidateSha256": "b505b86484ff61d7fec85ce2702c33a7b5884fbb5421908c8c22718a349835f9",
+  "correctedHeaderFields": 10,
+  "actualLiveLabelBoundHeaderURLsVerified": true,
+  "changedParagraphURLs": 35,
+  "all35TextsLocatorsSourceHashesUnchanged": true,
+  "sourceHashesFreshMatched": {
+    "paper-37c4f0f55f696512": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+    "paper-d1c144a22938229c": "d66c35269071c1b64b9182e2d444af574a09680006429d0c9aa7ad682a74dfe4",
+    "paper-29343d5dff2c8e1b": "8f271cdc705ce95067a1ce97a7c3e2fe7d22d3b26ec21b8f19fac861b19cae09",
+    "paper-84d99218fb837c75": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+    "paper-baf28ca7c2d11c45": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c"
+  },
+  "originalReading": {
+    "paper-37c4f0f55f696512": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "visualPages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Retrospective chartreview17treated16reached; sequentialfirst4combo then12BPCnotrandomization; varieddiagnoses/only4baselineMRI/noobjectivepostconfirmation/no validatedfunctional/QOLinstrument. Phonepain/recall/selfpaid/cosinglecenter.",
+        "11of12BPCrespondentsnot17orallhumanclinicalproof. Combination3of4 versus12differentsequentialselectionnotcomparativeefficacy. Durationtables1/12one24h yetresults11/12improvement andotherdenominatorsinDiscussion9/10,7/8; retainratherthanreconstruct.",
+        "TB4literalpaperdrugnotautomaticallyTB500; no causalcartilagerepair/steroidcomparativesuperiority or safetyinference fromnoeventsnoted."
+      ]
+    },
+    "paper-d1c144a22938229c": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visualPages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Retrospective12womensingleclinic/no sham; intravesicalinjectionsbladderwallnotoral/IVstudy; 10reportcomplete/2report80%allGRA5notallcomplete. Modified5pointmappingnotsameasquantitativeobjectivebenefit.",
+        "Methodsmostcontact4\u20136months,Results6weekscysto/questionnaire unclearresponsetiming; preserve. Onlyonebefore/aftercystopairillustrated,nocohortblindedhistology/biopsynotperformed.",
+        "Nonehadusedpentosanmorethan6monthsbeforeinjections versusseveral>5years/sourcewordingambiguous; donotreconstruct. No adverseeventsreportednotgeneralsafety/clinicalrecommendation."
+      ]
+    },
+    "paper-29343d5dff2c8e1b": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visualPages": [
+        3
+      ],
+      "notes": [
+        "Two previouslyexposedselfpaidvolunteers58/68noactiveinjury; short2infusions+day3followup/no sham/norandom/no new efficacy. Previous5mgexposure meansnotfirstusers.",
+        "ObservednoAEreporting/notunchangingalllaboratoryvalues; kidneydehydrationexplanationhypothesisnotverified, cannotdeclareexcludedorganharm. TableCK65versusDiscussion66preserved.",
+        "No rare/longtermadverseeffectpower, no healing/opioidcomparativebenefit. Fundingnone/conflictnoneasdeclared; advocacy/broaderpreclinicalregulatoryDiscussionnotindependentnewprimaryoutcomes."
+      ]
+    },
+    "paper-84d99218fb837c75": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "visualPages": [
+        4,
+        5,
+        6
+      ],
+      "notes": [
+        "RatAchillesprimaryfibroblasts; threeexperimentsdifferentrat/technicaltriplicatePCRnotclinicalN; receptorRNA/protein, MTTmetabolicactivity/PCNAgene andpJAK2signals nothealing.",
+        "GHaddedafterBPCpretreatment; GHRbinding/blockadeknockdownnotformalcausalnecessity inthispaper. TotalJAK2assertedunchangedbutnotshownFig4.",
+        "Results2.3GH1\u00b5g/mL versusFig4legend.1\u00b5g/mLunresolved; nodoseprotocolinference. No newanimalinjuryexperiment/humanoutcomes. Clinicalcost/dosereductionconclusiontheoretical."
+      ]
+    },
+    "paper-baf28ca7c2d11c45": {
+      "physicalTextPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "visualPages": [
+        3,
+        5,
+        6,
+        10,
+        12
+      ],
+      "notes": [
+        "32healthyyoungmalerats/8assignedgroups but4eachmechanicalorhistologyendpoints; random/assessorblindcodednotoperatortreatmentblind;30daysIPafterKesslerrepairnotnonsurgicalhumanhealing.",
+        "OnlyTB500vscontrolFmaxadjusted.0406; BPC.389/comboNS notproofequivalenceornogeneralbenefit. BodyKW H7.712p.0165 notrefit.",
+        "CompositeBonar/Movinvsselectedsubscoresdifferent, noallendpointbenefit/synergy. TypeIHCNS.242;typeIIIBPCvsTBbody<.001/TableIV.009 preserved, nocausedisclosed.",
+        "Mechanisticoverlapnotmeasured/molecularPKnotperformed; norepairedmaterialstress/stiffnessfunction/longtermfollowup, nosafehumanprotocol; posthocpowernotprospectivecalculation."
+      ]
+    }
+  },
+  "priorExactReceiptSha256": "ba9b706cd7f42b02ee44ab6618b9ebcd2fdaf2181e827a7230876f317f0cb8af",
+  "correctedPublicProjectionMatchesCandidate": true,
+  "fillRenderingV2PatchSha256": "98655c86bbd1b1db1c8dbf59a0b0ed6f3e42081042ce65b4279a094cd8305edb",
+  "unappliedCorrectionPatchSha256": "ca7580697024f6b741a21a75bdeaef15f5f6c3b86cd2ea8dfc5f87881b49b121",
+  "rootCaptureFailureSha256": "b2409231fa174789c181f0e843671903069820d293b5d7a4ef14d4a5960a58d2",
+  "fullScientificApproval": false,
+  "clinicalApproval": false,
+  "releaseApproval": false,
+  "state": "Correction/renderingV2GATEpending; actualcorrectedDOM/mobilemustPASSbeforefinalfill/push; failedcommitpreserved"
+}
