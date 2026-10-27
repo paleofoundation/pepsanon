@@ -1,0 +1,160 @@
+{
+  "records": [
+    {
+      "source": "bpcpk",
+      "extractionDiagnostic": "",
+      "extractedPages": 16,
+      "locators": [
+        "PDF p13 Discussion limitations",
+        "PDF p14 Methods 4.2, 4.3 and 4.4",
+        "PDF p14 Methods 4.3 and 4.4",
+        "PDF p14 Methods 4.3 and 4.4; p15 analytical methods",
+        "PDF p14 Methods 4.5; p15 Metabolism and Excretion methods"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "cjc",
+      "extractionDiagnostic": "",
+      "extractedPages": 7,
+      "locators": [],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "collagen",
+      "extractionDiagnostic": "",
+      "extractedPages": 13,
+      "locators": [
+        "PDF p2 Introduction and study aim; p3 Design and Experimental Protocol",
+        "PDF p3 Design and Experimental Protocol",
+        "PDF p3 Design and Experimental Protocol and Collagen Products",
+        "PDF p3 Design and Experimental Protocol; p4 Blood Samples",
+        "PDF p4 Blood Samples and NMR Spectroscopy",
+        "PDF p4 Blood Samples and NMR Spectroscopy; p10 Conclusions",
+        "PDF p9 Discussion; p10 Conclusions"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "eye",
+      "extractionDiagnostic": "",
+      "extractedPages": 16,
+      "locators": [
+        "PDF p11 Discussion limitations; p12 Study design",
+        "PDF p11 Discussion limitations; p12 Subject demographics",
+        "PDF p11 Materials and Methods; p12 Subject demographics and Study design",
+        "PDF p12 Study design and safety outcome measures",
+        "PDF p13 Statistical Analyses; p14 alternative and sensitivity analyses"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "fibro",
+      "extractionDiagnostic": "",
+      "extractedPages": 12,
+      "locators": [
+        "PDF p2 Introduction; p3 Results 2.1 and 2.2",
+        "PDF p3 Results 2.1 and 2.2; p7 Discussion limitations"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "gip",
+      "extractionDiagnostic": "",
+      "extractedPages": 9,
+      "locators": [
+        "PDF p2 Introduction, Participants and Study procedures",
+        "PDF p7 Discussion and limitations; p8 Conclusions",
+        "PDF p8 Conclusions"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "phase1",
+      "extractionDiagnostic": "",
+      "extractedPages": 7,
+      "locators": [
+        "PDF p2 Procedure and investigational products",
+        "PDF p2 Trial design and Procedure",
+        "PDF p2 Trial design and Procedure; p3 Statistical analysis",
+        "PDF p2 Trial design and Subject eligibility; p3 Safety and tolerability",
+        "PDF p2 Trial design, Subject eligibility and Procedure",
+        "PDF p3 Statistical analysis",
+        "PDF p3 Statistical analysis and antibody assay",
+        "PDF p5 Results 3.4 and Discussion"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "skin",
+      "extractionDiagnostic": "Syntax Warning: Invalid shared object hint table offset",
+      "extractedPages": 8,
+      "locators": [
+        "PDF p2 Materials and Tissue preparation; p3 Diffusion experiment",
+        "PDF p3 Analytical methodology; p6 Discussion"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "step",
+      "extractionDiagnostic": "",
+      "extractedPages": 12,
+      "locators": [
+        "PDF p3 Trial design; p4 Procedures and Outcomes",
+        "PDF p5 Statistical analysis; p10 Discussion limitations"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true
+    },
+    {
+      "source": "tendon",
+      "extractionDiagnostic": "",
+      "extractedPages": 16,
+      "locators": [
+        "PDF p2 Study groups and randomization; p3 Figure 1 and assessor blinding",
+        "PDF p2 Study groups; p4 Histological and biomechanical analyses",
+        "PDF p3 assessor blinding; p4 Histological and biomechanical analyses",
+        "PDF p4 Histological and biomechanical analyses; p14 Discussion limitations",
+        "PDF p14 Discussion limitations"
+      ],
+      "readingScope": "selected methods/results/discussion pages; phase1 PDF3 and5 additionally visually inspected",
+      "notFullScientificApproval": true,
+      "correction": "Physical p14 limitations confirmed in actual original; p7 is TableI. V1 retained."
+    }
+  ],
+  "additionalVisuals": [
+    {
+      "source": "phase1",
+      "physicalPages": [
+        2,
+        3,
+        5
+      ],
+      "printedPages": [
+        8223,
+        8224,
+        8226
+      ],
+      "scope": "eligibility, saline-placebo identity, antibody screening/confirmation/titre and initially-positive then negative pattern; authors systematic-error interpretation not universal absence claim"
+    },
+    {
+      "source": "tendon",
+      "physicalPages": [
+        14
+      ],
+      "printedPages": [
+        835
+      ],
+      "scope": "actual limitations including healthy-rat generalizability, single assessment time and no clinical extrapolation; two V1wrongp7 locators corrected in activeV2 before application"
+    }
+  ],
+  "visualApprovalBound": "No scientific, numerical, human or release approval"
+}

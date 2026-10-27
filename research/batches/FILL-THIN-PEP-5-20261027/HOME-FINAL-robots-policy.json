@@ -1,0 +1,14 @@
+{
+  "http://127.0.0.1:8794": {
+    "url": "http://127.0.0.1:8794/robots.txt",
+    "status": 200,
+    "allowed": true,
+    "reason": "",
+    "sitemaps": [
+      "https://pepsanon.com/sitemap.xml"
+    ],
+    "delay": 0.25,
+    "final_url": "http://127.0.0.1:8794/robots.txt",
+    "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "authority": "ELON15:18 exactOptionA proposal9d26d97d",
+  "records": [
+    {
+      "slug": "biomarker",
+      "sectionId": "in-the-research",
+      "text": "The tirzepatide analysis used fasting samples from the clinical trial, with some lipid measurements obtained from fresh serum and additional apolipoprotein and particle measurements performed on available stored samples, preserving a distinction between the specimen sources and analytical procedures.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "biomarker",
+      "sectionId": "in-the-research",
+      "text": "The investigators measured lipoprotein particle concentrations and average particle sizes with nuclear magnetic resonance spectroscopy, so these endpoints characterize circulating particles rather than directly imaging atherosclerotic plaques or measuring the occurrence of cardiovascular events.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "biomarker",
+      "sectionId": "in-the-research",
+      "text": "The paper also measured circulating lipoprotein-lipase mass with an antibody-based assay, while its discussion explains why that circulating measurement does not fully represent enzyme activity at the tissue surfaces where lipid processing occurs.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p7 Discussion"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "biomarker",
+      "sectionId": "in-the-research",
+      "text": "The CJC-1295 trials provide a different example of blood-based measurements: the investigators analyzed the administered analogue separately from growth hormone and insulin-like growth factor, keeping drug exposure and hormonal responses as distinct laboratory questions in healthy adults.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Laboratory methods"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "biomarker",
+      "sectionId": "reading-the-evidence",
+      "text": "The tirzepatide authors describe the stored-sample work as a post hoc analysis and note that the original trial sample-size calculation might not fit the additional biomarker analyses, limiting how confidently those measurements can answer new questions.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "biomarker",
+      "sectionId": "reading-the-evidence",
+      "text": "They explain that static fasting measurements remain descriptive and call for kinetic studies, while their conclusion points to a planned outcomes trial for definitive cardiovascular-benefit evidence rather than treating the measured biomarkers as completed clinical-event evidence.",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations; p8 Conclusions"
+        }
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    },
+    {
+      "slug": "biomarker",
+      "sectionId": "reading-the-evidence",
+      "text": "The CJC-1295 authors likewise identify further studies of clinical utility as necessary, so a measured hormonal response in healthy volunteers should remain distinct from a demonstrated improvement in a patient's symptoms, function or disease outcome.",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+    }
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

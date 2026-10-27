@@ -1,0 +1,10 @@
+{
+  "http://127.0.0.1:8794": {
+    "url": "http://127.0.0.1:8794/robots.txt",
+    "status": null,
+    "allowed": false,
+    "reason": "robots unavailable: HTTPConnectionPool(host='127.0.0.1', port=8794): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8794): Failed to establish a new connection: [Errno 1] Operation not permitted\"))",
+    "sitemaps": [],
+    "delay": 0.25
+  }
+}

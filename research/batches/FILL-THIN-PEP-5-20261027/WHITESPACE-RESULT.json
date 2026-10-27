@@ -1,0 +1,23 @@
+{
+  "applicationWhitespaceCheck": "PASS",
+  "fullStagedWhitespaceCheckExitCode": 2,
+  "rawBuildLogWarningsRetained": 76,
+  "warningCountsByPath": {
+    "research/batches/FILL-THIN-PEP-5-20261027/BUILD-baseline.log": 19,
+    "research/batches/FILL-THIN-PEP-5-20261027/BUILD-final.log": 19,
+    "research/batches/FILL-THIN-PEP-5-20261027/BUILD-nine-v3.log": 19,
+    "research/batches/FILL-THIN-PEP-5-20261027/BUILD-nine.log": 19
+  },
+  "warningClasses": {
+    "trailing whitespace.": 72,
+    "new blank line at EOF.": 4
+  },
+  "newTextFilesWithCRLF": [],
+  "newCsvLineEndings": "LF",
+  "initialCheck": "78 warnings:76rawbuild plus2extra terminalblanklines introduced when copying own authority excerpts; two excerpt terminalblanklines removed; bridge itself untouched; initial private log retained.",
+  "rawWarningLogsPrivate": [
+    "work/fill-thin-pep-5/staged-whitespace-v1.log",
+    "work/fill-thin-pep-5/staged-whitespace.log"
+  ],
+  "noRewriteOfRawBuildLogs": true
+}

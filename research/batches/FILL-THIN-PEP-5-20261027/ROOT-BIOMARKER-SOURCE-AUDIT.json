@@ -1,0 +1,64 @@
+{
+  "at": "2026-10-27T13:23:41.143206+00:00",
+  "result": "PASS_BOUNDED_EXACT7_BIOMARKER_PARAGRAPHS",
+  "candidateSha256": "9df0e5643a1fc1dd8471e563d96b510cd29908e8c90a85284ea311bb6a40d82b",
+  "readingSha256": "c8d9d0240f02ee151d1b51e66a3b7c9ad47858dd9f8f2f2e86359bc5b2ed8408",
+  "authority": "ELON15:18OptionA exactrank82substitutesheld81home; home/appcomponentunchanged",
+  "rootBindings": [
+    {
+      "source": "cjc",
+      "file": "paper-68bd15da459b37ca.pdf",
+      "sha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+      "doi": "10.1210/jc.2005-1536",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "existingCanonicalObject": true,
+      "binding": "HELD_STUDY_ORIGINALS",
+      "rootOriginal": "/Users/kmfp/Documents/ChatGPT/Pepsanon.com/launch/study-reviews/batch-2-sources-2026-10-11/paper-68bd15da459b37ca.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/cjc.txt",
+      "rootTextSha256": "31c9010c869451f5a6545f143ad05d411787da5bbe4144a2ec57888b1c1c473e"
+    },
+    {
+      "source": "gip",
+      "file": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "sha256": "c5ab3c2bdb380d60d739a01ef78badafe2e08e549e6699fbebe01636736861ad",
+      "doi": "10.1111/dom.14174",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756479/",
+      "existingCanonicalObject": true,
+      "binding": "PRIMARY_PACKET",
+      "manifestEligibility": [
+        {
+          "filename": "The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+          "topic": "tirzepatide",
+          "tier": "PRIMARY",
+          "obtained": "y"
+        }
+      ],
+      "rootOriginal": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "rootFreshText": "work/conductor-source-review/pep5/gip.txt",
+      "rootTextSha256": "9d58cda1d55fe30d7b5c43f0f98ae94e7691ee785bcf93cd1fee3c47f04d0614"
+    }
+  ],
+  "rootSelectedPhysicalPagesRead": {
+    "gip": [
+      2,
+      7,
+      8
+    ],
+    "cjc": [
+      1,
+      2,
+      6
+    ]
+  },
+  "priorNineReceipt": "outputs/fill-thin-pep-5-root-source-audit.json",
+  "priorNineReceiptSha256": "61846298927d0615d67a6cc022351f4117b483433cf479f54c5906bc56c7c642",
+  "bounds": [
+    "GIPspecifictirzepatideT2Dphase2bfastingfreshserumTG/LDLenzymatic vsavailablefrozenEDTAplasma/serumapolipoprotein/particles. NMRparticleconcentration/size notplaqueimaging/CVevents. LPLpreheparinELISAmassnottissueenzymeactivity;discussionlackcorrelation/descriptiveposthoc/staticlimits/sample-sizecalculationnotdesignedadditionalbiomarkers. PlannedCVOTasreporthistoricalnotcurrentbenefitevidence.",
+    "CJCspecificalbuminbindinganaloguehealthyscreenedadults/trials,GHserumRIA/IGFserumRIA distinctplasmaCJCassay. CJCassaycrossreactivityspecificationnotallgenericpeptides. Hormonalresponsesnotdiseasesymptoms/function/clinicalutility;authorsfuturepatients/longertherapeuticefficacysafetystudies. No doseintervalrecommendation/druginterchangeability/newquantities.",
+    "Exact7source-linkedqualitativeparagraphs supportedinscope; no newcanonicalsource/definition/renderer/homeedit. Previous63V3boundseparately; final70application/build/mobilemustbereverified. No blanketauthorizationtootherpages/sourcecorpus/currentintegrity."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "newGrade": 0,
+  "releaseApproval": false
+}

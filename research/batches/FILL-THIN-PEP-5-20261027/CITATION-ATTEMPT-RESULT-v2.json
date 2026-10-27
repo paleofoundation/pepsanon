@@ -1,0 +1,291 @@
+{
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "attempts": {
+    "tripeptide": {
+      "hits": [
+        {
+          "source": "skin",
+          "pdfPage": 1,
+          "matchedLineCount": 5
+        },
+        {
+          "source": "skin",
+          "pdfPage": 2,
+          "matchedLineCount": 5
+        },
+        {
+          "source": "skin",
+          "pdfPage": 3,
+          "matchedLineCount": 3
+        },
+        {
+          "source": "skin",
+          "pdfPage": 4,
+          "matchedLineCount": 4
+        },
+        {
+          "source": "skin",
+          "pdfPage": 5,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "skin",
+          "pdfPage": 6,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "skin",
+          "pdfPage": 7,
+          "matchedLineCount": 4
+        }
+      ],
+      "decision": "NO_NEW_CITATION_APPLIED",
+      "reason": "Existing statements concern the GHK copper-complex excised-skin experiment. No additional inspected existing canonical original independently establishes those experiment-specific statements; do not cite another peptide for numerical composition or intact transport."
+    },
+    "oral": {
+      "hits": [
+        {
+          "source": "bpcpk",
+          "pdfPage": 14,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "step",
+          "pdfPage": 1,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "step",
+          "pdfPage": 11,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "step",
+          "pdfPage": 12,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "tendon",
+          "pdfPage": 13,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "tendon",
+          "pdfPage": 15,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 1,
+          "matchedLineCount": 2
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 2,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 3,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 4,
+          "matchedLineCount": 3
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 5,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 8,
+          "matchedLineCount": 4
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 9,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 10,
+          "matchedLineCount": 5
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 11,
+          "matchedLineCount": 5
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 12,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "collagen",
+          "pdfPage": 13,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "phase1",
+          "pdfPage": 2,
+          "matchedLineCount": 1
+        },
+        {
+          "source": "skin",
+          "pdfPage": 6,
+          "matchedLineCount": 2
+        },
+        {
+          "source": "fibro",
+          "pdfPage": 11,
+          "matchedLineCount": 1
+        }
+      ],
+      "decision": "NO_NEW_CITATION_APPLIED",
+      "reason": "Existing prose concerns the specific collagen beverage crossover and its plasma amino-acid endpoints. Other route references describe different products and do not independently support the collagen-specific statements. No new generic sentence or padding is added."
+    },
+    "receptor-agonist": {
+      "hits": [
+        {
+          "source": "bpcpk",
+          "pdfPage": 16,
+          "matchedLineCount": 2
+        },
+        {
+          "source": "step",
+          "pdfPage": 1,
+          "matchedLineCount": 2
+        },
+        {
+          "source": "step",
+          "pdfPage": 2,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "step",
+          "pdfPage": 3,
+          "matchedLineCount": 3
+        },
+        {
+          "source": "step",
+          "pdfPage": 4,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "step",
+          "pdfPage": 5,
+          "matchedLineCount": 2
+        },
+        {
+          "source": "step",
+          "pdfPage": 6,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "step",
+          "pdfPage": 7,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "step",
+          "pdfPage": 8,
+          "matchedLineCount": 5
+        },
+        {
+          "source": "step",
+          "pdfPage": 9,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "step",
+          "pdfPage": 10,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "step",
+          "pdfPage": 12,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 1,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 2,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 3,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 4,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 5,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 6,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 7,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 8,
+          "matchedLineCount": 6
+        },
+        {
+          "source": "gip",
+          "pdfPage": 9,
+          "matchedLineCount": 6
+        }
+      ],
+      "decision": "NO_NEW_CITATION_APPLIED",
+      "reason": "Existing prose describes the tirzepatide stored-sample biomarker analysis and its particular limitations. Semaglutide targets GLP-1 but is a distinct intervention and does not independently support those tirzepatide-specific observations. Do not add a cross-drug corroboration."
+    }
+  },
+  "priorProseUnchanged": true,
+  "addedCitations": 0,
+  "scienceApproval": false,
+  "privateSearchExcerptState": "Raw source snippets retained privately, not committed or hosted.",
+  "measuredUnchangedFlags": [
+    {
+      "url": "https://pepsanon.com/glossary/oral",
+      "words": 459,
+      "citations": 2,
+      "thin": "yes",
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/receptor-agonist",
+      "words": 471,
+      "citations": 2,
+      "thin": "yes",
+      "thin_reasons": "claims_with_2_citations"
+    },
+    {
+      "url": "https://pepsanon.com/glossary/tripeptide",
+      "words": 445,
+      "citations": 2,
+      "thin": "yes",
+      "thin_reasons": "claims_with_2_citations"
+    }
+  ],
+  "noThinFlagWaiver": true
+}

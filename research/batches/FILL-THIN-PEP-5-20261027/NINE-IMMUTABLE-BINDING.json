@@ -1,0 +1,17 @@
+{
+  "canonicalDataSha256": "e84cf2147a0fae17797c0adef2b998acdb86e5402fe7abce89fb5ad89dcc9c35",
+  "candidateSha256": "743781347c3a6b02a8924a62173f01bd5593832740e335a70cb26ec0ef88e9c3",
+  "records": {
+    "collagen": "cf179849eacf38aa70558af0369511fa972f5fdcf4ca7afcf44671d8a0c4d830",
+    "control-group": "b7416f7c1a4b0e40256ac66a5314c47d02afce399d29a2b37d417dcfd5db48bd",
+    "glp-1": "c559a2cacd4c02196a01a41c91f00e4b63139a5c1f9283ef7d4586de43497a54",
+    "immunogenicity": "f8b668fc9413c390814eba46a583e24efdb58b2de1dda97f5a318959098e989c",
+    "intravenous": "09730120cb484b0de2acc214275a0eefabaf49b7bdf2bc61dd41dddb39df3e87",
+    "placebo": "3519d5e9a520525dec2446e594ed60811b39cacbb811d896df2d2d74301ef35d",
+    "preclinical": "6053cb8be202d489db88b1e0c33d6f4af678c6b98c4521f0522538a445f85bd8",
+    "randomized-controlled-trial": "bc2577bbb620fa7c61e5dbbf476388b749bb13eae5e8a630b1dd3f401aded0e2",
+    "route-of-administration": "592fa4ab2cbf3d36baf5de2d213384a10720af7c115468f152d551d0a16b70b4"
+  },
+  "renderedCheckpointSha256": "c9c7e387e372d1ec4c3eb887b6da94a57d54d1f9dc93b10b77c2f1e4471bbb4e",
+  "state": "NINE_STABLE_PRE_REPLACEMENT_AUDIT_BINDING"
+}

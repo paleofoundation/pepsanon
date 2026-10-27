@@ -1,0 +1,14 @@
+{
+  "state": "APPLICATION_CHECKPOINT_ONLY_NOT_SEALED",
+  "candidate": "ADDITIONS-v2-NINE-UNAPPLIED.json",
+  "sourceAudit": "PENDING_ROOT_INDEPENDENT_RECEIPT",
+  "mobile": "PENDING_ROOT_RECEIPT",
+  "selectionGate": "PENDING_HOME_SCOPE_OR_EXACT_SUBSTITUTE",
+  "publicApplication": "Nine existing glossary objects only; no tenth substitute or homepage edit",
+  "firstIndexCommit": "c1e7e7e5a22b4820ae874ac121f9eeb7a8b107f1",
+  "noPushYet": true,
+  "noPRYet": true,
+  "baselineInitialDefaultSandboxFailure": "Robots GET blocked EPERM; fail closed, preserved failure. Authorized escalated loopback rerun complete61. Analyzer and wrapper unchanged.",
+  "allPriorPacketFiles": "235 exact",
+  "noClaimOfWholeDocumentHtmlIdentity": "54article subtrees exact after index patch; full54documents differ in assetchunkURL, exactfirstfragment recorded, no normalization."
+}

@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "candidateSha256": "ee03b87f34ce25ba8bdbfbd1987149e39c6ebfcaac3294dbad52013a8b3b21e3",
+  "nineV3CanonicalObjectHashesExact": {
+    "collagen": "cf179849eacf38aa70558af0369511fa972f5fdcf4ca7afcf44671d8a0c4d830",
+    "control-group": "b7416f7c1a4b0e40256ac66a5314c47d02afce399d29a2b37d417dcfd5db48bd",
+    "glp-1": "d5e44e75749b78a1492ab706585c1099d2f501fbbfe175d5e6f844b8a6bffe40",
+    "immunogenicity": "f8b668fc9413c390814eba46a583e24efdb58b2de1dda97f5a318959098e989c",
+    "intravenous": "09730120cb484b0de2acc214275a0eefabaf49b7bdf2bc61dd41dddb39df3e87",
+    "placebo": "3519d5e9a520525dec2446e594ed60811b39cacbb811d896df2d2d74301ef35d",
+    "preclinical": "6053cb8be202d489db88b1e0c33d6f4af678c6b98c4521f0522538a445f85bd8",
+    "randomized-controlled-trial": "bc2577bbb620fa7c61e5dbbf476388b749bb13eae5e8a630b1dd3f401aded0e2",
+    "route-of-administration": "592fa4ab2cbf3d36baf5de2d213384a10720af7c115468f152d551d0a16b70b4"
+  },
+  "first63RowsExact": true,
+  "last7ExactBiomarkerCandidate": true,
+  "canonicalSha256": "537d98c512e1bfd3fd2e79fbeaceaae87b0a17400fb5562dd5af1104e4fb5a81",
+  "sourceReceipts": [
+    "61846298927d0615d67a6cc022351f4117b483433cf479f54c5906bc56c7c642",
+    "6879ac6f88abd48b14394039ad159de8cc4614e57022b3ab3961d6c1a97d17b0"
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "status": "PASS",
+  "base": "f95b72672fedfe09fdb2937a082022b1302768ac",
+  "selected": [
+    "biomarker",
+    "collagen",
+    "control-group",
+    "glp-1",
+    "immunogenicity",
+    "intravenous",
+    "placebo",
+    "preclinical",
+    "randomized-controlled-trial",
+    "route-of-administration"
+  ],
+  "prior40AndOutside44RawObjectsExact": [
+    {
+      "slug": "absorption",
+      "rawSha256": "fa27e4f2c5b0f31ed17e107036458444080b0cb6473fbd19421583ea7fc7ed34"
+    },
+    {
+      "slug": "adverse-event",
+      "rawSha256": "ff867102b6eb48a5817cc177591b61301228218b3782bae947e477b785f7fdf1"
+    },
+    {
+      "slug": "amino-acid",
+      "rawSha256": "afb889ee0951cc18292f599a03ea9a125f026491ad72415a7e9b06fa559057a9"
+    },
+    {
+      "slug": "auc",
+      "rawSha256": "2fcc45ac3753879105e317d73ca6a6620563a6719e4474230eba16d25ee3d543"
+    },
+    {
+      "slug": "baseline",
+      "rawSha256": "23c0da449ecf0839bad384602818c56cf5a495dbf700ff55bdee303fc95c575f"
+    },
+    {
+      "slug": "bioavailability",
+      "rawSha256": "f8c4202637c0d58e78696d67d1d197921b7cc62cdc63ce88ba36f92a1f8ba748"
+    },
+    {
+      "slug": "biomechanical-testing",
+      "rawSha256": "009d51f0fc928f9c054f8e02585d2bfdf76580fd8922bc590499bfbd66b8a8c2"
+    },
+    {
+      "slug": "blinding",
+      "rawSha256": "5f3559ec73c7489e6be222d765a597d706cdffcc936b24a72c55d7391c5e74f3"
+    },
+    {
+      "slug": "case-series",
+      "rawSha256": "279f5c2372e201d862c2de202e3fa45a1f01f083c54c209c1834731b73dd6ff0"
+    },
+    {
+      "slug": "endotoxin",
+      "rawSha256": "66ef6b108cf67887abb162bc2fff0d5c1f293edffa0f724d97ae11ad1b64044a"
+    },
+    {
+      "slug": "endpoint",
+      "rawSha256": "9103e6615b3ad05680c2fe309136be7a8d064237a203455fccb733f8475e06f4"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "rawSha256": "2768a61f67e44808317c6bc4145da45d4f8b5f0c77639584c639c881480492fc"
+    },
+    {
+      "slug": "fibroblast",
+      "rawSha256": "45dba7d7dc385fded4f505a2de401aa6f46ab349484fc7c17838fc906237f2fd"
+    },
+    {
+      "slug": "formulation",
+      "rawSha256": "21b8bb1bb12083dd3c745d88642e1f57b04fc91f352c3588dd3746cb9fbc214f"
+    },
+    {
+      "slug": "gip",
+      "rawSha256": "b15b8d860109496e08ac5476de35aefd32b99eaf36ec0d6f206e5d705f60ff3a"
+    },
+    {
+      "slug": "growth-hormone",
+      "rawSha256": "f4502223a641ed74d76b90fb065698915546d1955da056c19df065f0d347de18"
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "rawSha256": "6e6e533285fe2418477695e0c98252b4ed48109d95fd27cfa8d4f1d5402f2511"
+    },
+    {
+      "slug": "ghrh",
+      "rawSha256": "091c5c795ce718be418e8487516d63f0b21bb93705a8cf53339b8f5273c9c7df"
+    },
+    {
+      "slug": "half-life",
+      "rawSha256": "1894aefd024be6e5617a580f7a897bc3d057f9f5dc0666bfbeb0c784ae59eb04"
+    },
+    {
+      "slug": "histology",
+      "rawSha256": "bdf80f3fbe9890d56c0541793b74c4a50d910ad8cab3f4134b5d498b1c26d661"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "rawSha256": "47165b45f115ccb048806cfeb1304ea4a5a24806d7fb17a8168e4a7e553b75cb"
+    },
+    {
+      "slug": "in-vitro",
+      "rawSha256": "68e76f9c0715a2eb3a888c440bb08e62b7d39e42283a3ff54ef5319ca989d020"
+    },
+    {
+      "slug": "in-vivo",
+      "rawSha256": "64c3813057a8f99d4b1f4d8806f45d5c42d570db1d4c7b15be682b770506438e"
+    },
+    {
+      "slug": "igf-1",
+      "rawSha256": "46fc40a34264d19debf67918ec9098a9c888ad30ee138dbeeb8193ed65a30b47"
+    },
+    {
+      "slug": "intra-articular",
+      "rawSha256": "b6b25968a84bebc727ddda819d63e7673c461878f7dc1596ac57825c54133c16"
+    },
+    {
+      "slug": "intramuscular",
+      "rawSha256": "d49f05e4840582056a2f1f8002a46a280c162144c8fdc46fb77e19f31537d516"
+    },
+    {
+      "slug": "metabolism",
+      "rawSha256": "3470f755168849bdd6395d0889207eba5ea8748b12ebaee999d50fb6ace190f2"
+    },
+    {
+      "slug": "oral",
+      "rawSha256": "5c4c18cbebd5dac8c650a8a7d5348527f13d59b26bafcfc8bd3af0c43ce6cf65"
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "rawSha256": "5f86565e0dbc9f28979f64f60673d692e14f50f8c6a4fc9f7ef95c80090b3929"
+    },
+    {
+      "slug": "cmax",
+      "rawSha256": "7ab4f7a0e6e3eac36a86b321990a784f7dc7a868699f9fa3f6cb678495c1ff8b"
+    },
+    {
+      "slug": "pentadecapeptide",
+      "rawSha256": "4487402b9decc6165051d4c6a80c47071e8c3af67619250d3392a32401a827ba"
+    },
+    {
+      "slug": "peptide",
+      "rawSha256": "65060634e509419199f52a20bea0eb6a3edfb0fe147979d87a7ba317cfae40ab"
+    },
+    {
+      "slug": "pharmacodynamics",
+      "rawSha256": "29c137100f22b65f5987785094fe43c791d71b694a287ebe04b1948fa561e345"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "rawSha256": "fcca1450eb53ae65f14dbd0b944d882e8049e9ef0796a72dd88dd9526660ad3c"
+    },
+    {
+      "slug": "purity",
+      "rawSha256": "89393c180a9b1a7b67d5c42544f070b08b73c66853f520c26524277a676617ef"
+    },
+    {
+      "slug": "receptor",
+      "rawSha256": "88a52b3297616228f3b19104b97170a6060649080591d097741f9131e0e57458"
+    },
+    {
+      "slug": "receptor-agonist",
+      "rawSha256": "79620915f6eaf63df82c62e0dfc51919926ead5c559179eb83714ecdc2aa08e5"
+    },
+    {
+      "slug": "retrospective-study",
+      "rawSha256": "5eb884a96e2bd7ca29dbc7af0672f0f6bc150dfc8a7c8ecf9a6b27314ba209fd"
+    },
+    {
+      "slug": "sterility",
+      "rawSha256": "6cce755a4ac25f705bac2b3afeea51a799fdd949cc76398d5e061439dc3ea8de"
+    },
+    {
+      "slug": "subcutaneous",
+      "rawSha256": "7da21a092ac19ff07be3abf68216331a1a987d66dace3c6f77b2ea5d8f278f62"
+    },
+    {
+      "slug": "tmax",
+      "rawSha256": "9f5574a2417bd105325a974ee49998865cb24483d19f4a6fc23c620a8e06ef3c"
+    },
+    {
+      "slug": "topical",
+      "rawSha256": "70f9636c0a9b7ea4d6607ae376f624e69674baa49062428a294cdf8ab39c0810"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "rawSha256": "7436b2fe56bc1c991643485fe219043e2fc9f857632674b30d4c21bea75d3481"
+    },
+    {
+      "slug": "tripeptide",
+      "rawSha256": "9267f649804d2bde2640320d6b7ead16a340382c1ecaba249780a7a1a79c720b"
+    }
+  ],
+  "all16SourceObjectsExact": [
+    {
+      "id": "bpcpk",
+      "rawSha256": "fdf09881cf1db4b860836230f29b9eb081cf46247a5a14a862593dddfa730d28"
+    },
+    {
+      "id": "fibro",
+      "rawSha256": "8fa3fd6397181dad0053e5efec0ff0fe3dff358322f91bc8cd351201d895c199"
+    },
+    {
+      "id": "eye",
+      "rawSha256": "04cc917a1a44c211cc83a704c7c2788089209a0b6ecca16af77169d7ad3f57d3"
+    },
+    {
+      "id": "knee",
+      "rawSha256": "c052ef8985b27aed13abd368149ada56d24a79ac5cd50f85bdc5a3c8579c0068"
+    },
+    {
+      "id": "tendon",
+      "rawSha256": "45834c41483865b50b19fe105e95e3ea80f08787251a8c94fa91e33baa12b703"
+    },
+    {
+      "id": "collagen",
+      "rawSha256": "b592537771fa10e6ba22dedea630bb4d762248eaa40a292bff07bc966d3defa8"
+    },
+    {
+      "id": "skin",
+      "rawSha256": "df7ad761414a827573323628218658a9a468e8e0a7747fc5095a8c76c33990d9"
+    },
+    {
+      "id": "cjc",
+      "rawSha256": "90cef996a5223af0f929bd49ed79d1fecd2776b56513a4f9bff1f0755b735b1e"
+    },
+    {
+      "id": "ipa",
+      "rawSha256": "1ad0f9228e7c9c2362ad0212ba398e18e460ecb8af8877ce7645f57131d00e76"
+    },
+    {
+      "id": "step",
+      "rawSha256": "67606b3ee180e4a781b964fd4fef86158dfa23266b6b0893a84abde488977705"
+    },
+    {
+      "id": "gip",
+      "rawSha256": "246a8db96262bbedc326284a0510705382b50a489361f37f00235af716d779bd"
+    },
+    {
+      "id": "phase1",
+      "rawSha256": "96fb11bc87a1125228ff681f6fcc569703eb6f0a646dfdc41ef18514150a5f59"
+    },
+    {
+      "id": "quality",
+      "rawSha256": "f83e951cbb987e1a711beee97ce1ef83d10e55db141671ca45313e011f2a7202"
+    },
+    {
+      "id": "consort",
+      "rawSha256": "8d022564b5f54d43b1099952fa002aee3bd4dc346bb33f9e18ec573386974d66"
+    },
+    {
+      "id": "immune",
+      "rawSha256": "886e297fcf64604cda6b37c21cd0607b6836561a919fe1c1149cd2dff2782113"
+    },
+    {
+      "id": "manufacturing",
+      "rawSha256": "5cc7e800ee9280fce9689749f951cd3b281f9be32eb3ecfcedfb76952ff2de16"
+    }
+  ],
+  "prior235FilesExact": {
+    "research/batches/FILL-THIN-PEP-1-20261027/ADDITIONS-v1.json": "f4ff8fe36355e5d98c5719812a3f7262ffa4fb4fa662f81834ff4862d60f1f89",
+    "research/batches/FILL-THIN-PEP-1-20261027/ADDITIONS-v2.json": "f11d692c79a68169cb1fda218b41656ba8a63da13a733e1ceb4bb2361a3d1483",
+    "research/batches/FILL-THIN-PEP-1-20261027/APPLICATION-DIFF.json": "33f7c72a5a967d0cadf9469881a88bd8964d9b3f902105026c8ca090e51b349e",
+    "research/batches/FILL-THIN-PEP-1-20261027/AUDIT-RUNTIME.json": "a0d7e4a60c68dab292eb79dbd9086e236c0f88e4bc2c9b919fa1bdfa2d967c89",
+    "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-pages.json": "ccf928a3d02e60f312726748ba166735822f1883d3951f24a93d97e304c59d15",
+    "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-requests.jsonl": "eb7358dfdb71a2dbb105cfb5353f0b8cc9fdedebdd5ef1aa7eddcc655e1d6e0a",
+    "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-robots.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-run.json": "d5763900ebe5f25390d7ca90b6f1fa0581865ff906262515d8bda3cea6207741",
+    "research/batches/FILL-THIN-PEP-1-20261027/BUILD-final.log": "9900920082fbddb390b798c8fb6738b7c26d68bc4283568cac2a2f6ec598b5b8",
+    "research/batches/FILL-THIN-PEP-1-20261027/CITATION-CHECK.log": "1285a8127db43896627c6e6a61dae1a611a2a38a87c1d1d89c4008a1d5e536dd",
+    "research/batches/FILL-THIN-PEP-1-20261027/COMPARISON-before-locator-final.csv": "15b6de829eeddb6ac86fe98457162fa2416dbfd4b273f8a7b5acf58351da4bfe",
+    "research/batches/FILL-THIN-PEP-1-20261027/COMPARISON-final.csv": "2932152b1f74f622b3b9186760db14fed167cdd1e08cbce32d6f8b69d36ec78f",
+    "research/batches/FILL-THIN-PEP-1-20261027/DETERMINISM.json": "09010a8e6a5c09e347008c3d89f585488cebfec226ff7be0dbedb763ceb252c0",
+    "research/batches/FILL-THIN-PEP-1-20261027/FINAL-pages.csv": "b98f5ff6291f04ead29642afc905e48c42a756c590138160529cfc14daadf6ab",
+    "research/batches/FILL-THIN-PEP-1-20261027/FINAL-pages.json": "c83f557d362fbaf89410041742817ce76e29bcc610b94e4eef680ea87a40ff49",
+    "research/batches/FILL-THIN-PEP-1-20261027/FINAL-requests.jsonl": "dbdf9713a518093d5a77bccdbe90c44ab2b2a45b8020acdbf0db9ec65e68a070",
+    "research/batches/FILL-THIN-PEP-1-20261027/FINAL-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-1-20261027/FINAL-robots.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-1-20261027/FINAL-run.json": "d5763900ebe5f25390d7ca90b6f1fa0581865ff906262515d8bda3cea6207741",
+    "research/batches/FILL-THIN-PEP-1-20261027/GATE-PROOF-v2.json": "33e52e1a1f81aa30a8f588837c32e8890e891c091176d120452e0d6e0e4fa112",
+    "research/batches/FILL-THIN-PEP-1-20261027/GATE-PROPOSAL-v2.md": "3f33c90856875a3104b39107644a0529b2ec4321adfc2832c1d1d293bf777535",
+    "research/batches/FILL-THIN-PEP-1-20261027/GATE-PROPOSAL.md": "6e363c838cd6329dfda13fc9c5cbdb0e66004898710943972531206e18fa6e37",
+    "research/batches/FILL-THIN-PEP-1-20261027/LOCATOR-CORRECTION.json": "bbf935373c9c1b77ee89197d2a2bbf66b36617fd0d9feede328345b9622e00bc",
+    "research/batches/FILL-THIN-PEP-1-20261027/PAGE-LOCATOR-AUDIT.json": "e82d7bbef309bff3b715c5673668ac8e47e3b52945b18ddea2bdac435a23112c",
+    "research/batches/FILL-THIN-PEP-1-20261027/PLAN-active-v2.md": "1e0c8df9eaa5b7cfa72b33ce5d5f423ee9a16631c1b0524628503d3bc57c944d",
+    "research/batches/FILL-THIN-PEP-1-20261027/PLAN-active-v3.md": "4792bc5aacba78e5bc8449d96dcd1c7a093af4728fece04c495ffcedd2e59d54",
+    "research/batches/FILL-THIN-PEP-1-20261027/PLAN.md": "e1b239f2cab2f739b32984e7358f6b4e9a274960de8b29dba3969b6e180bc0af",
+    "research/batches/FILL-THIN-PEP-1-20261027/PRESERVATION.json": "f51c48424935188849da0cea19606cbf6ffec14bb6f74f0c1c34e90c70ae8e0f",
+    "research/batches/FILL-THIN-PEP-1-20261027/RANKED-HISTORICAL.csv": "f8b97c447bb4c0a191e6ab5eb11a68d5d90811077c58b1d20611d77e15d37898",
+    "research/batches/FILL-THIN-PEP-1-20261027/READINESS-active-v2.json": "86dd35fb635b68f1904656119476b9ca27788f51bfe173456bc11b11ce51409e",
+    "research/batches/FILL-THIN-PEP-1-20261027/READINESS-active-v3.json": "694ba4e6f3f43dedf59e426b86b18f3fd94ce57901b297911014c8ef0c497730",
+    "research/batches/FILL-THIN-PEP-1-20261027/READINESS-v1.json": "7253f94d0daea7468e0700cc11f41a7f8adddbe55e88e0bf3cc5114d9c68f57e",
+    "research/batches/FILL-THIN-PEP-1-20261027/RENDERED-CHECK.json": "262b0bc0d78f7426846d1744795f99082bc0cbbe07db8284dc58c37930e7c7a9",
+    "research/batches/FILL-THIN-PEP-1-20261027/RENDERED-before-tooltip-grant.json": "bc8e2c80ea66984e8cec75e1f2d34abc5782d54a50627903416536082bcb6aeb",
+    "research/batches/FILL-THIN-PEP-1-20261027/REPORT.md": "38bd92dda45905cbd28c3d33e676a7f154411a2b4cf197da8e57426b5887ae12",
+    "research/batches/FILL-THIN-PEP-1-20261027/ROOT-BROWSER-FINAL.json": "caa8b993e274f01383466cbaf7bfdfef2cacdf5393547edcfef49b198f4af1f0",
+    "research/batches/FILL-THIN-PEP-1-20261027/ROOT-BROWSER-before-locator-tooltip-fixes.json": "365b63c2fdf7099f7da1bfb50714ecf2070eff9b41d9455c76f25fe1d66094ab",
+    "research/batches/FILL-THIN-PEP-1-20261027/ROOT-SOURCE-AUDIT-v2.json": "a31b8c0c576f705337918ac81d8f3a4be1c806e8232611fe37a1a450d54d31dc",
+    "research/batches/FILL-THIN-PEP-1-20261027/SELECTION-v1.json": "7af61fb447bbede08ac1ee83fbd09ec1ea031d6f3642636994e6cd48b9f2780f",
+    "research/batches/FILL-THIN-PEP-1-20261027/SELECTION-v3-GRANTED.json": "c3b22a24b65339da617843869019dd8c0150d314fd9dcaaa755a5059f059cd4c",
+    "research/batches/FILL-THIN-PEP-1-20261027/SHA256SUMS": "8df94bc8a71c91449cc7c660c3c2a01bffe14da4128cbdfece26af6e193475c4",
+    "research/batches/FILL-THIN-PEP-1-20261027/SKIPPED-POLICY.json": "79ce2588e4414ca8e985421b015a1f90d15734e41481bda1ff7f09f4f99aa20a",
+    "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-INPUTS-v2.json": "2da9fa57a27faa2f4109354eb21cfe87d36083425a8c35d9235c97b315909ac9",
+    "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-INPUTS.json": "0436c218e4b22b757efb86c8f6eecd8ae97a23a2e8fe4300ccfdf7bda365135f",
+    "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-READING-v2.json": "1e8d1ae7fb6bb717a628ff626323b46954313deee88e827eafd334d407c50c4e",
+    "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-READING.json": "fec5dbc3b02ad0ee2d47263deef46e91eb2e1a191d4d3d1a015c078f083f3c90",
+    "research/batches/FILL-THIN-PEP-1-20261027/STRICT-TITLE-CHECK-FAILURE.log": "fbcbc0f0c1af3b051e2aab0e3faf4405f82ccad0f241bd8dd9000d712ca8f669",
+    "research/batches/FILL-THIN-PEP-1-20261027/TOOLTIP-GRANTED-FINAL.json": "6c464e4c4830cea75ad7f2169c9bd36554e4514dde6702ae45f217a116651470",
+    "research/batches/FILL-THIN-PEP-1-20261027/TOOLTIP-STRICT-FAILURE.json": "74f5a7b7dee0a9c03f12304b8945ccfb46eedf527bffe7c73929e613515cce17",
+    "research/batches/FILL-THIN-PEP-1-20261027/TYPECHECK.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "research/batches/FILL-THIN-PEP-1-20261027/UNAPPLIED-tooltip-separator.patch": "6f674112a6faba815d3c64c9d670d6f801514cd654fe79bf6b9607a31549f07c",
+    "research/batches/FILL-THIN-PEP-1-20261027/apply_additions.py": "21da091f848109c6cc8b5251b1df655f7379528afc50558a279c66b0676ab7bd",
+    "research/batches/FILL-THIN-PEP-1-20261027/audit_pages.py": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7",
+    "research/batches/FILL-THIN-PEP-1-20261027/check-rendered-before-tooltip-grant.py": "c08ccfceb95748043203a806d45cecd159df8248f33bbe4a0f704dd3bd2d8b69",
+    "research/batches/FILL-THIN-PEP-1-20261027/check-rendered-strict-initial.py": "8311db193c013ba049295cc544b4d457c8014d067d63f1f68e7c241e73d8185e",
+    "research/batches/FILL-THIN-PEP-1-20261027/check-rendered.py": "aa4db3d782b6506a3d87d505f6e8af91ae57685dfd52b5e5b7190158f51ae463",
+    "research/batches/FILL-THIN-PEP-1-20261027/thin_audit.py": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+    "research/batches/FILL-THIN-PEP-1-20261027/verify.py": "22d8381fa762c6dd73773afd80cc68f71a9c9f7fa1508d1dbe2f256e0e6bfe21",
+    "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v1-UNAPPLIED.json": "33cb8ee711d5075fce729db02962c1357758c001173e277c2a4c8d57c4d7e8d2",
+    "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v2-UNAPPLIED.json": "05d8ad81d4cd7b0a79056bac38fd12f93b9170d37312fcad63ed226d37bba3f9",
+    "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v3.json": "441055a0b73e98f4ff8ebb4244377242d0ca7578d4ca0d07dd0b2b07b37feb09",
+    "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v4.json": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5",
+    "research/batches/FILL-THIN-PEP-2-20261027/APPLICATION-DIFF.json": "9079d8c5778ea6e39b52ecca331917144ad40da43e23411659b60a86edb2a04b",
+    "research/batches/FILL-THIN-PEP-2-20261027/AUTHORITY.json": "39c1ca9a39ee20f141466bb3a9882cbee7ec8a9dc8060ebe20133169af9712ee",
+    "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-pages.json": "084e322afd21e6ecce4149a95ea01f2caa1e4f8b6c5f630a0d1fcb54294d13f0",
+    "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-requests.jsonl": "12303b61459f191bcb0357c5f12ab4f4bfe78d8cbe362a7f66c6089d7a9c5812",
+    "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-robots.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-run.json": "122b5dbaf9af410e1903acf6fe53d5df2d5d9e40618af98d1b64831d91e89abd",
+    "research/batches/FILL-THIN-PEP-2-20261027/BUILD-baseline.log": "94ff549522ed418a4acf116aaaf24a5f654cb160500c3abc82c935c42e5ee55f",
+    "research/batches/FILL-THIN-PEP-2-20261027/BUILD-final-corrected.log": "a4e5b6bde8f9282f941f2a0dbed7504cc04aaa39dc0febf760418647b7925a23",
+    "research/batches/FILL-THIN-PEP-2-20261027/BUILD-final.log": "dc36e7877e8ded4a24e1931f6d24c8721ef3c3547bcfb10f158b250d7e400fbd",
+    "research/batches/FILL-THIN-PEP-2-20261027/CITATION-CHECK.log": "1285a8127db43896627c6e6a61dae1a611a2a38a87c1d1d89c4008a1d5e536dd",
+    "research/batches/FILL-THIN-PEP-2-20261027/COMPARISON-final.csv": "0921d6a50c6bb8d8deb7443869ab62773ff3234cf88f305204d742098af03402",
+    "research/batches/FILL-THIN-PEP-2-20261027/DETERMINISM.json": "08d28cc256b37c0609502814e7e12d25d2a3ff41f1a37e85e26d23620f98bca8",
+    "research/batches/FILL-THIN-PEP-2-20261027/FINAL-pages.json": "cc4b3c51371898eb64a0064b06471753249a02a0707d3234534f27cac6e9a10b",
+    "research/batches/FILL-THIN-PEP-2-20261027/FINAL-requests.jsonl": "9d7c77d3124b3c7ef18ca11ee4e8214841d807b46c50830a538d539bb45e9042",
+    "research/batches/FILL-THIN-PEP-2-20261027/FINAL-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-2-20261027/FINAL-robots.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-2-20261027/FINAL-run.json": "122b5dbaf9af410e1903acf6fe53d5df2d5d9e40618af98d1b64831d91e89abd",
+    "research/batches/FILL-THIN-PEP-2-20261027/FROZEN-BASELINE.json": "b8374ec71c3d2f9ba059dab5cc8445768e38591d32670181cf530fd5ccb93802",
+    "research/batches/FILL-THIN-PEP-2-20261027/GATE-PROPOSAL-v1.md": "8a8da8b72663a67e57bb3f2566c79d3a29d32847698839f11f5c962002b47d22",
+    "research/batches/FILL-THIN-PEP-2-20261027/LOCATOR-CORRECTION.json": "71d8e7ad3c576c2f848368f6b0759de389fddda931e421adc93d4b44f875d1fc",
+    "research/batches/FILL-THIN-PEP-2-20261027/PLAN-active-v2.md": "532898f148fa6a567d3afb3e7306f8fc966683b8f4f7487b78fdfd952e15abb3",
+    "research/batches/FILL-THIN-PEP-2-20261027/PLAN-v1.md": "451c9513c32975fd01bfd77fe9519a3572bc93dd861f0f1dd4d04cb0d7bcfe07",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-DETERMINISM.json": "434186b221f906812854db2aa59974bf24dcecb68934b900d56a870f3644c737",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-pages.json": "49e39969fb699f7aa917d7807b3da7222be55e37cfa25f9a42208a2fab7f94d5",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-requests.jsonl": "db71e13fdaa13a659e87263111c8e6be6f6e0d01b4958344f7e72f90b5bde614",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-run.json": "122b5dbaf9af410e1903acf6fe53d5df2d5d9e40618af98d1b64831d91e89abd",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-RENDERED-CHECK.json": "a15aa9fda0d7895af6f2cb3acc91e2681a564feed86edda109ec938191ab16c2",
+    "research/batches/FILL-THIN-PEP-2-20261027/PRESERVATION.json": "9a85fed035a8f87316b5eae330c4ef880d282830ec5275e087c224555c914444",
+    "research/batches/FILL-THIN-PEP-2-20261027/READINESS-final-v4.json": "0767d2a65bb2e0b4cd57da7f3bc1e227ac9abfce287f0543d22e3166db2f9644",
+    "research/batches/FILL-THIN-PEP-2-20261027/READINESS-v1.json": "785070a6513def824f516367206a5e891f01d231005e4314f87460586b357544",
+    "research/batches/FILL-THIN-PEP-2-20261027/READINESS-v2.json": "538fb7a2077f18ce0266cd07730f8174850a4cc263fcca6dec1ca2449725126a",
+    "research/batches/FILL-THIN-PEP-2-20261027/READINESS-v3.json": "5a7d7c8ed5bf26a49dc598618da85666d3908a6fc782dcf458b39d9fe094f76c",
+    "research/batches/FILL-THIN-PEP-2-20261027/RENDERED-CHECK.json": "cfa06bcf8ee175da63ec10be5d94b84e178905a457617403fc6d2fa06c49466d",
+    "research/batches/FILL-THIN-PEP-2-20261027/REPORT.md": "db8293b874b267853f1eac429598bf49f63287cbb6e7f9786747acde2d5a7bb2",
+    "research/batches/FILL-THIN-PEP-2-20261027/ROOT-BROWSER-FINAL-v4.json": "542780f1d3d4c3dc2bc62c4e271640d3bc08ee444b20cd82bd8ff781a95d72af",
+    "research/batches/FILL-THIN-PEP-2-20261027/ROOT-GATE-VERIFICATION.json": "7c4e442e955137c22d3062ff68943270700c1b35ae66a437df7cefd6aaf0d7d5",
+    "research/batches/FILL-THIN-PEP-2-20261027/ROOT-SOURCE-AUDIT-v4.json": "943df76342aa12b2e461291fac0314f891327ee49521976b45468a7cdb61a7ca",
+    "research/batches/FILL-THIN-PEP-2-20261027/SELECTION-GRANTED.json": "5c4e518a538911e453155f1ee5df6e338282d6f1184bbebadf6f65615c983878",
+    "research/batches/FILL-THIN-PEP-2-20261027/SELECTION-v1.json": "1550c142ae1eb660522c7da74179a45a3d3f26e8e56736a2fa876d76bee868c7",
+    "research/batches/FILL-THIN-PEP-2-20261027/SHA256SUMS": "e9fd691a74162bc059176d2893ccdfbc1544efaed9f6d1ce592812b4eae51817",
+    "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-INPUTS-v1.json": "0f8f1b0959cfed4bdd8b892e5d6a3fe82f3998b84c7fabdff7a5a076d5e582ad",
+    "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-READING-v1.json": "0acbc2f857ee702d26c7ea7702344022aa6f2bb19b689dd48be376cbceb4c60f",
+    "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-READING-v2.json": "1057ab6efac09d7957acf87054dfdfe80272e7bc67810538ea18d6e3b0f23b84",
+    "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-READING-v3.json": "46f08cb4aedd7c3ffd40c6db4431fc5a0c482b63a2301140b803e49164820616",
+    "research/batches/FILL-THIN-PEP-2-20261027/TYPECHECK.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "research/batches/FILL-THIN-PEP-2-20261027/apply_additions.py": "95cf8897266625c6d669e63ce6cd5aa509a93718264e988064517ad216a985a6",
+    "research/batches/FILL-THIN-PEP-2-20261027/audit_pages.py": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7",
+    "research/batches/FILL-THIN-PEP-2-20261027/check-rendered.py": "6ab8116568e26ecb9f72016878a2cd4c164ca128d4efdcb92f76e4a376e1eedd",
+    "research/batches/FILL-THIN-PEP-2-20261027/thin_audit.py": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+    "research/batches/FILL-THIN-PEP-2-20261027/verify.py": "7a2f67ad85d1e804f60a124a500c5e3dcea5e61b60d2573ffec8da474062d396",
+    "research/batches/FILL-THIN-PEP-3-20261027/APPLIED-EIGHT-CHECKPOINT.json": "3b5081e8f986a244d899549370f25a9ade3ef272c8f4cd5ebe7ab19ab14ef3c1",
+    "research/batches/FILL-THIN-PEP-3-20261027/APPLIED-FINAL.json": "bef657e65c9af2df59e52d5cca630709fbf303f4e14821e32afb5d9aebe176d9",
+    "research/batches/FILL-THIN-PEP-3-20261027/AUTHORITY-13-28.txt": "e46653667276d36430102bf8197f100668dc1f4a7fc37aa7cf5c82eea9e5940f",
+    "research/batches/FILL-THIN-PEP-3-20261027/BASELINE-pages.json": "3985b6e49f0005cce079ad283674b3bb4b70a369d76aba9efd465276ef4d2edb",
+    "research/batches/FILL-THIN-PEP-3-20261027/BASELINE-requests.jsonl": "ecbc555a83b946b562e8f73e7cec73a88685183e13bed91c500b909a683d1910",
+    "research/batches/FILL-THIN-PEP-3-20261027/BASELINE-robots-0a34e2866cd6.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-3-20261027/BASELINE-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-3-20261027/BASELINE-run.json": "3d994e7b317f5bbbbfa053201b30d44c69bae1bf4129e81ca0dc260a292cdf2e",
+    "research/batches/FILL-THIN-PEP-3-20261027/BEFORE-AFTER-EIGHT.csv": "fe9ed5a2c48aca5cf9aaa7f295b5ec123c05d07bb2115a652d119537414a389f",
+    "research/batches/FILL-THIN-PEP-3-20261027/BEFORE-AFTER.csv": "d2f0db2e2d579147c617c8e4e3ae05716f49c4c3e199e6e78ab83a94bd19cb72",
+    "research/batches/FILL-THIN-PEP-3-20261027/BUILD-baseline.log": "4d16410cd85a2ab8c3442796e4949db5b404b922dcd67152f031a71f344b1db8",
+    "research/batches/FILL-THIN-PEP-3-20261027/BUILD-eight.log": "f46eb9e88b115aae0a14d6860a998938672723c067af38879a536f049b758c42",
+    "research/batches/FILL-THIN-PEP-3-20261027/BUILD-final.log": "f287d42c2e988664150c53c7faf4d60780ebd72ec5bfdfc5f178470c919d7e6c",
+    "research/batches/FILL-THIN-PEP-3-20261027/CITATION-CANDIDATES-v1.json": "72670372e47290849df1bcd8f3772ee9d2645a99b905676eaa9798a741aecda5",
+    "research/batches/FILL-THIN-PEP-3-20261027/CITATION-CHECK.log": "1285a8127db43896627c6e6a61dae1a611a2a38a87c1d1d89c4008a1d5e536dd",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-FROZEN-ARTICLES.json": "f37088b6509342bbbb9d5a357c7294a427380391398dfff4730a25864ba5e282",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-FROZEN-OBJECTS.json": "c82d4e813e8c4486d78a284c3df4d4f1649dedfd0198b404627720e4299160ac",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-pages.json": "ad6cf1150a559d76102df1dc719473de18c88642481a5d432ee000e2c670fb37",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-requests.jsonl": "bea5aec071ab2a695a8752d5a002e28387db22835c7069e58810c16ba4736aba",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-robots-0a34e2866cd6.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-3-20261027/EIGHT-run.json": "3d994e7b317f5bbbbfa053201b30d44c69bae1bf4129e81ca0dc260a292cdf2e",
+    "research/batches/FILL-THIN-PEP-3-20261027/FINAL-pages.json": "43cb7315027372fd09ffbc2f330fe7ce34ff9a38d04e3fd95435dc767372c9e1",
+    "research/batches/FILL-THIN-PEP-3-20261027/FINAL-requests.jsonl": "483ebc373e1202225fd5357f369ff319f4bdf0aff0dda6836b6d7cdc3bf53e28",
+    "research/batches/FILL-THIN-PEP-3-20261027/FINAL-robots-0a34e2866cd6.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-3-20261027/FINAL-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-3-20261027/FINAL-run.json": "3d994e7b317f5bbbbfa053201b30d44c69bae1bf4129e81ca0dc260a292cdf2e",
+    "research/batches/FILL-THIN-PEP-3-20261027/GATE-PROPOSAL-v1.md": "a18c23f2be4b8ab33438b2dd185f8d35d232737fc63a2e30c46aadf58908e32f",
+    "research/batches/FILL-THIN-PEP-3-20261027/GLOSSARY-CHECK.log": "0d571a39f305fcad42e11b67099317eedcd3abd717c5fd74905ca4f464501d2b",
+    "research/batches/FILL-THIN-PEP-3-20261027/IDLE-SELECTION-GATE.json": "0a6457e7eea3ee33ab794aab78df6bf08f38652b101e7becf36b4b51b77132d9",
+    "research/batches/FILL-THIN-PEP-3-20261027/PART-A-RESULTS-v1.json": "3840a7b45c49572c364c42a2b8fbc30eab690f077fc7fee6d2e300334f89f084",
+    "research/batches/FILL-THIN-PEP-3-20261027/PART-A-REVIEW-v1.json": "7093557569f000dd2b4443d3f4faebb741604cc49bc345453899e1a14b69b2af",
+    "research/batches/FILL-THIN-PEP-3-20261027/PART-B-CANDIDATE-v1-UNAPPLIED.json": "e618e07097c75706e1cb9ce1222a00b97e1cce8effb8c46083e0f76fcab49bd0",
+    "research/batches/FILL-THIN-PEP-3-20261027/PART-B-CANDIDATE-v2-UNAPPLIED.json": "9fb11bfb71662b8df039c9c861078d7fdb7f0c799e97dba88757c7fa23f57c52",
+    "research/batches/FILL-THIN-PEP-3-20261027/PLAN-v1.md": "3bdbec24d90b872f4426d9b949811ab929cda3315264f2abcb3f544ca31644d5",
+    "research/batches/FILL-THIN-PEP-3-20261027/PLAN-v2.md": "39b8f82abe33b15d584e3323704ea361b9bc865ffa0a7b19b9e9ba8f99a0a5e1",
+    "research/batches/FILL-THIN-PEP-3-20261027/PRESERVATION-CHECK.log": "302412d0f732446274469adf4d45695d630a35d3b95a585eacffd0a41f9576af",
+    "research/batches/FILL-THIN-PEP-3-20261027/PRESERVATION-EIGHT.json": "d919e1890b682eeb1435cca98096ccbe53d54b01803aee3c7933c2f29e91eafe",
+    "research/batches/FILL-THIN-PEP-3-20261027/PRESERVATION-PART-A.json": "034c668ed53c4ead9435158059c9f19830c791d319065a19620a2606e02bfc26",
+    "research/batches/FILL-THIN-PEP-3-20261027/PRESERVATION.json": "1b74920592b09ff46d3b7b4793656659530414d144211bce10e2686b6ea6b007",
+    "research/batches/FILL-THIN-PEP-3-20261027/README.md": "7276fdd0e27d67a162f958beccc4137c621a4810c074ff7607e3b54bbb5098d5",
+    "research/batches/FILL-THIN-PEP-3-20261027/RENDERED-CHECK.json": "beeed5237db81e7e517bc45df9244bda48e7597d58153e8f8b7fbfdf7905adb6",
+    "research/batches/FILL-THIN-PEP-3-20261027/RENDERED-EIGHT-CHECK.json": "4d8d92c526f64d73650ccab11e8da25d40b3c096021986ae32e42edcad7ff54b",
+    "research/batches/FILL-THIN-PEP-3-20261027/REPLACEMENT-CANDIDATE-v1-UNAPPLIED.json": "8ac79a3816c89f01623815270abeaedc1e82ad7c3fd65c510cf4919fa54ea73e",
+    "research/batches/FILL-THIN-PEP-3-20261027/REPLACEMENT-SOURCE-READING-v1.json": "d64d9fff024cd35c7623ddfae8f105ed43501492475dd935367bfeb0a5a56136",
+    "research/batches/FILL-THIN-PEP-3-20261027/REPORT-EIGHT-CHECKPOINT.md": "da32bc235b24c49235253ca3e259475425bbaf155f31ed8a8f0c84f11d5ae5b2",
+    "research/batches/FILL-THIN-PEP-3-20261027/REPORT.md": "8470cb5d2d008f74879fffb65eb76649a8de9b5a7995c818c75e4b1ea604060c",
+    "research/batches/FILL-THIN-PEP-3-20261027/ROOT-BROWSER-EIGHT-CHECKPOINT.json": "dd289cf6fdebee3c1738f238826049cf038495448c186fcf3b4136c653d8ba18",
+    "research/batches/FILL-THIN-PEP-3-20261027/ROOT-FINAL-MOBILE.json": "062c1228139d49c2e977e34b2c85e7f2b952f543557929911a485b51fe61a75d",
+    "research/batches/FILL-THIN-PEP-3-20261027/ROOT-PART-A-SOURCE-AUDIT.json": "5c070a83682e1dc0fcadee1fe0d330d35e2ac59b3263dff88293e5e14a1e69ab",
+    "research/batches/FILL-THIN-PEP-3-20261027/ROOT-PART-B-EIGHT-SOURCE-AUDIT.json": "e7f5f88a11cfe5d77bc7be0fbc72617018d96f76b528b3bd52c2acc55ef234c7",
+    "research/batches/FILL-THIN-PEP-3-20261027/ROOT-REPLACEMENTS-SOURCE-AUDIT.json": "01692615d0895ff1452ae4ec7c7aba3506784b87846122469873f447c6761f44",
+    "research/batches/FILL-THIN-PEP-3-20261027/SELECTION-GRANTED.json": "07059004629b354bf4356a8d2e5f77a5ca4bcb9e321b6a30effc8c6f4fbe59e5",
+    "research/batches/FILL-THIN-PEP-3-20261027/SELECTION-v1.json": "eaaa0814b274ecbc0410f60ff07f922c9b8b5dbbcc67bc03c95d5c3e259f9283",
+    "research/batches/FILL-THIN-PEP-3-20261027/SHA256SUMS": "d80e479a92cdc271c9b5582c1cc9f23ee722782e65bb900044015e5b23dc3500",
+    "research/batches/FILL-THIN-PEP-3-20261027/SOURCE-BINDINGS-final.json": "980c66467dc0f093d80c346bdd507b648bfaa0495b6edde615023ed5baa62f3d",
+    "research/batches/FILL-THIN-PEP-3-20261027/SOURCE-INPUTS-v1.json": "06d537ffc58f8de151855a9f5a3b7e2f45a0a31122c3a4a1b2b257f4a21efb09",
+    "research/batches/FILL-THIN-PEP-3-20261027/SOURCE-INPUTS-v2.json": "3c0fe9b63e7403ccf26a4eef4b027d5387e62625f6ca3a33473d3f938ac8a294",
+    "research/batches/FILL-THIN-PEP-3-20261027/SOURCE-READING-v1.json": "ab1814f3bffca1f6a030a72b61e1064b448697ba47bb540dddbc7bcf19098511",
+    "research/batches/FILL-THIN-PEP-3-20261027/SSR-CHECK.log": "1276dd0a2da929d246ba91c5541900831864492e5fa31c9377401af319fa5744",
+    "research/batches/FILL-THIN-PEP-3-20261027/TEST-EIGHT-CHECKPOINT.json": "e94c6a22b9e916c5dcbe37f4a67611b102c1e953bf22b7d7008b95a2f92737eb",
+    "research/batches/FILL-THIN-PEP-3-20261027/TEST-RESULTS.json": "113aaccc671ddd42449c8e81e84d93f4a6ad85e22430ed00fd6e1d4fb204d6f6",
+    "research/batches/FILL-THIN-PEP-3-20261027/TYPESCRIPT-eight.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "research/batches/FILL-THIN-PEP-3-20261027/TYPESCRIPT-final.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "research/batches/FILL-THIN-PEP-3-20261027/WHITESPACE-RESULT.json": "27044c5a2c16915425ef1494c79d6b0864602d145e4350083c300be6e46363cb",
+    "research/batches/FILL-THIN-PEP-3-20261027/apply_changes.py": "52c35c1c9e9d7987da93b9ec15684cc5731b5eab7c14f5f2e9d8ae809d7d4b84",
+    "research/batches/FILL-THIN-PEP-3-20261027/audit_pages.py": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7",
+    "research/batches/FILL-THIN-PEP-3-20261027/check-rendered.py": "56f0b5e89e36a6323ed5ac1babd991ff4caab0ad1822d7129bb8648754ab4a4a",
+    "research/batches/FILL-THIN-PEP-3-20261027/eight-rendered-check-first-failure.log": "ce2e92fba68123e90d20774bf2e2b4db41bdced709b84c5bbaab745dd92fd297",
+    "research/batches/FILL-THIN-PEP-3-20261027/eight-rendered-check.log": "3d7c9e27ab61fe09b0b446e06439ff49ec3ea7de11bcfd60eef80fa6cbdd6890",
+    "research/batches/FILL-THIN-PEP-3-20261027/thin_audit.py": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+    "research/batches/FILL-THIN-PEP-3-20261027/verify.py": "3d3d090d45d6c78e034144d8a25690afee7850efe086af607ee3978d407fd4df",
+    "research/batches/FILL-THIN-PEP-4-20261027/ADDITIONS-v1-UNAPPLIED.json": "2d7c5092ff65a84cc3f2736ae2c50bc32ed4f7c435593fa58415ef92c67d919b",
+    "research/batches/FILL-THIN-PEP-4-20261027/APPLIED-NORMALIZATIONS.json": "4a8728657649039b34ca0b7cd87e51f83b8a843f8f9ff9f1536614fd85d4aab9",
+    "research/batches/FILL-THIN-PEP-4-20261027/APPLY.log": "684aea67ee5a6618939e52fd78557fa603811334bf3d5f59688255d8f304d8e4",
+    "research/batches/FILL-THIN-PEP-4-20261027/AUTHORITY-14-10.txt": "f75c70e0a1c11f455a14bef6f9736adfbdfeb7e10f8369d1b447178b236daa28",
+    "research/batches/FILL-THIN-PEP-4-20261027/BASE-STATE.json": "5fff001fe1250ada1eb247cbbaea78d84a5713d5658bec7e71fe765ea7415809",
+    "research/batches/FILL-THIN-PEP-4-20261027/BASELINE-pages.json": "397ec8963055547f4de4bbeea31ccfb56780d9f4a04373b2f9394bde35748047",
+    "research/batches/FILL-THIN-PEP-4-20261027/BASELINE-requests.jsonl": "4a00784563f286feff4527569e6dcc2c82247b0bb84ab26966531c9ca8cfbf9c",
+    "research/batches/FILL-THIN-PEP-4-20261027/BASELINE-robots-0a34e2866cd6.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-4-20261027/BASELINE-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-4-20261027/BASELINE-run.json": "3d994e7b317f5bbbbfa053201b30d44c69bae1bf4129e81ca0dc260a292cdf2e",
+    "research/batches/FILL-THIN-PEP-4-20261027/BEFORE-AFTER.csv": "f6214eec2dfc0adc917104273b3c9d3378430e9f210970aeafdcea84d8d5b87a",
+    "research/batches/FILL-THIN-PEP-4-20261027/BUILD-baseline.log": "8aca14cc2201a439e9bafbe4fb9e882f9e661ab2d088bb809cd7a013670afd7a",
+    "research/batches/FILL-THIN-PEP-4-20261027/BUILD-final.log": "9ece2160d1df1c5a08295eb2f05d7183112ac65b3e6f47c0053c1941cb615bbc",
+    "research/batches/FILL-THIN-PEP-4-20261027/CITATION-CHECK.log": "1285a8127db43896627c6e6a61dae1a611a2a38a87c1d1d89c4008a1d5e536dd",
+    "research/batches/FILL-THIN-PEP-4-20261027/EXTRACTION-DIAGNOSTICS.json": "bbf7900647dfd8aaa66857fccc12be7d148cbcf696896b26a0e7e26e21239170",
+    "research/batches/FILL-THIN-PEP-4-20261027/FINAL-pages.json": "458700908e8c91dc718c8c2ffd16ac1273057bc4deda9ad1abfb907946568342",
+    "research/batches/FILL-THIN-PEP-4-20261027/FINAL-requests.jsonl": "3780809234262cff7a038cecebfb93e1e6212a18a635240fe287b45e177824fc",
+    "research/batches/FILL-THIN-PEP-4-20261027/FINAL-robots-0a34e2866cd6.txt": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0",
+    "research/batches/FILL-THIN-PEP-4-20261027/FINAL-robots-policy.json": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411",
+    "research/batches/FILL-THIN-PEP-4-20261027/FINAL-run.json": "3d994e7b317f5bbbbfa053201b30d44c69bae1bf4129e81ca0dc260a292cdf2e",
+    "research/batches/FILL-THIN-PEP-4-20261027/FROZEN-PRIOR-187.json": "272a4c12000bf9272536cff473a6fe3588d1c69cbed94552f8086391366dd0a6",
+    "research/batches/FILL-THIN-PEP-4-20261027/GLOSSARY-CHECK.log": "f1d941ec96b46851429b5f39a2b6bf1b172f3b8ed7d90ddc41bf4c0df0148d9a",
+    "research/batches/FILL-THIN-PEP-4-20261027/INDEX-CHECK.log": "d072180d45745b0f846c97c785b61465ae7e469e8dca714662d5a27fe6f2ac0c",
+    "research/batches/FILL-THIN-PEP-4-20261027/INHERITED-INDEX-GATE-PROPOSAL.json": "bd9603d068f90325970e7299148393826e11e02dc8cd88b1fb445cf8c867bd16",
+    "research/batches/FILL-THIN-PEP-4-20261027/PLAN-v1.md": "0cf08f142d4009c7490dec8a827515eafdef3fe698d59837dcfd79576b2657d1",
+    "research/batches/FILL-THIN-PEP-4-20261027/PRESERVATION-CHECK.log": "fc8a1a12299b21fec7ba79ca1ebff1927498a7238ccc0238020a994b79626eaf",
+    "research/batches/FILL-THIN-PEP-4-20261027/PRESERVATION-generator-failure.log": "98777b7d0c4f12449bdf455cab2dd1ccf61003b5cca8721a5e005f839db81ebc",
+    "research/batches/FILL-THIN-PEP-4-20261027/PRESERVATION.json": "9b859bb78072321a5be2151bf7eda33cc7691ebae07e76737328a9f6cd1f1350",
+    "research/batches/FILL-THIN-PEP-4-20261027/PROPOSED-NORMALIZATIONS-v1.json": "913b22235806e601aa64fe4ef0ed0209559ed25eeea2611c1fbd0635cd25ecb3",
+    "research/batches/FILL-THIN-PEP-4-20261027/README.md": "d98b27bb3418af64ee1eec8557c8ce0b7cc557ecb3dca0441899112c45b84b45",
+    "research/batches/FILL-THIN-PEP-4-20261027/RENDERED-CHECK.json": "dad5e99f29ad10384a06f654e42b4dda30a1bdd1aba705461ed4bc3678fbeeb2",
+    "research/batches/FILL-THIN-PEP-4-20261027/REPORT.md": "5b3248f77851c8c40b3c8d626fa7182f305020f0af0b8f37c02829ac8829ff54",
+    "research/batches/FILL-THIN-PEP-4-20261027/ROOT-FINAL-MOBILE.json": "a61d6b7f3b267e967c28562ace63f49d8bdad18c025b70c19c59359cba5c775c",
+    "research/batches/FILL-THIN-PEP-4-20261027/ROOT-SOURCE-AUDIT.json": "c0e4cf0ab292b1d519604b093df32d3ae31a6c4e5a32fbd974ac1f97c6725890",
+    "research/batches/FILL-THIN-PEP-4-20261027/SELECTION.json": "9532e5c379ffbf92de460645bc03580f926680fdc578e730187462ea05039740",
+    "research/batches/FILL-THIN-PEP-4-20261027/SHA256SUMS": "32f8cfb68db8b08ea71030b43bd5db2e047476635988193f4f9a6c2a786757de",
+    "research/batches/FILL-THIN-PEP-4-20261027/SOURCE-INPUTS-v1.json": "ecad83f6d3503e358ce99dea0bf2cc5b6967c6c00478c6a8b8ac82d021ed4c7a",
+    "research/batches/FILL-THIN-PEP-4-20261027/SOURCE-READING-v1.json": "d4dc4ce9bda59061c0843ac9ac928287fd2d773a203c1d0c8369146e0626a19b",
+    "research/batches/FILL-THIN-PEP-4-20261027/SSR-CHECK.log": "4d0471b6405d31386cb184bf534fe1619503e897a290a52e40395762ff0ee2fe",
+    "research/batches/FILL-THIN-PEP-4-20261027/TEST-RESULTS.json": "05758e59d8407292982db48d91b7f858828eb566cb6d1b50ea80bb04a3dc9f26",
+    "research/batches/FILL-THIN-PEP-4-20261027/TYPESCRIPT.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "research/batches/FILL-THIN-PEP-4-20261027/UNAPPLIED-INHERITED-INDEX.patch": "05deb1890efe167046ca217f57cca0978bf613ed8093197b381f3520fc1f9984",
+    "research/batches/FILL-THIN-PEP-4-20261027/WHITESPACE-RESULT.json": "2228448588d6b45a4fc5fbe74db9713fe7ec5f1776b65bf0fcb75cc54a940b7f",
+    "research/batches/FILL-THIN-PEP-4-20261027/apply_changes.py": "5c6658a83b8b5e054df00248859c5d7b50dbb8e8e1585e11f8ab07ca14cb59c5",
+    "research/batches/FILL-THIN-PEP-4-20261027/audit_pages.py": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7",
+    "research/batches/FILL-THIN-PEP-4-20261027/check-rendered.py": "016130cd7054b2cd33ee59a9ba6fad9c26e88cf91f2e670d6464390dc2fd1efd",
+    "research/batches/FILL-THIN-PEP-4-20261027/thin_audit.py": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+    "research/batches/FILL-THIN-PEP-4-20261027/verify.py": "cb73d4d09899b00ef878d9756dc1849f012e594667c1bb5ac10b7adb8afc7fb8"
+  },
+  "sharedFilesExact": [
+    "app/glossary/[slug]/page.tsx",
+    "lib/data/glossary-index.json",
+    "research/glossary/term-audit.json",
+    "tsconfig.tsbuildinfo"
+  ],
+  "candidateRows": 70,
+  "dataSha256": "537d98c512e1bfd3fd2e79fbeaceaae87b0a17400fb5562dd5af1104e4fb5a81",
+  "addedPublicLines": 631,
+  "newScientificNumbers": 0,
+  "newPublicEmEnDashes": 0,
+  "newCanonicalRecords": 0,
+  "analyzerWrapperExact": true,
+  "scientificApproval": false,
+  "humanApproval": false
+}

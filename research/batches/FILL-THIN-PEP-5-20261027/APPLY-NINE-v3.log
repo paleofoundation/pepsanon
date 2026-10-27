@@ -1,0 +1,12 @@
+{
+  "candidateSha256": "b032f582ce2434d2cb201f0ad41dcac9a45a79b06fb556202cd186afd98eac74",
+  "paragraphs": 63,
+  "dataSha256": "ae38e58eef1a1120d07af6f19bc98188ea78fd2fd67e5bb981ef2257ee295d22",
+  "selectedLocatorNormalizations": [
+    {
+      "path": "/terms/47/sections/0/paragraphs/0/citations/0/locator",
+      "before": "Results 2.1\u20132.2; Tables 1\u20136",
+      "after": "Results 2.1-2.2; Tables 1-6"
+    }
+  ]
+}

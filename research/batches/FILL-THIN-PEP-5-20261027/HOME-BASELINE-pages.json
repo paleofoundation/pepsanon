@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://pepsanon.com/",
+    "page_type": "(home)",
+    "status": 200,
+    "final_url": "",
+    "words": 415,
+    "headings": 13,
+    "citations": 3,
+    "unique_citation_hosts": 1,
+    "reference_entries": 0,
+    "claim_hits": 15,
+    "makes_claims": "yes",
+    "stub_flag": "no",
+    "stub_match": "",
+    "meta_desc_len": 140,
+    "canonical": "https://pepsanon.com",
+    "canonical_self": "yes",
+    "noindex": "",
+    "thin": "no",
+    "thin_reasons": "",
+    "bytes": 42500,
+    "error": "",
+    "local_request_url": "http://127.0.0.1:8794/",
+    "html_file": ".html",
+    "html_sha256": "d6885b19e6947f31c8e02c1dfb055989a6b741159822d4ade2236d4817f08adb"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "reason": "Independent root source fidelity audit: unrecorded lifestyle participation is explicit in Methods physicalp4, not discussionp10.",
+  "before": {
+    "slug": "glp-1",
+    "sectionId": "reading-the-evidence",
+    "text": "The semaglutide extension was exploratory and used descriptive analyses, while its discussion identifies selected treatment completers and missing lifestyle-adherence information as limitations relevant to interpreting the follow-up measurements.",
+    "citations": [
+      {
+        "source": "step",
+        "locator": "PDF p5 Statistical analysis; p10 Discussion limitations"
+      }
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+    "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+  },
+  "after": {
+    "slug": "glp-1",
+    "sectionId": "reading-the-evidence",
+    "text": "The semaglutide extension was exploratory and used descriptive analyses, while the report identifies selected treatment completers and unrecorded participation in lifestyle interventions as limitations relevant to interpreting the follow-up measurements.",
+    "citations": [
+      {
+        "source": "step",
+        "locator": "PDF p4 Procedures; p5 Statistical analysis; p10 Discussion limitations"
+      }
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+    "reviewState": "QUALITATIVE_SOURCE_LOCATED_PENDING_SCIENTIFIC_HUMAN"
+  },
+  "newCandidateSha256": "b032f582ce2434d2cb201f0ad41dcac9a45a79b06fb556202cd186afd98eac74",
+  "scope": "One paragraph wording and its locator only;62other rows exact; V2 retained."
+}
