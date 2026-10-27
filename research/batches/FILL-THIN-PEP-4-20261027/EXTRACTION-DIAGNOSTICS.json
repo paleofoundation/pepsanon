@@ -1,0 +1,56 @@
+{
+  "state": "RETRIEVAL_AID_ONLY_ORIGINAL_PAGES_AUTHORITATIVE",
+  "records": [
+    {
+      "id": "bpcpk",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "fibro",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "tendon",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "collagen",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "skin",
+      "exit": 0,
+      "stderr": "Syntax Warning: Invalid shared object hint table offset"
+    },
+    {
+      "id": "cjc",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "step",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "gip",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "manufacturing",
+      "exit": 0,
+      "stderr": ""
+    },
+    {
+      "id": "eye",
+      "exit": 0,
+      "stderr": ""
+    }
+  ],
+  "eyePhysical13": "Extraction duplicates prose/figure text; actual page visually read for timeline and statistical analyses"
+}

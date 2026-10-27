@@ -1,0 +1,1052 @@
+{
+  "at": "2026-10-27T12:28:23.355322+00:00",
+  "result": "PASS_BOUNDED_EXACT70_SOURCE_LOCATED_PARAGRAPHS",
+  "candidate": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-pep-1/checkout/research/batches/FILL-THIN-PEP-4-20261027/ADDITIONS-v1-UNAPPLIED.json",
+  "candidateSha256": "2d7c5092ff65a84cc3f2736ae2c50bc32ed4f7c435593fa58415ef92c67d919b",
+  "candidateRecords": 70,
+  "terms": [
+    "blinding",
+    "extracellular-matrix",
+    "growth-hormone",
+    "half-life",
+    "oral",
+    "pharmacokinetics",
+    "purity",
+    "receptor-agonist",
+    "subcutaneous",
+    "tripeptide"
+  ],
+  "bindings": {
+    "PLAN-v1.md": "0cf08f142d4009c7490dec8a827515eafdef3fe698d59837dcfd79576b2657d1",
+    "SOURCE-INPUTS-v1.json": "ecad83f6d3503e358ce99dea0bf2cc5b6967c6c00478c6a8b8ac82d021ed4c7a",
+    "SOURCE-READING-v1.json": "d4dc4ce9bda59061c0843ac9ac928287fd2d773a203c1d0c8369146e0626a19b",
+    "PROPOSED-NORMALIZATIONS-v1.json": "913b22235806e601aa64fe4ef0ed0209559ed25eeea2611c1fbd0635cd25ecb3"
+  },
+  "rootFreshOriginals": [
+    {
+      "id": "bpcpk",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "sourceSha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/bpcpk.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        4,
+        6,
+        13,
+        14,
+        15
+      ],
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "fibro",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Pentadecapeptide_BPC_157_enhances_the_growth_hormone_receptor_expression_25415472_PMC6271067.pdf",
+      "sourceSha256": "0a816470cdda05f5ce3a2146430da2cc398ffc7cfef6fae717e62e686d9af824",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/fibro.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        2,
+        3,
+        5,
+        7,
+        8,
+        9
+      ],
+      "rootVisualPages": [
+        5
+      ],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "tendon",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Effects_of_BPC_157_and_TB_500_on_Achilles_tendon_healing_nopmid_nopmc.pdf",
+      "sourceSha256": "8e0dac7ec9b7854b82dc7449015ec19b1c2d4d03dcfc25b850651680a04a888c",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/tendon.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        3,
+        4,
+        5
+      ],
+      "rootVisualPages": [
+        4
+      ],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "collagen",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "sourceSha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/collagen.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "skin",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "sourceSha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/skin.txt",
+      "diagnostic": "Syntax Warning: Invalid shared object hint table offset",
+      "rootSelectedPhysicalPagesRead": [
+        2,
+        3,
+        6
+      ],
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "step",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "sourceSha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/step.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        3,
+        4
+      ],
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "gip",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "sourceSha256": "c5ab3c2bdb380d60d739a01ef78badafe2e08e549e6699fbebe01636736861ad",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/gip.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "manufacturing",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Scalable_miniprotein_production_endotoxin_LAL_PMID42797285_PMC13610847.pdf",
+      "sourceSha256": "249ab9e5439652fe5d5d86e87eb91126122e2856d8e0cac7660a9492d12c38eb",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/manufacturing.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        1,
+        5,
+        24
+      ],
+      "rootVisualPages": [
+        24
+      ],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "eye",
+      "source": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/0_1_RGN_259_Thymosin_4_Ophthalmic_Solution_Promotes_Healing_and_Improves_36613994_PMC9820614.pdf",
+      "sourceSha256": "3d36897d69374c4251d5a77f0867ba38a3810401041538edf000960c6a9dd632",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/eye.txt",
+      "diagnostic": "",
+      "rootSelectedPhysicalPagesRead": [
+        1,
+        11,
+        12,
+        13,
+        14
+      ],
+      "rootVisualPages": [
+        13
+      ],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "cjc",
+      "source": "/Users/kmfp/Documents/ChatGPT/Pepsanon.com/launch/study-reviews/batch-2-sources-2026-10-11/paper-68bd15da459b37ca.pdf",
+      "sourceSha256": "147891c38bb4f2b68c29a74f066845fb204ac314f4df050e823dac3f55ccf4fc",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/cjc.txt",
+      "rootSelectedPhysicalPagesRead": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": false
+    },
+    {
+      "id": "quality",
+      "source": "/Users/kmfp/Documents/ChatGPT/Pepsanon.com/launch/study-reviews/batch-2-sources-2026-10-11/paper-2e8d88d44afe181b.xml",
+      "sourceSha256": "14d9de9bc7dd84c2015b8e14696e5a3bab2d7102dd0c32b38bbaa9e9b605bae1",
+      "text": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/conductor-source-review/pep4/quality.txt",
+      "rootSelectedPhysicalPagesRead": null,
+      "rootVisualPages": [],
+      "rootOriginalXMLBodyRead": true
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "slug": "subcutaneous",
+      "textSha256": "f3695f8b2a10d307c71f7ee423641fa55df7440afb670cad466708e9c811dec1",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 2,
+      "slug": "subcutaneous",
+      "textSha256": "7e79059c33e0f040a3f361b27f504615c68ee9be7297581e9f499eaf85c3f275",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 3,
+      "slug": "subcutaneous",
+      "textSha256": "6cf2b7a4efe74170b7ba61720e37e09c939ff467e89ce78a03844a0397dd7cac",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 4,
+      "slug": "subcutaneous",
+      "textSha256": "41be90959698c46756d6a8d90951a4ddcf8f57688269af93fdc9746bc7b967e2",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods and Laboratory methods"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 5,
+      "slug": "subcutaneous",
+      "textSha256": "d9934bf230f363a263dc024b6080acc2ca86e038f21626fe5534d17f3e6040c8",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Subjects and Methods and Laboratory methods"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 6,
+      "slug": "subcutaneous",
+      "textSha256": "9b666a61d1fb9b40e92fad78d1eb48a12cac8e5575c78722d03f76f2077aa864",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 7,
+      "slug": "subcutaneous",
+      "textSha256": "5541880a1f551b06c38a1712a6eb2873378df57d7b3f1ed256bc06c31aa94dcf",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design; p4 Procedures and Outcomes"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 8,
+      "slug": "growth-hormone",
+      "textSha256": "00b5245ad8cd48282068ccb05e49b670a5559abcf113ce1ffe3a058c321658ff",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1 and 2.2; p8 Experimental Section"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 9,
+      "slug": "growth-hormone",
+      "textSha256": "6cb91aaba4545b754b3b9d2c1765e494b903fc65107759097856d2316c42faf0",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.1 and 2.2; p8 Experimental Section"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 10,
+      "slug": "growth-hormone",
+      "textSha256": "c925287c8d93cd1f6ed6a44955a3173229aeab06ee61715192d887fdf476be6a",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p3 Results 2.2; p5 Figure 3; p9 MTT assay"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 11,
+      "slug": "growth-hormone",
+      "textSha256": "83e0070777ea12d2689948c8c4b84f2395bc237cd10cf4f099c23e9379a59b81",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 12,
+      "slug": "growth-hormone",
+      "textSha256": "98448206c61966993a24ad166d0c981d8000c88963c6525f728e1229a055e920",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p5 Results 2.3; p7 Discussion"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 13,
+      "slug": "growth-hormone",
+      "textSha256": "36e9ca9c534e8dffd5183cce3ce75598aa6379e75c19a05df9830bd5d1235db8",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p1 Abstract; p2 Laboratory methods"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 14,
+      "slug": "growth-hormone",
+      "textSha256": "19741aae65c6a3f18e55006422acb09bedb24621ab93aea7939344d618475d4b",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 15,
+      "slug": "tripeptide",
+      "textSha256": "9301a4820adde6b191098099a6017f3b2bd701eca66c6d18c542938fc17592e4",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials and Tissue preparation"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 16,
+      "slug": "tripeptide",
+      "textSha256": "ab4535256519dd9a3eb9919c857edffe315bc9f441635f8d4964b3b41d23e06b",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials and Tissue preparation"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 17,
+      "slug": "tripeptide",
+      "textSha256": "d980d517b5f3eda23e6d1e6de5a29f9ecdfbc73a90e2f906d58e2970d6016655",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Diffusion experiment and Analytical methodology"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 18,
+      "slug": "tripeptide",
+      "textSha256": "5b12ffa8004bc7cb5d7c235f515d10d91c7ad0ba7f1045208d99d4bdc8df0070",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p3 Diffusion experiment and Analytical methodology"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 19,
+      "slug": "tripeptide",
+      "textSha256": "2b65fbabc41035c5a09c584ca488ec3c9c5eae07ee27632713b991bcae98e62c",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 20,
+      "slug": "tripeptide",
+      "textSha256": "1c93262efb996a54504ce57914f0ce3cd7301936683f3fdea81e61af1e61f769",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 21,
+      "slug": "tripeptide",
+      "textSha256": "a21603acc8d28a897b21c80e09c8e129a2d07be17ebc9722c364c1ba7dc9a8fc",
+      "citations": [
+        {
+          "source": "skin",
+          "locator": "PDF p2 Materials; p6 Discussion and Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 22,
+      "slug": "extracellular-matrix",
+      "textSha256": "7572e17d60ad6a04923f7009cf73da922e72ada8e3be51f90f01aa74a934f266",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p2 Introduction; p3 Results 2.1 and 2.2"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 23,
+      "slug": "extracellular-matrix",
+      "textSha256": "4cda71b9ee487a4fab21174f826362009f7214b11640bc48e2d138ae9c27c374",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p2 Introduction; p3 Results 2.1 and 2.2"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 24,
+      "slug": "extracellular-matrix",
+      "textSha256": "6e80562c38686dd972bf7da032071003f4524750a4169a35095730a7b6a2852a",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Figure 1 and outcome allocation; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 25,
+      "slug": "extracellular-matrix",
+      "textSha256": "9302078bdfd8084064f451d4c2aa1a893269c338addd73379b3169bdb97409c9",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Figure 1 and outcome allocation; p4 Histological and biomechanical analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 26,
+      "slug": "extracellular-matrix",
+      "textSha256": "d6c27506e8517836166bb04e9405f70931a232ae418e84bab4ae5c10c112d3b8",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 Histological and immunohistochemical analyses; p5 scoring methods"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 27,
+      "slug": "extracellular-matrix",
+      "textSha256": "913afbf84dbbec0be470bdd44018d531e14f740ff7df06b08ab1db8092d915c2",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p4 Histological and immunohistochemical analyses; p5 scoring methods"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 28,
+      "slug": "extracellular-matrix",
+      "textSha256": "a2913c769270f81a42a5b189d698ed6ae666cd5931c27bfc1015e6b3ceea0297",
+      "citations": [
+        {
+          "source": "fibro",
+          "locator": "PDF p7 Discussion limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 29,
+      "slug": "oral",
+      "textSha256": "f7bcda3f7ec6e8eff77593bd9181df723b3d7221b76e265c9f35aef25aaf61a0",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 30,
+      "slug": "oral",
+      "textSha256": "e594ff80ced59bbb3db41d495aa6fb17947d91346c058007288af32c5000d500",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 31,
+      "slug": "oral",
+      "textSha256": "c217404156ebcb5ebf41cd2e031028c541d7119e4357fd2b7cacdc00bde78ee3",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol and Collagen Products"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 32,
+      "slug": "oral",
+      "textSha256": "ae152e1616c242c7a63d7f5e0bf228aeb1335507fae4e5e5926b9c1d9e95b52e",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol; p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 33,
+      "slug": "oral",
+      "textSha256": "dadb92f94b173ae21fb8c5fe68a09271c10de7790c695c2751c7aac1b089a806",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p3 Design and Experimental Protocol; p4 Blood Samples and NMR Spectroscopy"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 34,
+      "slug": "oral",
+      "textSha256": "2e17c93a3acd8cf928e1812289127f269a9581ef0bc4a030218933cc9f120e0d",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 35,
+      "slug": "oral",
+      "textSha256": "1d0e8ec09ac969c19898065fb604d473c241dc18cb62583ca90ac5094db899cc",
+      "citations": [
+        {
+          "source": "collagen",
+          "locator": "PDF p9 Discussion; p10 Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 36,
+      "slug": "blinding",
+      "textSha256": "094ef5e17d6560cf96578ce99251784438651f6266c17eda85f9025e09bf6943",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p1 title and Abstract; p11 Materials and Methods; p14 Conflicts of Interest"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 37,
+      "slug": "blinding",
+      "textSha256": "b174dd6510dab836f528565d0e87aad3f453b50048ac39527ef49968ae812600",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 38,
+      "slug": "blinding",
+      "textSha256": "966f87bc365ac3212dbc5e8cdcc50ae0ea26f91c2b5c49f9ecbb789edea54c13",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p12 Study design and safety outcomes"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 39,
+      "slug": "blinding",
+      "textSha256": "f3651bbc1f19238c2f9b56420dbe2c6bbe9758a198f7fca645d07dd5c0b0c1a3",
+      "citations": [
+        {
+          "source": "tendon",
+          "locator": "PDF p3 Histopathological evaluation and assessor blinding"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 40,
+      "slug": "blinding",
+      "textSha256": "2c8e43348287c10015da96fe46f1849c4e5da0e5b986518af9155c9264bc3642",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Subject demographics"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 41,
+      "slug": "blinding",
+      "textSha256": "cdd796d28bc7ed4a709af4953924e066131bcc1e6f89f36cb6a80b3757ea3700",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p13 Statistical Analyses; p14 sensitivity and alternative analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 42,
+      "slug": "blinding",
+      "textSha256": "31db0eb96f7f0679dce4a6ac0df8beb6ab3e376fa5fde47483ec9a743b8458d4",
+      "citations": [
+        {
+          "source": "eye",
+          "locator": "PDF p11 Discussion limitations; p12 Study design"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 43,
+      "slug": "pharmacokinetics",
+      "textSha256": "9507c227045de6cf67c1d1c54f124b7d4185e6971dec330821359f3e62d08330",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 44,
+      "slug": "pharmacokinetics",
+      "textSha256": "5670ac9acff4252ee3e6574ffe7bb82fe29f72a81489d8a7560120f6f96b1667",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 45,
+      "slug": "pharmacokinetics",
+      "textSha256": "d6c52842b4d10477eccaf19ed78bdf20dba2c8d1a0471338ef016b4f5989be07",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.5; p15 Metabolism and Statistical analysis"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 46,
+      "slug": "pharmacokinetics",
+      "textSha256": "8ddbd54f4711a9636e63088d33c4bbb96f031bdbbcd4372cc9bc0b58b9e0c423",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p14 Methods 4.5; p15 Metabolism and Statistical analysis"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 47,
+      "slug": "pharmacokinetics",
+      "textSha256": "d88833515ed09154918ae452225d125fc1481f4be711d59a62ddb29072b2389e",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 48,
+      "slug": "pharmacokinetics",
+      "textSha256": "914cbb1a860b1b3bab241645c3687513d9de6993150181f96907247c41d97350",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p2 Laboratory methods and Pharmacokinetic analysis; p3 Results"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 49,
+      "slug": "pharmacokinetics",
+      "textSha256": "6b701dc86048460f055b4651390adbea9044c5a3f403b4d100e8ad6c60f48cf2",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion and conclusion"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 50,
+      "slug": "half-life",
+      "textSha256": "b1db49e5dcd1befa30a945dce1034d7a8be607e2d48642b1399fc85ea1c5d1be",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 and p6 parent-drug pharmacokinetic tables; p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 51,
+      "slug": "half-life",
+      "textSha256": "bf6ec0c668b9a2d02f0129535bc3241fc6590349487598ce44114497f920f272",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p4 and p6 parent-drug pharmacokinetic tables; p14 Methods 4.3 and 4.4"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 52,
+      "slug": "half-life",
+      "textSha256": "2d68af2e72b4e8f8f296ad40f4d384692a0096d0ee03f7904fedc6fe47516521",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.5 and p15 Metabolism"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 53,
+      "slug": "half-life",
+      "textSha256": "7368e02efac18e9ece3c90eae59cc33cc573424cd53e860200f9ae0dfd654606",
+      "citations": [
+        {
+          "source": "bpcpk",
+          "locator": "PDF p13 Discussion; p14 Methods 4.5 and p15 Metabolism"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 54,
+      "slug": "half-life",
+      "textSha256": "f396d8632588a06369fc3367cd56ad41296840c6d28a6909e9aae413a31e2229",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p3 Plasma CJC-1295 concentrations; p6 Discussion"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 55,
+      "slug": "half-life",
+      "textSha256": "11570165964a962c61294a23aebc7c7d24fee30e7f5fdc55d3524943fb2aa202",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p3 Plasma CJC-1295 concentrations; p6 Discussion"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 56,
+      "slug": "half-life",
+      "textSha256": "0e62b38a459ab513bd2e9f49eb3d0e20f20f982fdc0c98b10d1b00f60c39909d",
+      "citations": [
+        {
+          "source": "cjc",
+          "locator": "PDF p6 Discussion and In summary"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 57,
+      "slug": "purity",
+      "textSha256": "8abd4aa63e9fbdef0fab00de460255e184a4a8c988db1d6de502251881600459",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Methods and Results"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 58,
+      "slug": "purity",
+      "textSha256": "3b74b2f2c0ab84262ecf819dd97947723daab2ea6562b44ef5609f996d9e06f6",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Methods and Results"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 59,
+      "slug": "purity",
+      "textSha256": "46e2fc685b76f8fe1460804fb98959ef87c12cfa78544ae73f6d16438fb3a0a1",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p5 Sections 2.5.4 and 2.6"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 60,
+      "slug": "purity",
+      "textSha256": "5049b8d6067bd15382615dbe727b9c33a0fafbcf251ab01200075f19df2f92d6",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p5 Sections 2.5.4 and 2.6"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 61,
+      "slug": "purity",
+      "textSha256": "0aad11fb6eb28a3aac7d514f12f8166e80a4f3d96540f6d77e7dbdd5c52b90d8",
+      "citations": [
+        {
+          "source": "manufacturing",
+          "locator": "PDF p24 Table 13 quality and stability attributes"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 62,
+      "slug": "purity",
+      "textSha256": "3cdde2accba0de1044e2b6e28726136adfbaac1e5c04a7e60b7466091002a845",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Results and Discussion limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 63,
+      "slug": "purity",
+      "textSha256": "313404fe30c2ba454f661024b7e925caa6465635de0e89c911c8d083f4a73dd1",
+      "citations": [
+        {
+          "source": "quality",
+          "locator": "Original XML Results and Discussion limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 64,
+      "slug": "receptor-agonist",
+      "textSha256": "114c5a4652808b4802d19eeee9691840ee449de38218cf45e079346a468f2016",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 65,
+      "slug": "receptor-agonist",
+      "textSha256": "056d55fe76f6c9dd9a213317bc3553a55dafd6b276dd17db588a207e23f4d9ad",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 66,
+      "slug": "receptor-agonist",
+      "textSha256": "c5b1ebbf3c528c17d14e3d75e2092c232b837501298e0ff7f8baba549a8d5d99",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 67,
+      "slug": "receptor-agonist",
+      "textSha256": "06c464092cf368ff2ff50f4d15e126c7d83867f308a6a83fa694c2d2a3dd7140",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 68,
+      "slug": "receptor-agonist",
+      "textSha256": "22015cc3574c33afff97ce3cdfd13ebaf1108d8e141858b9503d67602f171a8d",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 69,
+      "slug": "receptor-agonist",
+      "textSha256": "9d32d90159d19afe7d84eeb2046fcef023f9d257904ab081faf6662374db40e4",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 70,
+      "slug": "receptor-agonist",
+      "textSha256": "f36eba519ff768396eec6b4e2a1a78939122615664324ea8528cffbf9b0b30b3",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p8 Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    }
+  ],
+  "bounds": [
+    "Fresh rehash and root selected passage read for all11 original assets. No acquisition or prior PASS transfer; original XML body used for purchased quality report.",
+    "CJC healthy-subject subcutaneous analogue, circulating drug versus GH/IGFI distinct, clinical utility and longer-term efficacy/safety still future. No injection product/dosing/tendon-benefit inference.",
+    "BPC parent LC-MS/MS animal plasma curves distinct from radioactivity, metabolites and unmeasured target-tissue identity. No human dosing or efficacy inference.",
+    "Rat fibroblast receptor RNA/protein, MTT viable-cell readout, PCNA and JAK2 phosphorylation distinct. Figure3 physical5; matrix background not added repair endpoint. Cultured-cell limits explicit.",
+    "Rat repaired-tendon specimens allocated separately for histology and mechanics; pathologist/coded specimens masked, surgery/treatment unmasked. Histology/IHC semiquantitative distinct from tensile load. No causal human benefit added.",
+    "Eye source physical13 rendered to resolve duplicate extraction and confirm database lock/unmask timeline. Primary/sensitivity/alternative distinct, early termination/baseline/sample limits and subjective discomfort preserved. No masking-completeness certification or ophthalmic-to-injection extrapolation.",
+    "Collagen controlled acute healthy adult crossover plasma AAs, product-specific differential uptake not clinical joint repair. STEP selected observational extension after both medication/lifestyle ceased.",
+    "GIP dual tirzepatide stored fasting posthoc biomarker analysis, excludes post-discontinuation/rescue data. Enzyme mass not activity; kinetic/CV benefit not established by this paper.",
+    "Quality identity/content/purity separate from microbial/endotoxin tests, small received online sample and high-price exclusion; manufacturing specified antiviral miniprotein not consumer product validation.",
+    "Only source-fidelity of qualitative additions, not complete scientific appraisal, human approval, numerical calibration, new grade or release. Application diff/regression/mobile/seal pending."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "newGrade": null,
+  "releaseApproval": false
+}
