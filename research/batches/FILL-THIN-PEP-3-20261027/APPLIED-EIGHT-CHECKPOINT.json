@@ -1,0 +1,14 @@
+{
+  "state": "APPLIED_UNAFFECTED_EIGHT_ONLY_SELECTION_GATE_PENDING",
+  "time": "2026-10-27T11:22:39.040914+00:00",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "partA": "CITATION-CANDIDATES-v1.json",
+  "partB": "PART-B-CANDIDATE-v1-UNAPPLIED.json",
+  "partialScope": "Eight existing strict-ranked glossary records explicitly within ELON13:05; no replacement selection assumed",
+  "candidateSha256": "e618e07097c75706e1cb9ce1222a00b97e1cce8effb8c46083e0f76fcab49bd0",
+  "dataSha256": "a3d4c51141849d6c2f969c0bb26d72bc170871edc91fb19f06e0e6ca3173420e",
+  "rootSourceReceipt": "ROOT-PART-B-EIGHT-SOURCE-AUDIT.json",
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

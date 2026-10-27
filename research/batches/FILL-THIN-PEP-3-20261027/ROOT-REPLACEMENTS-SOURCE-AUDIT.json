@@ -1,0 +1,218 @@
+{
+  "at": "2026-10-27T11:34:45.005658+00:00",
+  "scope": "Independent bounded source-fidelity audit of exact fourteen qualitative paragraphs. Not scientific, numerical, human or release approval.",
+  "candidate": "work/fill-thin-pep-1/checkout/research/batches/FILL-THIN-PEP-3-20261027/REPLACEMENT-CANDIDATE-v1-UNAPPLIED.json",
+  "candidateSha256": "8ac79a3816c89f01623815270abeaedc1e82ad7c3fd65c510cf4919fa54ea73e",
+  "sourceReadingSha256": "d64d9fff024cd35c7623ddfae8f105ed43501492475dd935367bfeb0a5a56136",
+  "originals": [
+    {
+      "id": "gip",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/The_dual_glucose_dependent_insulinotropic_peptide_and_glucagon_like_pept_33462955_PMC7756479.pdf",
+      "sha256": "c5ab3c2bdb380d60d739a01ef78badafe2e08e549e6699fbebe01636736861ad",
+      "physicalPagesRead": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "step",
+      "path": "/Users/kmfp/Desktop/papers-for-chatgpt/peptides-primary/Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "sha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913",
+      "physicalPagesRead": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ]
+    }
+  ],
+  "rootVisuals": [
+    "gip p7 printed2457",
+    "STEP p4 as bound in prior eight-source audit"
+  ],
+  "priorEightAuditSha256": "e7f5f88a11cfe5d77bc7be0fbc72617018d96f76b528b3bd52c2acc55ef234c7",
+  "records": [
+    {
+      "index": 1,
+      "slug": "treatment-withdrawal",
+      "textSha256": "9221b29bdfc30fe345720a9e493a5bea9db30fa48b30d240105dd77be3d86add",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 2,
+      "slug": "treatment-withdrawal",
+      "textSha256": "61f03985467cc31ee288d50b6a11bd7cda96369817e4fdda9cdd774a81b08cd2",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 3,
+      "slug": "treatment-withdrawal",
+      "textSha256": "cc751f01d39ea9a1d3c5b34ec2fe8f5369de06560f507e9ea0fb486dccc59df1",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p3 Trial design and participants; p4 Procedures"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 4,
+      "slug": "treatment-withdrawal",
+      "textSha256": "e1581e60ccfc8185f17122b1329c7746e8f2f3b1ac1b574950b2bf6e0cd1c425",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p4 Outcomes; p5 Statistical analysis"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 5,
+      "slug": "treatment-withdrawal",
+      "textSha256": "8fda377eb0ce514ed64c7c6ad94374ffc09be97be80c6b3ccdee9c0499c45d60",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p4 Outcomes; p5 Statistical analysis"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 6,
+      "slug": "treatment-withdrawal",
+      "textSha256": "e68b1d898d2af548b725dd8dd786d72302e2f319301abeb7a6c2c3abb18b07d8",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p10 Discussion limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 7,
+      "slug": "treatment-withdrawal",
+      "textSha256": "6b8b12d137e3ae4fff682874780a55894ea782472578b320d253633f968c3046",
+      "citations": [
+        {
+          "source": "step",
+          "locator": "PDF p10 Discussion limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 8,
+      "slug": "gip",
+      "textSha256": "634a62190c15bc5300d1e280e0bbe647a65bc249f2d51d2436cd12ecee86b5ce",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 9,
+      "slug": "gip",
+      "textSha256": "b9d0365497636cd681ab7a5d33b152579818ee92905e5f64249926785850b9a1",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p1 Abstract Aim; p2 Introduction and Participants"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 10,
+      "slug": "gip",
+      "textSha256": "f63b76e7115a869d35152c1f8b85cf664f3bb39435a72e2da24190e2a2913f57",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 11,
+      "slug": "gip",
+      "textSha256": "7122ccfd10ce71fa47146dfa46f97b0a2d8f214edcf4e9d7443a1ea234671aff",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p2 Study procedures; p3 Statistical analyses"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 12,
+      "slug": "gip",
+      "textSha256": "5d097f18255f6fce918826e8450a682bb6f55f3a23356ed02242c281dc2dcb94",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 13,
+      "slug": "gip",
+      "textSha256": "5cfb09e344a4c937dcc738a5de149f7d642c0f31ea165f6a765be1bfd7ec444e",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p7 Discussion and limitations"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    },
+    {
+      "index": 14,
+      "slug": "gip",
+      "textSha256": "3451c94878a015055f50370facbf2d5ac0b91fa9399ba5630d3b88c96e9a759d",
+      "citations": [
+        {
+          "source": "gip",
+          "locator": "PDF p8 Conclusions"
+        }
+      ],
+      "sourceFidelity": "SUPPORTED_WITH_STATED_LIMITS"
+    }
+  ],
+  "bounds": [
+    "STEP selected completer extension; medication and lifestyle support both stopped; observed exploratory descriptive follow-up; no systematic adverse-event collection; not isolated drug-withdrawal causal comparison.",
+    "GIP article is dual tirzepatide post hoc stored fasting biomarker analysis; not GIP alone, tissue kinetics, cardiovascular events or proof of mediation. Modified intention-to-treat excludes post-discontinuation/rescue data.",
+    "Preheparin LPL mass is distinct from actual endothelial enzyme activity. Static fasting biomarkers do not reveal underlying mechanisms; conclusion refers prospectively to outcomes trial as stated by original paper."
+  ],
+  "result": "PASS_BOUNDED_SOURCE_FIDELITY",
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

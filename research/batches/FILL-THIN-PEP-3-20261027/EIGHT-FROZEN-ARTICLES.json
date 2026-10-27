@@ -1,0 +1,46 @@
+{
+  "eight": [
+    {
+      "slug": "amino-acid",
+      "articleHtmlSha256": "44d1f570748146fc1f3f20f76235c8addd3fa2ae4013061f4c7af5c4cc188a50",
+      "originalRawDocumentSha256": "32953903654facf5e3e9c24c283d20860aafa6047b4964183303c31fe55f8463"
+    },
+    {
+      "slug": "baseline",
+      "articleHtmlSha256": "3f157b1dc1911535d9f41f70c24241f5323d094b61460b942c824cde7bd5c76a",
+      "originalRawDocumentSha256": "18f023451dec8756dbdf64197751963d88f052b7dd3006174cfe9209a7049411"
+    },
+    {
+      "slug": "bioavailability",
+      "articleHtmlSha256": "c2b0412c512ab0a8b69a4f150cf896b4850dd27e080dcbae9db1c42fba1f3cbf",
+      "originalRawDocumentSha256": "77f3f2dc0f0b4e8b3b080ddd324a72df9180d1e168b7cb7f23bbc1fb98b4ae1d"
+    },
+    {
+      "slug": "case-series",
+      "articleHtmlSha256": "3d68f50c774ee979a588513f9a1842ae42094940929bcbeebdaf3b1e2c9bbc56",
+      "originalRawDocumentSha256": "936119435b5788cc54d1d9b8ec66adc2a86968c6ebc2a380e27c94f34c6c0019"
+    },
+    {
+      "slug": "endotoxin",
+      "articleHtmlSha256": "06d6be5bec055aeeab41d565111e08873b9213b2e62a65cdaf09779689c3f977",
+      "originalRawDocumentSha256": "69b2c61dd38f83ff726921443ed0fc7c6d8726acd9e33f85a4493396a7408891"
+    },
+    {
+      "slug": "hydrolyzed-collagen",
+      "articleHtmlSha256": "8324762ac9971024ee921929ace6315843311d2f200059dcfddf77f815f871d9",
+      "originalRawDocumentSha256": "2cec9fa190dcb5c88d45c00b433626a5b095e97be7dd07bf4ad9f920fcd1b0b6"
+    },
+    {
+      "slug": "metabolism",
+      "articleHtmlSha256": "6ae2000c07859710cbfa30263819abfb4fa29b26b38aafe75fed9f551b82b992",
+      "originalRawDocumentSha256": "ad0f3aa11e8e90e3a452a5ade56f64f7c6952c1416e244997ddca12dbf24f587"
+    },
+    {
+      "slug": "topical",
+      "articleHtmlSha256": "b174fab72f9023f0116b61ffa6ef745b2cc834c73ab2cc61f980fab9c27dc67d",
+      "originalRawDocumentSha256": "c3cd32055b54af96d35bff2d199de250bf5c96c789e09acfd39f1fd90e6629b3"
+    }
+  ],
+  "method": "BeautifulSoup lxml serialized entire article subtree, no content normalization",
+  "wholeDocumentEqualityClaim": false
+}

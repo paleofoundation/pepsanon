@@ -1,0 +1,14 @@
+{
+  "status": "PRIVATE_RAW_LOG_WHITESPACE_WARNINGS_RETAINED",
+  "fullStagedCheckExit": 2,
+  "warningCount": 57,
+  "files": {
+    "BUILD-baseline.log": 19,
+    "BUILD-eight.log": 19,
+    "BUILD-final.log": 19
+  },
+  "appDiffCheckExit": 0,
+  "initialCSVLineEndings": "normalized CRLF to LF without field changes",
+  "rawBuildLogs": "exact actual output retained",
+  "blanketWhitespacePass": false
+}

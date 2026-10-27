@@ -1,0 +1,16 @@
+{
+  "time": "2026-10-27T11:23:39.025792+00:00",
+  "appScope": "lib/data/glossary.json only",
+  "build": "PASS eight-build.log",
+  "typescript": "PASS exit0; tracked tsconfig.tsbuildinfo restored to exact base bytes",
+  "glossaryCheck": "PASS54routes358citedparagraphs16references",
+  "guideCitationCheck": "PASS8guides240sourcedsentences",
+  "SSR": "PASS56candidate sentences/locators, one amino-acid narrowing, three PartA citations",
+  "prior20Prose": "JSON and rendered prose exact outside generated citation-reference projections",
+  "outside43Articles": "exact parsed article HTML; whole document hashes differ, no raw-whole-document equality claim",
+  "held7Routes": "404 unchanged in local captures",
+  "initialSSRChecker": "FAIL assertion compared generated new reference-locator paragraphs as prose; corrected to exclude only glossary-references and reran; raw canonical prose proof unchanged",
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

@@ -1,0 +1,97 @@
+{
+  "state": "INTEGRITY_PENDING_SELECTED_PASSAGE_CHECKS",
+  "records": [
+    {
+      "sourceId": "phase1",
+      "rootId": "PRIMARY_PACKET",
+      "path": "A_first_in_human_randomized_double_blind_single_and_multiple_dose_phase_34346165_PMC8419156.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "20495706952071b174ab04bab2d4755a0055226a69a3ad9ac73e65201a78722c",
+      "bytes": 289893
+    },
+    {
+      "sourceId": "step",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Weight_regain_and_cardiometabolic_effects_after_withdrawal_of_semaglutid_35441470_PMC9542252.pdf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "92289e3462957271c8621af1bed73bf8cd5cf75465a71cb67c3bbac51b119913",
+      "bytes": 2163316
+    },
+    {
+      "sourceId": "skin",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Human_skin_penetration_of_a_copper_tripeptide_in_vitro_as_a_function_of_20721598_PMC3016279.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3016279/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "f3f5d09c55c54415b8e50f904d1322390eaa0396f2e6a86e6b172d03def1fbd6",
+      "bytes": 211106
+    },
+    {
+      "sourceId": "manufacturing",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Scalable_miniprotein_production_endotoxin_LAL_PMID42797285_PMC13610847.pdf",
+      "url": "https://doi.org/10.3390/pharmaceutics18091110",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "249ab9e5439652fe5d5d86e87eb91126122e2856d8e0cac7660a9492d12c38eb",
+      "bytes": 13630093
+    },
+    {
+      "sourceId": "bpcpk",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Pharmacokinetics_of_body_protective_compound_157_nopmid_nopmc.pdf",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1026182/full",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "a288f604f32ade5cc7d151350e25a91560f5dc3a755d40bd296afa7a3e3b6019",
+      "bytes": 2600556
+    },
+    {
+      "sourceId": "knee",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Intra_Articular_Injection_of_BPC_157_for_Multiple_Types_of_Knee_Pain_nopmid_nopmc.pdf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "a3dd0a4f3b9ea6dabebef07f793c8059b67d066f870ae1a8e84afe1364db1e7f",
+      "bytes": 191413
+    },
+    {
+      "sourceId": "collagen",
+      "rootId": "PRIMARY_PACKET",
+      "path": "Enzymatic_Hydrolysis_of_a_Collagen_Hydrolysate_Enhances_Postprandial_Abs_31086034_PMC6566347.pdf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566347/",
+      "exists": true,
+      "eligibility": {
+        "obtained": "y",
+        "tier": "PRIMARY"
+      },
+      "sha256": "a1ab689c8f8967f70d2984fc32437f5cf2f1fe33cb105f39e42431c926c37d88",
+      "bytes": 1566516
+    }
+  ],
+  "scientificApproval": false
+}

@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-27T11:37:37.403809+00:00",
+  "status": "PASS_BOUNDED_IMPLEMENTATION_CHECKS",
+  "build": "BUILD-final.log, exit0 Node22",
+  "typescript": "TYPESCRIPT-final.log, exit0; tracked cache exact restored",
+  "existingGlossary": "GLOSSARY-CHECK.log54routes372citedparagraphs16references",
+  "existingGuideCitation": "CITATION-CHECK.log8guides240sourcedsentences",
+  "canonicalPreservation": "PRESERVATION.json",
+  "SSR": "RENDERED-CHECK.json",
+  "actualCapture": "FINAL-pages.json/requests/robots/run",
+  "all70NewSentenceAndLocatorMatches": true,
+  "prior20ProseExact": true,
+  "threePartACitationsExact": true,
+  "eightIntermediateObjectsAndArticlesExact": true,
+  "outsideArticleCount": 41,
+  "newScientificNumbers": 0,
+  "newPublicEmEnDashes": 0,
+  "inheritedCollagenSourceTitle": "OPEN, unchanged native title only",
+  "initialSSRAssertionFailure": "Retained, corrected checker excludes generated reference paragraphs and preserves all canonical prose separately",
+  "allScienceHumanReleaseApproval": false,
+  "finalRootMobile": "ROOT-FINAL-MOBILE.json, fresh all10DOM at390x844; exact8digests preserved,14replacement sentences/locators matched; new2visible/title dashes0; disclaimer true; data/server hashes matched",
+  "fullStagedWhitespace": "exit2 on preserved raw build-log terminal padding/blank EOF; app diff clean; initial generated CSV CRLF normalized to LF"
+}

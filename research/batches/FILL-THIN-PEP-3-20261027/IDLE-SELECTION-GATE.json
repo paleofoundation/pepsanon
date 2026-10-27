@@ -1,0 +1,13 @@
+{
+  "time": "2026-10-27T11:27:41.405966+00:00",
+  "state": "IDLE_SELECTION_GATE_PENDING",
+  "reason": "ELON selection answer required for missing strict-ranked /install and /research/paper-baf28ca7c2d11c45. Exact proposed replacements treatment-withdrawal and gip are not selected or edited. No partial-eight sealing authority yet.",
+  "appliedDataSha256": "a3d4c51141849d6c2f969c0bb26d72bc170871edc91fb19f06e0e6ca3173420e",
+  "candidateSha256": "e618e07097c75706e1cb9ce1222a00b97e1cce8effb8c46083e0f76fcab49bd0",
+  "freshRootMobileReceiptSha256": "dd289cf6fdebee3c1738f238826049cf038495448c186fcf3b4136c653d8ba18",
+  "commitCreated": false,
+  "PRCreated": false,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

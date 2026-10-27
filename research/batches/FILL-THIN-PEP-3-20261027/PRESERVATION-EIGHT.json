@@ -1,0 +1,806 @@
+{
+  "status": "PASS",
+  "base": "31aa7e2dab871482498228fd6bd4d667409be5ca",
+  "partAExactCitationAdditions": [
+    {
+      "slug": "tmax",
+      "target": "definition",
+      "unchangedFullText": "The time at which a drug's plasma concentration reaches its peak. This is the meaning given to Tmax in the BPC-157 pharmacokinetic tables.",
+      "supportedClause": "The time at which a drug's plasma concentration reaches its peak.",
+      "existingCitations": [
+        {
+          "source": "bpcpk",
+          "locator": "Table 2 footnote"
+        }
+      ],
+      "addCitation": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "supportBoundary": "The CJC primary paper explicitly defines this PK parameter; added source supports the general first-sentence definition only. The existing bpcpk citation remains responsible for the BPC-specific second sentence. No cross-drug outcome or exposure equivalence is claimed.",
+      "scientificApproval": false
+    },
+    {
+      "slug": "auc",
+      "target": "definition",
+      "unchangedFullText": "A summary of concentration across a span of time. In the BPC-157 paper, AUC is the area beneath the plasma concentration-versus-time curve.",
+      "supportedClause": "A summary of concentration across a span of time.",
+      "existingCitations": [
+        {
+          "source": "bpcpk",
+          "locator": "Table 1 footnote"
+        }
+      ],
+      "addCitation": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "supportBoundary": "The CJC primary paper explicitly defines this PK parameter; added source supports the general first-sentence definition only. The existing bpcpk citation remains responsible for the BPC-specific second sentence. No cross-drug outcome or exposure equivalence is claimed.",
+      "scientificApproval": false
+    },
+    {
+      "slug": "cmax",
+      "target": "definition",
+      "unchangedFullText": "The peak measured concentration of a drug in plasma. The BPC-157 paper labels this quantity Cmax.",
+      "supportedClause": "The peak measured concentration of a drug in plasma.",
+      "existingCitations": [
+        {
+          "source": "bpcpk",
+          "locator": "Table 2 footnote"
+        }
+      ],
+      "addCitation": {
+        "source": "cjc",
+        "locator": "PDF p1 Abbreviations; p2 Pharmacokinetic analysis (general definition only)"
+      },
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "supportBoundary": "The CJC primary paper explicitly defines this PK parameter; added source supports the general first-sentence definition only. The existing bpcpk citation remains responsible for the BPC-specific second sentence. No cross-drug outcome or exposure equivalence is claimed.",
+      "scientificApproval": false
+    }
+  ],
+  "prior20ProseExact": [
+    "pharmacodynamics",
+    "growth-hormone-secretagogue",
+    "sterility",
+    "igf-1",
+    "in-vivo",
+    "in-vitro",
+    "ghrh",
+    "pentadecapeptide",
+    "intramuscular",
+    "intra-articular",
+    "retrospective-study",
+    "tmax",
+    "histology",
+    "auc",
+    "absorption",
+    "fibroblast",
+    "cmax",
+    "receptor",
+    "patient-reported-outcome",
+    "biomechanical-testing"
+  ],
+  "partBSelected": [
+    "amino-acid",
+    "baseline",
+    "bioavailability",
+    "case-series",
+    "endotoxin",
+    "hydrolyzed-collagen",
+    "metabolism",
+    "topical"
+  ],
+  "unchangedTermRawSpans": [
+    {
+      "slug": "absorption",
+      "sha256": "fa27e4f2c5b0f31ed17e107036458444080b0cb6473fbd19421583ea7fc7ed34"
+    },
+    {
+      "slug": "adverse-event",
+      "sha256": "ff867102b6eb48a5817cc177591b61301228218b3782bae947e477b785f7fdf1"
+    },
+    {
+      "slug": "biomarker",
+      "sha256": "d106373f0f320bb472c65143bd519e68e4be5c09f2257491c91eb2bb5856970f"
+    },
+    {
+      "slug": "biomechanical-testing",
+      "sha256": "009d51f0fc928f9c054f8e02585d2bfdf76580fd8922bc590499bfbd66b8a8c2"
+    },
+    {
+      "slug": "blinding",
+      "sha256": "e43e331b9a13a1803179e9526db3941e87cd33b62b9cf221823e70f44a859c0d"
+    },
+    {
+      "slug": "collagen",
+      "sha256": "b5b6f81d4fd6b9043f17d89fca6969ca875a6e7e7d104dee7bbb3338fe61205f"
+    },
+    {
+      "slug": "control-group",
+      "sha256": "b17fdb753269e6c1a7407096158043471d7b03fcb2e88a0e10c2e292ad285773"
+    },
+    {
+      "slug": "endpoint",
+      "sha256": "9103e6615b3ad05680c2fe309136be7a8d064237a203455fccb733f8475e06f4"
+    },
+    {
+      "slug": "extracellular-matrix",
+      "sha256": "6d673fb115795242cccbd81c27168996d00a5e7aa8699d7e6b189844a5971c93"
+    },
+    {
+      "slug": "fibroblast",
+      "sha256": "45dba7d7dc385fded4f505a2de401aa6f46ab349484fc7c17838fc906237f2fd"
+    },
+    {
+      "slug": "formulation",
+      "sha256": "21b8bb1bb12083dd3c745d88642e1f57b04fc91f352c3588dd3746cb9fbc214f"
+    },
+    {
+      "slug": "glp-1",
+      "sha256": "dc0d0004e36edc7569a558d9a45d7432a68c29f9b97ec9487a2b8789248835b9"
+    },
+    {
+      "slug": "gip",
+      "sha256": "e3fa4e5442a3f28ec7c19e3aac2941466e01d5e414ff710363a8909ea5a7ab0b"
+    },
+    {
+      "slug": "growth-hormone",
+      "sha256": "d75f177fec91db5f704cb8182ed5d90239ff092f7495bae0ccc4c6b93bd5ae6b"
+    },
+    {
+      "slug": "growth-hormone-secretagogue",
+      "sha256": "6e6e533285fe2418477695e0c98252b4ed48109d95fd27cfa8d4f1d5402f2511"
+    },
+    {
+      "slug": "ghrh",
+      "sha256": "091c5c795ce718be418e8487516d63f0b21bb93705a8cf53339b8f5273c9c7df"
+    },
+    {
+      "slug": "half-life",
+      "sha256": "225e10f784cc72c0d2264b52c7b6532df4957bbaca007c843b9b9298000350a7"
+    },
+    {
+      "slug": "histology",
+      "sha256": "bdf80f3fbe9890d56c0541793b74c4a50d910ad8cab3f4134b5d498b1c26d661"
+    },
+    {
+      "slug": "immunogenicity",
+      "sha256": "2a77e0f4660c3fd1daae066fff821cb8b9b4f42b0e76376474ebcd0c25c75460"
+    },
+    {
+      "slug": "in-vitro",
+      "sha256": "68e76f9c0715a2eb3a888c440bb08e62b7d39e42283a3ff54ef5319ca989d020"
+    },
+    {
+      "slug": "in-vivo",
+      "sha256": "64c3813057a8f99d4b1f4d8806f45d5c42d570db1d4c7b15be682b770506438e"
+    },
+    {
+      "slug": "igf-1",
+      "sha256": "46fc40a34264d19debf67918ec9098a9c888ad30ee138dbeeb8193ed65a30b47"
+    },
+    {
+      "slug": "intra-articular",
+      "sha256": "b6b25968a84bebc727ddda819d63e7673c461878f7dc1596ac57825c54133c16"
+    },
+    {
+      "slug": "intramuscular",
+      "sha256": "d49f05e4840582056a2f1f8002a46a280c162144c8fdc46fb77e19f31537d516"
+    },
+    {
+      "slug": "intravenous",
+      "sha256": "1579d3846acb9277de1f6e0f13a9933f309fe6ac05e14d8b9bd3b1c7bd44e06c"
+    },
+    {
+      "slug": "oral",
+      "sha256": "1f26c6248b01b7030cde27c01be734fcfe1620cc05dd0caad75a9f3fe65ab04c"
+    },
+    {
+      "slug": "patient-reported-outcome",
+      "sha256": "5f86565e0dbc9f28979f64f60673d692e14f50f8c6a4fc9f7ef95c80090b3929"
+    },
+    {
+      "slug": "pentadecapeptide",
+      "sha256": "4487402b9decc6165051d4c6a80c47071e8c3af67619250d3392a32401a827ba"
+    },
+    {
+      "slug": "peptide",
+      "sha256": "65060634e509419199f52a20bea0eb6a3edfb0fe147979d87a7ba317cfae40ab"
+    },
+    {
+      "slug": "pharmacodynamics",
+      "sha256": "29c137100f22b65f5987785094fe43c791d71b694a287ebe04b1948fa561e345"
+    },
+    {
+      "slug": "pharmacokinetics",
+      "sha256": "b12cecbaf5611c8c41c06633ea8705e781a1cc2ce9763c8ac46d8ce33013bb32"
+    },
+    {
+      "slug": "placebo",
+      "sha256": "751533bc81e737dd2286ff0d89f96787ec1eeaf35eef00a1910fd4f412b70fad"
+    },
+    {
+      "slug": "preclinical",
+      "sha256": "07a38d3ba7836824d4d966d3b67adc7e6540bbfe4de65adda817083c9ea85f16"
+    },
+    {
+      "slug": "purity",
+      "sha256": "43d25465f54f33be4580bedfd890005a8f45bc40b926735bdde6e55c05b691be"
+    },
+    {
+      "slug": "randomized-controlled-trial",
+      "sha256": "4e3167f21abd303e7bbf26041901ac23899c9c5371696e6617bc7706dd5f334d"
+    },
+    {
+      "slug": "receptor",
+      "sha256": "88a52b3297616228f3b19104b97170a6060649080591d097741f9131e0e57458"
+    },
+    {
+      "slug": "receptor-agonist",
+      "sha256": "44e0a4b4f29719836df6026838030375b4e78e05d44f7da9e3bd1528545896bb"
+    },
+    {
+      "slug": "retrospective-study",
+      "sha256": "5eb884a96e2bd7ca29dbc7af0672f0f6bc150dfc8a7c8ecf9a6b27314ba209fd"
+    },
+    {
+      "slug": "route-of-administration",
+      "sha256": "91390dec7a6d472a70ea05e3427df197b138419668b0cc54a83f8897a900cf85"
+    },
+    {
+      "slug": "sterility",
+      "sha256": "6cce755a4ac25f705bac2b3afeea51a799fdd949cc76398d5e061439dc3ea8de"
+    },
+    {
+      "slug": "subcutaneous",
+      "sha256": "684dcee3a5817235941d1a55e72eb3b9364b76d0a5ce72208b1d032d2deaeaac"
+    },
+    {
+      "slug": "treatment-withdrawal",
+      "sha256": "be91524db753ac8e866cda3de6cf910c4cabdb3860c99bcc35b1c1205b3d791e"
+    },
+    {
+      "slug": "tripeptide",
+      "sha256": "61a75d6929b1718104ecb259e03faec49c66f433e91acc95c6d8fbe222f084bc"
+    }
+  ],
+  "unchanged16SourceRawSpans": [
+    {
+      "id": "bpcpk",
+      "sha256": "fdf09881cf1db4b860836230f29b9eb081cf46247a5a14a862593dddfa730d28"
+    },
+    {
+      "id": "fibro",
+      "sha256": "8fa3fd6397181dad0053e5efec0ff0fe3dff358322f91bc8cd351201d895c199"
+    },
+    {
+      "id": "eye",
+      "sha256": "04cc917a1a44c211cc83a704c7c2788089209a0b6ecca16af77169d7ad3f57d3"
+    },
+    {
+      "id": "knee",
+      "sha256": "c052ef8985b27aed13abd368149ada56d24a79ac5cd50f85bdc5a3c8579c0068"
+    },
+    {
+      "id": "tendon",
+      "sha256": "45834c41483865b50b19fe105e95e3ea80f08787251a8c94fa91e33baa12b703"
+    },
+    {
+      "id": "collagen",
+      "sha256": "b592537771fa10e6ba22dedea630bb4d762248eaa40a292bff07bc966d3defa8"
+    },
+    {
+      "id": "skin",
+      "sha256": "df7ad761414a827573323628218658a9a468e8e0a7747fc5095a8c76c33990d9"
+    },
+    {
+      "id": "cjc",
+      "sha256": "90cef996a5223af0f929bd49ed79d1fecd2776b56513a4f9bff1f0755b735b1e"
+    },
+    {
+      "id": "ipa",
+      "sha256": "1ad0f9228e7c9c2362ad0212ba398e18e460ecb8af8877ce7645f57131d00e76"
+    },
+    {
+      "id": "step",
+      "sha256": "67606b3ee180e4a781b964fd4fef86158dfa23266b6b0893a84abde488977705"
+    },
+    {
+      "id": "gip",
+      "sha256": "246a8db96262bbedc326284a0510705382b50a489361f37f00235af716d779bd"
+    },
+    {
+      "id": "phase1",
+      "sha256": "96fb11bc87a1125228ff681f6fcc569703eb6f0a646dfdc41ef18514150a5f59"
+    },
+    {
+      "id": "quality",
+      "sha256": "f83e951cbb987e1a711beee97ce1ef83d10e55db141671ca45313e011f2a7202"
+    },
+    {
+      "id": "consort",
+      "sha256": "8d022564b5f54d43b1099952fa002aee3bd4dc346bb33f9e18ec573386974d66"
+    },
+    {
+      "id": "immune",
+      "sha256": "886e297fcf64604cda6b37c21cd0607b6836561a919fe1c1149cd2dff2782113"
+    },
+    {
+      "id": "manufacturing",
+      "sha256": "5cc7e800ee9280fce9689749f951cd3b281f9be32eb3ecfcedfb76952ff2de16"
+    }
+  ],
+  "frozen115PriorPacketFiles": [
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/ADDITIONS-v1.json",
+      "sha256": "f4ff8fe36355e5d98c5719812a3f7262ffa4fb4fa662f81834ff4862d60f1f89"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/ADDITIONS-v2.json",
+      "sha256": "f11d692c79a68169cb1fda218b41656ba8a63da13a733e1ceb4bb2361a3d1483"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/APPLICATION-DIFF.json",
+      "sha256": "33f7c72a5a967d0cadf9469881a88bd8964d9b3f902105026c8ca090e51b349e"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/AUDIT-RUNTIME.json",
+      "sha256": "a0d7e4a60c68dab292eb79dbd9086e236c0f88e4bc2c9b919fa1bdfa2d967c89"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-pages.json",
+      "sha256": "ccf928a3d02e60f312726748ba166735822f1883d3951f24a93d97e304c59d15"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-requests.jsonl",
+      "sha256": "eb7358dfdb71a2dbb105cfb5353f0b8cc9fdedebdd5ef1aa7eddcc655e1d6e0a"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-robots-policy.json",
+      "sha256": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-robots.txt",
+      "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/BASELINE-run.json",
+      "sha256": "d5763900ebe5f25390d7ca90b6f1fa0581865ff906262515d8bda3cea6207741"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/BUILD-final.log",
+      "sha256": "9900920082fbddb390b798c8fb6738b7c26d68bc4283568cac2a2f6ec598b5b8"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/CITATION-CHECK.log",
+      "sha256": "1285a8127db43896627c6e6a61dae1a611a2a38a87c1d1d89c4008a1d5e536dd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/COMPARISON-before-locator-final.csv",
+      "sha256": "15b6de829eeddb6ac86fe98457162fa2416dbfd4b273f8a7b5acf58351da4bfe"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/COMPARISON-final.csv",
+      "sha256": "2932152b1f74f622b3b9186760db14fed167cdd1e08cbce32d6f8b69d36ec78f"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/DETERMINISM.json",
+      "sha256": "09010a8e6a5c09e347008c3d89f585488cebfec226ff7be0dbedb763ceb252c0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/FINAL-pages.csv",
+      "sha256": "b98f5ff6291f04ead29642afc905e48c42a756c590138160529cfc14daadf6ab"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/FINAL-pages.json",
+      "sha256": "c83f557d362fbaf89410041742817ce76e29bcc610b94e4eef680ea87a40ff49"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/FINAL-requests.jsonl",
+      "sha256": "dbdf9713a518093d5a77bccdbe90c44ab2b2a45b8020acdbf0db9ec65e68a070"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/FINAL-robots-policy.json",
+      "sha256": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/FINAL-robots.txt",
+      "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/FINAL-run.json",
+      "sha256": "d5763900ebe5f25390d7ca90b6f1fa0581865ff906262515d8bda3cea6207741"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/GATE-PROOF-v2.json",
+      "sha256": "33e52e1a1f81aa30a8f588837c32e8890e891c091176d120452e0d6e0e4fa112"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/GATE-PROPOSAL-v2.md",
+      "sha256": "3f33c90856875a3104b39107644a0529b2ec4321adfc2832c1d1d293bf777535"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/GATE-PROPOSAL.md",
+      "sha256": "6e363c838cd6329dfda13fc9c5cbdb0e66004898710943972531206e18fa6e37"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/LOCATOR-CORRECTION.json",
+      "sha256": "bbf935373c9c1b77ee89197d2a2bbf66b36617fd0d9feede328345b9622e00bc"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/PAGE-LOCATOR-AUDIT.json",
+      "sha256": "e82d7bbef309bff3b715c5673668ac8e47e3b52945b18ddea2bdac435a23112c"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/PLAN-active-v2.md",
+      "sha256": "1e0c8df9eaa5b7cfa72b33ce5d5f423ee9a16631c1b0524628503d3bc57c944d"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/PLAN-active-v3.md",
+      "sha256": "4792bc5aacba78e5bc8449d96dcd1c7a093af4728fece04c495ffcedd2e59d54"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/PLAN.md",
+      "sha256": "e1b239f2cab2f739b32984e7358f6b4e9a274960de8b29dba3969b6e180bc0af"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/PRESERVATION.json",
+      "sha256": "f51c48424935188849da0cea19606cbf6ffec14bb6f74f0c1c34e90c70ae8e0f"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/RANKED-HISTORICAL.csv",
+      "sha256": "f8b97c447bb4c0a191e6ab5eb11a68d5d90811077c58b1d20611d77e15d37898"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/READINESS-active-v2.json",
+      "sha256": "86dd35fb635b68f1904656119476b9ca27788f51bfe173456bc11b11ce51409e"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/READINESS-active-v3.json",
+      "sha256": "694ba4e6f3f43dedf59e426b86b18f3fd94ce57901b297911014c8ef0c497730"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/READINESS-v1.json",
+      "sha256": "7253f94d0daea7468e0700cc11f41a7f8adddbe55e88e0bf3cc5114d9c68f57e"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/RENDERED-CHECK.json",
+      "sha256": "262b0bc0d78f7426846d1744795f99082bc0cbbe07db8284dc58c37930e7c7a9"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/RENDERED-before-tooltip-grant.json",
+      "sha256": "bc8e2c80ea66984e8cec75e1f2d34abc5782d54a50627903416536082bcb6aeb"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/REPORT.md",
+      "sha256": "38bd92dda45905cbd28c3d33e676a7f154411a2b4cf197da8e57426b5887ae12"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/ROOT-BROWSER-FINAL.json",
+      "sha256": "caa8b993e274f01383466cbaf7bfdfef2cacdf5393547edcfef49b198f4af1f0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/ROOT-BROWSER-before-locator-tooltip-fixes.json",
+      "sha256": "365b63c2fdf7099f7da1bfb50714ecf2070eff9b41d9455c76f25fe1d66094ab"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/ROOT-SOURCE-AUDIT-v2.json",
+      "sha256": "a31b8c0c576f705337918ac81d8f3a4be1c806e8232611fe37a1a450d54d31dc"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SELECTION-v1.json",
+      "sha256": "7af61fb447bbede08ac1ee83fbd09ec1ea031d6f3642636994e6cd48b9f2780f"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SELECTION-v3-GRANTED.json",
+      "sha256": "c3b22a24b65339da617843869019dd8c0150d314fd9dcaaa755a5059f059cd4c"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SHA256SUMS",
+      "sha256": "8df94bc8a71c91449cc7c660c3c2a01bffe14da4128cbdfece26af6e193475c4"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SKIPPED-POLICY.json",
+      "sha256": "79ce2588e4414ca8e985421b015a1f90d15734e41481bda1ff7f09f4f99aa20a"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-INPUTS-v2.json",
+      "sha256": "2da9fa57a27faa2f4109354eb21cfe87d36083425a8c35d9235c97b315909ac9"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-INPUTS.json",
+      "sha256": "0436c218e4b22b757efb86c8f6eecd8ae97a23a2e8fe4300ccfdf7bda365135f"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-READING-v2.json",
+      "sha256": "1e8d1ae7fb6bb717a628ff626323b46954313deee88e827eafd334d407c50c4e"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/SOURCE-READING.json",
+      "sha256": "fec5dbc3b02ad0ee2d47263deef46e91eb2e1a191d4d3d1a015c078f083f3c90"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/STRICT-TITLE-CHECK-FAILURE.log",
+      "sha256": "fbcbc0f0c1af3b051e2aab0e3faf4405f82ccad0f241bd8dd9000d712ca8f669"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/TOOLTIP-GRANTED-FINAL.json",
+      "sha256": "6c464e4c4830cea75ad7f2169c9bd36554e4514dde6702ae45f217a116651470"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/TOOLTIP-STRICT-FAILURE.json",
+      "sha256": "74f5a7b7dee0a9c03f12304b8945ccfb46eedf527bffe7c73929e613515cce17"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/TYPECHECK.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/UNAPPLIED-tooltip-separator.patch",
+      "sha256": "6f674112a6faba815d3c64c9d670d6f801514cd654fe79bf6b9607a31549f07c"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/apply_additions.py",
+      "sha256": "21da091f848109c6cc8b5251b1df655f7379528afc50558a279c66b0676ab7bd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/audit_pages.py",
+      "sha256": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/check-rendered-before-tooltip-grant.py",
+      "sha256": "c08ccfceb95748043203a806d45cecd159df8248f33bbe4a0f704dd3bd2d8b69"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/check-rendered-strict-initial.py",
+      "sha256": "8311db193c013ba049295cc544b4d457c8014d067d63f1f68e7c241e73d8185e"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/check-rendered.py",
+      "sha256": "aa4db3d782b6506a3d87d505f6e8af91ae57685dfd52b5e5b7190158f51ae463"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/thin_audit.py",
+      "sha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-1-20261027/verify.py",
+      "sha256": "22d8381fa762c6dd73773afd80cc68f71a9c9f7fa1508d1dbe2f256e0e6bfe21"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v1-UNAPPLIED.json",
+      "sha256": "33cb8ee711d5075fce729db02962c1357758c001173e277c2a4c8d57c4d7e8d2"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v2-UNAPPLIED.json",
+      "sha256": "05d8ad81d4cd7b0a79056bac38fd12f93b9170d37312fcad63ed226d37bba3f9"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v3.json",
+      "sha256": "441055a0b73e98f4ff8ebb4244377242d0ca7578d4ca0d07dd0b2b07b37feb09"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ADDITIONS-v4.json",
+      "sha256": "c9eaefe218d535fb362963fde6cf63246956c7c32d8a924175082c565170c6f5"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/APPLICATION-DIFF.json",
+      "sha256": "9079d8c5778ea6e39b52ecca331917144ad40da43e23411659b60a86edb2a04b"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/AUTHORITY.json",
+      "sha256": "39c1ca9a39ee20f141466bb3a9882cbee7ec8a9dc8060ebe20133169af9712ee"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-pages.json",
+      "sha256": "084e322afd21e6ecce4149a95ea01f2caa1e4f8b6c5f630a0d1fcb54294d13f0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-requests.jsonl",
+      "sha256": "12303b61459f191bcb0357c5f12ab4f4bfe78d8cbe362a7f66c6089d7a9c5812"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-robots-policy.json",
+      "sha256": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-robots.txt",
+      "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BASELINE-run.json",
+      "sha256": "122b5dbaf9af410e1903acf6fe53d5df2d5d9e40618af98d1b64831d91e89abd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BUILD-baseline.log",
+      "sha256": "94ff549522ed418a4acf116aaaf24a5f654cb160500c3abc82c935c42e5ee55f"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BUILD-final-corrected.log",
+      "sha256": "a4e5b6bde8f9282f941f2a0dbed7504cc04aaa39dc0febf760418647b7925a23"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/BUILD-final.log",
+      "sha256": "dc36e7877e8ded4a24e1931f6d24c8721ef3c3547bcfb10f158b250d7e400fbd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/CITATION-CHECK.log",
+      "sha256": "1285a8127db43896627c6e6a61dae1a611a2a38a87c1d1d89c4008a1d5e536dd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/COMPARISON-final.csv",
+      "sha256": "0921d6a50c6bb8d8deb7443869ab62773ff3234cf88f305204d742098af03402"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/DETERMINISM.json",
+      "sha256": "08d28cc256b37c0609502814e7e12d25d2a3ff41f1a37e85e26d23620f98bca8"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/FINAL-pages.json",
+      "sha256": "cc4b3c51371898eb64a0064b06471753249a02a0707d3234534f27cac6e9a10b"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/FINAL-requests.jsonl",
+      "sha256": "9d7c77d3124b3c7ef18ca11ee4e8214841d807b46c50830a538d539bb45e9042"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/FINAL-robots-policy.json",
+      "sha256": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/FINAL-robots.txt",
+      "sha256": "5d7a5938aa905e8f36168b4ef2f380443b16cbd057cca729542c3d8e1c0860a0"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/FINAL-run.json",
+      "sha256": "122b5dbaf9af410e1903acf6fe53d5df2d5d9e40618af98d1b64831d91e89abd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/FROZEN-BASELINE.json",
+      "sha256": "b8374ec71c3d2f9ba059dab5cc8445768e38591d32670181cf530fd5ccb93802"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/GATE-PROPOSAL-v1.md",
+      "sha256": "8a8da8b72663a67e57bb3f2566c79d3a29d32847698839f11f5c962002b47d22"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/LOCATOR-CORRECTION.json",
+      "sha256": "71d8e7ad3c576c2f848368f6b0759de389fddda931e421adc93d4b44f875d1fc"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PLAN-active-v2.md",
+      "sha256": "532898f148fa6a567d3afb3e7306f8fc966683b8f4f7487b78fdfd952e15abb3"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PLAN-v1.md",
+      "sha256": "451c9513c32975fd01bfd77fe9519a3572bc93dd861f0f1dd4d04cb0d7bcfe07"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-DETERMINISM.json",
+      "sha256": "434186b221f906812854db2aa59974bf24dcecb68934b900d56a870f3644c737"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-pages.json",
+      "sha256": "49e39969fb699f7aa917d7807b3da7222be55e37cfa25f9a42208a2fab7f94d5"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-requests.jsonl",
+      "sha256": "db71e13fdaa13a659e87263111c8e6be6f6e0d01b4958344f7e72f90b5bde614"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-robots-policy.json",
+      "sha256": "e5809084bfd168528187738ad0d20b2343c069c52e870ca6e875307371dc4411"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-FINAL-run.json",
+      "sha256": "122b5dbaf9af410e1903acf6fe53d5df2d5d9e40618af98d1b64831d91e89abd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRECORRECTION-RENDERED-CHECK.json",
+      "sha256": "a15aa9fda0d7895af6f2cb3acc91e2681a564feed86edda109ec938191ab16c2"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/PRESERVATION.json",
+      "sha256": "9a85fed035a8f87316b5eae330c4ef880d282830ec5275e087c224555c914444"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/READINESS-final-v4.json",
+      "sha256": "0767d2a65bb2e0b4cd57da7f3bc1e227ac9abfce287f0543d22e3166db2f9644"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/READINESS-v1.json",
+      "sha256": "785070a6513def824f516367206a5e891f01d231005e4314f87460586b357544"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/READINESS-v2.json",
+      "sha256": "538fb7a2077f18ce0266cd07730f8174850a4cc263fcca6dec1ca2449725126a"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/READINESS-v3.json",
+      "sha256": "5a7d7c8ed5bf26a49dc598618da85666d3908a6fc782dcf458b39d9fe094f76c"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/RENDERED-CHECK.json",
+      "sha256": "cfa06bcf8ee175da63ec10be5d94b84e178905a457617403fc6d2fa06c49466d"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/REPORT.md",
+      "sha256": "db8293b874b267853f1eac429598bf49f63287cbb6e7f9786747acde2d5a7bb2"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ROOT-BROWSER-FINAL-v4.json",
+      "sha256": "542780f1d3d4c3dc2bc62c4e271640d3bc08ee444b20cd82bd8ff781a95d72af"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ROOT-GATE-VERIFICATION.json",
+      "sha256": "7c4e442e955137c22d3062ff68943270700c1b35ae66a437df7cefd6aaf0d7d5"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/ROOT-SOURCE-AUDIT-v4.json",
+      "sha256": "943df76342aa12b2e461291fac0314f891327ee49521976b45468a7cdb61a7ca"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SELECTION-GRANTED.json",
+      "sha256": "5c4e518a538911e453155f1ee5df6e338282d6f1184bbebadf6f65615c983878"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SELECTION-v1.json",
+      "sha256": "1550c142ae1eb660522c7da74179a45a3d3f26e8e56736a2fa876d76bee868c7"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SHA256SUMS",
+      "sha256": "e9fd691a74162bc059176d2893ccdfbc1544efaed9f6d1ce592812b4eae51817"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-INPUTS-v1.json",
+      "sha256": "0f8f1b0959cfed4bdd8b892e5d6a3fe82f3998b84c7fabdff7a5a076d5e582ad"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-READING-v1.json",
+      "sha256": "0acbc2f857ee702d26c7ea7702344022aa6f2bb19b689dd48be376cbceb4c60f"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-READING-v2.json",
+      "sha256": "1057ab6efac09d7957acf87054dfdfe80272e7bc67810538ea18d6e3b0f23b84"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/SOURCE-READING-v3.json",
+      "sha256": "46f08cb4aedd7c3ffd40c6db4431fc5a0c482b63a2301140b803e49164820616"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/TYPECHECK.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/apply_additions.py",
+      "sha256": "95cf8897266625c6d669e63ce6cd5aa509a93718264e988064517ad216a985a6"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/audit_pages.py",
+      "sha256": "83f52bc81726321fe352d049a26696ef51849e0efc023b0a96d6bfcc0fd7e4c7"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/check-rendered.py",
+      "sha256": "6ab8116568e26ecb9f72016878a2cd4c164ca128d4efdcb92f76e4a376e1eedd"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/thin_audit.py",
+      "sha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc"
+    },
+    {
+      "path": "research/batches/FILL-THIN-PEP-2-20261027/verify.py",
+      "sha256": "7a2f67ad85d1e804f60a124a500c5e3dcea5e61b60d2573ffec8da474062d396"
+    }
+  ],
+  "newSourceObjects": 0,
+  "newCanonicalTerms": 0,
+  "newScientificNumbers": 0,
+  "newPublicEmEnDashes": 0,
+  "publicAddedLines": 519,
+  "sharedRendererIndexAudit": "byte-identical",
+  "onlyAppPath": "lib/data/glossary.json",
+  "analyzerAndWrapper": "exact unchanged bytes",
+  "scientificApproval": false
+}
